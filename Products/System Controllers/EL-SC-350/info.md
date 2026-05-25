@@ -2,9 +2,9 @@
 
 **Slug:** el-sc-350
 **Subtitle:** Flagship rack-mount system controller with Z-Wave for demanding installations
-**Brand:** Nice
-**Category:** system-controllers
-**Tags:** system-controller
+**Brand:** nice
+**Category:** control-system
+**Tags:** controller
 
 ## Description
 ### The premium control center for the connected home.

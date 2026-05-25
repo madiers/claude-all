@@ -2,9 +2,9 @@
 
 **Slug:** hrsiw8
 **Subtitle:** Dual 8-inch in-wall subwoofer with StillBass anti-vibration design
-**Brand:** Nice
-**Category:** subwoofers
-**Tags:** in-wall-subwoofer
+**Brand:** nice
+**Category:** audio
+**Tags:** subwoofer
 
 ## Description
 ### A legacy of audio science and technology, re-crafted for in-wall installations.

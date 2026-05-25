@@ -2,9 +2,9 @@
 
 **Slug:** el-4kpm-v88-a268-18g
 **Subtitle:** 8x8 18Gbps HDBaseT matrix with 26x8 audio matrix and ARC, up to 100m
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** matrix-switcher
+**Brand:** nice
+**Category:** video,audio
+**Tags:** matrix
 
 ## Description
 

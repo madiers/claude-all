@@ -2,9 +2,9 @@
 
 **Slug:** 283d10p
 **Subtitle:** Ten-pack of Blink-IR designer emitters with visible red indicator
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### Contractor ten-pack of single Blink-IR emitters with visible command confirmation.

@@ -2,9 +2,9 @@
 
 **Slug:** el-ip-4pt-wh
 **Subtitle:** 4MP pan-tilt-zoom IP camera with 5x optical zoom and person & vehicle auto-tracking
-**Brand:** Nice
-**Category:** cameras
-**Tags:** ptz-camera
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### A 4-megapixel PTZ camera with optical zoom and intelligent auto-tracking for active coverage.

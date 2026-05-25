@@ -2,9 +2,9 @@
 
 **Slug:** sc-terr-4-1
 **Subtitle:** Terrazza 4.1 outdoor landscape kit — four 4-inch satellites and one 8-inch subwoofer
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Impressive audio quality from patio to poolside.

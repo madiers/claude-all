@@ -2,9 +2,9 @@
 
 **Slug:** sc3-iw5-lcr
 **Subtitle:** Series 3 dual 5.25-inch toolless in-wall LCR speaker with AccuAim tweeter
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-wall-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Reference-grade in-wall LCR performance for home theater.

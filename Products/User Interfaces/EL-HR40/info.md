@@ -2,9 +2,9 @@
 
 **Slug:** el-hr40
 **Subtitle:** Multifunction smart home remote with 3.1-inch touchscreen and intercom
-**Brand:** Nice
-**Category:** user-interfaces
-**Tags:** remote-control
+**Brand:** nice
+**Category:** control-system
+**Tags:** controller,remote-control
 
 ## Description
 ### The remote control experience, redefined.

@@ -2,9 +2,9 @@
 
 **Slug:** el-ip-8fb
 **Subtitle:** 8MP bullet IP surveillance camera with siren & strobe deterrents and onboard analytics
-**Brand:** Nice
-**Category:** cameras
-**Tags:** ip-camera
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### High-resolution 8MP bullet surveillance with advanced deterrence and analytics.

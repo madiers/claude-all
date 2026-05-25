@@ -2,9 +2,9 @@
 
 **Slug:** el-4km-v44-18g
 **Subtitle:** 4x4 18Gbps HDBaseT matrix switcher, up to 70m
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** matrix-switcher
+**Brand:** nice
+**Category:** video
+**Tags:** matrix
 
 ## Description
 

@@ -2,9 +2,9 @@
 
 **Slug:** rs6
 **Subtitle:** 6.5-inch 2-way outdoor rock loudspeaker with GeoRealistic finish
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** rock-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Designed to be heard and not seen.

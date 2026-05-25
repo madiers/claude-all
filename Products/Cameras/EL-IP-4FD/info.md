@@ -2,9 +2,9 @@
 
 **Slug:** el-ip-4fd
 **Subtitle:** 4MP dome IP surveillance camera with color night vision and onboard mic & speaker
-**Brand:** Nice
-**Category:** cameras
-**Tags:** ip-camera
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### A 4-megapixel dome camera delivering best-in-class surveillance at its price point.

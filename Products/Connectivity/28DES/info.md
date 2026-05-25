@@ -2,9 +2,9 @@
 
 **Slug:** 28des
 **Subtitle:** IR-opaque designer emitter shield for zone-controlled systems
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter-shield
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### Block stray IR so equipment responds only to its designer emitter.

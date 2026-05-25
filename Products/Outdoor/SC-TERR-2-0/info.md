@@ -2,9 +2,9 @@
 
 **Slug:** sc-terr-2-0
 **Subtitle:** Terrazza 2.0 outdoor satellite expansion kit — two 4-inch satellites
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Impressive audio quality from patio to poolside.

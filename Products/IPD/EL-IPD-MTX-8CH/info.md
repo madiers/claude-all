@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-mtx-8ch
 **Subtitle:** 8-channel multi-zone audio matrix amplifier with optional Dante
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** matrix-amplifier
+**Brand:** nice
+**Category:** audio
+**Tags:** matrix
 
 ## Description
 ### A standalone matrix amplifier that scales to a networked multi-zone system.

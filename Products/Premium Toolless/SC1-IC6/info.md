@@ -2,9 +2,9 @@
 
 **Slug:** sc1-ic6
 **Subtitle:** Series 1 6.5-inch toolless in-ceiling speaker for everyday media
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Effortless, high-quality sound for every room.

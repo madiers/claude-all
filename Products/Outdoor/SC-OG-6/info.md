@@ -2,9 +2,9 @@
 
 **Slug:** sc-og-6
 **Subtitle:** 6-inch 2-way outdoor landscape satellite speaker
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Bold outdoor performance with long-lasting durability.

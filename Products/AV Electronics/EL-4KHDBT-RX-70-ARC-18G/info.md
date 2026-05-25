@@ -2,9 +2,9 @@
 
 **Slug:** el-4khdbt-rx-70-arc-18g
 **Subtitle:** 4K 18Gbps HDBaseT ARC receiver with audio breakout
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** hdbaset-extender
+**Brand:** nice
+**Category:** video
+**Tags:** receiver
 
 ## Description
 

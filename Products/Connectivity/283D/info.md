@@ -2,9 +2,9 @@
 
 **Slug:** 283d
 **Subtitle:** Blink-IR designer emitter with visible red status indicator
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### Single IR emitter that confirms every command with a visible red flash.

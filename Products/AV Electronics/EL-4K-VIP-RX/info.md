@@ -2,9 +2,9 @@
 
 **Slug:** el-4k-vip-rx
 **Subtitle:** 4K Video over IP receiver with analog audio breakout
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** video-over-ip
+**Brand:** nice
+**Category:** video
+**Tags:** decoder
 
 ## Description
 ### Premium 4K video distribution over standard 1Gb network architecture.

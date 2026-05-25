@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-pre-sio
 **Subtitle:** PoE network audio interface for bidirectional Dante audio
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** network-audio-interface
+**Brand:** nice
+**Category:** audio
+**Tags:** amplifier
 
 ## Description
 ### Send audio over a standard network from a single source.

@@ -2,9 +2,9 @@
 
 **Slug:** nice-video-doorbell
 **Subtitle:** Full-featured HD video doorbell with two-way talk and NVR integration
-**Brand:** Nice
-**Category:** intercom
-**Tags:** video-doorbell
+**Brand:** nice
+**Category:** control-system
+**Tags:** door-phone
 
 ## Description
 ### Answer the door from anywhere with the Nice Video Doorbell.

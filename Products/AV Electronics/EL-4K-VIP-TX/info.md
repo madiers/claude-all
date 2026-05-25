@@ -2,9 +2,9 @@
 
 **Slug:** el-4k-vip-tx
 **Subtitle:** 4K UHD Video over IP transmitter with analog audio embedding
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** video-over-ip
+**Brand:** nice
+**Category:** video
+**Tags:** encoder
 
 ## Description
 ### Premium 4K video distribution over standard 1Gb network architecture.

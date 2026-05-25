@@ -2,9 +2,9 @@
 
 **Slug:** el-ip-4ft
 **Subtitle:** 4MP turret IP surveillance camera with color night vision and onboard mic & speaker
-**Brand:** Nice
-**Category:** cameras
-**Tags:** ip-camera
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### A 4-megapixel turret camera that delivers best-in-class surveillance features at its price point.

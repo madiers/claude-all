@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-nac-ext
 **Subtitle:** Dante network audio card for Nice IP matrix and pre-amp
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** network-audio-card
+**Brand:** nice
+**Category:** audio
+**Tags:** matrix
 
 ## Description
 ### Add Dante network audio to Nice IP amplifiers and pre-amps.

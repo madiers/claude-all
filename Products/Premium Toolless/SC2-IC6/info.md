@@ -2,9 +2,9 @@
 
 **Slug:** sc2-ic6
 **Subtitle:** Series 2 6.5-inch toolless in-ceiling speaker for gaming and streaming
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Immersive sound for gaming, streaming, and distributed audio.

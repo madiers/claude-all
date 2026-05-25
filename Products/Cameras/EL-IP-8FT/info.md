@@ -2,9 +2,9 @@
 
 **Slug:** el-ip-8ft
 **Subtitle:** 8MP turret IP surveillance camera with siren and strobe deterrents and advanced analytics
-**Brand:** Nice
-**Category:** cameras
-**Tags:** ip-camera
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### An 8-megapixel turret camera adding siren and strobe deterrents, improved night vision, and richer analytics.

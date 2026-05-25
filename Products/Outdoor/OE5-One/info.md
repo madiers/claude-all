@@ -2,9 +2,9 @@
 
 **Slug:** oe5-one
 **Subtitle:** 5.25-inch 2-way indoor/outdoor speaker, black or white
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Modest sound requirements with wonderful performance.

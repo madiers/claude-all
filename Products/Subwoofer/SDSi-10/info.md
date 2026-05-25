@@ -2,8 +2,8 @@
 
 **Slug:** sdsi-10
 **Subtitle:** Compact 10-inch triple-driver subwoofer with single active and dual passive radiators
-**Brand:** Nice
-**Category:** subwoofers
+**Brand:** nice
+**Category:** audio
 **Tags:** subwoofer
 
 ## Description

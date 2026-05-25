@@ -2,9 +2,9 @@
 
 **Slug:** sc2-ic8
 **Subtitle:** Series 2 8-inch toolless in-ceiling speaker for gaming and streaming
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Bigger sound for immersive entertainment.

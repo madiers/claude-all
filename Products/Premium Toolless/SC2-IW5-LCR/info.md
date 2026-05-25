@@ -2,9 +2,9 @@
 
 **Slug:** sc2-iw5-lcr
 **Subtitle:** Series 2 dual 5.25-inch toolless in-wall LCR speaker
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-wall-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Cinematic in-wall performance for left, center, and right channels.

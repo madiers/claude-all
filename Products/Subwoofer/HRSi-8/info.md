@@ -2,8 +2,8 @@
 
 **Slug:** hrsi-8
 **Subtitle:** Compact 8-inch high-output in-room subwoofer with DSP room correction
-**Brand:** Nice
-**Category:** subwoofers
+**Brand:** nice
+**Category:** audio
 **Tags:** subwoofer
 
 ## Description

@@ -2,9 +2,9 @@
 
 **Slug:** oe8
 **Subtitle:** 8-inch 3-way indoor/outdoor speaker, black or white
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Provide both the required sound pressure levels and musicality in all exterior situations.

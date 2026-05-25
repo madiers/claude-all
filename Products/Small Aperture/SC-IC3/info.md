@@ -2,9 +2,9 @@
 
 **Slug:** sc-ic3
 **Subtitle:** High-performance 3.5-inch small-aperture in-ceiling speaker
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Dynamic, impactful sound in a compact, design-friendly form factor.

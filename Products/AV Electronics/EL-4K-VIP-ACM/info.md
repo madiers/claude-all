@@ -2,9 +2,9 @@
 
 **Slug:** el-4k-vip-acm
 **Subtitle:** 4K UHD Video over IP advanced control module for the Nice VIP platform
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** video-over-ip
+**Brand:** nice
+**Category:** video
+**Tags:** controller
 
 ## Description
 ### Integrate 4K Video over IP into your Nice smart home control system.

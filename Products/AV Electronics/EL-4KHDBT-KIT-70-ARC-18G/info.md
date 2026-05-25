@@ -2,9 +2,9 @@
 
 **Slug:** el-4khdbt-kit-70-arc-18g
 **Subtitle:** 4K 18Gbps HDBaseT ARC extender kit, up to 100m (4K to 70m)
-**Brand:** Nice
-**Category:** av-electronics
-**Tags:** hdbaset-extender
+**Brand:** nice
+**Category:** video
+**Tags:** extender
 
 ## Description
 

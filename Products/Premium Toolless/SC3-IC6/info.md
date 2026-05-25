@@ -2,9 +2,9 @@
 
 **Slug:** sc3-ic6
 **Subtitle:** Series 3 6.5-inch toolless in-ceiling speaker with AccuAim tweeter
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Premium performance for elevated audio experiences.

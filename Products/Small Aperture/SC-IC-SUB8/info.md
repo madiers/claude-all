@@ -2,9 +2,9 @@
 
 **Slug:** sc-ic-sub8
 **Subtitle:** High-performance 8.27-inch small-aperture in-ceiling subwoofer with 4.75-inch opening
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-subwoofer
+**Brand:** nice
+**Category:** audio
+**Tags:** subwoofer
 
 ## Description
 ### Best-in-class deep bass through a small, finished ceiling opening.

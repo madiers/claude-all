@@ -2,8 +2,8 @@
 
 **Slug:** xteqi-12
 **Subtitle:** Dual 12-inch force-canceling powered subwoofer with onboard DSP
-**Brand:** Nice
-**Category:** subwoofers
+**Brand:** nice
+**Category:** audio
 **Tags:** subwoofer
 
 ## Description

@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-amp-ext
 **Subtitle:** Multi-zone amplified audio extender adding up to 8 zones
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** audio-amplifier
+**Brand:** nice
+**Category:** audio
+**Tags:** amplifier
 
 ## Description
 ### Add up to eight zones of amplified and pre-amp audio over the network.

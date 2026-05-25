@@ -2,8 +2,8 @@
 
 **Slug:** hrsi-10
 **Subtitle:** Compact 10-inch high-output in-room subwoofer with DSP room correction
-**Brand:** Nice
-**Category:** subwoofers
+**Brand:** nice
+**Category:** audio
 **Tags:** subwoofer
 
 ## Description

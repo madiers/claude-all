@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-amp-2ch
 **Subtitle:** 2-channel networked audio amplifier with Dante audio networking
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** audio-amplifier
+**Brand:** nice
+**Category:** audio
+**Tags:** amplifier
 
 ## Description
 ### High-quality audio to a single zone or as part of a multi-zone system.

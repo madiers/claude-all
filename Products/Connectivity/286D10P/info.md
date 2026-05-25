@@ -2,9 +2,9 @@
 
 **Slug:** 286d10p
 **Subtitle:** Ten-pack of dual Blink-IR designer emitters with visible red indicator
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### Two emitters on one plug, each blinking red to confirm IR activity.

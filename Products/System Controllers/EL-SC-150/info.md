@@ -2,9 +2,9 @@
 
 **Slug:** el-sc-150
 **Subtitle:** Compact system controller for small to moderate smart home installations
-**Brand:** Nice
-**Category:** system-controllers
-**Tags:** system-controller
+**Brand:** nice
+**Category:** control-system
+**Tags:** controller
 
 ## Description
 ### Robust whole-home control at a price point that opens new opportunities.

@@ -2,9 +2,9 @@
 
 **Slug:** el-ipd-pre-msi
 **Subtitle:** Multi-zone pre-amp audio matrix with optional Dante networking
-**Brand:** Nice
-**Category:** ip-distributed-audio
-**Tags:** preamp-matrix
+**Brand:** nice
+**Category:** audio
+**Tags:** matrix
 
 ## Description
 ### Add Nice multi-zone control to standard amplifiers and AVRs.

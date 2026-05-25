@@ -2,9 +2,9 @@
 
 **Slug:** 282x
 **Subtitle:** Micro IR emitter for discreet single-component control
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### A compact micro IR emitter for discreet, single-component control.

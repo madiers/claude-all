@@ -2,9 +2,9 @@
 
 **Slug:** sc3-ic8
 **Subtitle:** Series 3 8-inch toolless in-ceiling speaker with AccuAim tweeter
-**Brand:** Nice
-**Category:** architectural-speakers
-**Tags:** in-ceiling-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** speaker
 
 ## Description
 ### Reference-grade in-ceiling sound with deep, powerful bass.

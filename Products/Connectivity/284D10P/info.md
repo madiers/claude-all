@@ -2,9 +2,9 @@
 
 **Slug:** 284d10p
 **Subtitle:** Ten-pack of dual designer IR emitters for two-component control
-**Brand:** Nice
-**Category:** connectivity
-**Tags:** ir-emitter
+**Brand:** nice
+**Category:** control-system
+**Tags:** (none)
 
 ## Description
 ### One emitter cable that controls two components from a single port.

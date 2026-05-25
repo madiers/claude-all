@@ -2,9 +2,9 @@
 
 **Slug:** oe6-three
 **Subtitle:** 6.5-inch aluminum-cone indoor/outdoor speaker, black or white
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** outdoor-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Unmatched high fidelity in a smaller package.

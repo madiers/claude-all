@@ -2,8 +2,8 @@
 
 **Slug:** el-itp2-12
 **Subtitle:** 12-inch interactive touch panel with voice control and face recognition
-**Brand:** Nice
-**Category:** user-interfaces
+**Brand:** nice
+**Category:** control-system
 **Tags:** touch-panel
 
 ## Description

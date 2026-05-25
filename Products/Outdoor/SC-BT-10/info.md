@@ -2,9 +2,9 @@
 
 **Slug:** sc-bt-10
 **Subtitle:** 10-inch in-ground landscape subwoofer with waterproof buried enclosure
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** in-ground-subwoofer
+**Brand:** nice
+**Category:** audio
+**Tags:** subwoofer
 
 ## Description
 ### Bold outdoor performance with long-lasting durability.

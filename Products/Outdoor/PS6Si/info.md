@@ -2,9 +2,9 @@
 
 **Slug:** ps6si
 **Subtitle:** 6.5-inch dual-voice-coil stereo outdoor planter loudspeaker
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** planter-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Designed to be heard and not seen.

@@ -2,9 +2,9 @@
 
 **Slug:** rs8sipro
 **Subtitle:** 8-inch dual-voice-coil stereo outdoor rock loudspeaker with GeoRealistic finish
-**Brand:** Nice
-**Category:** outdoor-speakers
-**Tags:** rock-speaker
+**Brand:** nice
+**Category:** audio
+**Tags:** outdoor,speaker
 
 ## Description
 ### Designed to be heard and not seen.
