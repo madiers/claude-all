@@ -1,0 +1,668 @@
+{
+  "brand_slug": "netvio",
+  "existing_updates": [
+    {
+      "slug": "ip-sw-48p-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/pkeeqg8iwuo6ie7i6n13s/AH-B9zj49BSm0TsEAbNPwkE?rlkey=2z8527o5utwkau4hidmzsvv85&dl=0",
+      "Product Tags": "video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>IP-SW-48P-10</td></tr><tr><td>Type</td><td>48-Port Managed Gigabit PoE+ Switch</td></tr><tr><td>Use Case</td><td>Netvio JP4 AV-over-IP deployments up to 45 endpoints</td></tr><tr><td>Switching Capacity</td><td>108 Gbps</td></tr><tr><td>Forwarding Rate</td><td>Wire-speed, non-blocking architecture</td></tr><tr><td>PoE Standard</td><td>IEEE 802.3af/at (PoE+)</td></tr><tr><td>PoE Budget</td><td>~900 W total (typical)</td></tr><tr><td>Form Factor</td><td>19\u201d Rack Mount (1U)</td></tr><tr><td>Dimensions</td><td>440\u202fmm (17.3\u2033) wide, 350\u202fmm (13.8\u2033) deep, and 46\u202fmm (1.8\u2033) high</td></tr><tr><td>Weight</td><td>Approximately 4.5kg (9.lbs)</td></tr><tr><td>Enclosure</td><td>Metal, black finish</td></tr><tr><td>Operating Temperature</td><td>0\u00b0C to 40\u00b0C (32\u00b0F to 104\u00b0F)</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ip-jp4-tx-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0"
+    },
+    {
+      "slug": "tp-13-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0"
+    },
+    {
+      "slug": "mx-h2-0404-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/viwiujnw05ctus72nvt6m/ACCq0v6ar2P09bwCvBaXjU4?rlkey=yw9l1ydk6v5mucdi6c03m0yrj&dl=0"
+    },
+    {
+      "slug": "mx-ht2-0806-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>HDMI Outputs</td><td>1 &amp; 2</td></tr></tbody></table>"
+    },
+    {
+      "slug": "sp-h2-0102-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/xwfk31ie6fzbyvbusn1eu/ABVAR_CMfllbrU1r21ttyjk?rlkey=ixrvmy9oupy0aa7i9okt29t7n&dl=0"
+    },
+    {
+      "slug": "ex-ht2-402-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/cxnxdq2uz3xcr4ahphwbr/AHP7XP-gZDsOckSOtwg2xm0?rlkey=lsn84l9gzxv6ssb6cnoozj204&dl=0",
+      "Product Categories": "video",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>HDR formats supported</td><td>HDR10, HDR10+, Dolby Vision, HLG</td></tr><tr><td>PoC (Power over Cable)</td><td>one power supply powers both units</td></tr><tr><td>Local Monitoring</td><td>Connect a nearby display, projector, or confidence monitor to view the source content without requiring a receiver. This is especially useful in control rooms, classrooms, and AV racks where the source needs to be monitored locally.</td></tr><tr><td>Signal Verification</td><td>During installation, the loop out can be used to quickly confirm that the source device is outputting video correctly before sending the signal across the HDBaseT link.</td></tr><tr><td>Dual Display Applications</td><td>Use the loop out to drive a local display while simultaneously extending the same signal to a remote display via the receiver, creating a simple two-screen setup without requiring a matrix or splitter.</td></tr><tr><td>Integration with Additional Equipment</td><td>The loop out can also feed devices such as AVRs (audio video receivers), scalers, or streaming encoders if a secondary local HDMI signal path is needed.</td></tr><tr><td>Tel</td><td>+44 (0) 800 464 7445</td></tr></tbody></table>"
+    },
+    {
+      "slug": "netvio-software",
+      "Technical Table": "<table><thead><tr><th>Component</th><th>Description</th></tr></thead><tbody><tr><td>Netvio360</td><td>Desktop configuration software for discovery, setup, security, and live routing of every Netvio device on the network.</td></tr><tr><td>AppBuilder</td><td>Drag-and-drop GUI designer for building custom NetvioGo control interfaces for mobile, tablet, touch panels and PC.</td></tr><tr><td>NetvioGo</td><td>License-inclusive iOS/Android/PC end-user control app for matrix switching, AVoIP routing, and source/destination control.</td></tr><tr><td>Licensing</td><td>All Netvio software is license-inclusive with the hardware - no subscriptions, no per-seat fees.</td></tr><tr><td>Platforms</td><td>Windows desktop (Netvio360, AppBuilder); iOS, Android and Windows (NetvioGo).</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ip-jp4-60-dnt-tx-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+    },
+    {
+      "slug": "rx-ht2-40-20",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/mamduvafywvdyug6hxd6j/AEuz0v-Zhbd5LHyvzwYO8t0?rlkey=hwmidwd94bolunbotj062f12k&dl=0",
+      "Product Categories": "video",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>HDBaseT HDMI Receiver</td><td>Designed for use with Netvio MX-HT2-0404-10 and MX-HT2-0808-10 matrices.</td></tr><tr><td>ARC Support</td><td>ARC available via HDMI ports when paired with a compatible ARC matrix output.</td></tr><tr><td>SPDIF Audio Output</td><td>Provided only for displays that do not support ARC.</td></tr><tr><td>Long-Distance Transmission</td><td>40m (131ft) at 4K60 4:4:4, 70m (230ft) at 1080p60 over CAT6a/7.</td></tr><tr><td>HDR Formats</td><td>HDR10, HDR10+, and Dolby Vision supported.</td></tr><tr><td>Audio Breakout</td><td>Stereo (3.5mm mini-jack) and SPDIF for flexible integration.</td></tr><tr><td>Bi-Directional Control</td><td>IR, RS-232, and CEC pass-through.</td></tr><tr><td>PoC (Power over Cable)</td><td>Requires power at only one end of the link.</td></tr><tr><td>Compact Design</td><td>Installer-friendly metal housing.</td></tr><tr><td>HDMI Compliance</td><td>HDMI 2.0b</td></tr><tr><td>HDCP Compliance</td><td>HDCP 2.2 / 1.x</td></tr><tr><td>Bandwidth</td><td>18Gbps</td></tr><tr><td>HDR Support</td><td>HDR10, HDR10+, Dolby Vision</td></tr><tr><td>Color Depth</td><td>8-bit, 10-bit, 12-bit</td></tr><tr><td>Color Space</td><td>RGB, YCbCr 4:4:4 / 4:2:2 / 4:2:0</td></tr><tr><td>HDMI Audio</td><td>PCM 2.0/5.1/7.1, Dolby Digital, Dolby TrueHD, DTS-HD MA, DSD</td></tr><tr><td>ARC</td><td>Supported on HDMI ports when paired with compatible ARC-enabled MX-HT2 matrix output (0404-10, 0808-10)</td></tr><tr><td>SPDIF Output</td><td>Available only when connected to displays without ARC function</td></tr><tr><td>Analog Output</td><td>Stereo (3.5mm mini-jack)</td></tr><tr><td>Supply</td><td>DC 24V/1A (locking connector, supplied with TX)</td></tr><tr><td>Consumption</td><td>13W (max)</td></tr></tbody></table>"
+    },
+    {
+      "slug": "rx-ht2-70-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/zpno32qr3tuehdvff7784/AEafaJ66yoVL79rP-9zCwnE?rlkey=l97zl8452lc7gpd0b0fxnwib1&dl=0",
+      "Product Categories": "video",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>HDBaseT HDMI Receiver</td><td>Long-distance HDMI extension via CAT6/6a.</td></tr><tr><td>ARC Functionality</td><td>Audio return via HDMI, with selectable routing to SPDIF or analog outputs.</td></tr><tr><td>LAN Extension</td><td>Ethernet pass-through via RJ45 for network devices.</td></tr><tr><td>Audio Breakout</td><td>Optical SPDIF and analog stereo (3.5mm mini-jack).</td></tr><tr><td>Bi-Directional Control</td><td>IR, RS-232, and CEC pass-through.</td></tr><tr><td>HDR Support</td><td>HDR10, HDR10+, Dolby Vision, HLG.</td></tr><tr><td>PoC (Power over Cable)</td><td>Power required at only one end.</td></tr><tr><td>Compact Metal Design</td><td>Robust, discreet, installer-friendly.</td></tr><tr><td>HDMI Compliance</td><td>HDMI 2.0b</td></tr><tr><td>HDCP Compliance</td><td>HDCP 2.2 / 1.x</td></tr><tr><td>Bandwidth</td><td>18Gbps</td></tr><tr><td>Color Depth</td><td>8/10/12-bit</td></tr><tr><td>Color Space</td><td>RGB, YCbCr 4:4:4 / 4:2:2 / 4:2:0</td></tr><tr><td>HDMI Audio</td><td>LPCM 2.0/2.1/5.1/7.1, Dolby Digital, Dolby TrueHD, DTS-HD MA, DTS-X</td></tr><tr><td>ARC</td><td>Supported, routed via HDMI, SPDIF, or L/R analog outputs</td></tr><tr><td>SPDIF Output</td><td>PCM, Dolby Digital, DTS formats</td></tr><tr><td>Analog Output</td><td>Stereo (3.5mm mini-jack)</td></tr><tr><td>Inputs</td><td>1\u00d7 HDBT IN (RJ45), 1\u00d7 S/PDIF IN</td></tr><tr><td>Outputs</td><td>1\u00d7 HDMI OUT (Type-A), 1\u00d7 Stereo Audio OUT (3.5mm), 1\u00d7 SPDIF OUT (Optical), 1\u00d7 LAN (RJ45)</td></tr><tr><td>Control</td><td>1\u00d7 IR IN (3.5mm), 1\u00d7 IR OUT (3.5mm), 1\u00d7 RS-232 (3-pin Phoenix), 1\u00d7 Mini-USB (service/firmware)</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ip-jp4-rx-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0",
+      "Product Categories": "video",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Supports HDMI2</td><td>0b 18Gb HDMI input signal.</td></tr><tr><td>Compliance up to HDCP2</td><td>2</td></tr><tr><td>Max Video Transmission 3840x2160 30fps 4</td><td>2:0\u00a08bit</td></tr><tr><td>Audio | Video</td><td>Video signal over LAN not exceeding 850Mbs</td></tr><tr><td>Supports 4K 30Hz 4</td><td>2:0 8bit HDR</td></tr><tr><td>IP Preview (RTSP) Main Output 1920x1080 30fps + LPCM 2</td><td>0 audio</td></tr><tr><td>Audio | Video</td><td>IP Preview Sub Output 960x580 30fps</td></tr><tr><td>Enhanced compatibility mode ideal conference hubs</td><td>laptop &amp; commercial display integration.</td></tr><tr><td>HDMI Loop Out (TX) 3840x2160 60fps 8b 4</td><td>4:4</td></tr><tr><td>HDR Compatible including HDR10</td><td>HLG, HDR10+ &amp;\u00a0Dolby Vision</td></tr><tr><td>Audio | Video</td><td>Scaler capable of 4K to 2K</td></tr><tr><td>Audio | Video</td><td>End to Latency = 1 video frame</td></tr><tr><td>LPCM 2</td><td>0/5.1/7.1CH, Dolby Digital/Plus/EX, Dolby True HD, Dolby Atmos DTS, DTS-96/24, DTS-EX DSD, DTS High Res, DTS-HD Master, DTS:X</td></tr><tr><td>Audio | Video</td><td>Audio connectivity from HDMI or Analog connectivity.</td></tr><tr><td>Audio | Video</td><td>Ability to embed additional audio source to HDMI signal via encoder.</td></tr><tr><td>IP</td><td>JP4-CL-10 (Secure IP Terminal/Controller)</td></tr><tr><td>IP</td><td>SW-24P-10 (Network Switch)</td></tr><tr><td>IP</td><td>SW-48P-10 (Network Switch)</td></tr><tr><td>TS</td><td>13-10 (Touch Panel)</td></tr><tr><td>Not compatible with IP</td><td>JP4-60 (DNT) series products.</td></tr></tbody></table>"
+    },
+    {
+      "slug": "netvio-control",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/6mysmjvto3zpbxmvky4xt/APM7UyrvqV_NpYgl-WwB_JU?rlkey=7qvbx0ljx6ykarhbjktwl4d31&dl=0"
+    },
+    {
+      "slug": "ex-arc-150-10",
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/41o3sfzjtrs968ydf908d/AFOPJmT0pFk3qdjGFQKR7l0?rlkey=dq41onl9ukz0n54cy47k5zyxb&dl=0",
+      "Product Categories": "audio",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Transmission Distance</td><td>150 m @ 96 kHz; 90 m @ 192 kHz</td></tr><tr><td>Audio Support</td><td>PCM 2.0, Dolby 5.1, DTS 5.1</td></tr><tr><td>Inputs (TX)</td><td>1 \u00d7 SPDIF (Optical), 1 \u00d7 HDMI ARC (Type A), 1 \u00d7 Micro-USB</td></tr><tr><td>Outputs (RX)</td><td>1 \u00d7 SPDIF (Optical), 1 \u00d7 HDMI ARC (Type A), 1 \u00d7 Micro-USB</td></tr><tr><td>Power</td><td>PoC bidirectional, 5V/2A Micro-USB (max 1 W)</td></tr><tr><td>Weight</td><td>175 g (0.38 lbs) per unit</td></tr><tr><td>Housing</td><td>Metal, black finish</td></tr><tr><td>Operating Temperature</td><td>0 \u00b0C to 40 \u00b0C (32 \u00b0F to 104 \u00b0F)</td></tr><tr><td>Storage Temperature</td><td>-20 \u00b0C to 60 \u00b0C (-4 \u00b0F to 140 \u00b0F)</td></tr><tr><td>Humidity</td><td>20\u201390 % RH non-condensing</td></tr></tbody></table>"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "appbuilder",
+      "Title": "AppBuilder",
+      "Sub Title": "Drag-and-drop UI designer for Netvio control screens",
+      "Product Description": "<p>Explore Netvio\u2019s AppBuilder \u2014 a drag-and-drop, code-free interface designer for professional AV control. Create branded, multi-device user apps with seamless integration into Netvio360 and NetvioGo, supporting video, audio, IR, RS-232 and networked AV systems.</p><ul><li>No coding required \u2013 drag-and-drop simplicity for faster development and lower costs</li><li>Custom branding &amp; tailored UIs \u2013 add logos, and navigation imagery, with device-specific layouts for each user</li><li>Comprehensive AV control \u2013 supports popular AV brands including easy setup of video walls, multiview, and audio systems.</li><li>Instant deployment \u2013 distribute to end-user devices in seconds via simple QR code scanning</li><li>Cross-platform ready \u2013 one design works across iOS, Android, tablets, phones, and Netvio touch screens</li><li>Full system ownership \u2013 retain complete control of design and updates without relying on third-party programmers.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>No coding required</td><td>drag-and-drop simplicity for faster development and lower costs</td></tr><tr><td>Custom branding &amp; tailored UIs</td><td>add logos, and navigation imagery, with device-specific layouts for each user</td></tr><tr><td>Comprehensive AV control</td><td>supports popular AV brands including easy setup of video walls, multiview, and audio systems.</td></tr><tr><td>Instant deployment</td><td>distribute to end-user devices in seconds via simple QR code scanning</td></tr><tr><td>Cross-platform ready</td><td>one design works across iOS, Android, tablets, phones, and Netvio touch screens</td></tr><tr><td>Full system ownership</td><td>retain complete control of design and updates without relying on third-party programmers.</td></tr><tr><td>Each micro-driver defines available control types</td><td>CEC, IR, RS-232, or no control.</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_5d6915cf4c9a4637a2d52abb1af45184~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_5d6915cf4c9a4637a2d52abb1af45184~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_3d92a5a174934d2ab3370bb5774b5d17~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_0818946094fa4bb98aa4b67cbeb7ceb7~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_065d5ee60ab54832a2b74d9dcb3facb3~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/jh6zrbgivu2m5z12d773s/ABGRiemD_Q4cG05KugyxUCM?rlkey=tz5sdmllzlt4pug64d91pqmx2&dl=0"
+    },
+    {
+      "slug": "ex-2ch-300-10",
+      "Title": "EX-2CH-300-10",
+      "Sub Title": "2-channel analog audio over CAT extender (300m)",
+      "Product Description": "<p>The Netvio EX-2CH-300-10 extends 2-channel line-level analog or S/PDIF audio up to 300 m (984 ft) over a single CAT cable. Designed for professional installations, it supports bi-directional IR control, robust signal integrity and integrates seamlessly into Netvio\u2019s license-inclusive control ecosystem.</p><ul><li>Multiple Audio Formats \u2014 Supports LPCM 2.0/5.1, Dolby Digital 2/5.1CH, DTS, and Dolby Digital Plus.</li><li>Selectable Outputs \u2014 Receiver provides analog stereo output or direct optical SPDIF, selectable by switch.</li><li>Built-in DAC \u2014 Converts digital optical audio into analog stereo at the receiver when required.</li><li>PoC Powered \u2014 Bidirectional Power over Cable means only one side requires Micro-USB power.</li><li>Compact &amp; Durable \u2014 Metal housing ensures reliable long-term use in demanding environments.</li><li>Reliable Performance \u2014 Maintains audio integrity over long distances without loss.</li><li>Sample Rates: 32\u2013192 kHz @ 24-bit resolution</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Transmission Distance</td><td>300 m @ 48 kHz; 150 m @ 96 kHz; 100 m @ 192 kHz</td></tr><tr><td>Audio Inputs (TX)</td><td>1 \u00d7 Optical SPDIF (Toslink), 1 \u00d7 RCA L/R Analog</td></tr><tr><td>Audio Outputs (RX)</td><td>1 \u00d7 Optical SPDIF, 1 \u00d7 RCA L/R Analog (with selector)</td></tr><tr><td>Audio Support</td><td>LPCM 2.0/5.1, Dolby Digital, DTS, Dolby Digital Plus</td></tr><tr><td>Sample Rates</td><td>32\u2013192 kHz @ 24-bit resolution</td></tr><tr><td>Power</td><td>PoC bidirectional; Micro-USB optional (max 1.5 W)</td></tr><tr><td>Housing</td><td>Metal, black finish</td></tr><tr><td>Weight</td><td>174 g (0.38 lbs) each</td></tr><tr><td>Operating Temperature</td><td>0 \u00b0C to 40 \u00b0C (32 \u00b0F to 104 \u00b0F)</td></tr><tr><td>Storage Temperature</td><td>-20 \u00b0C to 60 \u00b0C (-4 \u00b0F to 140 \u00b0F)</td></tr><tr><td>Humidity</td><td>20\u201390 % RH non-condensing</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f8a657b1c5354a4f90a8acdd94140180~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f8a657b1c5354a4f90a8acdd94140180~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_f7bbb5d959b240a79d39592ec6efb96e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_d4e23399b33f4321ae3ef66482be0ae5~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c368226db5f343129af15b0f7d1cc08c~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_0a193b11ddc641ff9acb4e59dca4377a~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/1iqknxmdrqi7imkszfr1d/AJqfTxUjLjffQUQswx2q0Sc?rlkey=ool5lqat2d4jyyk0gs94flbu8&dl=0"
+    },
+    {
+      "slug": "ex-earc-100-10",
+      "Title": "EX-EARC-100-10",
+      "Sub Title": "HDMI eARC audio extender (100m)",
+      "Product Description": "<p>The Netvio EX-eARC-100-10 allows uncompressed high-definition audio (Dolby Atmos, DTS:X, 7.1ch) over a single CAT 5e/6 cable up to 100 m (331 ft). Includes CEC passthrough, two-way PoC and error-correction for reliable commercial AV installations.</p><ul><li>Versatile Integration \u2014 Works with both ARC/eARC-enabled TVs and legacy SPDIF sources.</li><li>High-Resolution Audio \u2014 Supports uncompressed and immersive audio formats including Dolby Atmos and DTS-HD MA.</li><li>ARC &amp; eARC Support \u2014 Supports PCM 2.0/5.1/7.1, Dolby Digital, Dolby Digital+, DTS, Dolby TrueHD, DTS-HD MA, and Dolby Atmos.</li><li>SPDIF Mode \u2014 Dedicated pass-through for TVs without ARC/eARC function.</li><li>CEC Pass-Through \u2014 Maintains control functionality in HDMI eARC mode.</li><li>PoC Powered \u2014 Bidirectional Power over Cable with 12V adapter included.</li><li>Compact &amp; Durable \u2014 Metal housing ensures professional reliability.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Transmission Distance</td><td>Up to 100 m (328 ft)</td></tr><tr><td>ARC</td><td>PCM 2.0, Dolby 5.1, DTS 5.1</td></tr><tr><td>SPDIF</td><td>PCM 2.0, Dolby 5.1, DTS 5.1</td></tr><tr><td>Inputs (TX)</td><td>1 \u00d7 SPDIF Optical, 1 \u00d7 HDMI eARC (Type A), 1 \u00d7 DC 12V</td></tr><tr><td>Outputs (RX)</td><td>1 \u00d7 SPDIF Optical, 1 \u00d7 HDMI eARC (Type A), 1 \u00d7 DC 12V</td></tr><tr><td>Power Supply</td><td>DC 12V/1A (PoC supported, 1 adapter included)</td></tr><tr><td>Power Consumption</td><td>&lt; 5.65 W</td></tr><tr><td>Housing</td><td>Metal, black finish</td></tr><tr><td>Weight</td><td>184 g (0.40 lbs) per unit</td></tr><tr><td>Operating Temperature</td><td>0 \u00b0C to 40 \u00b0C (32 \u00b0F to 104 \u00b0F)</td></tr><tr><td>Storage Temperature</td><td>-20 \u00b0C to 60 \u00b0C (-4 \u00b0F to 140 \u00b0F)</td></tr><tr><td>Humidity</td><td>20\u201390 % RH non-condensing</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_d7a5c8fee37d4297999532d954037784~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_d7a5c8fee37d4297999532d954037784~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_84cc75ee6fb14773b3d661509517ba3f~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_2eea5afd049642c186f949dda2a5b0cd~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/q4npel65tk96c8oqaw1r4/AMW_LmR_U-Ol-Bsse_Zs1XA?rlkey=5ywkhx0cpr64221h2w0ei86fl&dl=0"
+    },
+    {
+      "slug": "ex-ht2-401-10",
+      "Title": "EX-HT2-401-10",
+      "Sub Title": "4K30 / 1080p60 HDBaseT extender set",
+      "Product Description": "<p>The Netvio EX-HT2-401-10 is a compact HDMI over HDBaseT extender set, supporting 4K30 video up to 40 m and 1080p60 up to 70 m over a single Cat5e/6 cable. It is the entry-level point in the Netvio HDBaseT range and is aimed at residential and light-commercial AV runs.</p><ul><li>PoC (Power over Cable) \u2013 only one unit requires power</li><li>This allows control signals to be sent from the source to the display\u2014and vice versa\u2014enabling full system control from either end of the extender link.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>PoC (Power over Cable)</td><td>only one unit requires power</td></tr><tr><td>Tel</td><td>+44 (0) 800 464 7445</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_afa43c2dcce74287b5227e031c3033db~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_afa43c2dcce74287b5227e031c3033db~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_800ad60f5e9049e9ba10a08eb021af69~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_7eb95a6934044682966cd48d167f739b~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_3dae49d5641b4feca56fb4085ffee61a~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/cpum089k7cg354jvsdhho/AKvvz7odn_NikYbqpZQOHxM?rlkey=tp9uofsqj2ivcxu42kwo0vpyn&dl=0"
+    },
+    {
+      "slug": "ex-ht2-403-10",
+      "Title": "EX-HT2-403-10",
+      "Sub Title": "4K60 4:4:4 HDBaseT extender with eARC",
+      "Product Description": "<p>Netvio EX-HT2-403-10 HDBaseT 2.0 extender with 4K60 4:4:4, HDR, ARC, PoC, and bi-directional IR/RS-232 for reliable 40m HDMI extension.</p><ul><li>ARC (Audio Return Channel) \u2013 routes TV audio back via SPDIF or L/R analog outputs</li><li>PoC (Power over Cable) \u2013 one power supply powers both units</li><li>On the Receiver (RX): The display is connected to the HDMI OUT, and if ARC is enabled on the display, the audio signal is sent back through the HDMI connection.</li><li>Over the HDBaseT Link: That return audio is transmitted from the RX to the TX.</li><li>On the Transmitter (TX): The ARC audio is output via the SPDIF optical port or 3.5mm stereo jack. It does not output through the HDMI port.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>ARC (Audio Return Channel)</td><td>routes TV audio back via SPDIF or L/R analog outputs</td></tr><tr><td>PoC (Power over Cable)</td><td>one power supply powers both units</td></tr><tr><td>On the Receiver (RX)</td><td>The display is connected to the HDMI OUT, and if ARC is enabled on the display, the audio signal is sent back through the HDMI connection.</td></tr><tr><td>Over the HDBaseT Link</td><td>That return audio is transmitted from the RX to the TX.</td></tr><tr><td>On the Transmitter (TX)</td><td>The ARC audio is output via the SPDIF optical port or 3.5mm stereo jack. It does not output through the HDMI port.</td></tr><tr><td>Connection</td><td>Connect the TV\u2019s optical digital audio output (commonly available on most TVs, even those without ARC) to the SPDIF IN port on the RX.</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ea2adac7f2f8448cb1ebcf253f4cb921~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ea2adac7f2f8448cb1ebcf253f4cb921~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c0de74016e4744588b86db5ee351c851~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c019581fec834b2da3124ad859c78d5e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_782fb867623f45d8811d70086664e3d8~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_7566fd703d8943809b03620a8afc0cee~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/f4wv9bjryatjmk00dfbsq/AIZH5qlkiwSPG5umXzWFZgs?rlkey=3d5pb8x3mua49weoe2dfz1e9y&dl=0"
+    },
+    {
+      "slug": "ex-ht2-701-10",
+      "Title": "EX-HT2-701-10",
+      "Sub Title": "4K60 4:4:4 HDBaseT extender with ARC and Ethernet",
+      "Product Description": "<p>The Netvio EX-HT2-701-10 is a long-reach HDBaseT extender set supporting 4K60 4:4:4 HDR over a single Cat6/6a cable, with Ethernet, ARC, PoC and bi-directional IR/RS-232 control. It is designed for residential and commercial AV runs where a full feature set and a single cable are critical.</p><ul><li>PoC (Power over Cable) \u2014 one power supply for both units</li><li>Operating Temperature: 0\u201340\u00b0C / 32\u2013104\u00b0F</li><li>Storage Temperature: \u201320\u201360\u00b0C / \u20134\u2013140\u00b0F</li><li>Humidity: 20\u201390% RH (non-condensing)</li></ul><p>18Gbps bandwidth, resolutions up to 4K@60Hz 4:4:4 with HDR10+, Dolby Vision &amp; HLG</p><p>ARC (Audio Return Channel) with selectable SPDIF or L/R analog output</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Wide audio format support</td><td>LPCM, Dolby, DTS, DTS:X</td></tr><tr><td>Dimensions</td><td>(W\u00d7D\u00d7H): 163 \u00d7 90 \u00d7 16 mm (6.42&quot; \u00d7 3.54&quot; \u00d7 0.63&quot;)</td></tr><tr><td>Weight</td><td>TX 170 g (0.37 lbs), RX 165 g (0.36 lbs)</td></tr><tr><td>Operating Temperature</td><td>0\u201340\u00b0C / 32\u2013104\u00b0F</td></tr><tr><td>Storage Temperature</td><td>\u201320\u201360\u00b0C / \u20134\u2013140\u00b0F</td></tr><tr><td>Humidity</td><td>20\u201390% RH (non-condensing)</td></tr><tr><td>ESD Protection</td><td>\u00b18kV air, \u00b14kV contact</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ea5b68a9181f4f0eb422c9d18f620caa~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ea5b68a9181f4f0eb422c9d18f620caa~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c65447dc46cb4124829e26341eebd47e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_4c446e7829b1482fb2df61b41047bead~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_198cce6f47a54a6da74d3ad30f0f9059~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/qy0db0snhblzjn5locx3i/AI6uuHbczCilB_ghbZT3xBk?rlkey=f9ac5fnpknu8w1baxjnjeycpr&dl=0"
+    },
+    {
+      "slug": "ex-ht2-usb-0201-10",
+      "Title": "EX-HT2-USB2-0201-10",
+      "Sub Title": "2x1 4K60 HDBaseT KVM/USB extender",
+      "Product Description": "<p>The Netvio EX-HT2-USB-0201-10 is a compact HDMI/USB-C integrated switching extender delivering 4K60 video and USB peripheral connectivity over CAT cable. Designed for meeting rooms, boardrooms and modern AV setups, it simplifies AV content and device sharing with professional-grade control.</p><ul><li>Flexible inputs \u2013 Switch between HDMI or USB-C at the transmitter for maximum BYOD compatibility.</li><li>Uncompressed 4K60 4:4:4 video \u2013 HDMI 2.0b with HDR10, Dolby Vision, and HLG pass-through.</li><li>USB 2.0 KVM extension \u2013 Supports webcams, touch panels, storage devices, keyboards, and mice.</li><li>Audio de-embedding \u2013 Analog L/R audio output for tie-in to amplifiers or PA systems.</li><li>Control pass-through \u2013 Bi-directional IR and RS-232 for integration with control systems.</li><li>PoC simplicity \u2013 Power from either transmitter or receiver using the included PSU.</li><li>Installer-friendly \u2013 Plug-and-play design with EDID management and compact metal housings.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Flexible inputs</td><td>Switch between HDMI or USB-C at the transmitter for maximum BYOD compatibility.</td></tr><tr><td>USB 2.0 KVM extension</td><td>Supports webcams, touch panels, storage devices, keyboards, and mice.</td></tr><tr><td>Audio de-embedding</td><td>Analog L/R audio output for tie-in to amplifiers or PA systems.</td></tr><tr><td>Control pass-through</td><td>Bi-directional IR and RS-232 for integration with control systems.</td></tr><tr><td>PoC simplicity</td><td>Power from either transmitter or receiver using the included PSU.</td></tr><tr><td>Installer-friendly</td><td>Plug-and-play design with EDID management and compact metal housings.</td></tr><tr><td>Max Resolution</td><td>4K@60Hz 4:4:4 (HDMI 2.0b, 18Gbps)</td></tr><tr><td>HDR Support</td><td>HDR10, HDR10+, Dolby Vision, HLG</td></tr><tr><td>Audio (HDMI/USB-C/HDBT)</td><td>LPCM 2/5.1/7.1, Dolby Digital/Plus/EX, Dolby TrueHD, DTS, DSD</td></tr><tr><td>Analog Audio Output</td><td>LPCM 2CH (3.5mm stereo)</td></tr><tr><td>Standard Mode</td><td>Up to 100m (328ft) \u2014 4K60/4K30/1080p</td></tr><tr><td>Long Reach Mode</td><td>Up to 150m (492ft) \u2014 1080p 8-bit</td></tr><tr><td>HDMI Cable Limits</td><td>4K60 \u2014 12m (39ft), 4K24 \u2014 15m (50ft)</td></tr><tr><td>TX</td><td>1x USB Host (Type-B), 3x USB Device (Type-A, 500mA each)</td></tr><tr><td>RX</td><td>2x USB Device (Type-A, 1000mA each).</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_92b42b1c77974835a0c171602b311741~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_92b42b1c77974835a0c171602b311741~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_8f6108b697c44be3b6df1a50e810eafe~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_67a576122ac34af5b2778cf5c4828612~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_20dd39c99b3a4041b13b3c510e7cac09~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_1bd3dc84710040bfbb3cb55e686af606~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_09046f9edf2d452bbb6d7a8287a05633~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/vjt85sp915zcn246ocs91/AFAp6qzorBywIeH_d6QI0JY?rlkey=jzs979rf7tj5tdl2oh00pir91&dl=0"
+    },
+    {
+      "slug": "ex-ht3-4001-10",
+      "Title": "EX-HT3-4001-10",
+      "Sub Title": "4K60 HDBaseT 3.0 extender set",
+      "Product Description": "<p>The Netvio EX-HT3-4001-10 is an HDBaseT 3.0 extender set built for the latest generation of long-distance 4K transmission. It delivers uncompressed 4K60 4:4:4 HDR video, full HDR support, Ethernet pass-through and bi-directional control over a single Cat6/6a cable for premium residential and commercial AV.</p><ul><li>Powered by HDBaseT 3.0 \u2013 uncompressed 4K60 4:4:4, zero-latency video</li><li>HDR compatibility \u2013 HDR10, HDR10+, Dolby Vision, HLG</li><li>eARC/ARC audio return \u2013 Dolby Atmos, Dolby TrueHD, DTS-HD Master Audio</li><li>Transmission distance: 4K up to 40 m, 1080p up to 70 m over Cat6/6a</li><li>HDR: HDR10, HDR10+, Dolby Vision, HLG</li><li>Formats: LPCM, Dolby Digital/Plus/EX, Dolby TrueHD, DTS-HD Master Audio, DSD</li><li>Audio Embedding/De-embedding: Supported via L/R stereo and SPDIF</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Powered by HDBaseT 3.0</td><td>uncompressed 4K60 4:4:4, zero-latency video</td></tr><tr><td>HDR compatibility</td><td>HDR10, HDR10+, Dolby Vision, HLG</td></tr><tr><td>Transmission distance</td><td>4K up to 40 m, 1080p up to 70 m over Cat6/6a</td></tr><tr><td>Resolution</td><td>Up to 4K60 4:4:4</td></tr><tr><td>Bandwidth</td><td>18Gbps</td></tr><tr><td>HDR</td><td>HDR10, HDR10+, Dolby Vision, HLG</td></tr><tr><td>Formats</td><td>LPCM, Dolby Digital/Plus/EX, Dolby TrueHD, DTS-HD Master Audio, DSD</td></tr><tr><td>Audio Return</td><td>eARC/ARC via HDMI; SPDIF up to 5.1ch</td></tr><tr><td>Audio Embedding/De-embedding</td><td>Supported via L/R stereo and SPDIF</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_a1be4662521f4cb4bc11aae73a302ff4~mv2.webp",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_a1be4662521f4cb4bc11aae73a302ff4~mv2.webp",
+        "https://static.wixstatic.com/media/cc1bbf_f189ebc3282d4f1dbc7f2bbba746677c~mv2.webp",
+        "https://static.wixstatic.com/media/cc1bbf_8f4dde4113274176b1b6081026a4058d~mv2.webp"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/ozfl5k6pbnbgkumc7fgpf/ACkixh3tcCK5yaPkHmH3Tjc?rlkey=us8g482lgaxgaa2xidmjsvfwg&dl=0"
+    },
+    {
+      "slug": "ex-ts-400-10",
+      "Title": "EX-TS-400-10",
+      "Sub Title": "4K60 HDMI over TPS extender set",
+      "Product Description": "<p>The Netvio EX-TS-400-10 is a value-entry HDMI extender set designed for 1080p (2K/60 8b) transmission up to 40 m over Cat5e/6 cabling. Features loop-out HDMI, IR control and Power-over-Cable (PoC) for cost-effective professional AV deployments.</p><ul><li>Long-Distance HDMI Extension \u2013 Extend 1080p60 up to 40m (131ft) over a single CAT6 cable.</li><li>HDMI Loop Output \u2013 Local monitoring or cascading to additional extender kits.</li><li>IR Control \u2013 One-way IR pass-through for remote source control.</li><li>EDID Copy Function \u2013 Local or remote EDID selection for compatibility.</li><li>PoC Powering \u2013 Single 12V supply powers both units for simplified installation.</li><li>Compact &amp; Reliable \u2013 Slim metal enclosures built for long-term professional use.</li><li>Inputs / Outputs \u2013 Transmitter</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Long-Distance HDMI Extension</td><td>Extend 1080p60 up to 40m (131ft) over a single CAT6 cable.</td></tr><tr><td>HDMI Loop Output</td><td>Local monitoring or cascading to additional extender kits.</td></tr><tr><td>IR Control</td><td>One-way IR pass-through for remote source control.</td></tr><tr><td>EDID Copy Function</td><td>Local or remote EDID selection for compatibility.</td></tr><tr><td>PoC Powering</td><td>Single 12V supply powers both units for simplified installation.</td></tr><tr><td>Compact &amp; Reliable</td><td>Slim metal enclosures built for long-term professional use.</td></tr><tr><td>HDMI Compliance</td><td>HDMI 1.4</td></tr><tr><td>HDCP Compliance</td><td>HDCP 1.4</td></tr><tr><td>Video Bandwidth</td><td>10.2Gbps</td></tr><tr><td>Supported Resolutions</td><td>Up to 1080p@60Hz</td></tr><tr><td>Transmission Distance</td><td>Up to 40m (131ft) at 1080p60 via CAT6</td></tr><tr><td>Audio Support</td><td>Up to 7.1CH HD audio, Dolby TrueHD, DTS-HD</td></tr><tr><td>Inputs / Outputs</td><td>Transmitter</td></tr><tr><td>Dimensions</td><td>79.5 \u00d7 69 \u00d7 16.5 mm (3.13\u2033 \u00d7 2.71\u2033 \u00d7 0.65\u2033)</td></tr><tr><td>Weight</td><td>Transmitter 132g (0.29 lbs), Receiver 130g (0.28 lbs)</td></tr><tr><td>Enclosure</td><td>Metal, black finish</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_8d1084b282a740639c1e45115514c61e~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_8d1084b282a740639c1e45115514c61e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_65da3377e9c44e9ea0b619d8f8045782~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_4c24251b08dc464c86788937bd9fd9a7~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_135597e7739545ebbb1d25f51afff11c~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/hwcbaricoy4yxnlnf1qwo/ADD5NkP4-QHevrcE8U2zLC0?rlkey=cj099i12br9mp7dcgsh8dwulv&dl=0"
+    },
+    {
+      "slug": "ex-ts-usb-70-10",
+      "Title": "EX-TS-USB-70-10",
+      "Sub Title": "4K60 HDMI + USB extender (70m)",
+      "Product Description": "<p>The Netvio EX-TS-USB-70-10 USB extender enables high-performance peripheral connectivity over long distances using CAT cabling. Ideal for professional AV installations, it supports USB devices like webcams, interactive displays and conferencing gear. Seamless, reliable and installation-ready.</p><ul><li>True 4K performance \u2013 Up to 4K60 4:4:4 (18 Gbps) with HDR10/Dolby Vision/HLG pass-through.</li><li>USB KVM extension \u2013 USB 1.1 keyboard/mouse control at the display, host USB-B at the TX.</li><li>Local preview \u2013 HDMI loop-out on the transmitter for a secondary monitor.</li><li>Audio break-out \u2013 3.5 mm L/R analog de-embed at the RX for amps or powered speakers.</li><li>PoC convenience \u2013 Bi-directional Power over Cable; power either end with the included 12 V PSU.</li><li>EDID made simple \u2013 DIP presets (4K60 2.0ch / 1080p 2.0ch) + copy modes for rock-solid handshakes.</li><li>Installer-friendly \u2013 Compact metal housings, status LEDs, plug-and-play\u2014no drivers required.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>True 4K performance</td><td>Up to 4K60 4:4:4 (18 Gbps) with HDR10/Dolby Vision/HLG pass-through.</td></tr><tr><td>USB KVM extension</td><td>USB 1.1 keyboard/mouse control at the display, host USB-B at the TX.</td></tr><tr><td>Local preview</td><td>HDMI loop-out on the transmitter for a secondary monitor.</td></tr><tr><td>Audio break-out</td><td>3.5 mm L/R analog de-embed at the RX for amps or powered speakers.</td></tr><tr><td>PoC convenience</td><td>Bi-directional Power over Cable; power either end with the included 12 V PSU.</td></tr><tr><td>EDID made simple</td><td>DIP presets (4K60 2.0ch / 1080p 2.0ch) + copy modes for rock-solid handshakes.</td></tr><tr><td>Installer-friendly</td><td>Compact metal housings, status LEDs, plug-and-play\u2014no drivers required.</td></tr><tr><td>Compliance</td><td>HDMI 2.0b</td></tr><tr><td>Max Bandwidth</td><td>18Gbps</td></tr><tr><td>Max Resolution</td><td>4K@60Hz (3840\u00d72160) RGB/YCBCR 4:4:4</td></tr><tr><td>Supported Formats</td><td>4:4:4, 4:2:2, 4:2:0</td></tr><tr><td>Color Depth</td><td>8/10/12-bit</td></tr><tr><td>HDR Support</td><td>HDR, HDR10, HDR10+, Dolby Vision, HLG</td></tr><tr><td>HDCP Compliance</td><td>HDCP 2.2</td></tr><tr><td>Analog Audio Output</td><td>3.5mm stereo (Receiver unit, de-embedded).</td></tr><tr><td>Cable Type</td><td>CAT6/6a</td></tr><tr><td>Power-over-Cable</td><td>Bi-directional POC (only one unit requires power)</td></tr><tr><td>Dimensions (TX/RX)</td><td>90mm (W) \u00d7 68mm (D) \u00d7 22mm (H)</td></tr><tr><td>Weight</td><td>TX: 170g / RX: 169g</td></tr><tr><td>Housing</td><td>Metal, black finish</td></tr><tr><td>Operating Temp</td><td>0\u00b0C ~ 40\u00b0C (32\u00b0F ~ 104\u00b0F)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ee65b185b2f84aa0bf8b022bc3e96055~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ee65b185b2f84aa0bf8b022bc3e96055~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_eb92ec1625484c0b94be78900f944fad~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_bee4ec8eb43e4b97b433a4cfdcf2f075~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_af289f6ab9a1415e9dbbae434ff4239e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_687192bba39b492eae2cecbb46eb9e47~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_1cdca0011f30465fb6d156660b9c6e4b~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/6tjjqsqdkpxlybw6szuek/AHS6J5D5_QEPaC-giEzYBtM?rlkey=jq64uwz5lm4vwyr69dklnbbsl&dl=0"
+    },
+    {
+      "slug": "ex-usb3-100-10",
+      "Title": "EX-USB3-100-10",
+      "Sub Title": "USB 3.2 Gen 1 (5 Gbps) extender over fibre (100m)",
+      "Product Description": "<p>The Netvio EX-USB3-100-10 is a USB 3.2 Gen 1 (5 Gbps) extender that reaches up to 100 m over fibre. It is designed for high-bandwidth USB peripherals - 4K webcams, document cameras, capture devices, mass storage and KVM stations - where the host and the peripheral need to live on opposite sides of a building.</p><ul><li>USB 3.2 Gen 1 SuperSpeed Extension \u2013 Delivers full 5 Gbps USB performance up to 100 m (331 ft) over Cat6, Cat6aA (70 m over Cat6).</li><li>Plug &amp; Play Simplicity \u2013 No drivers or software required; hardware acceleration ensures stable performance across Windows, macOS, and Linux.</li><li>Flexible Power Options \u2013 Dual-mode PoC design allows power from either the transmitter (TX) or receiver (RX) with the included 24 V / 2 A PSU.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "extender",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>USB 3.2 Gen 1 SuperSpeed Extension</td><td>Delivers full 5 Gbps USB performance up to 100 m (331 ft) over Cat6, Cat6aA (70 m over Cat6).</td></tr><tr><td>Plug &amp; Play Simplicity</td><td>No drivers or software required; hardware acceleration ensures stable performance across Windows, macOS, and Linux.</td></tr><tr><td>Flexible Power Options</td><td>Dual-mode PoC design allows power from either the transmitter (TX) or receiver (RX) with the included 24 V / 2 A PSU.</td></tr><tr><td>Versatile USB Connectivity</td><td>Receiver provides 2 \u00d7 USB-A and 2 \u00d7 USB-C ports, each with dedicated 1.0 A &amp; 1.5 A power outputs for peripherals and charging.</td></tr><tr><td>Durable, Professional Design</td><td>Compact metal enclosure built for reliability in residential, commercial, and IT environments.</td></tr><tr><td>Universal Applications</td><td>Ideal for video conferencing, PTZ cameras, interactive classrooms, digital signage, storage expansion, and professional AV systems.</td></tr><tr><td>Broad Compatibility</td><td>Fully backwards compatible with USB 3.1, 3.0, 2.0, and 1.1 devices, supporting a wide range of peripherals.</td></tr><tr><td>Distance</td><td>up to 100 m (331 ft) over Cat6A</td></tr><tr><td>Input</td><td>100\u2013240 V AC, 50/60 Hz</td></tr><tr><td>Output</td><td>24 V DC / 2 A (PSU included)</td></tr><tr><td>Dual-Mode PoC</td><td>power from either TX or RX</td></tr><tr><td>Power consumption</td><td>up to 40 W</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ff0b76888ca649b8a8e7ac98b0d2b8a7~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ff0b76888ca649b8a8e7ac98b0d2b8a7~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_cc2cd5ce526a48d59796d3a8ff9096ab~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b281eac0b5074f8080fa5a67cf42f241~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_2e1b38fab8c041b589814fc7c002723c~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_02fb643ddb084bcd8aaa0a895467cdcf~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/ycnqppl1mgrfailes8xzm/ANk6PQq8rrFhrFIMIlJCasQ?rlkey=2abrsbqtnbypb3a1f625mocwi&dl=0"
+    },
+    {
+      "slug": "ip-aud",
+      "Title": "IP-AUD Dante Adaptors",
+      "Sub Title": "Dante 2-channel and XLR audio adaptors",
+      "Product Description": "<p>The Netvio IP-AUD range is a family of Dante audio adaptors that bring analog and balanced audio sources onto a Dante AV-A network. The series includes 2-channel line-level adaptors and XLR variants, all designed to extend Netvio&#x27;s plug-and-play AVoIP philosophy into audio-only zones and BYOD applications.</p><p>The IP-AUD adaptors are sold individually as part of Netvio's wider AVoIP system and are fully interoperable with any standards-based Dante endpoint, allowing them to be deployed alongside both Netvio JP4-60-DNT video endpoints and third-party Dante hardware. Typical applications include audio break-out for AVoIP video receivers, source aggregation for paging and background-music systems, and BYOD audio injection in meeting rooms and hospitality spaces. Each adaptor is configured and monitored from the same Netvio360 console and Dante Director tooling that manage the rest of the system.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "audio",
+      "Product Tags": "extender",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f49ebd462dc14ba18e33bc30bfc0ec50~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f49ebd462dc14ba18e33bc30bfc0ec50~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_dbb2e81c8e0144e08cf97250fe699183~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_864ed4221df0421c9f851b8d407fa17a~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_8320772d0d9a4915b0211f6494a3d614~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_69a54e1b079d42d3b090fbb89da31aae~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_5922970997b643699f3c9a3df1517189~mv2.png"
+      ]
+    },
+    {
+      "slug": "ip-aud-in-wall",
+      "Title": "IP-AUD In-Wall Adaptors",
+      "Sub Title": "Bluetooth / analog to Dante in-wall plate",
+      "Product Description": "<p>The Netvio IP-AUD In-Wall Adaptors deliver Bluetooth and analog stereo audio onto a Dante AV-A network from a clean 1-gang or 2-gang UK wall plate. They are designed for meeting rooms, huddle spaces, collaboration booths and hospitality zones where guests need to drop wireless or wired audio into a wider Netvio system without extra hardware on the desk.</p><ul><li>Wide Dante\u00ae sample rate support: 44.1kHz to 96kHz (16\u201332 bit)</li><li>Adjustable Dante\u00ae latency (2\u201310ms) via Dante Controller</li></ul><p>Converts Bluetooth audio into Dante\u00ae digital audio for seamless AV integration</p><p>2x2 audio channels supporting high-quality wireless streaming</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "audio",
+      "Product Tags": "faceplates",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_e0bcc437cd874736977dc1a4a4ac5d12~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_e0bcc437cd874736977dc1a4a4ac5d12~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_cb75f8ccb97144b1bb9c35d321d5e485~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_bd33b6e3d1194bf8a399c68e72d5fb81~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b728e12e21a7493d9d6f15a03b90b224~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b29ddbeb590f44a6894f6698058d67d1~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_722aa7bc558e43a2a2c17ca46eb043a2~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/n4ins16bwatxe047msfhw/AE1qnXgK8SUsfJwRD5VAFrs?rlkey=9d40ahhiewsegrcucwyxpz0hj&dl=0"
+    },
+    {
+      "slug": "ip-jp4-60-d-rx-10",
+      "Title": "IP-JP4-60-D-RX-10",
+      "Sub Title": "4K60 4:4:4 AVoIP decoder with Dante audio",
+      "Product Description": "<p>The Netvio IP-JP4-60-D-RX-10 is the matching Dante-equipped AVoIP decoder for the JP4-60 series. It outputs 4K60 4:4:4 HDR video to an HDMI 2.0b display and provides two interoperable Dante AV-A audio channels for full audio-video routing across Netvio and Dante systems.</p><p>It accepts uncompressed video over standard 1 Gbps Ethernet, drives a 4K HDMI 2.0b display, and supports video-wall, multiview, picture-in-picture and seamless fast-switching modes with sub-frame latency. PoE powering means a single Cat6 cable provides both data and power back to the network switch, and the two Dante AV-A audio channels can be routed independently of the video signal to break audio out to a Dante-enabled DSP, amplifier or matrix anywhere on the network. Like every Netvio decoder it is configured and routed from Netvio360 with end-user control delivered by NetvioGo.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "decoder",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f28e060653c948deb4546be903e47a9f~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f28e060653c948deb4546be903e47a9f~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b141d8d5804d4913a3f187dac55433c2~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_aea172f60b764dafa62025ed2aaa0b11~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a6ab52623e6a424eb80a6511ee7fb3be~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a5d1e4706cbe41d0b5d9383b4764edbe~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9a5d681c228f4686bde5cd275d339daf~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+    },
+    {
+      "slug": "ip-jp4-60-d-tx-10",
+      "Title": "IP-JP4-60-D-TX-10",
+      "Sub Title": "4K60 4:4:4 AVoIP encoder with Dante audio",
+      "Product Description": "<p>The Netvio IP-JP4-60-D-TX-10 is a 4K60 4:4:4 AVoIP encoder with built-in Dante audio. It joins Netvio&#x27;s JP4-60 platform with the addition of two interoperable Dante AV-A audio channels, allowing video and audio to be routed independently across Dante and Netvio AVoIP systems while keeping HDR video latency under one frame.</p><p>The encoder accepts an HDMI 2.0b 18 Gbps input, embeds two Dante AV-A audio channels, and delivers ContentPlus+ low-bandwidth secondary streams suitable for previews, multi-view dashboards and recording. PoE powering means a single Cat6 cable supplies both data and power back to the network switch, and a local HDMI loop output makes commissioning straightforward. As with every Netvio endpoint, deployment is plug-and-play once the unit is paired to a Netvio-validated AV switch, and ongoing configuration, monitoring and routing is handled from the Netvio360 console with end-user control delivered through NetvioGo.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "encoder",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_df0020c010f946759d24af92953b4143~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_df0020c010f946759d24af92953b4143~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b141d8d5804d4913a3f187dac55433c2~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_aea172f60b764dafa62025ed2aaa0b11~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a864a697a90c400f8cb9c42864410afc~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a721f67deaf149ef8446d3adbf338d8d~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a6ab52623e6a424eb80a6511ee7fb3be~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+    },
+    {
+      "slug": "ip-jp4-60-dnt-rx-10",
+      "Title": "IP-JP4-60-DNT-RX-10",
+      "Sub Title": "4K60 4:4:4 AVoIP decoder with Dante audio",
+      "Product Description": "<p>The Netvio IP-JP4-60-DNT-RX-10 is the Dante-AV-A audio-enabled AVoIP decoder in the JP4-60-DNT series. It delivers genuine 4K60 4:4:4 HDR video to an HDMI 2.0b display, accepts independent Dante audio routing, and is monitored through Dante Director and Domain Manager alongside Netvio360.</p><p>The decoder accepts uncompressed video over a standard 1 Gbps Ethernet link, drives a 4K HDMI 2.0b display, and supports video-wall, multiview, picture-in-picture and seamless fast-switching modes with sub-frame latency. The two Dante AV-A audio channels can be routed independently of video to break audio out to a Dante-enabled DSP or amplifier anywhere on the network. PoE powering means a single Cat6 cable provides both data and power back to the network switch, and ongoing configuration, monitoring and routing is handled from the Netvio360 console with end-user control delivered through NetvioGo.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "decoder",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f28e060653c948deb4546be903e47a9f~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f28e060653c948deb4546be903e47a9f~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b141d8d5804d4913a3f187dac55433c2~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_aea172f60b764dafa62025ed2aaa0b11~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a6ab52623e6a424eb80a6511ee7fb3be~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a5d1e4706cbe41d0b5d9383b4764edbe~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9a5d681c228f4686bde5cd275d339daf~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+    },
+    {
+      "slug": "ip-jp4-60-rx-10",
+      "Title": "IP-JP4-60-RX-10",
+      "Sub Title": "4K60 4:4:4 AVoIP decoder (JP4-60 series)",
+      "Product Description": "<p>The Netvio IP-JP4-60-RX-10 is the matching 4K60 4:4:4 AVoIP decoder for the JP4-60 series. It receives uncompressed UHD HDR video from any JP4-60 encoder over 1 Gbps Ethernet, drives a 4K HDMI 2.0b display, and supports video-wall, multiview and seamless fast-switching modes with sub-frame latency.</p><p>Enhanced compatibility mode ideal conference hubs, laptop &amp; commercial display integration.</p><p>The decoder accepts uncompressed JP4-60 video over a standard 1 Gbps Ethernet link, drives a 4K HDMI 2.0b display, and supports video-wall, multiview, picture-in-picture and seamless fast-switching modes with sub-frame latency. PoE powering means a single Cat6 cable provides both data and power back to the network switch. Like every Netvio decoder it is configured and routed from Netvio360 and exposed to end users through NetvioGo, with optional driver support for third-party controllers including Crestron, Control4, ELAN and RTI.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "decoder",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ee1310fc7b594d9aa63f250fa5eafd88~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ee1310fc7b594d9aa63f250fa5eafd88~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_dd2a1fde478a41f7bc8c7c7532433383~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_d2922a1cc7b044c098dd8dce7f4c060e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c7a9139da87f48ba9abad7e0a3045a36~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_bf22a78f02b441ed97dd8fea4d4312d4~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b141d8d5804d4913a3f187dac55433c2~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0"
+    },
+    {
+      "slug": "ip-jp4-60-tx-10",
+      "Title": "IP-JP4-60-TX-10",
+      "Sub Title": "4K60 4:4:4 AVoIP encoder (JP4-60 series)",
+      "Product Description": "<p>The Netvio IP-JP4-60-TX-10 is a 4K60 4:4:4 AVoIP encoder in the JP4-60 series. It delivers genuinely uncompromised UHD HDR video over standard 1 Gbps Ethernet with sub-frame latency, dual ContentPlus+ low-bandwidth secondary streams for previews and recording, and license-inclusive integration with Netvio360 and NetvioGo control software.</p><p>The encoder accepts an HDMI 2.0b 18 Gbps input, supports HDR10, HDR10+, Dolby Vision and HLG, and delivers ContentPlus+ low-bandwidth secondary streams suitable for previews, multi-view dashboards and recording. PoE powering means a single Cat6 cable supplies both data and power back to the network switch, and a local HDMI loop output makes commissioning straightforward. As with every Netvio endpoint, deployment is plug-and-play once the unit is paired to a Netvio-validated AV switch, with all configuration handled from the Netvio360 console and end-user control delivered through NetvioGo.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "encoder",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_ee1310fc7b594d9aa63f250fa5eafd88~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_ee1310fc7b594d9aa63f250fa5eafd88~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_dd2a1fde478a41f7bc8c7c7532433383~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c7a9139da87f48ba9abad7e0a3045a36~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_bf22a78f02b441ed97dd8fea4d4312d4~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b141d8d5804d4913a3f187dac55433c2~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_aea172f60b764dafa62025ed2aaa0b11~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0"
+    },
+    {
+      "slug": "ip-jp4-cl-10",
+      "Title": "IP-JP4-CL-10",
+      "Sub Title": "Central controller for Netvio JP4 AVoIP systems",
+      "Product Description": "<p>The IP-JP4-CL-10 is Netvio\u2019s centralised dual-network controller designed for scalable JP4 AVoIP systems. Provides independent AV and control LANs, system synchronisation, discovery, firmware management and secure enterprise-grade deployment.</p><ul><li>Large-System Ready \u2013 Optimized to manage hundreds of endpoints across enterprise-scale, multi-switch networks.</li><li>Mass Setup &amp; Configuration \u2013 Automatically discovers and configures all connected devices in seconds.</li><li>Advanced Enterprise Security \u2013 Features encrypted communications and secure device authentication to protect system integrity.</li><li>PoE Powered \u2013 Standard power option via PoE (802.3af Class 3); 12V DC input also supported (PSU not included).</li><li>Rack-Ready \u2013 Fully compatible with the Netvio IP-RK-10 rack mount kit for impeccable rack presentation.</li><li>Unified Control \u2013 Seamless integration with Netvio360, NetvioGo, and AppBuilder for system and end-user management.</li><li>Compatible with Traditional Control Systems \u2013 Drivers available for Crestron, Q-SYS, and more.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Large-System Ready</td><td>Optimized to manage hundreds of endpoints across enterprise-scale, multi-switch networks.</td></tr><tr><td>Mass Setup &amp; Configuration</td><td>Automatically discovers and configures all connected devices in seconds.</td></tr><tr><td>Advanced Enterprise Security</td><td>Features encrypted communications and secure device authentication to protect system integrity.</td></tr><tr><td>PoE Powered</td><td>Standard power option via PoE (802.3af Class 3); 12V DC input also supported (PSU not included).</td></tr><tr><td>Rack-Ready</td><td>Fully compatible with the Netvio IP-RK-10 rack mount kit for impeccable rack presentation.</td></tr><tr><td>Unified Control</td><td>Seamless integration with Netvio360, NetvioGo, and AppBuilder for system and end-user management.</td></tr><tr><td>Compatible with Traditional Control Systems</td><td>Drivers available for Crestron, Q-SYS, and more.</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_cf4f9aff06484d7c878e759ea3d35d39~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_cf4f9aff06484d7c878e759ea3d35d39~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c37900cfb10d4ac89a723c73fc6a6d01~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a5a828f3436a485c9da47f5a431f5f66~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9a7d96e2e6894af7bdcfb810b79744e6~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9a44b9255c0747e088e18efc03621090~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_2a602c77dd994473a7adb04c77072f84~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/no4pcz7ap93uqhx0k8nr1/ABkQ9I_QPh1PdDv4f2kMHMo?rlkey=69v996ithnjkz50dpsfc8yb29&dl=0"
+    },
+    {
+      "slug": "ip-rk-10",
+      "Title": "IP-RK-10",
+      "Sub Title": "Rack mount kit for Netvio JP4 endpoints",
+      "Product Description": "<p>The IP-RK-10 by Netvio is a 19\u2033, 6U rack mount designed to house up to 10 JP4-series AVoIP devices. Built for easy installation with correct spacing, passive airflow and no adaptor plates required\u2014perfect for professional AV-over-IP setups.</p><ul><li>High Capacity \u2014 Mounts up to 10 devices in only 6U of rack space.</li><li>Full Compatibility \u2014 Supports all versions of the Netvio JP4 Series, including encoders, decoders, and the IP-JP4-CL-10 controller.</li><li>Professional Finish \u2014 Provides a clean, uniform rack appearance for enterprise-level installations.</li><li>Installer Friendly \u2014 Includes mounting hardware and alignment brackets for fast setup.</li><li>Cable &amp; Airflow Management \u2014 Keeps devices neatly aligned with optimized spacing for reliability.</li><li>Durable Construction \u2014 Heavy-duty steel chassis with powder-coated finish for long-term use.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "install-kit",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_bbd94bfc2ead46319aa88155071b1949~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_bbd94bfc2ead46319aa88155071b1949~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_8e10211b572f4cbdbd813b30fda28589~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_669f1d23d3a74003959f39152fd370a3~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_6160f85cd9de4a11bd9febda98157381~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_4592d6b2a4844593b42b6e94fab81207~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/6wsrp7kvsqr1zu1hki9nt/APfXELACv-kimRmdfom5hmk?rlkey=6wte0ue9cjcze70zc9p4rye3o&dl=0"
+    },
+    {
+      "slug": "ip-sw-24p-10",
+      "Title": "IP-SW-24P-10",
+      "Sub Title": "24-port pre-configured PoE+ switch for Netvio AVoIP",
+      "Product Description": "<p>The Netvio IP-SW-24P-10 is a 24-port Gigabit PoE+ managed switch that is pre-configured at the factory for Netvio JP4 AVoIP deployments. Installers simply plug encoders, decoders and the IP-JP4-CL-10 controller into the appropriate ports - all VLAN, IGMP, multicast and jumbo-frame settings are already in place.</p><ul><li>Factory Pre-Configured \u2014 Ready for Netvio JP4 encoders, decoders, and controllers with zero IT programming.</li><li>High PoE Power \u2014 450 W PoE budget sufficient for all connected JP4 devices.</li><li>Dedicated Controller Ports \u2014 Optimized for Netvio IP-JP4-CL-10 central controller integration.</li><li>Rackmount Form Factor \u2014 Professional 1U chassis designed for 24/7 reliability.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>IP-SW-24P-10</td></tr><tr><td>Type</td><td>24-Port Managed Gigabit PoE+ Switch</td></tr><tr><td>Use Case</td><td>Netvio JP4 AV-over-IP deployments up to 21 endpoints</td></tr><tr><td>Switching Capacity</td><td>\u226556 Gbps</td></tr><tr><td>Forwarding Rate</td><td>Wire-speed, non-blocking architecture</td></tr><tr><td>PoE Standard</td><td>IEEE 802.3af/at (PoE+)</td></tr><tr><td>PoE Budget</td><td>~450W total (typical)</td></tr><tr><td>Certifications</td><td>CE, UKCA, FCC, RoHS</td></tr><tr><td>Form Factor</td><td>19\u201d Rack Mount (1U)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_cc3d8af19ce94edbbcf038fd6bf81672~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_cc3d8af19ce94edbbcf038fd6bf81672~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_be463e230772417ebae6fe94e71fe199~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0"
+    },
+    {
+      "slug": "ip-sw-n1",
+      "Title": "IP-SW-N1",
+      "Sub Title": "Netvio N1 managed AV switch series",
+      "Product Description": "<p>The Netvio EX-2CH-300-10 extends 2-channel line-level analog or S/PDIF audio up to 300 m (984 ft) over a single CAT cable. Designed for professional installations, it supports bi-directional IR control, robust signal integrity and integrates seamlessly into Netvio\u2019s license-inclusive control ecosystem.</p><ul><li>Deploy complete AV networks in under 5 minutes \u2013 no IT expertise required</li><li>Eliminates VLANs, multicast and QoS complexity \u2013 you never see it, but it\u2019s all handled</li><li>Single-page configuration for entire multi-switch systems \u2013 no menus, no confusion</li><li>Drag-and-drop port assignment \u2013 as simple as using Excel</li><li>Device Profiles auto-configure everything \u2013 optimized for AVoIP, Dante, VoIP, cameras and more</li><li>One-click deployment across all switches \u2013 instant, consistent setup every time</li><li>Automatic switch discovery and system grouping \u2013 zero manual setup</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Deploy complete AV networks in under 5 minutes</td><td>no IT expertise required</td></tr><tr><td>Eliminates VLANs, multicast and QoS complexity</td><td>you never see it, but it\u2019s all handled</td></tr><tr><td>Single-page configuration for entire multi-switch systems</td><td>no menus, no confusion</td></tr><tr><td>Drag-and-drop port assignment</td><td>as simple as using Excel</td></tr><tr><td>Device Profiles auto-configure everything</td><td>optimized for AVoIP, Dante, VoIP, cameras and more</td></tr><tr><td>One-click deployment across all switches</td><td>instant, consistent setup every time</td></tr><tr><td>Automatic switch discovery and system grouping</td><td>zero manual setup</td></tr><tr><td>Built-in protection prevents network-breaking mistakes</td><td>impossible to lock yourself out</td></tr><tr><td>Pre-configured for AV performance</td><td>multicast, jumbo frames and traffic handling ready out of the box</td></tr><tr><td>Fully integrated with Netvio 360</td><td>seamless workflow from setup to control</td></tr><tr><td>Yes. The device supports Power over Ethernet (PoE</td><td>IEEE 802.3af), meaning it can be powered directly through the network cable, removing the need for a separate power supply (although 12V DC is also supported).</td></tr><tr><td>Tel</td><td>+44 (0) 800 464 7445</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_e3f14ad2a8d84abba3843544b8e4725b~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_e3f14ad2a8d84abba3843544b8e4725b~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_83418b95169048dea688f1e34503ce03~mv2.jpg",
+        "https://static.wixstatic.com/media/cc1bbf_832ee1b4efb9496aaa8f50488e085d0e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_6f426741c0534a7898fe440f90f1ca4e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_6209a3ec48844f89b38cb25ec038e009~mv2.jpg",
+        "https://static.wixstatic.com/media/cc1bbf_4e93c819000a4fecb83de802eed79f3d~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/9wfy7x8umtyje23cg9ehi/AA0Sns2CMRyiSNJEYa0H8PI?rlkey=fjqwfoq4nht0wns2f50rxl4q1&dl=0"
+    },
+    {
+      "slug": "ip-sw-n1-24p-10",
+      "Title": "IP-SW-N1-24P-10",
+      "Sub Title": "24-port Netvio N1 managed AV PoE+ switch",
+      "Product Description": "<p>The Netvio IP-SW-N1-24P-10 is a 24-port managed Gigabit PoE+ AV switch in the new N1 series. Like the rest of the Netvio range it is pre-configured for AV-over-IP traffic, supports JP4 encoders and decoders, and removes the need for IT-grade switch configuration from the installer&#x27;s workflow.</p><ul><li>Factory Pre-Configured \u2014 Ready for Netvio JP4 encoders, decoders, and controllers with zero IT programming.</li><li>High PoE Power \u2014 450 W PoE budget sufficient for all connected JP4 devices.</li><li>Dedicated Controller Ports \u2014 Optimized for Netvio IP-JP4-CL-10 central controller integration.</li><li>Rackmount Form Factor \u2014 Professional 1U chassis designed for 24/7 reliability.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video",
+      "Product Tags": "video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>IP-SW-24P-10</td></tr><tr><td>Type</td><td>24-Port Managed Gigabit PoE+ Switch</td></tr><tr><td>Use Case</td><td>Netvio JP4 AV-over-IP deployments up to 21 endpoints</td></tr><tr><td>Switching Capacity</td><td>\u226556 Gbps</td></tr><tr><td>Forwarding Rate</td><td>Wire-speed, non-blocking architecture</td></tr><tr><td>PoE Standard</td><td>IEEE 802.3af/at (PoE+)</td></tr><tr><td>PoE Budget</td><td>~450W total (typical)</td></tr><tr><td>Certifications</td><td>CE, UKCA, FCC, RoHS</td></tr><tr><td>Form Factor</td><td>19\u201d Rack Mount (1U)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f994c853810c41779a5defa0f25a382c~mv2.jpg",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f994c853810c41779a5defa0f25a382c~mv2.jpg",
+        "https://static.wixstatic.com/media/cc1bbf_cc3d8af19ce94edbbcf038fd6bf81672~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_be463e230772417ebae6fe94e71fe199~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_83418b95169048dea688f1e34503ce03~mv2.jpg",
+        "https://static.wixstatic.com/media/cc1bbf_6209a3ec48844f89b38cb25ec038e009~mv2.jpg",
+        "https://static.wixstatic.com/media/cc1bbf_16ce3f1f7a02430e880995a9629406ec~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0"
+    },
+    {
+      "slug": "mv-h2-0401-10",
+      "Title": "MV-H2-0401-10",
+      "Sub Title": "4x1 HDMI 2.0 presentation switcher with multiview",
+      "Product Description": "<p>The Netvio MV-H2-0401-10 is a 4x1 HDMI 2.0 presentation switcher with built-in multiview. It accepts four 4K60 HDMI inputs, delivers them to one 4K HDMI display, and can simultaneously combine all four sources into a single quad-view, picture-in-picture or full-screen layout for boardrooms, classrooms and command-and-control walls.</p><ul><li>Seamless 4K60 UHD Switching \u2013 HDMI 2.0b, 18Gbps bandwidth, HDR10, Dolby Vision, HLG.</li><li>Multiview Display Modes \u2013 8 layouts including Single, PIP, PBP, Triple, Quad.</li><li>Network-Wide Multiview \u2013 Extends JP4 AVoIP systems with distributed multiview capability across the IP network.</li><li>Unified Control \u2013 Compatible with Netvio AppBuilder &amp; NetvioGo, providing license-inclusive end-user access.</li><li>Pro AV Integration \u2013 Drivers available for Crestron and Q-Sys control ecosystems.</li><li>Flexible Audio Options \u2013 HDMI passthrough plus analog and optical de-embedding.</li><li>Multiple Control Paths \u2013 Front panel, IR, OSD, RS-232, AppBuilder, NetvioGo, Crestron, Q-SYS.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "matrix,video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Seamless 4K60 UHD Switching</td><td>HDMI 2.0b, 18Gbps bandwidth, HDR10, Dolby Vision, HLG.</td></tr><tr><td>Multiview Display Modes</td><td>8 layouts including Single, PIP, PBP, Triple, Quad.</td></tr><tr><td>Network-Wide Multiview</td><td>Extends JP4 AVoIP systems with distributed multiview capability across the IP network.</td></tr><tr><td>Unified Control</td><td>Compatible with Netvio AppBuilder &amp; NetvioGo, providing license-inclusive end-user access.</td></tr><tr><td>Pro AV Integration</td><td>Drivers available for Crestron and Q-Sys control ecosystems.</td></tr><tr><td>Flexible Audio Options</td><td>HDMI passthrough plus analog and optical de-embedding.</td></tr><tr><td>Multiple Control Paths</td><td>Front panel, IR, OSD, RS-232, AppBuilder, NetvioGo, Crestron, Q-SYS.</td></tr><tr><td>Rack Presentation</td><td>Dedicated 19\u2033 rack mount kit included in the box.</td></tr><tr><td>Compliance</td><td>HDMI 2.0b, HDCP 2.2 / 1.x</td></tr><tr><td>Bandwidth</td><td>18Gbps uncompressed</td></tr><tr><td>Resolutions</td><td>Up to 3840\u00d72160 @60Hz 4:4:4, 8/10/12-bit</td></tr><tr><td>Color Space</td><td>RGB, YCbCr 4:4:4 / 4:2:2 / 4:2:0</td></tr><tr><td>HDR Formats</td><td>HDR10, Dolby Vision, HLG</td></tr><tr><td>HDMI</td><td>LPCM 2.0 / 5.1 / 7.1, Dolby Digital, DTS</td></tr><tr><td>Analog</td><td>Stereo L/R (RCA) \u2013 PCM 2.0</td></tr><tr><td>Optical (S/PDIF)</td><td>Dolby Digital, DTS 5.1, PCM 2.0</td></tr><tr><td>Audio De-Embedding</td><td>Independent selection and volume control</td></tr><tr><td>Inputs</td><td>4\u00d7 HDMI Type-A (female)</td></tr><tr><td>Output</td><td>1\u00d7 HDMI Type-A (female)</td></tr><tr><td>Audio Outputs</td><td>1\u00d7 L/R RCA, 1\u00d7 Optical S/PDIF</td></tr><tr><td>USB</td><td>2\u00d7 USB 2.0 Device, 3\u00d7 USB 3.0 Device (shared with KVM)</td></tr><tr><td>Operating Temperature</td><td>0\u201340\u00b0C / 32\u2013104\u00b0F</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_cf963c834a05423d8e10583b40588c20~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_cf963c834a05423d8e10583b40588c20~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b9124bf5d9284d8c9208effd17a86f81~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_aba1766c9f814d29b6c8a0fd013d0d45~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a867e190fbe24562a80afe1866f4c796~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_87e007240b4444f49349c80247c279e8~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_76d29f4dda254089af1d6061366fa357~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/7c30kfy6lrni9y1kotjmm/AC3bEr13e9ElYctj9lyeah4?rlkey=wrlzs3ed7ujlvkkt7tqksc7yi&dl=0"
+    },
+    {
+      "slug": "mx-ht2-0404-10",
+      "Title": "MX-HT2-0404-10",
+      "Sub Title": "4x4 4K60 4:4:4 HDBaseT 2.0 matrix switcher",
+      "Product Description": "<p>The Netvio MX-HT2-0404-10 is a professional 4\u00d74 HDBaseT matrix delivering true 4K60 4:4:4 video with HDR10/Dolby Vision support, HDMI mirroring, ARC capture, scalable 40m/70m HDBaseT links and onboard 16\u00d78 audio matrix. License-inclusive Netvio360 configuration and NetvioGo control for integrators</p><ul><li>HDBaseT Extension \u2014 Outputs 1\u20133 extend signals up to 40 m (131 ft)</li><li>HDR Formats Supported \u2014 HDR10, HDR10+, Dolby Vision, HLG.</li><li>Audio Matrixing &amp; ARC \u2014 Extract audio to analog or coaxial, plus ARC return support.</li><li>EDID Management \u2014 21 factory presets, 2 user, and copy modes for compatibility.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "matrix,video-distribution",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Control Options</td><td>onboard NetvioGo Control solution or traditional control systems</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_d9b9d25a044b4692acc34d6c7f176eda~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_d9b9d25a044b4692acc34d6c7f176eda~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c970a596ea73448e8fb16493756dd8df~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_b6f7b1cbdce442edb13fe9db4fa48a30~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a9dcd15913204fa581af996d10257037~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/ohsu1vwvv9tst6271nlro/AGRh7859sBk0oIy5h4K651E?rlkey=q5uv6wkaqr6pjpwds8jmh06b1&dl=0"
+    },
+    {
+      "slug": "mx-ht2-0808-10",
+      "Title": "MX-HT2-0808-10",
+      "Sub Title": "8x8 4K60 4:4:4 HDBaseT 2.0 matrix switcher",
+      "Product Description": "<p>The Netvio MX-HT2-0808-10 is an 8x8 HDMI 2.0b matrix switcher with HDBaseT 2.0 distribution. It routes eight 4K60 HDMI sources to eight outputs split between local HDMI mirrors and long-distance HDBaseT extensions, with HDR, ARC, PoC, and license-inclusive control built in.</p><ul><li>HDBaseT Extension\n\u2022 Outputs 1\u20134: extend 4K60 4:4:4 up to 40 m (131 ft)\n\u2022 Outputs 5\u20138: extend up to 70 m (231 ft) with HDBaseT Ethernet channel support</li></ul><p>8\u00d78 HDMI 2.0 Matrix with HDBaseT\nRoute eight HDMI sources to eight HDMI + eight HDBaseT outputs simultaneously.</p><p>Full compatibility with HDR10, HDR10+, Dolby Vision, and HLG.</p><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "matrix,video-distribution",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_cfad1e56b7264589bfa275eac0a701ad~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_cfad1e56b7264589bfa275eac0a701ad~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_af923a2793374e179b99d6c08b2ccd3c~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_3e66203c86ad486da2fd25493a4a42c0~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_3cf139bf05b0492d80d47eee9f0aa646~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0"
+    },
+    {
+      "slug": "netviogo",
+      "Title": "NetvioGo",
+      "Sub Title": "License-inclusive end-user control app (iOS/Android/PC)",
+      "Product Description": "<p>Discover NetvioGo, the free license-inclusive control app from Netvio. Compatible with iOS, Android and touch-panel displays, it allows seamless control of AVoIP systems, matrices, video walls, amplifiers and sources via IR/RS-232/IP\u2014ideal for professional AV deployments.</p><ul><li>Unified AV Control \u2014 Control both audio and video within a single intuitive interface</li><li>Live Source Previews \u2014 See what\u2019s playing on each source before switching (with ContentPlus+) - not available H Series Matrix</li><li>Video Wall &amp; Multiview Control \u2014 Instantly recall video wall layouts and multiview presets</li><li>Audio Zone Management \u2014 Control multi-zone, multi-amplifier audio systems with two-way feedback</li><li>Device Power &amp; Input Control \u2014 Turn displays on/off or switch inputs via IP, RS-232, or HDMI-CEC</li><li>Room &amp; Zone Navigation \u2014 Switch between rooms or system zones in one seamless app</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f1a34cc2d9c94dde8725611bf49167ec~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f1a34cc2d9c94dde8725611bf49167ec~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c8a62cc91a8340da821f2518f93e5079~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9ac95978b45942509d7002179b440575~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_910a4fe88bfa4782aa29abf2bb8eaf31~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_4094b34c6cf54f1ba671bebe85643c39~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/69ox8ut0lq1rtbm0apajc/AGMoOc-yBrBJZ-dr0YCrwXk?rlkey=ltypdmuzwgrvaljyqitpwthap&dl=0"
+    },
+    {
+      "slug": "sp-h2-0104-10",
+      "Title": "SP-H2-0104-10",
+      "Sub Title": "1x4 HDMI 2.0 4K60 4:4:4 splitter",
+      "Product Description": "<p>The Netvio SP-H2-0104-10 is a 1x4 HDMI 2.0 splitter that distributes a single 4K60 4:4:4 HDR source to four displays. It supports 18 Gbps HDMI 2.0b, HDR10, Dolby Vision and HLG, with per-output 4K to 1080p downscaling, audio breakout and full EDID management for mixed-display estates.</p><ul><li>Ultra HD Performance \u2013 18Gbps bandwidth, 4K60 4:4:4 video with HDR10, Dolby Vision, and HLG support.</li><li>Audio Extraction \u2013 Analog stereo (3.5mm) and optical S/PDIF outputs from HDMI source.</li><li>Flexible EDID Management \u2013 AUTO and COPY modes ensure reliable system performance.</li><li>Broad Audio Format Support \u2013 PCM, Dolby, DTS, and HD audio.</li><li>Professional Build \u2013 Compact, metal enclosure designed for reliability in AV installations.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "splitter",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Ultra HD Performance</td><td>18Gbps bandwidth, 4K60 4:4:4 video with HDR10, Dolby Vision, and HLG support.</td></tr><tr><td>Audio Extraction</td><td>Analog stereo (3.5mm) and optical S/PDIF outputs from HDMI source.</td></tr><tr><td>Flexible EDID Management</td><td>AUTO and COPY modes ensure reliable system performance.</td></tr><tr><td>Broad Audio Format Support</td><td>PCM, Dolby, DTS, and HD audio.</td></tr><tr><td>Professional Build</td><td>Compact, metal enclosure designed for reliability in AV installations.</td></tr><tr><td>HDMI Compliance</td><td>HDMI 2.0b</td></tr><tr><td>HDCP Compliance</td><td>HDCP 2.2 / 1.4</td></tr><tr><td>Bandwidth</td><td>18Gbps</td></tr><tr><td>Resolutions</td><td>Up to 3840\u00d72160 @60Hz 4:4:4, 1080p, 720p</td></tr><tr><td>Color Depth</td><td>8-bit (4K60), 12-bit (1080p)</td></tr><tr><td>Color Space</td><td>RGB, YCbCr 4:4:4, 4:2:2</td></tr><tr><td>HDR Support</td><td>HDR10, Dolby Vision, HLG</td></tr><tr><td>HDMI Audio</td><td>LPCM, Dolby Digital/Plus/EX, Dolby TrueHD, DTS-HD Master Audio, DTS, DSD</td></tr><tr><td>Optical Output</td><td>LPCM 2.0, Dolby 5.1, DTS formats</td></tr><tr><td>Analog Output</td><td>Stereo PCM 2.0 (3.5mm mini-jack)</td></tr><tr><td>Inputs</td><td>1\u00d7 HDMI (Type-A)</td></tr><tr><td>Outputs</td><td>4\u00d7 HDMI (Type-A)</td></tr><tr><td>Audio Outputs</td><td>1\u00d7 Optical (S/PDIF), 1\u00d7 Analog Stereo (3.5mm)</td></tr><tr><td>EDID Control</td><td>AUTO / COPY (panel switch)</td></tr><tr><td>Video Scaling</td><td>4K\u21921080p selectable per output</td></tr><tr><td>Dimensions</td><td>180 \u00d7 62 \u00d7 14 mm (7.08\u2033 \u00d7 2.44\u2033 \u00d7 0.55\u2033)</td></tr><tr><td>Weight</td><td>227g (0.50 lbs)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_f1885859cddd4e26a174193a298985fe~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_f1885859cddd4e26a174193a298985fe~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_c393a9bbad06490f88b7f4e16ff4cb86~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_ad66fb8b7d3842bbb9e3790bf18749b9~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_a8d244b85e10487ba8f4847aef51a574~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_7dc784831ecd4b7190a84a10f8c175b8~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_6fac996e6935476a9432c0b4cbedf5c8~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/uwe7262tefehwmpyjpq11/AG2F-XDlvExpFRMXOUo3RXE?rlkey=lnufpsli9lopc9e659s1y77ak&dl=0"
+    },
+    {
+      "slug": "sp-h2-0208-10",
+      "Title": "SP-H2-0208-10",
+      "Sub Title": "2x8 HDMI 2.0 4K60 4:4:4 splitter",
+      "Product Description": "<p>The Netvio SP-H2-0208-10 is a 2x8 HDMI 2.0 splitter with input selection that distributes a chosen 4K60 4:4:4 HDR source to eight displays. It supports HDR10, Dolby Vision and HLG, with per-output 4K to 1080p downscaling, audio breakout and full EDID management for digital-signage and multi-display rooms.</p><ul><li>HDR support \u2014 HDR, HDR10, HDR10+, Dolby Vision, HLG, ALLM, VRR pass-through.</li><li>Independent downscaling \u2014 each output can downscale 8K \u2192 4K/2K.</li><li>HDR to SDR conversion \u2014 ensures legacy displays remain compatible.</li><li>Audio de-embedding \u2014 digital optical (S/PDIF) and analog (balanced/unbalanced with gain control).</li><li>Control options \u2014 front-panel buttons, IR remote, RS-232, or API commands.</li><li>Advanced EDID management \u2014 via DIP switches and API.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "video,audio",
+      "Product Tags": "splitter",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Bandwidth</td><td>48Gbps</td></tr><tr><td>Resolution</td><td>up to 8K@60Hz (4:2:0 12-bit), 8K@30Hz (4:4:4 12-bit), 4K@120Hz (4:4:4 12-bit)</td></tr><tr><td>HDR formats</td><td>HDR, HDR10, HDR10+, Dolby Vision, HLG, VRR/ALLM</td></tr><tr><td>Color space</td><td>RGB, YCbCr 4:4:4, 4:2:2, 4:2:0</td></tr><tr><td>Color depth</td><td>8 / 10 / 12-bit</td></tr><tr><td>Compliance</td><td>HDMI 2.1, HDCP 2.3</td></tr><tr><td>Supported</td><td>LPCM, Dolby Digital/Plus/EX, Dolby TrueHD, Dolby Atmos, DTS-HD, DTS:X, DSD</td></tr><tr><td>Inputs</td><td>2 \u00d7 HDMI (Type-A)</td></tr><tr><td>Outputs</td><td>8 \u00d7 HDMI (Type-A), 1 \u00d7 Optical S/PDIF, 1 \u00d7 L/R balanced/unbalanced (Phoenix)</td></tr><tr><td>Control</td><td>RS-232, IR, USB-C (service/firmware)</td></tr><tr><td>Dimensions</td><td>320 mm (W) \u00d7 100 mm (D) \u00d7 21.5 mm (H) | 12.6\u2033 \u00d7 3.9\u2033 \u00d7 0.8\u2033</td></tr><tr><td>Weight</td><td>810 g (1.8 lbs)</td></tr><tr><td>Enclosure</td><td>Metal, black finish</td></tr><tr><td>Power</td><td>DC 12V/2.5A (max 9.6W)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_c61dbfea4bba40e791b2c930feb4756c~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_c61dbfea4bba40e791b2c930feb4756c~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_bfdef904271645dab6e303c2de75e5ad~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_447b979c4eda49da98825302e3afd47e~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_20971efa5e3f4bbf8a7fe6a14ffc600d~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/zhmb7ajj01ife71gvawns/ACjPuTHfnydFFwplIpDxa7w?rlkey=f4k5ji5ecq2i0f0v82ngey9ms&dl=0"
+    },
+    {
+      "slug": "ts-10-10",
+      "Title": "TS-10-10",
+      "Sub Title": "10.1\" PoE/WiFi touch panel for Netvio AV control",
+      "Product Description": "<p>Meet the TS-13-10 13.3\u2033 PoE/WiFi touch-panel from Netvio, pre-loaded with NetvioGo and supporting drag-and-drop UI via AppBuilder. Android 12 powered, ARM quad-core, PoE+ enabled \u2013 ideal for professional AV installations in venues, hospitality, boardrooms and control rooms.</p><ul><li>NetvioGo Inclusive \u2014 Pre-installed, no additional licensing costs.</li><li>Robust Touch Interface \u2014 10\u2033 capacitive display designed for continuous professional use.</li><li>Android Powered \u2014 Built on Android with a quad-core processor for smooth performance and future-proof capability.</li><li>Open Architecture \u2014 Upload and run third-party Android apps, enabling integration with UC platforms, signage, or building automation.</li><li>Fast Deployment \u2014 Boot and configured in under 60 seconds.</li><li>Wired or Wireless Connectivity \u2014 PoE+ for reliable AV integration or Wi-Fi for flexible placement.</li><li>Unified Control \u2014 Manage Netvio AV endpoints alongside third-party apps in a single touch interface.</li></ul><p>Like the rest of the Netvio catalog the product is license-inclusive with the Netvio360 setup software, AppBuilder drag-and-drop GUI designer and the NetvioGo iOS / Android / Windows control app, and is designed for plug-and-play deployment by professional AV integrators.</p>",
+      "Brand": "netvio",
+      "Product Categories": "control-system,video",
+      "Product Tags": "touch-panel",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Screen Size</td><td>13.3\u2033 capacitive touchscreen</td></tr><tr><td>Resolution</td><td>1280 \u00d7 800 (16:10 aspect ratio)</td></tr><tr><td>Brightness</td><td>300 cd/m\u00b2</td></tr><tr><td>Contrast Ratio</td><td>1500:1</td></tr><tr><td>Viewing Angle</td><td>178\u00b0 (H/V)</td></tr><tr><td>Processor</td><td>ARM Quad-Core</td></tr><tr><td>Operating System</td><td>Android 12 (Android Powered)</td></tr><tr><td>Open Architecture</td><td>Supports third-party Android applications</td></tr><tr><td>Network</td><td>Gigabit Ethernet (PoE+)</td></tr><tr><td>Wireless</td><td>Dual-band Wi-Fi</td></tr><tr><td>USB</td><td>Type-C service port (optional use)</td></tr><tr><td>PoE+</td><td>IEEE 802.3at compliant</td></tr><tr><td>External PSU</td><td>12V DC adapter (included)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/cc1bbf_d0c5e5d00a614d54b153e5b9266101ba~mv2.png",
+      "Gallery_vendor_urls": [
+        "https://static.wixstatic.com/media/cc1bbf_d0c5e5d00a614d54b153e5b9266101ba~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_ca82bd97d35945168e5ba9a32fd433bc~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_9e68cbcba2db45c18e7ed7d532381b52~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_6dbf5655ed6249e1a929f180f8ea6600~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_28abc4e50a314aa7b89e3851e481f2fb~mv2.png",
+        "https://static.wixstatic.com/media/cc1bbf_278ab7e56f2f40ac9a9147c429803f81~mv2.png"
+      ],
+      "Specsheet_vendor_url": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "ex-hc48-10",
+      "fields": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "note": "No product page found on netvio.io for this slug. The EX-HC* series (HDMI Copper passive cables/extenders) was a legacy / OEM line that is no longer listed in the current netvio.io catalog or sitemap; no vendor specsheet is published."
+    },
+    {
+      "slug": "ex-hc24-d-30",
+      "fields": [
+        "Specsheet"
+      ],
+      "note": "No product page found on netvio.io for this slug. The EX-HC* series (HDMI Copper passive cables/extenders) was a legacy / OEM line that is no longer listed in the current netvio.io catalog or sitemap; no vendor specsheet is published."
+    },
+    {
+      "slug": "ex-hc24-20",
+      "fields": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "note": "No product page found on netvio.io for this slug. The EX-HC* series (HDMI Copper passive cables/extenders) was a legacy / OEM line that is no longer listed in the current netvio.io catalog or sitemap; no vendor specsheet is published."
+    },
+    {
+      "slug": "netvio-software",
+      "fields": [
+        "Specsheet"
+      ],
+      "note": "The 'Netvio Software' aggregate product corresponds to the /products/software category page on netvio.io, which is a category landing and has no dedicated PDF specsheet. Per-app PDFs/links live on the individual sub-pages (netvio360, netviogo, appbuilder) and are populated as separate new products."
+    }
+  ]
+}

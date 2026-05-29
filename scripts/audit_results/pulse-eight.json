@@ -1,0 +1,185 @@
+{
+  "brand_slug": "pulse-eight",
+  "existing_updates": [
+    {
+      "slug": "proaudio-16",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/Download/Get/137",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Inputs</td><td>16x Stereo L/R, 16x Optical, 16x Digital Coax</td></tr><tr><td>Outputs</td><td>16x Stereo L/R, 16x Digital Coax, Doorbell/Paging connector</td></tr><tr><td>Audio formats</td><td>PCM, DD5.1, DTS (multichannel modes pass-through only)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Volume / gain</td><td>-20 dB to +20 dB in 0.5 dB steps (gain +24 to -99.5 dB)</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>50-300 Hz crossover, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4 (OS2/OS3), Crestron, Elan, RTI, Savant</td></tr><tr><td>Dimensions</td><td>440 x 80 x 220 mm (2U)</td></tr><tr><td>Weight</td><td>2 kg (4.41 lbs)</td></tr><tr><td>Operating temp</td><td>0 to +35 degC</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>"
+    },
+    {
+      "slug": "proaudio-1632",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/p/211/proaudio-1632",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Inputs</td><td>16x Stereo L/R, 8x Optical, 16x Digital Coax (40 audio inputs total)</td></tr><tr><td>Outputs</td><td>32x Stereo L/R, 32x Digital Coax, 12x 12 V triggers, Doorbell/Paging</td></tr><tr><td>Audio formats</td><td>PCM, DD5.1, DTS (multichannel modes pass-through only)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Volume</td><td>-20 dB to +20 dB in 0.5 dB steps</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>Yes, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4 (OS2/OS3), Crestron, Elan, RTI, Savant</td></tr><tr><td>Dimensions</td><td>440 x 220 x 250 mm (5U)</td></tr><tr><td>Weight</td><td>3.7 kg</td></tr><tr><td>Power</td><td>12 V / 60 W</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr></tbody></table>"
+    },
+    {
+      "slug": "proaudio-8",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/p/215/proaudio-8",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Inputs</td><td>8x Stereo L/R, 8x Optical, 8x Digital Coax (24 audio inputs total)</td></tr><tr><td>Outputs</td><td>8x Stereo L/R, 8x Digital Coax, Doorbell/Paging connector</td></tr><tr><td>Audio formats</td><td>PCM, DD5.1, DTS (multichannel modes pass-through only)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Volume</td><td>-20 dB to +20 dB in 0.5 dB steps</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>Yes, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232</td></tr><tr><td>Dimensions</td><td>440 x 80 x 220 mm (2U)</td></tr><tr><td>Weight</td><td>2 kg (4.41 lbs)</td></tr><tr><td>Operating temp</td><td>0 to +35 degC</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr></tbody></table>"
+    },
+    {
+      "slug": "proaudio-16-rs",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/Download/GetFile/127"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "proaudio-32",
+      "Title": "ProAudio 32",
+      "Sub Title": "32-zone DSP pre-amp audio matrix",
+      "Product Description": "<p>The Pulse-Eight ProAudio 32 is a 32-zone DSP pre-amp audio matrix designed for large whole-home and light-commercial multi-room installs. Each of the 32 outputs is delivered as both stereo analogue and digital coax, enabling distribution to amplifiers, active speakers or downstream zone amplifiers without forcing the integrator to choose a single output type at design time. Every zone benefits from a 5-band parametric equaliser, lip-sync delay, subwoofer control, gain trim and zone-locking, and the matrix integrates with Control4, Crestron, Elan, RTI and Savant via TCP/IP or RS232. Pulse-Eight pairs it with their dealer-installer programme and a 5-year warranty, making it a long-term backbone for installs that have outgrown an 8 or 16 zone matrix.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Output zones</td><td>32 (stereo L/R + digital coax)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>Yes, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/212/proaudio-32",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "audio",
+      "Product Tags": "matrix",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/p/212/proaudio-32"
+    },
+    {
+      "slug": "proaudio-3248",
+      "Title": "ProAudio 3248",
+      "Sub Title": "32-zone DSP audio matrix with 48 inputs",
+      "Product Description": "<p>The Pulse-Eight ProAudio 3248 is the high-input variant of the ProAudio 32 platform, pairing 32 fully featured output zones with 48 audio inputs so dealers can wire up every source in a large residential or light-commercial system without daisy-chaining external switchers. Inputs span stereo analogue, optical and digital coax, while every output is delivered as both analogue and digital coax to interface with any downstream amplifier or active speaker. Per-zone DSP includes a 5-band parametric EQ, lip-sync delay, subwoofer control and gain trim, all driven over TCP/IP or RS232 from Control4, Crestron, Elan, RTI or Savant. Pulse-Eight backs the matrix with a 5-year warranty and sells exclusively through approved integrators.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Inputs</td><td>48 audio inputs (stereo L/R, optical, digital coax)</td></tr><tr><td>Output zones</td><td>32 (stereo L/R + digital coax)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>Yes, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/213/proaudio-3248",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "audio",
+      "Product Tags": "matrix",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/p/213/proaudio-3248"
+    },
+    {
+      "slug": "proaudio-3264",
+      "Title": "ProAudio 3264",
+      "Sub Title": "32-zone DSP audio matrix with 64 inputs",
+      "Product Description": "<p>The Pulse-Eight ProAudio 3264 is the largest matrix in the ProAudio range, combining 32 fully featured zone outputs with 64 audio inputs for very large multi-source residential or light-commercial installations. Like the rest of the family, every output is provided as both stereo analogue and digital coax, and every zone offers a 5-band parametric EQ, lip-sync delay, subwoofer control, gain trim and zone-locking. The matrix is driven by TCP/IP or RS232 and integrates with Control4, Crestron, Elan, RTI and Savant, allowing dealers to add the ProAudio 3264 as the central audio backbone of a large project alongside Pulse-Eight's neo video matrices and ProAmp8 amplifiers. It ships only through approved integrators and is backed by a 5-year warranty.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Inputs</td><td>64 audio inputs (stereo L/R, optical, digital coax)</td></tr><tr><td>Output zones</td><td>32 (stereo L/R + digital coax)</td></tr><tr><td>Equaliser</td><td>5-band EQ per zone</td></tr><tr><td>Lip-sync delay</td><td>Up to 170 ms per zone</td></tr><tr><td>Subwoofer control</td><td>Yes, per zone</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr><tr><td>Certifications</td><td>UKCA, CE, FCC, RoHS</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/241/proaudio-3264",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "audio",
+      "Product Tags": "matrix",
+      "Specsheet_vendor_url": "https://www.pulse-eight.com/p/241/proaudio-3264"
+    },
+    {
+      "slug": "proamp8",
+      "Title": "ProAmp8",
+      "Sub Title": "8-zone Class-D amplifier with DSP",
+      "Product Description": "<p>The Pulse-Eight ProAmp8 is an 8-zone Class-D power amplifier intended to pair directly with the ProAudio matrix range. It combines distributed-audio amplification with full DSP and EQ per zone, plus a Multi-Zone Mode that lets dealers run a Dolby Digital 5.1 home-theatre channel set alongside multi-room background music from a single chassis. The compact rack-mount design slots cleanly into a Pulse-Eight rack alongside the ProAudio matrices and neo video matrices, and the amplifier is controlled over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant. Sold exclusively through approved Pulse-Eight integrators, the ProAmp8 is the all-in-one amplification option for projects that don't want to specify separate cinema and distributed-audio amplifiers.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Channels</td><td>8 zones</td></tr><tr><td>Amplifier class</td><td>Class D</td></tr><tr><td>DSP / EQ</td><td>Full DSP and EQ per zone</td></tr><tr><td>Modes</td><td>Multi-zone background audio, Dolby Digital 5.1 home theatre</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/219/proamp-8",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "audio",
+      "Product Tags": "amplifier"
+    },
+    {
+      "slug": "neo-xsr",
+      "Title": "neo:XSR",
+      "Sub Title": "6x6 4K HDMI/HDBaseT video matrix",
+      "Product Description": "<p>The Pulse-Eight neo:XSR is a 6x6 HDMI/HDBaseT video matrix designed to route up to six 4K UHD source devices to multiple display zones across a residential or light-commercial project. It carries six HDMI inputs, four HDBaseT outputs and two HDMI outputs alongside six independent audio output zones with optical and digital coax breakout, so installers can mirror the video routing into an external audio matrix or amplifier without extra hardware. The matrix supports HDMI 2.0 with the latest HDCP versions and is driven over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant. It is sold exclusively through Pulse-Eight's approved integrator network and is intended as the video backbone for the same projects that use a ProAudio matrix for audio distribution.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Configuration</td><td>6 HDMI in, 4 HDBaseT out, 2 HDMI out</td></tr><tr><td>Resolution</td><td>4K UHD HDMI 2.0a/b, HDCP 2.3</td></tr><tr><td>Audio zones</td><td>6 (optical + digital coax)</td></tr><tr><td>Bandwidth</td><td>10.2 Gbps</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/245/neo-xsr",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "matrix"
+    },
+    {
+      "slug": "neo-x-plus",
+      "Title": "neo:X+ Video & Audio Matrix",
+      "Sub Title": "Combined 4K video and audio distribution matrix",
+      "Product Description": "<p>The Pulse-Eight neo:X+ is a combined video and audio matrix designed for installations that want a single chassis to handle both 4K HDMI/HDBaseT distribution and multi-zone audio. It carries the same HDBaseT routing pedigree as the rest of the neo range and adds independent audio output zones for distributed audio, so a dealer can ship one rack-mount unit instead of pairing a video matrix with a separate ProAudio matrix on smaller projects. The unit is controlled over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant, making it a drop-in centrepiece for premium custom-install AV systems. It is sold only through approved Pulse-Eight integrators and is positioned for residential and light-commercial projects where rack space and budget for two separate matrices are both tight.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Combined HDMI/HDBaseT video matrix + audio matrix</td></tr><tr><td>Resolution</td><td>4K UHD HDMI 2.0, HDCP 2.x</td></tr><tr><td>Audio zones</td><td>Independent zone outputs (analogue + digital coax)</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/214/neox",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video,audio",
+      "Product Tags": "matrix"
+    },
+    {
+      "slug": "neo-6a",
+      "Title": "neo:6a",
+      "Sub Title": "6x10 4K HDMI/HDBaseT matrix with audio breakout",
+      "Product Description": "<p>The Pulse-Eight neo:6a is a 6x10 HDMI/HDBaseT video matrix with built-in audio breakout, aimed at residential and light-commercial installations that need more output zones than a 6x6 matrix can offer. Six HDMI inputs route to six HDBaseT outputs plus two HDMI outputs, with six independent audio output zones for breakout into an audio matrix or amplifier. The matrix supports HDMI 2.0 a/b, HDCP 2.3 and 10.2 Gbps of bandwidth, and is driven over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant. Pulse-Eight pairs it with their full neo extender ecosystem (neo:Lite, neo:Pro and neo:Ultra receivers) and sells it exclusively through approved integrators.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Configuration</td><td>6 HDMI in, 6 HDBaseT out, 2 HDMI out</td></tr><tr><td>Resolution</td><td>4K UHD HDMI 2.0a/b, HDCP 2.3</td></tr><tr><td>Bandwidth</td><td>10.2 Gbps</td></tr><tr><td>Audio zones</td><td>6 audio breakout zones</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/230/neo6a",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "matrix"
+    },
+    {
+      "slug": "neo-8a",
+      "Title": "neo:8a",
+      "Sub Title": "8-input 4K HDMI/HDBaseT video matrix",
+      "Product Description": "<p>The Pulse-Eight neo:8a is the 8-input member of the neo HDBaseT matrix family, intended for installations that have outgrown the 6-input neo:6a but don't need a modular chassis. Eight HDMI inputs feed HDBaseT outputs that can drive flat-panel and projector displays anywhere in the building, with audio breakout zones available to feed an external audio matrix or amplifier. The matrix supports 4K UHD HDMI 2.0 and the latest HDCP versions and is driven over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant. It pairs with the rest of the neo ecosystem including the neo:Lite, neo:Pro and neo:Ultra HDBaseT extender sets, and is sold exclusively through approved Pulse-Eight integrators.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Configuration</td><td>8 HDMI inputs to HDBaseT and HDMI outputs</td></tr><tr><td>Resolution</td><td>4K UHD HDMI 2.0, HDCP 2.x</td></tr><tr><td>Audio</td><td>Audio breakout zones for external matrix/amplifier</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/216/neo8a",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "matrix"
+    },
+    {
+      "slug": "neo-4",
+      "Title": "neo:4",
+      "Sub Title": "4K HDBaseT video matrix with PoH receivers",
+      "Product Description": "<p>The Pulse-Eight neo:4 is the entry point to the neo HDBaseT matrix family, designed for smaller multi-room projects that still need true HDBaseT extension. The matrix supports 4K HDMI distribution to HDBaseT receivers and ships with Power-over-HDBaseT so the receivers don't need local power supplies at each display - useful for in-wall and behind-display installs where a power outlet is awkward. Like the rest of the neo line it is driven over TCP/IP and RS232 with native drivers for Control4, Crestron, Elan, RTI and Savant, and integrates cleanly with the Pulse-Eight ProAudio matrices for the audio side of the system. It is sold only through approved Pulse-Eight integrators.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>HDBaseT video matrix with PoH receivers</td></tr><tr><td>Resolution</td><td>4K UHD HDMI</td></tr><tr><td>Power</td><td>Power-over-HDBaseT to receivers</td></tr><tr><td>Control</td><td>TCP/IP, RS232; Control4, Crestron, Elan, RTI, Savant</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/155/neo4-hdbaset-video-matrix-with-poh-receivers",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "matrix"
+    },
+    {
+      "slug": "neo-lite-extender-set",
+      "Title": "neo:Lite HDMI Extender Set",
+      "Sub Title": "Compact 4K HDBaseT extender set",
+      "Product Description": "<p>The Pulse-Eight neo:Lite is a compact 4K HDBaseT extender set that transmits HDMI over a single Cat5e/6/7 cable - 4K up to 40 metres and 1080p up to 70 metres. It supports HDMI 2.0a timings including High Dynamic Range with BT.709 colourspace, plus Power-over-HDBaseT so a single PoH-capable end can power both transmitter and receiver and bi-directional IR for source control. It's designed as the affordable point-to-point extender to pair with Pulse-Eight's neo HDBaseT matrices when an installer just needs to drop a source somewhere a flush HDMI run won't reach. Sold exclusively through Pulse-Eight's approved integrator channel.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Distance</td><td>4K up to 40 m / 1080p up to 70 m over Cat5e/6/7</td></tr><tr><td>Video</td><td>HDMI 2.0a, HDR, BT.709 colourspace</td></tr><tr><td>Power</td><td>Power-over-HDBaseT (PoH)</td></tr><tr><td>Control</td><td>Bi-directional IR</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/185/neolite-hdmi-extender-set",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "extender"
+    },
+    {
+      "slug": "neo-pro-extender-set",
+      "Title": "neo:Pro HDMI Extender Set",
+      "Sub Title": "Slim 4K HDBaseT extender set with HDCP 2.2 and CEC",
+      "Product Description": "<p>The Pulse-Eight neo:Pro is the integrator-favourite HDBaseT extender set in the neo range, housed in an ultra-thin 13 mm enclosure so it can be hidden behind a display or in a shallow wall void without the bulge of a traditional extender. It extends 4K up to 70 metres and 1080p up to 100 metres over a single Cat5e/6/7 cable, and supports HDCP 1.4 and 2.2, Ethernet pass-through, Power-over-HDBaseT and HDMI-CEC control. That makes it a tidy pairing for any of the Pulse-Eight neo HDBaseT matrices when a project needs flush, invisible installation and full 4K HDR HDCP 2.2 source support. Sold exclusively through Pulse-Eight's approved integrator channel.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Distance</td><td>4K up to 70 m / 1080p up to 100 m over Cat5e/6/7</td></tr><tr><td>Enclosure</td><td>Ultra-thin 13 mm</td></tr><tr><td>Content protection</td><td>HDCP 1.4 and 2.2</td></tr><tr><td>Power</td><td>Power-over-HDBaseT (PoH)</td></tr><tr><td>Other</td><td>Ethernet pass-through, HDMI-CEC, bi-directional IR</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/176/neopro-hdmi-extender-set",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "extender"
+    },
+    {
+      "slug": "neo-ultra-extender-set",
+      "Title": "neo:Ultra HDMI Extender Set",
+      "Sub Title": "100 m 4K HDBaseT extender with DSC and ARC",
+      "Product Description": "<p>The Pulse-Eight neo:Ultra is the long-reach member of the neo HDBaseT extender family, pushing 1080p and 4K up to 100 metres each over a single Cat5e/6/7 cable. It uses Display Stream Compression to maintain full 4K performance at distance and supports HDCP 1.4 and 2.2, Ethernet pass-through and Power-over-HDBaseT, with the same ultra-thin 13 mm enclosure as the rest of the neo extender line. ARC (Audio Return Channel), RS232 and 10/100 Ethernet pass-through round out the feature set, making the neo:Ultra a complete point-to-point solution for installations where a display is at the far end of a long cable run. Sold exclusively through Pulse-Eight's approved integrator channel.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Distance</td><td>4K up to 100 m / 1080p up to 100 m over Cat5e/6/7</td></tr><tr><td>Compression</td><td>DSC (Display Stream Compression)</td></tr><tr><td>Content protection</td><td>HDCP 1.4 and 2.2</td></tr><tr><td>Power</td><td>Power-over-HDBaseT (PoH)</td></tr><tr><td>Other</td><td>ARC, RS232, 10/100 Ethernet pass-through, bi-directional IR</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://www.pulse-eight.com/p/203/neoultra-hdmi-extender-set",
+      "Gallery_vendor_urls": [],
+      "Brand": "pulse-eight",
+      "Product Categories": "video",
+      "Product Tags": "extender"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "proaudio-8",
+      "fields": ["Specsheet"],
+      "note": "Pulse-Eight does not publish a standalone PDF spec sheet for ProAudio 8 on its website - all specs live on the product/specifications HTML page (https://www.pulse-eight.com/p/215/proaudio-8/specifications); the closest PDF is the ProAudio 16 datasheet at /Download/Get/137 which covers the same family."
+    },
+    {
+      "slug": "proaudio-1632",
+      "fields": ["Specsheet"],
+      "note": "Pulse-Eight does not host a standalone PDF spec sheet for ProAudio 1632 - specs live only on the HTML specifications page at https://www.pulse-eight.com/p/211/proaudio-1632/specifications."
+    }
+  ]
+}

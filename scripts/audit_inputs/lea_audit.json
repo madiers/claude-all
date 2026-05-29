@@ -1,0 +1,115 @@
+{
+  "brand": "lea",
+  "count": 11,
+  "products": [
+    {
+      "slug": "cs1504",
+      "title": "CS1504",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "cds354",
+      "title": "CDS354",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs64d",
+      "title": "CS64D",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs124",
+      "title": "CS124",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs352d",
+      "title": "CS352D",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs704",
+      "title": "CS704",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs1504-g",
+      "title": "CS1504-G",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs704d-g",
+      "title": "CS704D-G",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cds704",
+      "title": "CDS704",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs354",
+      "title": "CS354",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "cs168d",
+      "title": "CS168D",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "amplifier"
+    }
+  ]
+}

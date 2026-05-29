@@ -1,0 +1,45 @@
+{
+  "brand": "pulse-eight",
+  "count": 4,
+  "products": [
+    {
+      "slug": "proaudio-16",
+      "title": "ProAudio 16",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "proaudio-1632",
+      "title": "ProAudio 1632",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "proaudio-8",
+      "title": "ProAudio 8",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "proaudio-16-rs",
+      "title": "ProAudio 16 RS",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    }
+  ]
+}

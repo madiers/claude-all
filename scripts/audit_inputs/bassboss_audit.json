@@ -1,0 +1,171 @@
+{
+  "brand": "bassboss",
+  "count": 19,
+  "products": [
+    {
+      "slug": "sublim8",
+      "title": "Sublim8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,subwoofer"
+    },
+    {
+      "slug": "at212-mk3",
+      "title": "AT212-MK3",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "dj18s-mk3",
+      "title": "DJ18S-MK3",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "ssp118-mk3",
+      "title": "SSP118-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "diamon-mk3",
+      "title": "DiaMon-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sv9-mk3",
+      "title": "SV9-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "at312-mk3",
+      "title": "AT312-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ccm12-mk3",
+      "title": "CCM12-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "bb15-mk3",
+      "title": "BB15-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "vs21-mk3",
+      "title": "VS21-MK3",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "ssp218-mk3",
+      "title": "SSP218-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "ssp215-mk3",
+      "title": "SSP215-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "kraken-mk3",
+      "title": "Kraken-MK3",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "zv28-mk3",
+      "title": "ZV28-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "dv12-mk3",
+      "title": "DV12-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "c15i",
+      "title": "C15i",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "makara-mk3",
+      "title": "Makara-MK3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "krakatoa-quintuple-18-point-source-full-range",
+      "title": "KRAKATOA Quintuple 18\" Point Source Full Range",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "stackatoa",
+      "title": "Stackatoa",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker,subwoofer"
+    }
+  ]
+}

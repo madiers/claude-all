@@ -1,0 +1,279 @@
+{
+  "brand_slug": "fasttel",
+  "existing_updates": [
+    {
+      "slug": "ftbg2403skip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2403SKIP (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>3 push buttons, no camera, with keypad</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL bronze frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Audio</td><td>Powerful loudspeaker with multi-step volume; sensitive protected microphone</td></tr><tr><td>Keypad relays</td><td>2 internal relays (controllable via keypad)</td></tr><tr><td>Network/SIP</td><td>IP / SIP, Wiegand output for external access control</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet) via FTPoE injector if needed</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera (MJPEG/RTSP), FTEKEY fingerprint reader, FTPROXI RFID reader</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg2401sip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2401SIP (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>1 push button, no camera, no keypad</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Audio</td><td>Powerful loudspeaker with multi-step volume; protected microphone</td></tr><tr><td>Network/SIP</td><td>IP / SIP doorphone, 2 SIP accounts simultaneously</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera, keypad upgrade, FTEKEY fingerprint reader, FTPROXI RFID</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft2501ip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_becf3167fc0a44368d6c0d8165a667ed.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT2501IP (Wizard Elite IP, Grey)</td></tr><tr><td>Configuration</td><td>1 push button, no camera, no keypad</td></tr><tr><td>Display</td><td>3 inch full-colour TFT (names, company logo and house number)</td></tr><tr><td>Push buttons</td><td>RGB illuminated, colour and intensity configurable</td></tr><tr><td>Small model total dimensions</td><td>134 x 144 mm</td></tr><tr><td>Flush-mount recess</td><td>134 x 124 x 51 mm (H x W x D)</td></tr><tr><td>Frame</td><td>Brushed aluminium; surface (FT25BUS) or flush (FT25BIS) mount</td></tr><tr><td>Front plate</td><td>5 mm tempered glass, 2x baked at high temperature</td></tr><tr><td>Anti-vandal</td><td>4 anti-vandalism screws</td></tr><tr><td>Buttons per push</td><td>Up to 10 numbers per button</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, bidirectional video capable</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera, FTPROXILIC RFID badge reader (ISO 14443A/MIFARE), FTEKEY fingerprint, FT4SWIP I/O</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg30cc-ftbg30ccdesk",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_86ec0248efc642969e73c6c06636d0e8.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Bundle</td><td>FTBG30CC indoor station + FTBG30CCDESK desktop base</td></tr><tr><td>Front plate</td><td>Bronze gold (matte) aluminium</td></tr><tr><td>Display</td><td>10 inch HD touchscreen, 1280 x 800</td></tr><tr><td>Operating system</td><td>Android 12 (Google Play Store, 3rd-party APKs)</td></tr><tr><td>Memory</td><td>4 GB RAM, 16 GB ROM</td></tr><tr><td>Audio</td><td>4x 8 ohm 2 W loudspeakers, 2x integrated microphones, adjustable volume</td></tr><tr><td>Connectivity</td><td>WiFi 6 (802.11 a/b/g/n/ac/ax), Bluetooth, 100 Mbps LAN with PoE</td></tr><tr><td>Cameras supported</td><td>Up to 50 external IP cameras, single or quad view (RTSP/ONVIF)</td></tr><tr><td>Wall-mount dimensions</td><td>165 x 278 x 12 mm (H x W x D)</td></tr><tr><td>Desktop dimensions (with FTBG30CCDESK base)</td><td>180 x 278 x 140 mm (H x W x D); ~1.5 kg copper base</td></tr><tr><td>Power</td><td>PoE or 12 V DC (optional FT600WPS PoE injector)</td></tr><tr><td>Integration</td><td>Integrated SIP server, third-party IP cameras, voice assistant</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg2402sip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2402SIP (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>2 push buttons, no camera, no keypad</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume) and protected microphone</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, 2 simultaneous SIP accounts</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera, keypad upgrade, FTEKEY fingerprint, FTPROXI RFID</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg2402skip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2402SKIP (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>2 push buttons, no camera, with keypad</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Keypad relays</td><td>2 internal relays controllable from the keypad</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume) and protected microphone</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant; Wiegand output to external access control</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera, FTEKEY fingerprint, FTPROXI RFID</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft600sip-3",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_b189f49773b24bf58d49df509301aa5a.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT600SIP-3 (Doorphone Entry IP, large form factor)</td></tr><tr><td>Configuration</td><td>2 push buttons, no camera, no keypad (the -3 size frame)</td></tr><tr><td>Frame</td><td>Black anodised brushed aluminium with tempered glass front</td></tr><tr><td>Total dimensions</td><td>305 x 105 x 30 mm (H x W x D)</td></tr><tr><td>Flush-mount recess</td><td>301 x 101 x 30 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface or flush with the same FT600BUS frame</td></tr><tr><td>Audio</td><td>Powerful loudspeaker, multi-step volume; microphone independent of speaker</td></tr><tr><td>Network/SIP</td><td>IP intercom, 2 simultaneous SIP accounts (cloud + local PBX)</td></tr><tr><td>Power</td><td>PoE (FT600HW hollow-wall accessory available)</td></tr><tr><td>Anti-vandal</td><td>4 anti-vandal screws</td></tr><tr><td>Optional add-ons</td><td>140 deg HD camera (FT600SIPVC variant), keypad (FT600KSIP), FT600VK kits</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg30cc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_86ec0248efc642969e73c6c06636d0e8.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG30CC (Commander indoor station, bronze gold)</td></tr><tr><td>Front plate</td><td>Bronze gold (matte) aluminium</td></tr><tr><td>Display</td><td>10 inch HD touchscreen, 1280 x 800</td></tr><tr><td>Operating system</td><td>Android 12 (Google Play Store, 3rd-party APKs)</td></tr><tr><td>Memory</td><td>4 GB RAM, 16 GB ROM</td></tr><tr><td>Audio</td><td>4x 8 ohm 2 W loudspeakers, 2x integrated microphones, adjustable volume</td></tr><tr><td>Connectivity</td><td>WiFi 6 (802.11 a/b/g/n/ac/ax), Bluetooth, 100 Mbps LAN with PoE</td></tr><tr><td>Cameras supported</td><td>Up to 50 external IP cameras, single or quad view (RTSP/ONVIF)</td></tr><tr><td>Wall-mount dimensions</td><td>165 x 278 x 12 mm (H x W x D)</td></tr><tr><td>Power</td><td>PoE or 12 V DC (optional FT600WPS PoE injector)</td></tr><tr><td>Integration</td><td>Integrated SIP server, third-party IP cameras, voice assistance</td></tr></tbody></table>"
+    },
+    {
+      "slug": "db9701ip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_becf3167fc0a44368d6c0d8165a667ed.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>DB9701IP (Wizard Elite IP, Grey, legacy DB97xx designation)</td></tr><tr><td>Configuration</td><td>1 push button, no camera, no keypad</td></tr><tr><td>Display</td><td>3 inch full-colour TFT (names, logo, house number)</td></tr><tr><td>Push buttons</td><td>RGB illuminated, colour and intensity configurable</td></tr><tr><td>Small model total dimensions</td><td>134 x 144 mm</td></tr><tr><td>Flush-mount recess</td><td>134 x 124 x 51 mm (H x W x D)</td></tr><tr><td>Frame</td><td>Brushed aluminium; surface (FT25BUS) or flush (FT25BIS) mount</td></tr><tr><td>Front plate</td><td>5 mm tempered glass, 2x baked at high temperature</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, bidirectional video capable</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>160 deg colour camera, FTPROXILIC RFID badge reader (ISO 14443A/MIFARE), FTEKEY fingerprint, FT4SWIP I/O</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft2501ipvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_becf3167fc0a44368d6c0d8165a667ed.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT2501IPVC (Wizard Elite IP, Grey)</td></tr><tr><td>Configuration</td><td>1 push button, with integrated colour camera, no keypad</td></tr><tr><td>Camera</td><td>160 deg integrated colour camera; light-sensor B/W night mode</td></tr><tr><td>Display</td><td>3 inch full-colour TFT</td></tr><tr><td>Push buttons</td><td>RGB illuminated, colour and intensity configurable</td></tr><tr><td>Small model total dimensions</td><td>134 x 144 mm</td></tr><tr><td>Flush-mount recess</td><td>134 x 124 x 51 mm (H x W x D)</td></tr><tr><td>Frame</td><td>Brushed aluminium; surface (FT25BUS) or flush (FT25BIS) mount</td></tr><tr><td>Front plate</td><td>5 mm tempered glass, 2x baked at high temperature</td></tr><tr><td>Anti-vandal</td><td>4 anti-vandalism screws</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, MJPEG/RTSP video; bidirectional video</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>FTPROXILIC RFID badge reader, FTEKEY fingerprint, FT4SWIP I/O</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft30cc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_86ec0248efc642969e73c6c06636d0e8.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT30CC (Commander indoor station)</td></tr><tr><td>Front plate</td><td>Black anodised aluminium with anti-fingerprint soft-touch coating</td></tr><tr><td>Display</td><td>10 inch HD touchscreen, 1280 x 800</td></tr><tr><td>Operating system</td><td>Android 12 (Google Play Store, 3rd-party APKs)</td></tr><tr><td>Memory</td><td>4 GB RAM, 16 GB ROM</td></tr><tr><td>Audio</td><td>4x 8 ohm 2 W loudspeakers, 2x integrated microphones, adjustable volume</td></tr><tr><td>Connectivity</td><td>WiFi 6 (802.11 a/b/g/n/ac/ax), Bluetooth, 100 Mbps LAN with PoE</td></tr><tr><td>Cameras supported</td><td>Up to 50 external IP cameras, single or quad view (RTSP/ONVIF)</td></tr><tr><td>Wall-mount dimensions</td><td>165 x 278 x 12 mm (H x W x D)</td></tr><tr><td>Power</td><td>PoE or 12 V DC (optional FT600WPS PoE injector)</td></tr><tr><td>Integration</td><td>Integrated SIP server, third-party IP cameras, voice assistance, alarm clock</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft600ksip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_b189f49773b24bf58d49df509301aa5a.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT600KSIP (Doorphone Entry IP)</td></tr><tr><td>Configuration</td><td>1 push button, with keypad, no camera</td></tr><tr><td>Frame</td><td>Black anodised brushed aluminium with tempered glass front</td></tr><tr><td>Total dimensions</td><td>216 x 116 x 33 mm (H x W x D), surface mount</td></tr><tr><td>Flush-mount recess</td><td>212 x 112 x 30 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface or flush using a single FT600BUS frame</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume); microphone volume independent</td></tr><tr><td>Keypad relays</td><td>2 internal relays controllable from the keypad</td></tr><tr><td>Network/SIP</td><td>IP intercom, SIP-compliant, 2 simultaneous SIP accounts; PCMU/PCMA/G.711/G.722/G.729 codecs; RTSP/ONVIF/MJPEG</td></tr><tr><td>Other interfaces</td><td>RS485, Wiegand output, tamper alarm</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Environmental</td><td>IP65 weather rating</td></tr><tr><td>Anti-vandal</td><td>4 anti-vandal screws</td></tr><tr><td>Optional add-ons</td><td>140 deg HD camera (FT600KSIPVC variant), FT600W 7-inch monitor, FT600VK kits</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg2403skipvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf"
+    },
+    {
+      "slug": "ftbr30cc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_86ec0248efc642969e73c6c06636d0e8.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBR30CC (Commander indoor station, bronze rustic)</td></tr><tr><td>Front plate</td><td>Bronze rustic (hand-finished) aluminium</td></tr><tr><td>Display</td><td>10 inch HD touchscreen, 1280 x 800</td></tr><tr><td>Operating system</td><td>Android 12 (Google Play Store, 3rd-party APKs)</td></tr><tr><td>Memory</td><td>4 GB RAM, 16 GB ROM</td></tr><tr><td>Audio</td><td>4x 8 ohm 2 W loudspeakers, 2x integrated microphones, adjustable volume</td></tr><tr><td>Connectivity</td><td>WiFi 6 (802.11 a/b/g/n/ac/ax), Bluetooth, 100 Mbps LAN with PoE</td></tr><tr><td>Cameras supported</td><td>Up to 50 external IP cameras, single or quad view (RTSP/ONVIF)</td></tr><tr><td>Wall-mount dimensions</td><td>165 x 278 x 12 mm (H x W x D)</td></tr><tr><td>Power</td><td>PoE or 12 V DC (optional FT600WPS PoE injector)</td></tr><tr><td>Integration</td><td>Integrated SIP server, third-party IP cameras, voice assistance</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft2520kvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_96a34c0070774f6199bfa7528916f355.pdf"
+    },
+    {
+      "slug": "ftbg2403sipvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2403SIPVC (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>3 push buttons, with integrated colour camera, no keypad</td></tr><tr><td>Camera</td><td>160 deg colour camera (MJPEG/RTSP), light-sensor night mode</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume) and protected microphone</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, 2 simultaneous SIP accounts; bidirectional video</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>FTEKEY fingerprint, FTPROXI RFID, FT4SWIP I/O</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft600ksipvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_b189f49773b24bf58d49df509301aa5a.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FT600KSIPVC (Doorphone Entry IP)</td></tr><tr><td>Configuration</td><td>1 push button, with keypad, with colour camera</td></tr><tr><td>Camera</td><td>140 deg HD colour camera; light-sensor B/W night mode</td></tr><tr><td>Frame</td><td>Black anodised brushed aluminium with tempered glass front</td></tr><tr><td>Total dimensions</td><td>216 x 116 x 33 mm (H x W x D), surface mount</td></tr><tr><td>Flush-mount recess</td><td>212 x 112 x 30 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface or flush using a single FT600BUS frame</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume); microphone volume independent</td></tr><tr><td>Keypad relays</td><td>2 internal relays controllable from the keypad</td></tr><tr><td>Network/SIP</td><td>IP intercom, SIP-compliant, 2 simultaneous SIP accounts; PCMU/PCMA/G.711/G.722/G.729 codecs; RTSP/ONVIF/MJPEG video</td></tr><tr><td>Other interfaces</td><td>RS485, Wiegand output, tamper alarm</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Environmental</td><td>IP65 weather rating</td></tr><tr><td>Anti-vandal</td><td>4 anti-vandal screws</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ft2503kip",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_becf3167fc0a44368d6c0d8165a667ed.pdf"
+    },
+    {
+      "slug": "ftb2520",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_96a34c0070774f6199bfa7528916f355.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTB2520 (Wizard Apartment, large frame)</td></tr><tr><td>Configuration</td><td>No camera, no keypad</td></tr><tr><td>Display</td><td>Scrollable resident-name list (LCD), customisable from anywhere via cloud</td></tr><tr><td>Capacity</td><td>Up to 999 apartments / SIP destinations</td></tr><tr><td>Frame</td><td>Brushed aluminium; RGB-illuminated frame, customisable colour</td></tr><tr><td>Reader</td><td>Integrated Wiegand / proximity (RFID) reader for residents</td></tr><tr><td>Network/SIP</td><td>IP, SIP/VoIP compatible; integrates with FT600W and FT30CC indoor stations</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>Integrated camera (FTB2520VC), keypad (FTB2520K), camera + keypad (FTB2520KVC)</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ftbg2402sipvc",
+      "Specsheet_vendor_url": "https://www.galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "door-phone",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Model</td><td>FTBG2402SIPVC (Wizard Bronze IP, Gold finish, Small)</td></tr><tr><td>Configuration</td><td>2 push buttons, with integrated colour camera, no keypad</td></tr><tr><td>Camera</td><td>160 deg colour camera (MJPEG/RTSP), light-sensor night mode</td></tr><tr><td>Housing</td><td>Solid copper with bronze gold (matte) finish</td></tr><tr><td>Small model total dimensions</td><td>354 x 150 mm</td></tr><tr><td>Flush-mount recess</td><td>332 x 134 x 51 mm (H x W x D)</td></tr><tr><td>Mounting</td><td>Surface (FT24BUL frame) or flush (FT25BIL)</td></tr><tr><td>Buttons per push</td><td>Up to 10 phone numbers programmable per button</td></tr><tr><td>Audio</td><td>Powerful loudspeaker (multi-step volume) and protected microphone</td></tr><tr><td>Network/SIP</td><td>IP, SIP-compliant, 2 simultaneous SIP accounts; bidirectional video</td></tr><tr><td>Power</td><td>PoE (Power over Ethernet)</td></tr><tr><td>Optional add-ons</td><td>Keypad upgrade, FTEKEY fingerprint, FTPROXI RFID, FT4SWIP I/O</td></tr></tbody></table>"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "ft800vc",
+      "Title": "FT800VC",
+      "Sub Title": "Wizard Prestige IP doorphone with 4-inch HD touchscreen, 5-in-1 access control",
+      "Product Description": "<p>The FT800VC is Fasttel's flagship Wizard Prestige IP video doorphone, built in Belgium for residential and commercial entrances that demand a premium outdoor unit. It pairs a 4-inch HD colour touchscreen with five built-in access methods (facial recognition, QR code, NFC/MIFARE badge, PIN code and Bluetooth) so visitors and residents have a smooth, contactless experience at the gate. The black anodised aluminium body integrates a 160-degree HD colour camera with day/night switching, a powerful adjustable loudspeaker and a protected microphone, with 2 internal relays for gate and door control. Bidirectional video, SIP and Fasttel's cloud platform (Fasttelphone app) are supported out of the box, and the same frame accepts both flush and surface mounting. The Small variant measures 280 x 124 x 38 mm; a Large variant (FT800VC-L) is also available for installations that need more buttons or a wider plate.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Display</td><td>4 inch HD touchscreen</td></tr><tr><td>Access methods (5-in-1)</td><td>Facial recognition, QR code, NFC/MIFARE badge, PIN, Bluetooth</td></tr><tr><td>Camera</td><td>160 deg HD colour with day/night switching</td></tr><tr><td>Audio</td><td>Adjustable loudspeaker and protected microphone</td></tr><tr><td>Relays</td><td>2 internal relays; expandable via FT4SWIP</td></tr><tr><td>Frame / mounting</td><td>Black anodised aluminium; surface or flush with the same frame</td></tr><tr><td>Small dimensions</td><td>280 x 124 x 38 mm (H x W x D)</td></tr><tr><td>Network / SIP</td><td>IP, SIP-compliant, Fasttel cloud (Fasttelphone app), bidirectional video</td></tr><tr><td>Power</td><td>PoE (FTPoE injector available) or 12 V / 1 A DC</td></tr><tr><td>Optional</td><td>RAL custom colour, FTPAINT painting service, FTNAME nameplate, keypad and badge upgrades</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "door-phone",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/nl/tech/FT800/FT800(K)VC_NL_1.2.pdf"
+    },
+    {
+      "slug": "ft800kvc",
+      "Title": "FT800KVC",
+      "Sub Title": "Wizard Prestige IP doorphone with integrated keypad and 5-in-1 access",
+      "Product Description": "<p>The FT800KVC is the keypad-equipped version of Fasttel's Wizard Prestige IP outdoor station. It combines a 4-inch HD colour touchscreen, a 160-degree HD camera and a physical PIN keypad inside a Belgian-built black anodised aluminium body, so installers get a single product that covers visitor calling, video, facial recognition, QR code, NFC, Bluetooth and code-based entry. Two internal relays drive gate and door locks (expandable to eight via FT4SWIP), and the unit registers simultaneously to a customer SIP server and to the Fasttel cloud so residents can be reached on intercom monitors, indoor 10-inch Commander panels and the Fasttelphone smartphone app. The frame supports both surface and flush mounting from the same housing, and the small variant measures 280 x 124 x 38 mm; FT800KVC-L provides a larger plate for projects that need additional buttons or signage.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Display</td><td>4 inch HD touchscreen</td></tr><tr><td>Keypad</td><td>Integrated PIN keypad</td></tr><tr><td>Access methods (5-in-1)</td><td>Facial recognition, QR code, NFC/MIFARE badge, PIN, Bluetooth</td></tr><tr><td>Camera</td><td>160 deg HD colour with day/night switching</td></tr><tr><td>Relays</td><td>2 internal; expandable via FT4SWIP</td></tr><tr><td>Frame / mounting</td><td>Black anodised aluminium; surface or flush with the same frame</td></tr><tr><td>Small dimensions</td><td>280 x 124 x 38 mm (H x W x D)</td></tr><tr><td>Network / SIP</td><td>IP, SIP, simultaneous local + Fasttel cloud (Fasttelphone app)</td></tr><tr><td>Power</td><td>PoE (FTPoE injector) or 12 V / 1 A DC</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "door-phone",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/nl/tech/FT800/FT800(K)VC_NL_1.2.pdf"
+    },
+    {
+      "slug": "ft600w",
+      "Title": "FT600W",
+      "Sub Title": "7-inch WiFi/PoE indoor video intercom monitor",
+      "Product Description": "<p>The FT600W is Fasttel's 7-inch indoor video intercom monitor, designed as a flexible companion to the Wizard outdoor stations (FT600 Entry, Wizard Bronze IP, Wizard Elite IP and Wizard Prestige FT800 ranges). The 800 x 480 capacitive touchscreen is housed in a slim 117 x 203 x 20 mm body that can be placed anywhere there is WiFi or a network drop. PoE is supported for single-cable installation, and a 12 V adapter is available where Ethernet is not present. The monitor speaks SIP to the outdoor stations, supports ONVIF and RTSP for third-party IP cameras, has one configurable relay output (NO/COM/NC), and can act as its own WiFi bridge and DHCP server in small installations. Optional accessories include the FT600BS table stand and the FT600WPS PoE power supply.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Display</td><td>7 inch capacitive touchscreen, 800 x 480</td></tr><tr><td>Dimensions</td><td>117 x 203 x 20 mm (H x W x D)</td></tr><tr><td>Network</td><td>100 Mbps LAN with PoE; WiFi 802.11n; can act as WiFi bridge</td></tr><tr><td>Power</td><td>PoE or 12 V DC adapter</td></tr><tr><td>Relays</td><td>1x NO/COM/NC</td></tr><tr><td>Protocols</td><td>SIP, RTSP, ONVIF; DHCP server capability</td></tr><tr><td>Optional accessories</td><td>FT600BS table stand, FT600WPS power supply</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "touch-panel",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/nl/tech/ft600w/FT600W.pdf"
+    },
+    {
+      "slug": "ft30ccdesk",
+      "Title": "FT30CCDESK",
+      "Sub Title": "Desktop base for the FT30CC Commander indoor station",
+      "Product Description": "<p>The FT30CCDESK is the desktop base accessory for Fasttel's FT30CC Commander 10-inch indoor station. It turns the wall-mount Commander into a portable desk unit by adding a ~1.5 kg copper base and routing the LAN/PoE or 12 V cable cleanly out the back, so the same touchscreen can be used as a kitchen counter or office desk intercom without permanent installation. When combined with the optional FT600WPS PoE injector the Commander can run from a standard wall outlet and connect over WiFi, making it a true plug-and-place solution for renters, hospitality projects or showroom displays. The desk base matches the FT30CC's black aluminium finish; bronze, white and matt variants of the same accessory (FTBG30CCDESK, FTW30CCDESK, FTBR30CCDESK, FTBM30CCDESK) are also available to match the corresponding Commander front plates.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Desktop base for FT30CC Commander</td></tr><tr><td>Material</td><td>Copper base, approximately 1.5 kg</td></tr><tr><td>Finish</td><td>Black to match FT30CC</td></tr><tr><td>Dimensions (with FT30CC)</td><td>180 x 278 x 140 mm (H x W x D)</td></tr><tr><td>Power</td><td>Compatible with PoE or 12 V; FT600WPS PoE injector recommended for outlet-only installs</td></tr><tr><td>Compatible models</td><td>FT30CC; variants: FTBG30CCDESK, FTW30CCDESK, FTBR30CCDESK, FTBM30CCDESK</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "install-kit",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/nl/tech/ft30cc/FT30CC_NL.pdf"
+    },
+    {
+      "slug": "ft600vk",
+      "Title": "FT600VK",
+      "Sub Title": "Plug-and-play IP video intercom kit with 7-inch monitor",
+      "Product Description": "<p>The FT600VK is Fasttel's plug-and-play IP video intercom kit, designed so a small home or office can be fully equipped from a single box. The package combines an FT600SIPVC outdoor station (single button, HD colour camera, black anodised aluminium with tempered glass), an FT600W 7-inch indoor monitor, a Fasttel PoE network switch (FT600SW) and four Fasttelphone smartphone app licences. Wiring is simplified by 100% PoE: a single Cat cable from the switch powers and networks each device, and the supplied outdoor station accepts both surface and flush installation from the same frame. The base FT600VK is the small 216 x 116 mm size; medium (FT600VK-M, 263 x 154 mm) and large (FT600VK-L, 349 x 154 mm) variants are also offered, along with FT600VK-10 versions that swap the 7-inch monitor for a 10-inch Android Commander panel.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Outdoor station</td><td>FT600SIPVC, 1 button, HD colour camera, black anodised aluminium + tempered glass</td></tr><tr><td>Outdoor station dimensions (Small)</td><td>216 x 116 x 31 mm (H x W x D)</td></tr><tr><td>Indoor monitor</td><td>FT600W, 7 inch, 800 x 480</td></tr><tr><td>Networking</td><td>FT600SW Fasttel PoE switch included</td></tr><tr><td>App licences</td><td>4x Fasttelphone smartphone licences</td></tr><tr><td>Mounting</td><td>Surface or flush from the same frame</td></tr><tr><td>Power</td><td>100% PoE (single cable per device)</td></tr><tr><td>Variants</td><td>FT600VK-M (medium), FT600VK-L (large), FT600VK-10 (with 10-inch Android Commander)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "door-phone",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/en/tech/ft600/Manual%20FT600VK%28K%29_ENG.pdf"
+    },
+    {
+      "slug": "ft600vkk",
+      "Title": "FT600VKK",
+      "Sub Title": "Plug-and-play IP video intercom kit with keypad and 7-inch monitor",
+      "Product Description": "<p>The FT600VKK is the keypad-equipped version of Fasttel's plug-and-play IP video intercom kit, intended for installations that need both a video call button and a PIN-based entry option. The kit pairs an FT600KSIPVC outdoor station (1 push button, HD colour camera and integrated code keypad with 2 internal relays) with an FT600W 7-inch indoor monitor, the Fasttel FT600SW PoE switch and four Fasttelphone smartphone app licences. Everything runs on a single PoE-powered Cat run per device and supports SIP, RTSP, ONVIF and the Fasttel cloud, so the kit drops into both standalone homes and projects already running a third-party PBX. Medium (FT600VKK-L), large and 10-inch Commander variants (FT600VKK-10, FT600VKK-10-L) are also available.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Outdoor station</td><td>FT600KSIPVC, 1 button + code keypad, HD colour camera, black anodised aluminium</td></tr><tr><td>Outdoor station dimensions (Small)</td><td>216 x 116 x 31 mm (H x W x D)</td></tr><tr><td>Indoor monitor</td><td>FT600W, 7 inch, 800 x 480</td></tr><tr><td>Networking</td><td>FT600SW Fasttel PoE switch included</td></tr><tr><td>App licences</td><td>4x Fasttelphone smartphone licences</td></tr><tr><td>Keypad relays</td><td>2 internal relays controllable from the outdoor keypad</td></tr><tr><td>Mounting</td><td>Surface or flush from the same frame</td></tr><tr><td>Power</td><td>100% PoE (single cable per device)</td></tr><tr><td>Variants</td><td>FT600VKK-L (large), FT600VKK-10 / FT600VKK-10-L (10-inch Android Commander)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "door-phone",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/en/tech/ft600/Manual%20FT600VK%28K%29_ENG.pdf"
+    },
+    {
+      "slug": "ft9000",
+      "Title": "FT9000",
+      "Sub Title": "Web/cloud door access controller, 4 doors",
+      "Product Description": "<p>The FT9000 is Fasttel's web/cloud-managed door access controller, designed to drive up to four doors from a single IP-connected unit. It is the central brain that pairs the Fasttel intercom and keypad portfolio (FT26K, FT600 Entry, Wizard Bronze IP and Wizard Prestige FT800 series) with proper enterprise access control: card and PIN management, time profiles, schedules and logs are configured through a built-in web interface and Fasttel's cloud portal, so dealers and end-users can administer permissions from anywhere. The controller exposes Wiegand interfaces for third-party readers (FT9100 series silver/black Wiegand card readers, FT9102 fingerprint, FT9103 keypad + card, FT9104 QR reader) and integrates back into the Fasttelphone app for unified visitor management. The product complements the legacy FT9002A (2-door) and FT9004A (4-door) controllers in the Fasttel access control lineup.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>IP / web / cloud door access controller</td></tr><tr><td>Doors supported</td><td>Up to 4</td></tr><tr><td>Reader interfaces</td><td>Wiegand (compatible with FT9100, FT9101, FT9102, FT9103, FT9104)</td></tr><tr><td>Management</td><td>Built-in web interface and Fasttel cloud portal</td></tr><tr><td>Integration</td><td>FT26K keypads, FT600 Entry, Wizard Bronze IP, FT800 Prestige, Fasttelphone app</td></tr><tr><td>Related models</td><td>FT9002A (2-door), FT9004A (4-door)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/en/tech/dooraccess/FT900X.pdf"
+    },
+    {
+      "slug": "ft26k",
+      "Title": "FT26K",
+      "Sub Title": "Keypad/badge reader with Bluetooth, NFC, cloud and Wiegand",
+      "Product Description": "<p>The FT26K is Fasttel's flagship multi-technology access keypad, designed as a single thin surface module that combines a PIN keypad, an NFC/MIFARE badge reader and Bluetooth credential support. Codes, cards and Bluetooth keys can be managed locally or through the Fasttel cloud, and the FT26K speaks Wiegand to integrate with third-party access systems such as Fasttel's own FT9000/FT9002A/FT9004A controllers. A single internal relay is provided on-board, and the matching FT26K-SR security relay can be installed inside the home so the door lock contact is not exposed at the outside wall. The unit is built in black anodised aluminium (50 x 140 x 28 mm) to match the FT600 Entry and FT800 Prestige ranges, and a flush-mounting frame (FT26KBIS) is available. A QR-enabled variant (FT26K-QR) extends the same unit with QR code reading for short-term visitor access.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Access keypad + badge reader</td></tr><tr><td>Credentials</td><td>PIN keypad, NFC/MIFARE, Bluetooth, cloud-managed</td></tr><tr><td>Relays</td><td>1 internal relay; FT26K-SR optional in-home security relay</td></tr><tr><td>Protocol</td><td>Wiegand for 3rd-party access controllers</td></tr><tr><td>Housing</td><td>Black anodised aluminium, 50 x 140 x 28 mm</td></tr><tr><td>Mounting</td><td>Surface; flush via FT26KBIS frame</td></tr><tr><td>QR variant</td><td>FT26K-QR (adds QR code reader)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller,faceplates",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/nl/tech/ft26k/FT26Kcutsheet.pdf"
+    },
+    {
+      "slug": "ft23k",
+      "Title": "FT23K",
+      "Sub Title": "Stand-alone access keypad, black matte, Wiegand, surface-mount",
+      "Product Description": "<p>The FT23K is Fasttel's compact stand-alone access keypad, designed for surface mounting at gates, garages and side doors where a clean black matte aluminium plate is preferred. It runs autonomously with two on-board relays so it can drive a door strike and a gate motor straight from the keypad, and it also speaks Wiegand for use as a reader on a larger access control system (including Fasttel's own FT9000-series controllers). The compact 51 x 136 x 25 mm footprint matches the rest of the Fasttel keypad and intercom range, and PIN codes are managed locally. The FT23K is the entry-level companion to the bronze keypad family (FT24K, FT24BR, FTBG23KF/FTBR23KF/FTBM23KF) and to the multi-technology FT26K.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Stand-alone access keypad</td></tr><tr><td>Operation</td><td>Local PIN; 2 on-board relays; Wiegand output</td></tr><tr><td>Housing</td><td>Black matte aluminium, 51 x 136 x 25 mm</td></tr><tr><td>Mounting</td><td>Surface</td></tr><tr><td>Optional</td><td>Bell button / nameplate companions in the FT24 bronze range</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller,faceplates",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/en/tech/ft23k/FT23K.pdf"
+    },
+    {
+      "slug": "ft24k",
+      "Title": "FT24K",
+      "Sub Title": "Bronze stand-alone access keypad with Wiegand",
+      "Product Description": "<p>The FT24K is Fasttel's bronze-finish stand-alone access keypad, intended as the entry-control companion to the Wizard Bronze IP outdoor stations and the bronze FT30CC Commander indoor panel. It uses the same solid copper construction and bronzed finishes as the rest of the Bronze range, with a 143 x 143 mm front plate, and pairs to a FT25KINT controller module for stand-alone operation. Wiegand output is provided so it can also be used as a reader on a third-party access control system, including Fasttel's FT9000-series cloud controllers. Three bronze finishes are catalogued (FTBG bronze gold matte, FTBM bronze matte, FTBR bronze rustic matte) plus an FTBX RAL custom option.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Stand-alone bronze access keypad</td></tr><tr><td>Operation</td><td>Stand-alone via FT25KINT controller module; Wiegand output</td></tr><tr><td>Front plate</td><td>Solid copper, bronze-finished; 143 x 143 mm</td></tr><tr><td>Available finishes</td><td>FTBG (bronze gold matte), FTBM (bronze matte), FTBR (bronze rustic), FTBX (custom RAL)</td></tr><tr><td>Mounting</td><td>Surface</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller,faceplates",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/en/tech/ft24k/FT24K.pdf"
+    },
+    {
+      "slug": "ft25k",
+      "Title": "FT25K",
+      "Sub Title": "Stand-alone access keypad with glass front plate",
+      "Product Description": "<p>The FT25K is Fasttel's premium stand-alone access keypad with a glass front plate, sitting at the high end of the Fasttel keypad portfolio alongside the bronze FT24K and the multi-technology FT26K. It is offered in multiple glass finishes that visually match the FT800 Prestige and FT600 Entry outdoor units, so a complete entry can be specified in a single language: doorphone, keypad and visible badge reader all share the same crisp glass and aluminium aesthetic. The keypad runs autonomously and also speaks Wiegand so it can act as a reader on Fasttel's FT9000-series cloud controllers or any third-party access system. The matching FT26K-QR adds QR-code visitor access when needed.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Stand-alone access keypad with glass front plate</td></tr><tr><td>Operation</td><td>Stand-alone PIN; Wiegand output for 3rd-party controllers</td></tr><tr><td>Front plate</td><td>Tempered glass on aluminium chassis</td></tr><tr><td>Related products</td><td>FT24K (bronze), FT26K (multi-tech), FT9000 (controller)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller,faceplates",
+      "Specsheet_vendor_url": "https://docs.fasttel.com/en/tech/ft25k/FT25K.pdf"
+    },
+    {
+      "slug": "ftemperor-v",
+      "Title": "FTEMPEROR-V",
+      "Sub Title": "Stainless steel entry pedestal for Fasttel intercoms",
+      "Product Description": "<p>The FTEMPEROR-V is one of Fasttel's stylish stand-alone entry pedestals, designed for driveways and gates where a Fasttel outdoor station has to live away from the wall. The pedestal is fabricated from stainless steel with a clean column profile (multiple heights are available across the FTEMPEROR family, including 150 cm, 190 cm and 250 cm variants in the FTEMPEROR-US, -U and -UB models) and accepts any of the Fasttel small-format outdoor units: FT600 Entry, Wizard Bronze IP, Wizard Elite IP and Wizard Prestige FT800. Companion pedestals (FTEMPERORSK) are sold pre-cut for the access keypad range. Custom finishes and RAL colours are available via Fasttel's FTPAINT service.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Stand-alone entry pedestal / column</td></tr><tr><td>Material</td><td>Stainless steel</td></tr><tr><td>Compatible</td><td>FT600 Entry, Wizard Bronze IP, Wizard Elite IP, Wizard Prestige FT800</td></tr><tr><td>Sibling models</td><td>FTEMPEROR-US (150 cm), FTEMPEROR-U (190 cm), FTEMPEROR-UB (250 cm), FTEMPERORSK (135 cm, for keypad)</td></tr><tr><td>Customisation</td><td>Custom RAL via FTPAINT service</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "fasttel",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "install-kit",
+      "Specsheet_vendor_url": "http://docs.fasttel.com/nl/tech/zuilen/FTEMPEROR-V.pdf"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "ftbg2403skipvc",
+      "fields": ["Specsheet"],
+      "note": "Vendor (fasttel.com) does not publish per-SKU PDF spec sheets for the Wizard Bronze IP range; the only canonical PDFs are the Bronze IP brochure (docs.fasttel.com/fr/tech/bronzeIP/BronzeIP.pdf) and the Galtech Trading distributor datasheet (galtechtrading.com/_files/ugd/16d737_88f7a8cfd5854373b48e878e7062c0c7.pdf, used in this entry). FTBG2403SKIPVC is the 3-button gold-matte small variant with both camera and keypad and shares its datasheet with the rest of the FTBG/FTBM/FTBR Bronze IP family."
+    },
+    {
+      "slug": "ft2520kvc",
+      "fields": ["Specsheet"],
+      "note": "Vendor does not host a per-SKU PDF for the Wizard Apartment FT2520 / FTB2520 family; the Galtech distributor datasheet at galtechtrading.com/_files/ugd/16d737_96a34c0070774f6199bfa7528916f355.pdf is the canonical document and covers all FT2520/FTB2520 variants (with/without camera, with/without keypad). FT2520KVC is the grey apartment variant with camera and keypad."
+    },
+    {
+      "slug": "ft2503kip",
+      "fields": ["Specsheet"],
+      "note": "Vendor publishes the Wizard Elite IP instruction manual at docs.fasttel.com/en/tech/eliteIP/eliteIP.pdf but no per-SKU PDF for FT2503KIP. The Galtech Trading distributor datasheet (galtechtrading.com/_files/ugd/16d737_becf3167fc0a44368d6c0d8165a667ed.pdf, used in this entry) covers all FT250x-IP variants in the Elite IP family. FT2503KIP is the 3-button grey variant with keypad and no camera."
+    }
+  ]
+}

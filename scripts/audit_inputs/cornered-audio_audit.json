@@ -1,0 +1,65 @@
+{
+  "brand": "cornered-audio",
+  "count": 7,
+  "products": [
+    {
+      "slug": "c15nc",
+      "title": "C15NC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "c3",
+      "title": "C3",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "c5",
+      "title": "C5",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "ca280dsp",
+      "title": "CA280DSP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "ls1",
+      "title": "LS1",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "c6",
+      "title": "C6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ls2",
+      "title": "LS2",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    }
+  ]
+}

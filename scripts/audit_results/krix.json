@@ -1,0 +1,570 @@
+{
+  "brand_slug": "krix",
+  "existing_updates": [
+    {
+      "slug": "theatrix",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Configuration</td><td>3-way, bi-amped</td></tr><tr><td>Frequency Range</td><td>38Hz-16kHz in-room response</td></tr><tr><td>Power Handling</td><td>500W RMS recommended maximum</td></tr><tr><td>Sensitivity</td><td>96dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>8 Ohms nominal</td></tr><tr><td>Enclosure</td><td>Bass reflex, front vented</td></tr><tr><td>Low Frequency Driver</td><td>Single 380mm (15\") high stiffness paper cone, 77mm voice coil</td></tr><tr><td>Mid Frequency Driver</td><td>165mm (6.5\") curvilinear paper cone with 90deg x 40deg constant directivity horn</td></tr><tr><td>High Frequency Driver</td><td>Compression driver with patented short-throw horn, 1\" throat</td></tr><tr><td>Crossover Point</td><td>1600Hz passive MID/HF</td></tr><tr><td>Dimensions</td><td>1680mm H x 565mm W x 460mm D</td></tr><tr><td>Weight</td><td>64kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a62536b9aca5c9b0c7a877_Theatrix%20Specifications%20sheet-005.pdf"
+    },
+    {
+      "slug": "cyclonix-12",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Amplifier Power</td><td>200-500W RMS recommended</td></tr><tr><td>High Pass Filter</td><td>30Hz, 24dB/Octave Butterworth</td></tr><tr><td>Limiter</td><td>500W (4 Ohms)</td></tr><tr><td>Inputs</td><td>High current spring terminals (5mm hole, up to 10AWG)</td></tr><tr><td>Enclosure</td><td>Bass reflex, dual down-firing vents</td></tr><tr><td>Impedance</td><td>4 Ohms</td></tr><tr><td>Driver</td><td>305mm (12\") paper cone</td></tr><tr><td>Voice Coil</td><td>50mm long throw</td></tr><tr><td>Sensitivity</td><td>92dB SPL (2.83V/1m)</td></tr><tr><td>Dimensions</td><td>940mm H x 540mm W x 190mm D (210mm with grille)</td></tr><tr><td>Weight</td><td>26kg</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a617f1c05e94153339c5f4_Cyclonix%2012%20Specifications%20Sheet%20002.pdf"
+    },
+    {
+      "slug": "megaphonix-centre",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>40Hz-20kHz in-room response</td></tr><tr><td>Power Handling</td><td>50-250W RMS recommended</td></tr><tr><td>Sensitivity</td><td>95dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>8 Ohms</td></tr><tr><td>Configuration</td><td>2-way</td></tr><tr><td>Enclosure</td><td>Bass reflex, front vented</td></tr><tr><td>Low Frequency Driver</td><td>255mm paper cone, 50mm voice coil, ventilated magnet, copper shorting ring</td></tr><tr><td>High Frequency Driver</td><td>26mm doped fabric dome, ferro fluid cooled, 90x40 waveguide</td></tr><tr><td>Crossover Point</td><td>1.8kHz</td></tr><tr><td>Input Terminals</td><td>Nickel-plated spring, accepts up to 10AWG cable</td></tr><tr><td>Dimensions</td><td>285mm H x 1035mm W x 164mm D</td></tr><tr><td>Weight</td><td>15kg</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/67452ff7ca3f6bdf6fc733f1_Megaphonix%20Centre%20Specifications%20sheet-002.pdf"
+    },
+    {
+      "slug": "cinematix",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Configuration</td><td>3-way</td></tr><tr><td>Frequency Range</td><td>38Hz-16kHz in-room response</td></tr><tr><td>Power Handling</td><td>1000W RMS recommended maximum</td></tr><tr><td>Sensitivity</td><td>101dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>4 Ohms nominal</td></tr><tr><td>Enclosure</td><td>Bass reflex, front vented</td></tr><tr><td>Low Frequency Drivers</td><td>Dual 380mm (15\") high stiffness paper cone with 77mm voice coils</td></tr><tr><td>Mid Frequency Driver</td><td>165mm curvilinear paper cone with 90deg x 40deg constant directivity horn</td></tr><tr><td>High Frequency Driver</td><td>Compression driver with patented 90deg x 40deg short-throw horn, 1\" throat</td></tr><tr><td>Crossover Point</td><td>1600Hz passive MID/HF</td></tr><tr><td>Dimensions</td><td>1990mm H x 660mm W x 460mm D</td></tr><tr><td>Weight</td><td>83kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69c208860e4397197557cc03_Cinematix%20Specifications%20sheet-006.pdf"
+    },
+    {
+      "slug": "cyclonix-18",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Amplifier Power</td><td>200-1400W RMS recommended</td></tr><tr><td>High Pass Filter</td><td>20Hz, 24dB/Octave Butterworth</td></tr><tr><td>Limiter</td><td>1000W (8 Ohms)</td></tr><tr><td>Inputs</td><td>High current spring terminals (5mm hole, up to 10AWG)</td></tr><tr><td>Enclosure</td><td>Bass reflex, front vented</td></tr><tr><td>Impedance</td><td>8 Ohms</td></tr><tr><td>Driver</td><td>Single 455mm (18\") paper cone</td></tr><tr><td>Voice Coil</td><td>100mm (4\") edge-wound copper</td></tr><tr><td>Sensitivity</td><td>100dB SPL (2.83V/1m)</td></tr><tr><td>Dimensions</td><td>1215mm H x 750mm W x 310mm D</td></tr><tr><td>Weight</td><td>64kg</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a61966b9aca5c9b0ba7626_Cyclonix%2018%20V3%20Specifications%20Sheet%20002.pdf"
+    },
+    {
+      "slug": "as-325",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Absorption spacer module (sold in pairs)</td></tr><tr><td>Compatible Systems</td><td>MX-20, MX-30, MX-40</td></tr><tr><td>Construction</td><td>Acoustic absorbing material with covered front baffle</td></tr><tr><td>Function</td><td>Widens soundstage, improves imaging, acts as bass trap</td></tr><tr><td>Height</td><td>1220mm</td></tr><tr><td>Width</td><td>325mm</td></tr><tr><td>Depth (MX-20)</td><td>295mm</td></tr><tr><td>Depth (MX-30 / MX-40)</td><td>335mm</td></tr></tbody></table>",
+      "Specsheet_vendor_url": ""
+    },
+    {
+      "slug": "seismix-1-mk6",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Amplifier Power</td><td>350W RMS, 700W maximum instantaneous</td></tr><tr><td>Maximum SPL</td><td>116dB in-room response</td></tr><tr><td>Driver</td><td>200mm (8\") doped paper cone, 38mm (1.5\") voice coil</td></tr><tr><td>Enclosure</td><td>Bass reflex, down-firing vent</td></tr><tr><td>Inputs</td><td>Stereo line level RCA</td></tr><tr><td>Power Control</td><td>Signal sensing with 15-min standby delay</td></tr><tr><td>Phase Select</td><td>0deg to 180deg continuously variable</td></tr><tr><td>Wireless Compatibility</td><td>Krix Seismix Wireless Transmitter (10m range)</td></tr><tr><td>Dimensions</td><td>375mm H x 295mm W x 320mm D</td></tr><tr><td>Weight</td><td>11kg</td></tr></tbody></table>"
+    },
+    {
+      "slug": "mx-20",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>System Type</td><td>5-module behind-screen modular system (3x LCR + 2x subwoofer)</td></tr><tr><td>LCR Frequency Range</td><td>40Hz-20kHz in-room response</td></tr><tr><td>LCR Power Handling</td><td>100-500W RMS recommended</td></tr><tr><td>LCR Sensitivity</td><td>97dB @ 2.83V, 1 metre</td></tr><tr><td>LCR Impedance</td><td>8 Ohms</td></tr><tr><td>LCR Configuration</td><td>2-way</td></tr><tr><td>LCR Drivers</td><td>255mm paper cone with 50mm voice coil, 26mm doped fabric dome tweeter</td></tr><tr><td>LCR Dimensions</td><td>1220mm H x 365mm W x 295mm D</td></tr><tr><td>LCR Weight</td><td>31kg each</td></tr><tr><td>Subwoofer Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Subwoofer Power Handling</td><td>200-1400W RMS recommended</td></tr><tr><td>Subwoofer Sensitivity</td><td>96dB @ 2.83V, 1 metre</td></tr><tr><td>Subwoofer Impedance</td><td>8 Ohms</td></tr><tr><td>Subwoofer Driver</td><td>380mm (15\") paper cone, 100mm (4\") voice coil</td></tr><tr><td>Subwoofer Dimensions</td><td>1220mm H x 550mm W x 295mm D</td></tr><tr><td>Subwoofer Weight</td><td>45kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/660f7e51822d34ca66333b11_MX20%20Specifications%20Sheet_005.pdf"
+    },
+    {
+      "slug": "mx-5",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>System Type</td><td>5-module behind-screen modular system (3x LCR + 2x subwoofer)</td></tr><tr><td>LCR Frequency Range</td><td>40Hz-20kHz in-room response</td></tr><tr><td>LCR Power Handling</td><td>100-300W RMS recommended</td></tr><tr><td>LCR Sensitivity</td><td>92dB @ 2.83V, 1 metre</td></tr><tr><td>LCR Impedance</td><td>8 Ohms</td></tr><tr><td>LCR Configuration</td><td>2-way bass reflex, front vented</td></tr><tr><td>LCR Drivers</td><td>205mm paper cone with 38mm voice coil, 26mm doped fabric dome with 90x40 waveguide</td></tr><tr><td>LCR Dimensions</td><td>700mm H x 315mm W x 190mm D</td></tr><tr><td>LCR Weight</td><td>12kg each</td></tr><tr><td>Subwoofer Frequency Range</td><td>30Hz-200Hz in-room response</td></tr><tr><td>Subwoofer Power Handling</td><td>200-350W RMS recommended</td></tr><tr><td>Subwoofer Sensitivity</td><td>90dB @ 2.83V, 1 metre</td></tr><tr><td>Subwoofer Impedance</td><td>4 Ohms</td></tr><tr><td>Subwoofer Driver</td><td>275mm doped paper cone, 50mm edge-wound copper voice coil</td></tr><tr><td>Subwoofer Dimensions</td><td>700mm H x 540mm W x 190mm D</td></tr><tr><td>Subwoofer Weight</td><td>19kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/660f7e9284040fee2b1396c7_MX5%20Specifications%20Sheet_010.pdf"
+    },
+    {
+      "slug": "epicentrix-mk2",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>35Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>50-300W RMS recommended</td></tr><tr><td>Sensitivity</td><td>90dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>6 Ohms nominal (minimum 4.3 Ohms)</td></tr><tr><td>Configuration</td><td>3-way</td></tr><tr><td>Enclosure</td><td>Triple chambers (sealed midrange, bass reflex)</td></tr><tr><td>Bass Drivers</td><td>4 x 130mm coated paper cones, 26mm voice coils</td></tr><tr><td>Midrange Driver</td><td>1 x 130mm coated paper cone, 26mm voice coil</td></tr><tr><td>Tweeter</td><td>26mm dual concentric diaphragm</td></tr><tr><td>Terminals</td><td>Dual gold-plated bi-wire binding posts</td></tr><tr><td>Dimensions</td><td>233mm H x 910mm W x 370mm D</td></tr><tr><td>Weight</td><td>24kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4d47d68551aa9ff5b9ce5_Epicentrix%20Mk2%20Specifications%20Sheet-004.pdf"
+    },
+    {
+      "slug": "cyclonix-11",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a617286cb644441b7d683e_Cyclonix%2011%20Specifications%20Sheet%20002.pdf"
+    },
+    {
+      "slug": "megaphonix-centre-in-wall",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>40Hz-20kHz in-room response</td></tr><tr><td>Power Handling</td><td>50-250W RMS recommended</td></tr><tr><td>Sensitivity</td><td>95dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>8 Ohms</td></tr><tr><td>Configuration</td><td>2-way</td></tr><tr><td>Enclosure</td><td>Bass reflex, front vented</td></tr><tr><td>Bass Driver</td><td>255mm paper cone, 50mm voice coil</td></tr><tr><td>Tweeter</td><td>26mm doped fabric dome, ferro fluid cooled</td></tr><tr><td>Crossover</td><td>1.8kHz</td></tr><tr><td>Terminals</td><td>Nickel-plated spring (up to 10AWG)</td></tr><tr><td>Cut-out Dimensions</td><td>295mm H x 1045mm W</td></tr><tr><td>Cabinet Dimensions</td><td>285mm H x 1035mm W x 150mm D</td></tr><tr><td>Weight</td><td>23kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69b7507eacdd4c6113db522b_Megaphonix%20In-Wall%20Centre%20Specifications%20Sheet-000.pdf"
+    },
+    {
+      "slug": "mx-10",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>System Type</td><td>5-module behind-screen modular system (3x LCR + 2x subwoofer)</td></tr><tr><td>LCR Frequency Range</td><td>40Hz-20kHz in-room response</td></tr><tr><td>LCR Power Handling</td><td>100-500W RMS recommended</td></tr><tr><td>LCR Sensitivity</td><td>97dB @ 2.83V, 1 metre</td></tr><tr><td>LCR Impedance</td><td>8 Ohms</td></tr><tr><td>LCR Configuration</td><td>2-way, bass reflex, front vented</td></tr><tr><td>LCR Drivers</td><td>255mm paper cone, 26mm doped fabric dome tweeter with waveguide</td></tr><tr><td>LCR Dimensions</td><td>940mm H x 315mm W x 205mm D</td></tr><tr><td>LCR Weight</td><td>15kg each</td></tr><tr><td>Subwoofer Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Subwoofer Power Handling</td><td>200-500W RMS recommended</td></tr><tr><td>Subwoofer Sensitivity</td><td>92dB @ 2.83V, 1 metre</td></tr><tr><td>Subwoofer Impedance</td><td>4 Ohms</td></tr><tr><td>Subwoofer Driver</td><td>305mm paper cone, 50mm long throw voice coil</td></tr><tr><td>Subwoofer Enclosure</td><td>Bass reflex, down-firing vent</td></tr><tr><td>Subwoofer Dimensions</td><td>940mm H x 540mm W x 205mm D</td></tr><tr><td>Subwoofer Weight</td><td>26kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/660f7e6a66aaa6ac73b6811a_MX10%20Specifications%20Sheet_007.pdf"
+    },
+    {
+      "slug": "as-200",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Absorption spacer module (sold in pairs)</td></tr><tr><td>Compatible Systems</td><td>MX-20, MX-30, MX-40</td></tr><tr><td>Construction</td><td>Acoustic absorbing material with covered front baffle</td></tr><tr><td>Function</td><td>Widens soundstage, reduces screen reflections, acts as bass trap</td></tr><tr><td>Height</td><td>1220mm</td></tr><tr><td>Width</td><td>200mm</td></tr><tr><td>Depth (MX-20)</td><td>295mm</td></tr><tr><td>Depth (MX-30 / MX-40)</td><td>335mm</td></tr></tbody></table>",
+      "Specsheet_vendor_url": ""
+    },
+    {
+      "slug": "esoterix-altum",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>40Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>20-200W RMS recommended</td></tr><tr><td>Sensitivity</td><td>89dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>4 Ohms nominal (minimum 3.2 Ohms)</td></tr><tr><td>Configuration</td><td>2-way</td></tr><tr><td>Enclosure</td><td>Bass reflex, bottom-vented</td></tr><tr><td>LF Driver</td><td>165mm natural wood fiber cone, 38mm voice coil</td></tr><tr><td>HF Driver</td><td>26mm Scanspeak Revelator ring radiator</td></tr><tr><td>Input Terminals</td><td>Gold-plated binding posts</td></tr><tr><td>Dimensions</td><td>390mm H x 260mm W x 380mm D</td></tr><tr><td>Weight</td><td>11kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64379e172b7c21f72a6341b7_Esoterix-Altum-Specifications-Sheet-003.pdf"
+    },
+    {
+      "slug": "vortex-mk2",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4d37dde5537adcea36ce1_Vortex%20Mk2%20Specifications%20Sheet-004.pdf"
+    },
+    {
+      "slug": "hemispherix-sps",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>70Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>5-50W RMS recommended</td></tr><tr><td>Sensitivity</td><td>85dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>2 x nominal 8 Ohms (minimum 6.3 Ohms)</td></tr><tr><td>Configuration</td><td>Dual 2-way single point stereo</td></tr><tr><td>Enclosure</td><td>Semi-open back</td></tr><tr><td>Woofer</td><td>1 x 125mm (5\") polypropylene cone, 35mm dual voice coil</td></tr><tr><td>Tweeters</td><td>2 x 20mm (3/4\") ring radiator</td></tr><tr><td>Input Terminals</td><td>4 x push-type connectors</td></tr><tr><td>Cut-out Diameter</td><td>207mm recommended</td></tr><tr><td>Dimensions</td><td>254mm diameter x 90mm depth</td></tr><tr><td>Weight</td><td>2kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/684f74f60f6e64c09dc0e080_IC-35S%20Specifications%20Sheet.pdf"
+    },
+    {
+      "slug": "epix",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4fed5ad83deb05e0913d7_Epix%20Specifications%20Sheet-003.pdf"
+    },
+    {
+      "slug": "hyperphonix-45",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6908052e14abba328b986e3d_Hyperphonix%2045%20Rev3%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "pix",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a6224d3d1c004d9452a31c_Pix%20Rev1.0%20Specification%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "megaphonix-flat",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a60ba3d2e8cb8b1b3b4ac4_Megaphonix%20Flat%20Specifications%20sheet-002.pdf"
+    },
+    {
+      "slug": "scenix",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>80Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>50-150W RMS recommended</td></tr><tr><td>Sensitivity</td><td>91dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>6 Ohms</td></tr><tr><td>Configuration</td><td>2-way sealed</td></tr><tr><td>Bass Drivers</td><td>2 x 130mm (5.25\") doped paper cone</td></tr><tr><td>Treble Driver</td><td>26mm (1\") dual concentric diaphragm</td></tr><tr><td>Crossover Point</td><td>2.1kHz</td></tr><tr><td>Cabinet Dimensions</td><td>470mm H x 295mm W x 97mm D</td></tr><tr><td>Recommended Cutout</td><td>475mm H x 300mm W</td></tr><tr><td>Weight</td><td>10kg each</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a60d31896be48024b9b852_Scenix%20Specifications%20sheet-002.pdf"
+    },
+    {
+      "slug": "neuphonix-mk2",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>35Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>50-300W RMS recommended</td></tr><tr><td>Sensitivity</td><td>88dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>6 Ohms nominal (minimum 4.9 Ohms)</td></tr><tr><td>Configuration</td><td>3-way</td></tr><tr><td>Enclosure</td><td>Dual chambers - sealed midrange chamber with bass reflex main chamber, rear vented</td></tr><tr><td>Low Frequency Drivers</td><td>4 x 130mm (5\") coated paper cones, 26mm voice coils</td></tr><tr><td>Mid Frequency Driver</td><td>1 x 130mm coated paper cone, 26mm voice coil</td></tr><tr><td>High Frequency Driver</td><td>26mm dual concentric diaphragm with wave-guide centre plug</td></tr><tr><td>Input Terminals</td><td>Dual gold-plated bi-wire binding posts</td></tr><tr><td>Dimensions</td><td>1046mm H x 225mm W x 405mm D (including grille)</td></tr><tr><td>Weight</td><td>30kg each</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ic-50",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/677e01bcecd087972ab565c7_IC-50%20Specifications%20Sheet%20-%20updated%20images.pdf"
+    },
+    {
+      "slug": "as-315",
+      "Specsheet_vendor_url": ""
+    },
+    {
+      "slug": "seismix-transmitter",
+      "Product Tags": "extender"
+    },
+    {
+      "slug": "flix",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a622dd24111bab229583a6_Flix%20Rev1.0%20Specification%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "dynamix-mk4",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4dc42754d001d8b3f630f_Dynamix%20MK4%20Specifications%20Sheet-001.pdf"
+    },
+    {
+      "slug": "iw-30",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4fc3768551aa9ff8291ff_IW-30%20Rev1.0%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "acoustix-evara",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69e06eb637a92f7d1d43c96d_Acoustix%20Evara%20Specifications%20Sheet_001.pdf"
+    },
+    {
+      "slug": "cyclonix-12ac",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69fbfb5300907bb11dfeccf5_Cyclonic%2012%20Active%20Compact%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "graphix-evara",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69d73442d92505bbfe25cef6_Graphix%20Evara%20Specifications%20Sheet_001.pdf"
+    },
+    {
+      "slug": "ic-10",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a4e8136ba779243fb06e6e_Holographix%20Specifications%20sheet-002.pdf"
+    },
+    {
+      "slug": "ic-35s",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/684f74f60f6e64c09dc0e080_IC-35S%20Specifications%20Sheet.pdf"
+    },
+    {
+      "slug": "phoenix-evara",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69d72a421e9d564367a62c37_Phoneix%20Evara%20Specifications%20Sheet_001.pdf"
+    },
+    {
+      "slug": "seismix-3d",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69e1be82ef49a149ee44e199_Seismix%203D%20Mk3%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "seismix-3d-evara",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69d72c3d8f22a42b07dc197f_Seismix%203D%20Evara%20Specifications%20Sheet_001.pdf"
+    },
+    {
+      "slug": "seismix-5",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69e9db78512c3e6952fb5ca3_Seismix%205%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "seismix1",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69e1983fba4a1586c5288ae2_Seismix1MK7SpecificationSheet.pdf"
+    },
+    {
+      "slug": "seismix3",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69e19a39d95e714c894d92b6_Seismix%203%20Mk8%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "kx-5974",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69f800ff4de8d3c6c8884ab9_KX-5974%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-5972",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64b8b1892fd64bfc7cfb4c55_KX-5972-Cinema-Specification-Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-5954",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6673ba8e5f4402e78a9750f1_KX-5954%20Cinema%20Specification%20Sheet-001.pdf"
+    },
+    {
+      "slug": "kx-5946",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524df4bbbe3e266fe733a7f_KX-5946%20Cinema%20Specification%20Sheet-003.pdf"
+    },
+    {
+      "slug": "kx-5620",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6615f7b099c14d6da548be06_KX-5620%20Cinema%20Specification%20Sheet-002.pdf"
+    },
+    {
+      "slug": "kx-5275",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e1ac69e4b2ff1e3c6ed7_KX-5275%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-5255",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e161a13a09ca1cc4ad1e_KX-5255%20Cinema%20Specification%20Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-5205",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e126c6f60bf199dc6fa4_KX-5205%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-4205",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6526103b74270a9342d3dbc5_KX-4205%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-1062",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e90cacddf2d3dcd2b503_KX-1062%20Cinema%20Specification%20Sheet-003.pdf"
+    },
+    {
+      "slug": "kx-1061",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e8b7bd538012ca680738_KX-1061%20Cinema%20Specification%20Sheet-003.pdf"
+    },
+    {
+      "slug": "kx-1570f",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e2368c508e0a3751d2a7_KX-1570%20Cinema%20Specification%20Sheet-008.pdf"
+    },
+    {
+      "slug": "kx-1570",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e2368c508e0a3751d2a7_KX-1570%20Cinema%20Specification%20Sheet-008.pdf"
+    },
+    {
+      "slug": "kx-1875",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0b66b667d45c122feed_KX-1870%20KX-1875%20Cinema%20Specification%20Sheet-006.pdf"
+    },
+    {
+      "slug": "kx-1870f",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0b66b667d45c122feed_KX-1870%20KX-1875%20Cinema%20Specification%20Sheet-006.pdf"
+    },
+    {
+      "slug": "kx-1870",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0b66b667d45c122feed_KX-1870%20KX-1875%20Cinema%20Specification%20Sheet-006.pdf"
+    },
+    {
+      "slug": "kx-1840",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e008f54e751c3ae9d75b_KX-1840%20Cinema%20Specification%20Sheet-003.pdf"
+    },
+    {
+      "slug": "banana-plugs",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64a5face8bcb90699630229a_Banana%20Plug%20Specifications%20sheet-002.pdf"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "equinox-evara",
+      "Title": "Equinox Evara",
+      "Sub Title": "Compact bookshelf speaker with big sound in a small footprint",
+      "Product Description": "<h3>Big sound. Small footprint.</h3><p>The Equinox Evara brings power and clarity to your home, proving that small speakers can deliver truly big sound. Engineered for modern living spaces - apartments, open-plan homes and bedrooms - this compact 2-way bookshelf pairs a 130mm doped paper cone woofer with a 26mm dual concentric diaphragm tweeter for smooth, room-filling reproduction of both music and movies.</p><ul><li>Rear-vented bass reflex cabinet for extended low-end weight</li><li>Magnetic grilles and contemporary fabric finishes that disappear into modern decor</li><li>Available in five Studio colours: Black, White, Navy, Charcoal and Forrest Green</li><li>Gold-plated binding posts for solid amplifier connection</li><li>20-120W RMS - perfectly matched to today's compact integrated amplifiers</li></ul><p>The Equinox Evara is the latest evolution of Krix's longest-running bookshelf - a speaker built for people who refuse to choose between style and sound.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>45Hz-40kHz in-room response</td></tr><tr><td>Power Handling</td><td>20-120W RMS recommended</td></tr><tr><td>Sensitivity</td><td>88dB @ 2.83V, 1 metre</td></tr><tr><td>Impedance</td><td>6 Ohms nominal (minimum 3.6 Ohms)</td></tr><tr><td>Configuration</td><td>2-way</td></tr><tr><td>Enclosure</td><td>Bass reflex, rear vented</td></tr><tr><td>Woofer</td><td>130mm (5\") doped paper cone</td></tr><tr><td>Tweeter</td><td>26mm (1\") dual concentric diaphragm</td></tr><tr><td>Terminals</td><td>Gold-plated binding posts</td></tr><tr><td>Dimensions</td><td>295mm H x 175mm W x 235mm D</td></tr><tr><td>Weight</td><td>6kg each</td></tr><tr><td>Finishes</td><td>Studio Black, White, Navy, Charcoal, Forrest Green</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69fd683f384af776689463d5_Equniox%20Evara_StudioForrestGreen.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/69fd683f384af776689463d5_Equniox%20Evara_StudioForrestGreen.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68f8298feeb92eac22fd50fe_Equniox%20Evara_StudioBlack.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68f8298f437233b1c412eedf_Equniox%20Evara_StudioWhite.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68f8298f0c10662d316e006c_Equniox%20Evara_StudioCharcoal.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68f8298f4db75ea72839115c_Equniox%20Evara_StudioNavy.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68f82909cbd1cac54f3f3f63_Equniox%20Evara_StudioForrestGreen_CharcoalGrille.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68fafce9b013f9c8b4732630_Equinox%20Evara%20Mk5%20Specifications%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "seismix-evara",
+      "Title": "Seismix 1 Evara",
+      "Sub Title": "Compact, contemporary-finish active subwoofer with 116dB output",
+      "Product Description": "<h3>Compact style. Powerful impact.</h3><p>The Seismix 1 Evara proves you don't need a large cabinet to enjoy deep, powerful bass. Built around the proven Seismix 1 Mk6 platform and re-dressed in Krix's contemporary Evara finishes, this active subwoofer delivers smooth, room-filling low frequencies for apartments, living rooms and bedrooms.</p><ul><li>200mm doped paper cone driver with 38mm voice coil and vented magnet</li><li>350W RMS Class-D amplifier with 700W peak instantaneous output</li><li>116dB maximum SPL in-room response</li><li>Down-firing vented enclosure for unobtrusive placement</li><li>Continuously variable phase, 50-200Hz low-pass filter</li><li>Auto-on signal sensing with 15-minute standby</li><li>Available in Studio Black, White, Navy, Charcoal and Forrest Green</li></ul><p>Pair it with the Equinox Evara and Graphix Evara to complete a full Krix Evara cinema or stereo system.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Range</td><td>25Hz-200Hz in-room response</td></tr><tr><td>Amplifier Power</td><td>350W RMS / 700W peak instantaneous</td></tr><tr><td>Maximum SPL</td><td>116dB in-room response</td></tr><tr><td>Inputs</td><td>Stereo RCA line level</td></tr><tr><td>Enclosure</td><td>Bass reflex, down-firing vent</td></tr><tr><td>Driver</td><td>200mm (8\") doped paper cone, 38mm voice coil</td></tr><tr><td>Power Control</td><td>Signal sensing with 15-min standby delay</td></tr><tr><td>Phase Select</td><td>0deg-180deg continuously variable</td></tr><tr><td>Low-Pass Filter</td><td>50Hz-200Hz or bypass</td></tr><tr><td>Dimensions</td><td>375mm H x 295mm W x 320mm D</td></tr><tr><td>Weight</td><td>11kg</td></tr><tr><td>Finishes</td><td>Studio Black, White, Navy, Charcoal, Forrest Green</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec832f247c3799540c9c17_Seismix%201%20Evara_StudioNavy.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec832f247c3799540c9c17_Seismix%201%20Evara_StudioNavy.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec8339530c133f7300aeee_Seismix%201%20Evara_StudioWhite.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec8339a6dffe801462239e_Seismix%201%20Evara_StudioCharcoal.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec8339b76fa472b13410a2_Seismix%201%20Evara_StudioForrestGreen.jpg",
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68ec833827cf6bfeff7697bb_Seismix%201%20Evara_StudioBlack.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "audio",
+      "Product Tags": "subwoofer",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/68fafd21e144390457979883_Seismix%201%20MK6%20Evara%20Specifications%20Sheet.pdf"
+    },
+    {
+      "slug": "kx-5996",
+      "Title": "KX-5996",
+      "Sub Title": "Flagship 4-way cinema screen channel with ultra-high frequency horn",
+      "Product Description": "<h3>The flagship Krix Quatrix cinema speaker</h3><p>The KX-5996 takes Krix's patented horn-array screen channel design to its highest level by adding a dedicated ultra-high frequency horn on top of the proven 3-way Trio. Each driver is allowed to operate within its optimal bandwidth, producing exceptional dialogue clarity, smooth overall response and class-leading low distortion across the full audio spectrum.</p><ul><li>4-way (Quatrix) configuration with dedicated UHF horn</li><li>Patented Krix constant-directivity horn technology for uniform coverage</li><li>Mitred bass enclosure with proprietary X Bracing for low resonance</li><li>Custom Krix bass driver with dual shorting rings for minimum distortion</li><li>Engineered for cinema auditoriums up to 80 metres deep</li><li>Each loudspeaker individually tested and acoustically matched</li></ul><p>The KX-5996 is the screen-channel choice for premier auditoriums, flagship commercial cinemas and reference-grade dedicated home theatres.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64b8b03981b6112b29d09f90_KX-5996jpg.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64b8b03981b6112b29d09f90_KX-5996jpg.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64b8b06db95f3502e58a6d59_KX-5996-Cinema-Specification-Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-5976",
+      "Title": "KX-5976",
+      "Sub Title": "4-way (Quatrix) cinema screen system with ultra-high frequency horn",
+      "Product Description": "<h3>4-way precision for premium auditoriums</h3><p>The KX-5976 enhances Krix's patented horn-array screen channel with a dedicated ultra-high frequency horn, allowing each driver to operate within its optimal range and delivering superior vocal clarity. Built around the same constant-directivity horn philosophy used throughout the Krix commercial range, it provides smooth response and even coverage across the entire seating area.</p><ul><li>4-way Quatrix configuration with dedicated UHF horn</li><li>Patented Krix constant directivity horn technology</li><li>Mitred bass enclosure with proprietary X Bracing</li><li>Custom Krix bass driver with dual shorting rings for low distortion</li><li>Individually tested and acoustically matched at the Krix factory</li></ul><p>An ideal screen channel for premium cinemas requiring extended high-frequency air, low distortion and consistent coverage at high SPLs.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/65249f371fdc305e1010a5e7_KX-5976.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/65249f371fdc305e1010a5e7_KX-5976.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/64b8b0a7d72c7bde7a6db1d7_KX-5976-Cinema-Specification-Sheet-001.pdf"
+    },
+    {
+      "slug": "kx-5920",
+      "Title": "KX-5920",
+      "Sub Title": "3-way cinema screen system with dedicated midrange horn",
+      "Product Description": "<h3>Dialogue-focused 3-way screen channel</h3><p>The KX-5920 brings a significant improvement in audio quality to commercial cinema applications through the addition of a dedicated midrange horn. A 6-inch neodymium driver reproduces the crucial vocal band, delivering superior dialogue intelligibility while a separate compression driver handles the highs and a custom Krix bass driver supplies the foundation.</p><ul><li>3-way configuration with dedicated midrange horn for vocal clarity</li><li>6\" neodymium midrange driver</li><li>Patented Krix constant-directivity horn technology</li><li>X-braced bass enclosure for reduced resonance</li><li>Custom Krix bass driver engineered for low distortion</li><li>Individually tested and acoustically matched</li></ul><p>The KX-5920 is suited to medium to large auditoriums where vocal intelligibility and uniform coverage are critical.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524ded5489849c864a47d55_KX-5920.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524ded5489849c864a47d55_KX-5920.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524df0d3e26d57acc002eca_KX-5920%20Cinema%20Specification%20Sheet-006.pdf"
+    },
+    {
+      "slug": "kx-5910",
+      "Title": "KX-5910",
+      "Sub Title": "3-way cinema screen channel with dedicated midrange horn",
+      "Product Description": "<h3>3-way midrange horn for clear dialogue</h3><p>The KX-5910 is a 3-way loudspeaker system that offers significant improvements in audio quality over conventional 2-way cinema screen channels by adding a dedicated midrange horn. A 6-inch neodymium driver reproduces the crucial vocal band, ensuring dialogue cuts through music and effects with effortless clarity.</p><ul><li>3-way configuration with dedicated 6\" midrange horn</li><li>Patented Krix constant-directivity horn technology</li><li>Custom Krix bass driver with dual shorting rings</li><li>X-braced bass enclosure for low resonance</li><li>Engineered for consistent coverage across the entire seating area</li><li>Individually tested at the Krix factory</li></ul><p>An ideal upgrade path for premium auditoriums where dialogue intelligibility is paramount.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a3740387291e0288d143_KX-5910.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a3740387291e0288d143_KX-5910.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a3d8ae6722e722386260_KX-5910%20Cinema%20Specification%20Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-5720",
+      "Title": "KX-5720",
+      "Sub Title": "Tilt-ready 3-way screen speaker for solid-screen and LED cinemas",
+      "Product Description": "<h3>Slim, tapered 3-way for solid-screen cinemas</h3><p>The KX-5720 is designed specifically for solid-screen and LED commercial cinemas, with a tapered slim profile that allows easy placement above the screen. This 3-way constant-directivity design delivers Krix's signature dialogue clarity and consistent acoustic performance across the auditorium, even when mounted in tight ceiling-to-screen gaps.</p><ul><li>3-way configuration with dedicated midrange section</li><li>Tapered slim enclosure ideal for above-screen mounting</li><li>Patented Krix constant-directivity horn technology</li><li>Engineered for solid-screen and LED cinema installations</li><li>Each unit individually tested and acoustically matched</li></ul><p>An obvious choice for premium screening rooms and LED-wall cinemas where the screen channel cannot fit behind a perforated surface.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524b6b26b6d9e1cca820b9c_KX-5720_front.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524b6b26b6d9e1cca820b9c_KX-5720_front.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524b739bbe3e266fe463e23_KX%205720B%2001%20Cinema%20Specification%20Sheet%20001.pdf"
+    },
+    {
+      "slug": "kx-5610",
+      "Title": "KX-5610",
+      "Sub Title": "Compact 3-way cinema screen channel with midrange horn",
+      "Product Description": "<h3>Compact 3-way midrange-horn screen channel</h3><p>The KX-5610 is a compact 3-way commercial cinema speaker featuring a dedicated midrange horn that reproduces the crucial vocal band to deliver superior dialogue intelligibility. Sophisticated loudspeaker modelling techniques have been applied to keep distortion low and directivity smooth across the seating area, and each unit undergoes comprehensive acoustic testing with tight production tolerances.</p><ul><li>3-way design with dedicated midrange horn</li><li>Patented Krix constant-directivity horn technology</li><li>Compact form factor suited to smaller auditoriums and screening rooms</li><li>Custom Krix bass driver for low distortion</li><li>Each loudspeaker individually tested at the Krix factory</li></ul><p>The right choice for boutique cinemas and high-end dedicated home theatres that need full 3-way performance in a smaller footprint.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a12c6b6d9e1cca6759c6_KX-5610.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a12c6b6d9e1cca6759c6_KX-5610.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/660f7ae38eb1ff660bcea5c1_KX-5610%20Cinema%20Specification%20Sheet-001.pdf"
+    },
+    {
+      "slug": "kx-5285",
+      "Title": "KX-5285",
+      "Sub Title": "High-output 2-way cinema screen system with triple 15\" bass",
+      "Product Description": "<h3>High-output 2-way cinema screen channel</h3><p>The KX-5285 is a 2-way cinema speaker built for high-output applications, combining triple 15-inch bass drivers with a 4-inch diameter voice coil compression driver mounted on proprietary Krix horn technology. The result is industry-leading low distortion and smooth directivity, delivering consistent reference-level sound quality throughout even very large cinema auditoriums.</p><ul><li>2-way configuration with triple 15\" bass drivers</li><li>4\" voice coil compression driver for very high output</li><li>Patented Krix constant-directivity horn</li><li>Mitred X-braced enclosure for low resonance</li><li>Engineered for large auditoriums and high-headroom installations</li><li>Individually tested at the Krix factory</li></ul><p>The KX-5285 is the obvious choice when the brief calls for the highest possible cinema screen-channel output.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e1c24229608fd3df31e6_KX-5285.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e1c24229608fd3df31e6_KX-5285.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524e1e8a13a09ca1cc5679e_KX-5285%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-4610s",
+      "Title": "KX-4610S",
+      "Sub Title": "Slimline dual-18\" passive cinema subwoofer for behind-screen placement",
+      "Product Description": "<h3>Slimline dual-18\" cinema subwoofer</h3><p>The KX-4610S is a passive high-performance cinema subwoofer with dual 18-inch drivers in a slimline enclosure whose depth matches Krix screen-channel systems for clean, flush behind-screen installation. A 4-inch voice coil and extensive vent area deliver high output and very low compression, while proprietary triple X bracing keeps the cabinet rigid and standing waves under control.</p><ul><li>Dual 18\" cinema bass drivers</li><li>4\" voice coil for efficient high-output performance</li><li>Slimline enclosure depth matched to Krix screen systems</li><li>Extensive vent area to minimise port noise and compression</li><li>Proprietary triple X bracing for structural integrity</li><li>Passive design - pair with a dedicated cinema subwoofer amplifier</li></ul><p>An ideal choice when a deep enclosure is unavailable but full cinema-grade low frequency output is still required.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/65260e7585a313008ae9e93d_KX-4610S.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/65260e7585a313008ae9e93d_KX-4610S.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a17760697f8ca29caa75_KX-4610%20Cinema%20Specification%20Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-4610",
+      "Title": "KX-4610",
+      "Sub Title": "Lowline dual-18\" passive cinema subwoofer",
+      "Product Description": "<h3>Lowline dual-18\" cinema subwoofer</h3><p>The KX-4610 is a passive high-performance cinema subwoofer with dual 18-inch drivers in a lowline enclosure designed for positioning beneath cinema screens. A 4-inch voice coil and large vent area deliver efficient bass output at high power levels while minimising compression and noise, and Krix's proprietary triple X bracing keeps internal standing waves and cabinet flex to a minimum.</p><ul><li>Dual 18\" cinema bass drivers</li><li>4\" voice coil for high efficiency at high output</li><li>Lowline enclosure designed for beneath-screen installation</li><li>Extensive vent area to keep port noise and compression low</li><li>Triple X-braced cabinet construction</li><li>Passive design for use with dedicated cinema amplification</li></ul><p>A reference cinema low-frequency solution for medium to large auditoriums.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525eb10bb7bcb93cc51dee8_KX-4610.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525eb10bb7bcb93cc51dee8_KX-4610.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6524a17760697f8ca29caa75_KX-4610%20Cinema%20Specification%20Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-4605",
+      "Title": "KX-4605",
+      "Sub Title": "Lowline dual-18\" passive cinema subwoofer with 3\" voice coils",
+      "Product Description": "<h3>Lowline dual-18\" passive cinema subwoofer</h3><p>The KX-4605 is a passive high-performance cinema subwoofer with dual 18-inch drivers in a lowline enclosure designed for screen-mounted positioning. 3-inch voice coils combine with extensive vent area and Krix's proprietary X bracing to keep internal standing waves and power compression to a minimum, delivering reliable cinema-grade low-frequency output night after night.</p><ul><li>Dual 18\" cinema bass drivers</li><li>3\" voice coil drivers</li><li>Lowline enclosure designed for screen-mount installation</li><li>Krix proprietary X bracing for cabinet rigidity</li><li>Large vent area to minimise port noise and compression</li><li>Passive design - requires dedicated cinema amplification</li></ul><p>A solid workhorse subwoofer for small and medium cinema rooms requiring lowline behind-screen placement.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e9d2fc226b18d30edeb8_KX-4605%20FRONT.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e9d2fc226b18d30edeb8_KX-4605%20FRONT.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525ea1f978adfabfd093afc_KX-4605%20Cinema%20Specification%20Sheet002.pdf"
+    },
+    {
+      "slug": "kx-4290",
+      "Title": "KX-4290",
+      "Sub Title": "Dolby Atmos surround subwoofer with quad 15\" drivers",
+      "Product Description": "<h3>Quad-15\" Dolby Atmos surround subwoofer</h3><p>The KX-4290 is a passive high-performance cinema subwoofer with quad 15-inch drivers, engineered specifically for Dolby Atmos cinemas. Its very high maximum SPL capability has been developed to meet Dolby Atmos surround subwoofer requirements, and the cabinet incorporates Krix's proprietary X Bracing system for structural integrity at extreme output levels.</p><ul><li>Quad 15\" Atmos-grade bass drivers</li><li>High maximum SPL specifically targeted at Dolby Atmos surround sub specs</li><li>Krix proprietary X Bracing for cabinet rigidity</li><li>Passive design for use with dedicated cinema amplification</li><li>Engineered for cinema-grade reliability and consistent night-after-night output</li></ul><p>A reference choice for premium Dolby Atmos auditoriums needing maximum surround low-frequency headroom.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652629801084758d8c01f27c_KX-4290.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652629801084758d8c01f27c_KX-4290.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6526299f1084758d8c021211_KX-4290%20Cinema%20Specification%20Sheet-006.pdf"
+    },
+    {
+      "slug": "kx-4240",
+      "Title": "KX-4240",
+      "Sub Title": "Triple 15\" passive cinema subwoofer for Dolby Atmos",
+      "Product Description": "<h3>Triple-15\" Atmos-grade cinema subwoofer</h3><p>The KX-4240 is a passive high-performance cinema subwoofer with triple 15-inch drivers, specifically intended for use in Dolby Atmos cinemas. Its high maximum SPL capability has been developed to meet Dolby Atmos surround sub requirements, and like the rest of the Krix KX-4000 series it incorporates the proprietary X Bracing system to keep the cabinet rigid at high output.</p><ul><li>Triple 15\" cinema bass drivers</li><li>Engineered for Dolby Atmos surround subwoofer specifications</li><li>Krix proprietary X Bracing for cabinet rigidity</li><li>Passive design - pair with a dedicated cinema subwoofer amplifier</li><li>Cinema-grade reliability and consistent long-term output</li></ul><p>An ideal subwoofer for medium-to-large Dolby Atmos cinemas requiring substantial surround low-frequency headroom.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652612cdcd1ec75020980b88_KX-4240.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652612cdcd1ec75020980b88_KX-4240.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652612ffa7941a9c14d94b5a_KX-4240%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-4210",
+      "Title": "KX-4210",
+      "Sub Title": "Dual 15\" passive cinema subwoofer for Dolby Atmos",
+      "Product Description": "<h3>Dual-15\" Atmos cinema subwoofer</h3><p>The KX-4210 is a passive high-performance cinema subwoofer with dual 15-inch drivers, engineered specifically for Dolby Atmos cinemas. Its high maximum SPL capability has been developed to satisfy Dolby Atmos surround sub requirements, while the proprietary Krix X Bracing system keeps the cabinet stiff and quiet at high output.</p><ul><li>Dual 15\" cinema bass drivers</li><li>Engineered for Dolby Atmos surround subwoofer specifications</li><li>Krix X Bracing system for low cabinet resonance</li><li>Passive design - pair with a dedicated cinema subwoofer amplifier</li><li>Cinema-grade reliability and consistent long-term output</li></ul><p>The KX-4210 is well suited to small and medium Dolby Atmos auditoriums where reliable surround low-frequency reinforcement is required.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6526124b9abac1b20c71b997_KX-4210.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6526124b9abac1b20c71b997_KX-4210.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/652612b09c6b8376d3c6b0b6_KX-4210%20Cinema%20Specification%20Sheet-004.pdf"
+    },
+    {
+      "slug": "kx-4010",
+      "Title": "KX-4010",
+      "Sub Title": "Single 18\" passive cinema subwoofer for behind-screen placement",
+      "Product Description": "<h3>Single-18\" behind-screen cinema subwoofer</h3><p>The KX-4010 is a passive high-performance cinema subwoofer with a single 18-inch driver, designed for behind-screen positioning in commercial cinema applications. A 4-inch voice coil and generous vent area combine to deliver efficient bass output while minimising power compression, and the enclosure depth has been matched to Krix screen systems for clean, integrated installation. Proprietary X bracing keeps the cabinet rigid even at high output levels.</p><ul><li>Single 18\" cinema bass driver</li><li>4\" voice coil for efficient high-output operation</li><li>Enclosure depth matched to Krix screen-channel systems</li><li>Large vent area to minimise port noise and compression</li><li>Proprietary X bracing for cabinet rigidity</li><li>Passive design - pair with dedicated cinema amplification</li></ul><p>A solid foundation for small-to-medium commercial cinemas needing reliable behind-screen low-frequency output.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e93085a313008abba048_KX-4010.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e93085a313008abba048_KX-4010.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "subwoofer,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e9aef54e751c3af50f37_KX-4010%20Cinema%20Specification%20Sheet-005.pdf"
+    },
+    {
+      "slug": "kx-1155",
+      "Title": "KX-1155",
+      "Sub Title": "Horn-loaded dual-15\" cinema surround for Dolby Atmos",
+      "Product Description": "<h3>Horn-loaded dual-15\" Atmos cinema surround</h3><p>The KX-1155 is a cinema surround loudspeaker featuring a true horn-loaded high frequency section, engineered for the most demanding applications in large auditoriums. It pairs a high-output compression driver and constant-directivity horn with dual 15-inch bass drivers, with the high output and low distortion needed to meet Dolby Atmos surround requirements.</p><ul><li>True horn-loaded high frequency section with compression driver</li><li>Patented Krix constant-directivity horn</li><li>Dual 15\" bass drivers for high SPL output</li><li>Engineered specifically for Dolby Atmos surround channels</li><li>Cinema-grade reliability and tight production tolerances</li></ul><p>An ideal Atmos surround for premium auditoriums where headroom and intelligibility cannot be compromised.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e770a0814f03b1e2147a_KX-1155.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e770a0814f03b1e2147a_KX-1155.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e792091706ef399da09e_KX-1155%20Cinema%20Specification%20Sheet-007.pdf"
+    },
+    {
+      "slug": "kx-1152",
+      "Title": "KX-1152",
+      "Sub Title": "Horn-loaded single-15\" cinema surround for Dolby Atmos",
+      "Product Description": "<h3>Horn-loaded single-15\" cinema surround</h3><p>The KX-1152 is a cinema surround loudspeaker engineered for large auditoriums. A true horn-loaded high-frequency section pairs a constant-directivity horn with a compression driver, while a single 15-inch bass driver provides the low-frequency foundation. The speaker is designed to meet the high output and low distortion requirements of Dolby Atmos surround channels in demanding applications.</p><ul><li>True horn-loaded high frequency section with compression driver</li><li>Patented Krix constant-directivity horn</li><li>Single 15\" bass driver for substantial output</li><li>Engineered for Dolby Atmos surround applications</li><li>Cinema-grade reliability and tight production tolerances</li></ul><p>A high-output Atmos surround suited to medium-to-large auditoriums.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e72abca45e76f0392458_KX-1152.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e72abca45e76f0392458_KX-1152.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e756243369d5930835f4_KX-1152%20Cinema%20Specification%20Sheet-007.pdf"
+    },
+    {
+      "slug": "kx-1470",
+      "Title": "KX-1470",
+      "Sub Title": "Compact angled-baffle single-8\" cinema surround",
+      "Product Description": "<h3>Compact angled-baffle cinema surround</h3><p>The KX-1470 is a cinema surround loudspeaker featuring a 15-degree angled front baffle that ensures optimum coverage within the auditorium while reducing reflections off the ceiling. An 8-inch bass driver with advanced voice coil technology pairs with Krix's proprietary high-frequency horn to deliver clean, intelligible surround sound. The compact form factor and tilted baffle make it ideal for rooms up to roughly 14 metres wide.</p><ul><li>8\" bass driver with advanced voice coil technology</li><li>15-degree angled front baffle for optimal seating-area coverage</li><li>Krix proprietary high-frequency horn</li><li>Compact form factor for easy installation</li><li>Designed for cinemas up to 14m wide</li><li>Each loudspeaker individually tested</li></ul><p>A practical, reliable surround channel for small-to-medium commercial cinemas and premium dedicated home theatres.</p>",
+      "Technical Table": "",
+      "Thumbnail_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0260f19fe8b4f9d6e3a_KX-1470.jpg",
+      "Gallery_vendor_urls": [
+        "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0260f19fe8b4f9d6e3a_KX-1470.jpg"
+      ],
+      "Brand": "krix",
+      "Product Categories": "cinema,audio",
+      "Product Tags": "speaker,cinema",
+      "Specsheet_vendor_url": "https://cdn.prod.website-files.com/63e33686b480b80aa505edc2/6525e0710286b7e39f26018c_KX-1470%20Cinema%20Specification%20Sheet-002.pdf"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "as-325",
+      "fields": ["Specsheet"],
+      "note": "Krix product page does not expose a direct PDF link for the AS-325 spec sheet (it is a passive acoustic-spacer accessory with minimal data) - checked krix.com.au/product/as-325."
+    },
+    {
+      "slug": "as-200",
+      "fields": ["Specsheet"],
+      "note": "Krix product page does not expose a direct PDF link for the AS-200 spec sheet (passive acoustic-spacer accessory) - checked krix.com.au/product/as-200."
+    },
+    {
+      "slug": "as-315",
+      "fields": ["Specsheet"],
+      "note": "Krix product page does not expose a direct PDF link for the AS-315 spec sheet (passive acoustic-spacer accessory) - checked krix.com.au/product/as-315."
+    },
+    {
+      "slug": "seismix-1-mk6",
+      "fields": ["Specsheet"],
+      "note": "The seismix1-mk6 product page is no longer on krix.com.au (superseded by Seismix 1 Mk7 / Seismix 1 Evara). Legacy WordPress PDF at krix.com.au/wp-content/uploads/2019/07/Seismix-1-MK6-Specification-Sheet-001.pdf also returns 404. Tech Table was filled from cached Krix copy."
+    }
+  ]
+}

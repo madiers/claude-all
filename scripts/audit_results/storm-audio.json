@@ -1,0 +1,42 @@
+{
+  "brand_slug": "storm-audio",
+  "existing_updates": [
+    {
+      "slug": "isp-evo",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-EVO-Specification-sheet-2025.03.25.pdf"
+    },
+    {
+      "slug": "isp-core-16",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-CORE-16-Specification-sheet-2025.06.24-1.pdf"
+    },
+    {
+      "slug": "isr-fusion-20",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/10/StormAudio-CI-ISR-FUSION-20-Specification-sheet-2025.11.12.pdf"
+    },
+    {
+      "slug": "isp-elite-mk3",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-ELITE-MK3-range-Specification-sheet-2025.03.25.pdf"
+    },
+    {
+      "slug": "pa-8-ultra-mk3",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-PA-MK3-Specification-sheet-2023.05.03.pdf"
+    },
+    {
+      "slug": "pa-16-mk3",
+      "Specsheet_vendor_url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-PA-MK3-Specification-sheet-2023.05.03.pdf"
+    }
+  ],
+  "new_products": [],
+  "unfindable": [
+    {
+      "slug": "calibration-kit",
+      "fields": ["Thumbnail", "Specsheet"],
+      "note": "StormAudio Calibration Kit is sold as a flight-case accessory (calibrated UMIK-1 microphone + stands + USB/CAT5 cables). No dedicated product page, thumbnail image, or PDF spec sheet is published on stormaudio.com; it only appears in dealer price lists and on the Room Calibration page (https://www.stormaudio.com/room-calibration/)."
+    },
+    {
+      "slug": "microphone-mini-kit",
+      "fields": ["Thumbnail", "Specsheet"],
+      "note": "StormAudio Microphone Mini-Kit (calibrated microphone + Pod + USB/CAT5 cable & extender) does not have its own product page, image asset, or spec sheet on stormaudio.com; it only appears in dealer listings (e.g. nintronics.co.uk) and the Room Calibration overview page."
+    }
+  ]
+}

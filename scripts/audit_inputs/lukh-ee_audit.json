@@ -1,0 +1,33 @@
+{
+  "brand": "lukh-ee",
+  "count": 3,
+  "products": [
+    {
+      "slug": "pl-collection-for-palladiom",
+      "title": "PL COLLECTION FOR PALLADIOM",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "faceplates"
+    },
+    {
+      "slug": "ra-collection-for-alice",
+      "title": "RA COLLECTION FOR ALICE",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "faceplates"
+    },
+    {
+      "slug": "pc-collection-for-pico",
+      "title": "PC COLLECTION FOR PICO",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "faceplates"
+    }
+  ]
+}

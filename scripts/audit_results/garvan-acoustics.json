@@ -1,0 +1,838 @@
+{
+  "brand_slug": "garvan-acoustics",
+  "vendor_site": "https://www.garvanacoustic.com",
+  "notes": "Garvan Acoustic (singular, .com) is the manufacturer. They make BOTH architectural speakers (Coro, Luna, Loto, Goccia, Celeste collections) AND acoustic panels (Architectural Acoustic Solutions: Atelier, CinemAtelier, Acoustic Parquet, Microbaffle, Quadra, Sound Quadra, Surface). All product datasheets follow the consistent URL pattern https://www.garvanacoustic.com/wp-content/uploads/2019/10/{SKU}_Datasheet.pdf and were spot-verified. The KA*H series (KA112H, KA213H, KA313H, KA316H, KA320H, KA520H) and WA220H / WA130H are the speaker / subwoofer variants integrated into Atelier panels (CinemAtelier product family) — their image URLs were extracted directly from the CinemAtelier page. Per the tag allowlist (only 'acoustic-sound-panels' is allowed), the Product Tags field is set only for acoustic panel / panel-integrated speaker products; for pure speakers / subwoofers the tag value is omitted because no allowlisted value applies. Product Categories is 'audio' across the board.",
+  "existing_updates": [
+    {
+      "slug": "sa520",
+      "title": "SA520",
+      "Technical Table": "<table><tbody><tr><th>Type</th><td>Speaker integrated in Atelier acoustic panel</td></tr><tr><th>Power</th><td>2 x 200 W RMS / 400 W MAX</td></tr><tr><th>Cabinet dimensions</th><td>110.0 x 36.0 x 8.6 cm</td></tr><tr><th>Frequency response</th><td>80 Hz - 20 kHz</td></tr><tr><th>Materials</th><td>Polyester fiber, Trevira CS fabric, steel frame</td></tr><tr><th>Finishes</th><td>Wide range of fabrics, colors, customisable graphics</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SA520_Datasheet.pdf"
+    },
+    {
+      "slug": "microbaffle",
+      "title": "MICROBAFFLE",
+      "Technical Table": "<table><tbody><tr><th>Type</th><td>Ceiling acoustic baffle with wooden slats</td></tr><tr><th>Materials</th><td>Polyester fiber core, fabric, real wood slats (concrete-effect option)</td></tr><tr><th>Available finishes</th><td>6 different finish combinations</td></tr><tr><th>Installation</th><td>Glue, magnets, 1-point or 4-point suspension</td></tr><tr><th>Fire rating</th><td>Class B-s2,d0 (EN 13501-1)</td></tr><tr><th>Function</th><td>Reduces noise and reverberation, improves speech clarity</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Microbaffle_Datasheet.pdf"
+    },
+    {
+      "slug": "kr16m",
+      "title": "KR16M",
+      "Technical Table": "<table><tbody><tr><th>Type</th><td>2-way in-ceiling marine / outdoor speaker</td></tr><tr><th>Power</th><td>150 W RMS / 300 W MAX</td></tr><tr><th>Impedance</th><td>8 Ω (KR16M) or 100V (KR16V)</td></tr><tr><th>Cover dimensions</th><td>44.0 x 19.0 cm</td></tr><tr><th>Installation footprint</th><td>50.0 x 25.0 x 10.0 cm</td></tr><tr><th>Materials</th><td>Plastic-free, marine-grade components, flush mount</td></tr><tr><th>Warranty</th><td>3 + 1 + 1 year</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR16M_Datasheet.pdf"
+    },
+    {
+      "slug": "wa220",
+      "title": "WA220",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA220_Datasheet.pdf"
+    },
+    {
+      "slug": "sn220",
+      "title": "SN220",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SN220_Datasheet.pdf"
+    },
+    {
+      "slug": "sn120",
+      "title": "SN120",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SN120_Datasheet.pdf"
+    },
+    {
+      "slug": "acoustic-parquet",
+      "title": "ACOUSTIC PARQUET",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Acoustic_Parquet_Datasheet.pdf"
+    },
+    {
+      "slug": "quadra",
+      "title": "QUADRA",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Quadra_Datasheet.pdf"
+    },
+    {
+      "slug": "kr107",
+      "title": "KR107",
+      "Description": "<h3>KR107 slim in-wall and in-ceiling speaker</h3><p>The Garvan Acoustic KR107 is a slim, full-range in-wall speaker from the Luna collection. Engineered for architects and installers who demand a discreet, plastic-free, flush-mounted speaker, the KR107 disappears into the architecture while delivering clear, natural sound. The narrow 11 cm baffle hides behind a magnetic fabric or perforated steel cover so the only visible element is a refined trim that aligns with the surrounding wall finish.</p><ul><li>Full-range driver tuned for music and voice</li><li>Plastic-free metal frame, flush to plasterboard or masonry walls</li><li>Removable magnetic cover available in fabric, RAL/NCS-painted steel, brushed stainless or Corten</li><li>Designed for Multiroom and home cinema surround installations</li></ul><p>The KR107 ships with a pre-construction box for fast, clean integration into both new builds and renovations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/slim-speakers-kr107/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR107_Datasheet.pdf"
+    },
+    {
+      "slug": "kr108",
+      "title": "KR108",
+      "Description": "<h3>KR108 slim in-wall loudspeaker</h3><p>The KR108 is a 40 W RMS / 80 W MAX full-range in-wall speaker from Garvan Acoustic's Luna collection. Just 11 cm wide, it slots discreetly into Multiroom and Home Cinema installations without breaking the visual line of a wall. The KR108 is plastic-free, flush-mounted, and accepts a wide range of magnetic covers (fabric, micro-perforated grids, painted or stainless steel).</p><ul><li>Full-range driver, 40 W RMS / 80 W MAX, 8 Ω</li><li>Cover 11 x 11 cm, installation depth 5.7 cm</li><li>Four cover shapes: round, square, 11x28 cm, 11x44 cm</li><li>Lacquered grids in any RAL/NCS color, plus brushed or Corten steel</li></ul><p>Part of the Luna family, the KR108 pairs flexibility with truly minimal visual impact for residential and hospitality projects.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/slim-loudspeakers-kr108/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR108_Datasheet.pdf"
+    },
+    {
+      "slug": "kr308",
+      "title": "KR308",
+      "Description": "<h3>KR308 slim in-wall speaker</h3><p>The KR308 is a slim, flush-mount in-wall speaker from the Luna collection by Garvan Acoustic. Designed for new builds and renovations alike, the KR308 fits in only 11 cm of baffle width and disappears behind a magnetic fabric or steel cover. It's a strong choice for distributed audio and surround use where the wall finish must remain the visual focus.</p><ul><li>Slim, plastic-free, flush-mounted construction</li><li>Magnetic covers available in fabric, micro-perforated steel, RAL/NCS lacquered finish, brushed stainless or Corten</li><li>Pre-construction box for clean integration in plasterboard or masonry</li><li>Tuned for clear vocal reproduction and balanced music playback</li></ul><p>The KR308 is part of Garvan's wider Luna family of architectural in-wall speakers.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/slim-in-wall-speakers-kr308/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR308_Datasheet.pdf"
+    },
+    {
+      "slug": "kr508",
+      "title": "KR508",
+      "Description": "<h3>KR508 slim in-wall speaker</h3><p>The KR508 is a slim Luna-series in-wall speaker from Garvan Acoustic. It is engineered for design-led residential and hospitality installations where the speaker must remain visually subordinate to the architecture. The narrow baffle accepts fabric or perforated metal covers and is fully customisable in RAL / NCS colours, brushed stainless or Corten steel.</p><ul><li>Slim, flush-mounted, plastic-free construction</li><li>Magnetic interchangeable covers, fabric or steel</li><li>Multi-finish trim available in any RAL/NCS colour</li><li>Compatible with Garvan's Luna pre-construction boxes</li></ul><p>Specified for Multiroom, ceiling-mounted surround, and discreet background music systems.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/slim-speaker-kr508/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR508_Datasheet.pdf"
+    },
+    {
+      "slug": "kr111",
+      "title": "KR111",
+      "Description": "<h3>KR111 in-wall speakers</h3><p>The KR111 is a Garvan Acoustic Luna-series in-wall speaker designed to integrate flush into walls and ceilings without any visible plastic. Magnetic fabric or steel covers can be specified in a wide range of finishes so the speaker matches the surrounding architecture rather than competing with it.</p><ul><li>Plastic-free, flush-mounted in-wall configuration</li><li>Magnetic cover system: fabric, perforated steel, RAL/NCS colours, brushed stainless or Corten</li><li>Pre-construction box for new builds and renovations</li><li>Suitable for Multiroom and Home Cinema use</li></ul><p>The KR111 shares the Luna family's customisation system with all other KR-series models.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-speakers-kr111/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR111_Datasheet.pdf"
+    },
+    {
+      "slug": "kr207",
+      "title": "KR207",
+      "Description": "<h3>KR207 false-ceiling speaker</h3><p>The KR207 is a Luna-series false-ceiling speaker from Garvan Acoustic. It drops into standard suspended-ceiling grids with a clean, flush appearance, and accepts magnetic fabric or metal covers in custom colours and finishes. The KR207 is plastic-free and designed to remain visually unobtrusive while delivering full, natural music and voice reproduction.</p><ul><li>False-ceiling installation, flush profile</li><li>Magnetic interchangeable cover: fabric, perforated steel, RAL/NCS lacquer, brushed stainless or Corten</li><li>Plastic-free metal construction</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Used in retail, hospitality, and high-end residential projects across the Luna family.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/false-ceiling-speakers-kr207/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR207_Datasheet.pdf"
+    },
+    {
+      "slug": "kr118",
+      "title": "KR118",
+      "Description": "<h3>KR118 in-ceiling speaker</h3><p>The KR118 is a Garvan Acoustic Luna-series in-ceiling speaker. Designed for residential and commercial fit-outs, it integrates flush into the ceiling plane with a slim, plastic-free trim. Magnetic covers can be ordered in fabric, micro-perforated steel, or solid colours so the unit blends naturally into any interior scheme.</p><ul><li>Flush in-ceiling installation, plastic-free</li><li>Compatible with Garvan plasterboard recessed boxes</li><li>Magnetic covers in fabric, perforated steel, lacquered, stainless or Corten</li><li>Tuned for full-bandwidth voice and music playback</li></ul><p>Part of Garvan's Luna family of architectural in-wall and in-ceiling speakers.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/ceiling-speakers-kr118/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR118_Datasheet.pdf"
+    },
+    {
+      "slug": "kr120",
+      "title": "KR120",
+      "Description": "<h3>KR120 in-ceiling speakers</h3><p>The KR120 is a Luna-series in-ceiling speaker from Garvan Acoustic. With its plastic-free, flush trim it delivers clean acoustic performance while staying visually subdued. The magnetic cover system means installers can choose between fabric, perforated steel, and custom RAL/NCS finishes after the speaker is mounted.</p><ul><li>Flush in-ceiling mount, plastic-free trim</li><li>Magnetic interchangeable covers</li><li>Custom finishes in any RAL/NCS colour, plus brushed stainless or Corten steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Designed for Multiroom, distributed audio, and high-quality home cinema installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-ceiling-speakers-kr120/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR120_Datasheet.pdf"
+    },
+    {
+      "slug": "kr112",
+      "title": "KR112",
+      "Description": "<h3>KR112 in-wall speaker</h3><p>The KR112 is a Garvan Acoustic Luna-series in-wall speaker. Designed for clean, flush integration into walls and ceilings, it works well in Multiroom systems and home cinema installations that demand an invisible, plastic-free finish. Magnetic covers slot into a steel frame and can be finished in any RAL or NCS colour, brushed stainless or Corten.</p><ul><li>Flush wall installation, plastic-free trim</li><li>Magnetic covers: fabric, micro-perforated steel, custom colours</li><li>Suitable for new construction or renovation with Garvan recessed boxes</li><li>Tuned for clear voice and balanced music reproduction</li></ul><p>Shares cover and finish options with all other KR-series Luna models.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-speaker-kr112/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR112_Datasheet.pdf"
+    },
+    {
+      "slug": "kr208",
+      "title": "KR208",
+      "Description": "<h3>KR208 plasterboard recessed boxes</h3><p>The KR208 is Garvan Acoustic's pre-construction recessed box for plasterboard walls, used to host KR-series Luna in-wall speakers. It is fitted during the construction phase so that, once the plasterboard is finished, the speaker drops in flush with the wall plane and presents only a slim trim.</p><ul><li>Pre-construction recessed enclosure for plasterboard walls</li><li>Compatible with the Luna-series in-wall speaker range</li><li>Helps achieve a flush, plastic-free, fully integrated speaker installation</li><li>Made of steel for long-term mechanical and acoustic stability</li></ul><p>Specified by architects and integrators when designing distributed audio and home cinema systems into new builds.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/plasterboard-recessed-boxes-kr208/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR208_Datasheet.pdf"
+    },
+    {
+      "slug": "kr117",
+      "title": "KR117",
+      "Description": "<h3>KR117 ceiling speaker</h3><p>The KR117 is a Garvan Acoustic Luna-series ceiling speaker. Designed to integrate flush into the ceiling, it offers wide, even dispersion and natural reproduction of voice and music. The magnetic cover system can be specified in fabric, perforated steel, or custom RAL/NCS finishes so the speaker remains visually subordinate to the room design.</p><ul><li>Flush in-ceiling mount, plastic-free</li><li>Magnetic cover system, easily swapped on site</li><li>Pre-construction box compatibility</li><li>Tuned for both background and foreground audio applications</li></ul><p>Part of the wider Luna catalogue alongside KR111, KR118 and KR120.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/ceiling-speaker-kr117/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR117_Datasheet.pdf"
+    },
+    {
+      "slug": "kr119",
+      "title": "KR119",
+      "Description": "<h3>KR119 in-wall speakers</h3><p>The KR119 is a Garvan Acoustic Luna-series in-wall speaker engineered for clean, flush installation in walls and ceilings. The plastic-free trim and magnetic cover system make it well suited to residential, hospitality and commercial environments where the speaker must integrate with the surrounding finish rather than stand out from it.</p><ul><li>Flush wall installation, plastic-free</li><li>Magnetic cover options: fabric, perforated steel, RAL/NCS lacquered, brushed stainless or Corten</li><li>Compatible with Garvan plasterboard recessed boxes</li><li>Used for Multiroom, surround and distributed audio</li></ul><p>Available as standard within the Luna catalogue with consistent finish options across the range.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wall-speakers-kr119/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR119_Datasheet.pdf"
+    },
+    {
+      "slug": "kc216",
+      "title": "KC216",
+      "Description": "<h3>KC216 built-in speaker</h3><p>The KC216 is a Garvan Acoustic Luna-series built-in speaker. It is engineered for flush integration into walls and ceilings, using a magnetic cover system that lets specifiers choose between fabric, perforated steel and custom RAL / NCS finishes after installation. The plastic-free, all-metal frame keeps the visible footprint to a minimum and pairs cleanly with both modern and traditional interiors.</p><ul><li>Flush built-in installation, plastic-free trim</li><li>Magnetic interchangeable covers, fabric or metal</li><li>Multi-finish trim available in any RAL/NCS colour, brushed stainless or Corten</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna family of architectural speakers.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/built-in-speaker-kc216/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KC216_Datasheet.pdf"
+    },
+    {
+      "slug": "kr213",
+      "title": "KR213",
+      "Description": "<h3>KR213 recessed wall speakers</h3><p>The KR213 is a Garvan Acoustic Luna-series recessed in-wall speaker. Designed for residential and high-end commercial fit-outs, it integrates flush with the wall and accepts magnetic covers in fabric or steel for full visual customisation. The plastic-free design is built for long-term reliability in continuous-use installations.</p><ul><li>Recessed in-wall installation, plastic-free trim</li><li>Magnetic interchangeable covers</li><li>Custom RAL / NCS, stainless or Corten finishes</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna family of in-wall and in-ceiling speakers.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/recessed-wall-speakers-kr213/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR213_Datasheet.pdf"
+    },
+    {
+      "slug": "kc316",
+      "title": "KC316",
+      "Description": "<h3>KC316 speakers for plasterboard</h3><p>The KC316 is a Garvan Acoustic Luna-series in-wall speaker engineered specifically for plasterboard installations. The slim, plastic-free trim sits flush with the finished wall and the magnetic cover system allows the speaker to disappear into the surrounding architecture in fabric or painted steel.</p><ul><li>Designed for plasterboard wall installation</li><li>Flush, plastic-free finish trim</li><li>Magnetic interchangeable covers in fabric or steel</li><li>Multi-finish customisation in RAL / NCS colours, brushed stainless or Corten</li></ul><p>Specified for residential Multiroom and home cinema systems where wall finish integrity is critical.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/speakers-for-plasterboard-kc316/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KC316_Datasheet.pdf"
+    },
+    {
+      "slug": "kr316",
+      "title": "KR316",
+      "Description": "<h3>KR316 in-wall loudspeaker</h3><p>The KR316 is a Garvan Acoustic Luna-series in-wall loudspeaker. It mounts flush into the wall with a slim plastic-free trim, leaving only the magnetic cover visible. The cover system can be specified in fabric, perforated steel or custom RAL / NCS finishes, so the speaker can be detailed to vanish into the surrounding wall finish.</p><ul><li>Flush in-wall installation, plastic-free design</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim: fabric, painted steel, brushed stainless or Corten</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna family of architectural in-wall and in-ceiling speakers.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/loudspeaker-kr316/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR316_Datasheet.pdf"
+    },
+    {
+      "slug": "kr313",
+      "title": "KR313",
+      "Description": "<h3>KR313 recessed wall speaker</h3><p>The KR313 is a Garvan Acoustic Luna-series recessed wall speaker. It is engineered for clean, flush integration in plasterboard or masonry walls, with the slim plastic-free trim sitting level with the finished surface. Magnetic covers are interchangeable on site and can be specified in fabric, perforated steel, or custom RAL / NCS colours.</p><ul><li>Recessed flush wall installation</li><li>Plastic-free metal trim</li><li>Magnetic interchangeable covers, fabric or steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Used in residential, hospitality and high-end commercial environments.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/recessed-wall-speaker-kr313/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR313_Datasheet.pdf"
+    },
+    {
+      "slug": "kr513",
+      "title": "KR513",
+      "Description": "<h3>KR513 in-wall speakers</h3><p>The KR513 is a Garvan Acoustic Luna-series in-wall speaker. It uses a plastic-free, flush-mounted frame and a magnetic cover system so the speaker integrates cleanly with the surrounding wall finish. Covers are available in fabric or perforated steel with custom RAL / NCS lacquer, brushed stainless or Corten finishes.</p><ul><li>Flush in-wall mount, plastic-free trim</li><li>Magnetic interchangeable cover system</li><li>Wide range of fabric, painted and steel finishes</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna family of in-wall and in-ceiling speakers, sharing finish options with KR316, KR413 and KR513.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-speakers-kr513/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR513_Datasheet.pdf"
+    },
+    {
+      "slug": "kr117n30",
+      "title": "KR117N30",
+      "Description": "<h3>KR117N30 angled in-ceiling speaker</h3><p>The KR117N30 is the 30°-angled version of the KR117 in-ceiling speaker, part of Garvan Acoustic's Luna collection. The angled baffle directs the sound off-axis, ideal for ceilings above doorways, large rooms, or surround applications where the listener is not directly below the speaker. The trim remains flush and plastic-free, and accepts the full Luna magnetic cover range.</p><ul><li>30° angled in-ceiling baffle, flush trim</li><li>Improves coverage when the listener is off-axis</li><li>Magnetic covers: fabric, perforated steel, custom finishes</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>A specialist Luna variant for home cinema height channels and large-room background music.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/angled-in-ceiling-speaker-kr117n30/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR117N30_Datasheet.pdf"
+    },
+    {
+      "slug": "kr119n30",
+      "title": "KR119N30",
+      "Description": "<h3>KR119N30 angled in-wall speakers</h3><p>The KR119N30 is the 30°-angled version of the Luna-series KR119 in-wall speaker from Garvan Acoustic. The angled baffle aims sound off-axis, useful for surround channels and rooms where the listening seat is not on the speaker's normal axis. The plastic-free flush trim and magnetic cover system remain identical to the standard KR119.</p><ul><li>30° angled in-wall baffle, flush trim</li><li>Plastic-free metal frame</li><li>Magnetic covers in fabric, perforated steel, RAL / NCS lacquer, brushed stainless or Corten</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Specified for surround channels in dedicated home cinema rooms.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/angled-in-wall-speakers-kr119n30/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR119N30_Datasheet.pdf"
+    },
+    {
+      "slug": "kr12m",
+      "title": "KR12M",
+      "Description": "<h3>KR12M outdoor in-wall speaker</h3><p>The KR12M is a Garvan Acoustic Luna-series marine / outdoor in-wall speaker. Built with weather-resistant materials and designed for harsh environments, it integrates flush into outdoor walls or covered patios while retaining the plastic-free, magnetic-cover Luna design language. It is specified for residential gardens, yacht interiors and pool decks where the speaker must withstand humidity, salt and temperature swings.</p><ul><li>Marine / outdoor weather-resistant construction</li><li>Plastic-free flush installation</li><li>Magnetic interchangeable covers in marine-grade finishes</li><li>3 + 1 + 1 year warranty</li></ul><p>Part of Garvan's outdoor Luna lineup alongside KR16M and KR22M.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/outdoor-in-wall-speakers-kr12m/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR12M_Datasheet.pdf"
+    },
+    {
+      "slug": "kr22m",
+      "title": "KR22M",
+      "Description": "<h3>KR22M outdoor speakers</h3><p>The KR22M is a Garvan Acoustic Luna-series marine / outdoor in-wall speaker. It is built with weather-resistant materials so it can be installed in gardens, on terraces, in yacht interiors, and in spa / pool environments. The flush plastic-free trim and magnetic cover system mean the speaker integrates cleanly into the surrounding architecture even outdoors.</p><ul><li>Outdoor weather-resistant construction</li><li>Plastic-free flush installation</li><li>Magnetic interchangeable marine-grade covers</li><li>Includes Garvan's 3 + 1 + 1 year warranty</li></ul><p>Part of Garvan's outdoor Luna lineup alongside KR16M and KR12M.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/speakers-for-outdoor-kr22m/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR22M_Datasheet.pdf"
+    },
+    {
+      "slug": "kc416",
+      "title": "KC416",
+      "Description": "<h3>KC416 in-wall speaker with center channel</h3><p>The KC416 is a Garvan Acoustic Luna-series in-wall LCR speaker bar. It combines two side speakers and a central 2-way coaxial center channel in one slim flush-mounted frame, designed for home cinema systems where the screen and the speaker must share the same wall. The plastic-free build and magnetic cover system let the speaker disappear into the wall finish.</p><ul><li>L / C / R configuration in a single in-wall frame</li><li>Center: 2-way coaxial, 50 W RMS / 100 W MAX, 16 cm woofer + 1.4 cm tweeter</li><li>Left / Right: 2-way, 75 W RMS / 150 W MAX, 16 cm woofer + 2.5 cm tweeter</li><li>Cover 44.0 x 19.0 cm, installation depth 1.5 cm + 9.5 cm cutout</li></ul><p>Part of the Luna family and finished with the same magnetic cover system used across the Luna in-wall range.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-speaker-with-center-channel-kc416/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KC416_Datasheet.pdf"
+    },
+    {
+      "slug": "kr413",
+      "title": "KR413",
+      "Description": "<h3>KR413 in-wall loudspeaker with central channel</h3><p>The KR413 is a Garvan Acoustic Luna-series in-wall LCR speaker bar combining left, right and center channels in a single flush in-wall frame. It is designed for home cinema systems where the screen and the speakers share the same wall, and uses the Luna magnetic cover system in fabric or steel for a clean, integrated finish.</p><ul><li>L / C / R configuration in one in-wall frame</li><li>Flush mount, plastic-free trim</li><li>Magnetic interchangeable covers, fabric or steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Used for projector-screen, motorised-screen and TV-on-wall home theatre installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-loudspeaker-with-central-channel-kr413/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR413_Datasheet.pdf"
+    },
+    {
+      "slug": "kw108",
+      "title": "KW108",
+      "Description": "<h3>KW108 on-wall speaker</h3><p>The KW108 is a Garvan Acoustic Coro-series on-wall speaker. It is engineered for installations where in-wall mounting is not possible and the speaker must sit proud of the wall while still presenting a clean, minimal silhouette. The KW108 uses the same magnetic cover system as the rest of the Coro family, with fabric, perforated steel and painted finishes available.</p><ul><li>On-wall installation, slim cabinet</li><li>Magnetic interchangeable covers</li><li>Fabric, perforated steel, RAL / NCS lacquered, brushed stainless or Corten finishes</li><li>Compatible with Coro accessory brackets</li></ul><p>Part of the Coro flat-speaker range used in Multiroom and home cinema systems.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw108/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW108_Datasheet.pdf"
+    },
+    {
+      "slug": "kw109",
+      "title": "KW109",
+      "Description": "<h3>KW109 compact on-wall speaker</h3><p>The KW109 is a Garvan Acoustic Coro-series compact on-wall speaker. It is engineered for environments where space is limited but the speaker still needs to integrate into a refined architectural finish. Like the rest of the Coro family, it ships with a magnetic cover that can be specified in a range of fabrics, painted steels or custom RAL / NCS colours.</p><ul><li>Compact on-wall cabinet, slim profile</li><li>Magnetic interchangeable covers</li><li>Multi-finish options: fabric, perforated steel, custom paint, brushed stainless or Corten</li><li>Compatible with Coro brackets</li></ul><p>Suited to study rooms, kitchens and other small Multiroom zones.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/compact-acoustic-speaker-kw109/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW109_Datasheet.pdf"
+    },
+    {
+      "slug": "kw110",
+      "title": "KW110",
+      "Description": "<h3>KW110 speaker cube</h3><p>The KW110 is a Garvan Acoustic Coro-series \"speaker cube\" — a compact, design-driven on-wall speaker built into a cubic cabinet. The magnetic cover system lets specifiers choose between fabric, perforated steel and custom RAL / NCS finishes, so the speaker can either disappear into the wall or be displayed as a finished object.</p><ul><li>Compact cubic on-wall cabinet</li><li>Magnetic interchangeable cover system</li><li>Fabric, perforated steel, painted, brushed stainless or Corten finishes</li><li>Compatible with the Coro mounting accessory range</li></ul><p>Part of the Coro family of flat speakers used in Multiroom and decorative audio installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/speaker-cube-kw110/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW110_Datasheet.pdf"
+    },
+    {
+      "slug": "kw112",
+      "title": "KW112",
+      "Description": "<h3>KW112 on-ceiling speaker</h3><p>The KW112 is a Garvan Acoustic Coro-series on-ceiling speaker for situations where in-ceiling mounting is impractical. It mounts proud of the ceiling in a slim cabinet, with a magnetic cover system that can be specified in fabric, perforated steel, custom RAL / NCS lacquer, brushed stainless or Corten finishes to integrate with the surrounding architecture.</p><ul><li>On-ceiling installation, slim cabinet</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim in any RAL / NCS colour</li><li>Compatible with Coro mounting accessories</li></ul><p>Part of the Coro family of flat speakers used in Multiroom and home cinema configurations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/on-ceiling-speaker-kw112/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW112_Datasheet.pdf"
+    },
+    {
+      "slug": "kw208",
+      "title": "KW208",
+      "Description": "<h3>KW208 on-wall speaker</h3><p>The KW208 is a Garvan Acoustic Coro-series on-wall speaker built into a slim flat cabinet. It is designed for installations where the speaker must sit proud of the wall but still present a clean, refined finish. The magnetic cover system can be specified in fabric or steel, with custom RAL / NCS colours, brushed stainless or Corten finishes.</p><ul><li>Slim on-wall cabinet</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim: fabric, painted steel, brushed stainless, Corten</li><li>Compatible with Coro brackets</li></ul><p>Part of Garvan's Coro flat-speaker family alongside KW108, KW109 and KW110.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw208/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW208_Datasheet.pdf"
+    },
+    {
+      "slug": "kw213",
+      "title": "KW213",
+      "Description": "<h3>KW213 on-wall speaker</h3><p>The KW213 is a Garvan Acoustic Coro-series on-wall speaker. It mounts in a slim flat cabinet on the wall surface and is specified with the same magnetic cover system as the rest of the Coro family. Fabric, perforated steel, and painted finishes can be chosen so the speaker either integrates with the wall finish or stands out as a designed object.</p><ul><li>On-wall flat cabinet, slim profile</li><li>Magnetic interchangeable covers</li><li>Wide finish range, fabric or steel</li><li>Compatible with Coro mounting accessories</li></ul><p>Part of the Coro flat-speaker range used in Multiroom and home cinema systems.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw213/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW213_Datasheet.pdf"
+    },
+    {
+      "slug": "kw22m",
+      "title": "KW22M",
+      "Description": "<h3>KW22M outdoor wall-mount speaker</h3><p>The KW22M is a Garvan Acoustic Coro-series marine / outdoor on-wall speaker. Built with stainless components and weather-resistant materials, it is suitable for gardens, pool decks, yacht decks and spa areas. The slim cabinet keeps the visual profile minimal while delivering full, natural sound in demanding outdoor environments.</p><ul><li>Outdoor / marine on-wall configuration</li><li>Weather-resistant materials, AISI 316-grade components</li><li>Multi-finish cover system including marine paint and stainless steel</li><li>3 + 1 + 1 year warranty</li></ul><p>Part of the Coro outdoor family alongside KW16M and KW12M.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/outdoor-wall-mount-speaker-kw22m/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW22M_Datasheet.pdf"
+    },
+    {
+      "slug": "kw25m",
+      "title": "KW25M",
+      "Description": "<h3>KW25M outdoor on-wall speaker</h3><p>The KW25M is a Garvan Acoustic Coro-series marine / outdoor on-wall speaker. Engineered with weather-resistant materials, it is suited for installation in gardens, pools, saunas, steam rooms and yachts. The slim flat cabinet keeps the speaker visually subordinate while delivering full sound in demanding outdoor conditions.</p><ul><li>Outdoor / marine on-wall installation</li><li>Weather-resistant construction with marine-grade components</li><li>Multi-finish cover system including marine paint and stainless steel</li><li>3 + 1 + 1 year warranty</li></ul><p>Part of the Coro outdoor family alongside KW16M, KW12M and KW22M.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/kw25m/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW25M_Datasheet.pdf"
+    },
+    {
+      "slug": "kw313",
+      "title": "KW313",
+      "Description": "<h3>KW313 wall-mount speaker</h3><p>The KW313 is a Garvan Acoustic Coro-series on-wall speaker. It is built into a slim flat cabinet so it stays visually subdued when mounted on a wall surface. The magnetic cover system can be specified in fabric or perforated steel with painted, brushed stainless or Corten finishes, matching the rest of the Coro family.</p><ul><li>Slim on-wall flat cabinet</li><li>Magnetic interchangeable covers</li><li>Wide range of fabric and steel finishes</li><li>Compatible with Coro brackets and mounting accessories</li></ul><p>Part of the Coro flat-speaker family alongside KW208, KW213 and KW316.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wall-mount-speaker-kw313/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW313_Datasheet.pdf"
+    },
+    {
+      "slug": "kw316",
+      "title": "KW316",
+      "Description": "<h3>KW316 on-wall speakers</h3><p>The KW316 is a Garvan Acoustic Coro-series on-wall speaker. It is engineered into a slim flat cabinet that mounts on the wall surface with minimum visual impact. The magnetic cover system supports fabric, perforated steel and custom RAL / NCS finishes, so the speaker can either match the wall or be specified as a designed object in its own right.</p><ul><li>Slim on-wall flat cabinet</li><li>Magnetic interchangeable covers</li><li>Wide finish range: fabric, perforated steel, painted, brushed stainless or Corten</li><li>Compatible with Coro accessories</li></ul><p>Part of the Coro flat-speaker family alongside KW208, KW213, KW313 and KW413.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/on-wall-speakers-kw316/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW316_Datasheet.pdf"
+    },
+    {
+      "slug": "kw413",
+      "title": "KW413",
+      "Description": "<h3>KW413 wall-mount speaker with center channel</h3><p>The KW413 is a Garvan Acoustic Coro-series on-wall LCR speaker bar that combines left, right and center channels in a single slim flat cabinet. It is designed for home cinema systems where the screen and the speakers share the same wall, and uses the Coro magnetic cover system for clean, customised finishes in fabric or steel.</p><ul><li>L / C / R configuration in one on-wall cabinet</li><li>Slim flat enclosure</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim: fabric, painted steel, brushed stainless or Corten</li></ul><p>Part of the Coro flat-speaker family, paired with Coro brackets for clean wall mounting.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wall-mount-speaker-with-center-channel-kw413/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW413_Datasheet.pdf"
+    },
+    {
+      "slug": "kw513",
+      "title": "KW513",
+      "Description": "<h3>KW513 on-wall speaker</h3><p>The KW513 is a Garvan Acoustic Coro-series on-wall speaker. It is built into a slim flat cabinet for wall mounting in environments where in-wall installation is not possible. The magnetic cover system supports fabric, perforated steel, custom RAL / NCS colours, brushed stainless and Corten finishes, matching the rest of the Coro family.</p><ul><li>On-wall flat cabinet, slim profile</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim options</li><li>Compatible with Coro brackets</li></ul><p>Part of the Coro flat-speaker family used in Multiroom and home cinema systems.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/kw513/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW513_Datasheet.pdf"
+    },
+    {
+      "slug": "kb112",
+      "title": "KB112",
+      "Description": "<h3>KB112 bookshelf speaker</h3><p>The KB112 is a Garvan Acoustic Coro-series bookshelf speaker. It uses the same magnetic cover system as the rest of the Coro family, so the speaker can be finished in fabric, perforated steel or custom RAL / NCS colours to match the surrounding interior. Designed for stand or shelf placement, it slots into stereo, Multiroom and home cinema setups where a discreet but high-quality bookshelf speaker is needed.</p><ul><li>Compact bookshelf cabinet</li><li>Magnetic interchangeable covers</li><li>Wide finish range, fabric or steel</li><li>Multi-finish trim in any RAL / NCS colour</li></ul><p>Part of the Coro bookshelf family alongside KB213, KB313, KB316 and KB513.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/kb112/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KB112_Datasheet.pdf"
+    },
+    {
+      "slug": "kb213",
+      "title": "KB213",
+      "Description": "<h3>KB213 bookshelf speakers</h3><p>The KB213 is a Garvan Acoustic Coro-series bookshelf speaker. Built into a slim cabinet with the Coro magnetic cover system, it is designed for stand or shelf placement in stereo and Multiroom installations. Finishes include fabric, perforated steel, custom RAL / NCS lacquer, brushed stainless and Corten.</p><ul><li>Compact bookshelf cabinet</li><li>Magnetic interchangeable covers</li><li>Wide finish range, fabric or steel</li><li>Pairs well with WA113 / WAE121 subwoofers</li></ul><p>Part of the Coro bookshelf family alongside KB112, KB313, KB316 and KB513.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/kb213-bookshelf-speakers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KB213_Datasheet.pdf"
+    },
+    {
+      "slug": "kb313",
+      "title": "KB313",
+      "Description": "<h3>KB313 bookshelf loudspeakers</h3><p>The KB313 is a Garvan Acoustic Coro-series bookshelf loudspeaker. It sits on a stand or shelf in stereo and Multiroom installations and uses the Coro magnetic cover system, so the visible face can be specified in fabric, perforated steel or custom colours.</p><ul><li>Compact bookshelf cabinet</li><li>Magnetic interchangeable covers</li><li>Multi-finish trim: fabric, painted steel, brushed stainless or Corten</li><li>Pairs naturally with Garvan Coro and Luna systems</li></ul><p>Part of the Coro bookshelf family alongside KB213, KB316 and KB513.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/bookshelf-loudspeakers-kb313/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KB313_Datasheet.pdf"
+    },
+    {
+      "slug": "kb316",
+      "title": "KB316",
+      "Description": "<h3>KB316 bookshelf loudspeaker</h3><p>The KB316 is a Garvan Acoustic Coro-series bookshelf loudspeaker. It uses the Coro family's magnetic cover system so it can be finished in fabric, perforated steel, custom RAL / NCS lacquer, brushed stainless or Corten. Designed for stand or shelf placement, it supports stereo, Multiroom and home cinema setups in residential and commercial spaces.</p><ul><li>Compact bookshelf cabinet</li><li>Magnetic interchangeable covers</li><li>Wide finish range, fabric or steel</li><li>Pairs naturally with KB-series and WA-series subwoofers</li></ul><p>Part of the Coro bookshelf family alongside KB112, KB213, KB313 and KB513.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/bookshelf-loudspeaker-kb316/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KB316_Datasheet.pdf"
+    },
+    {
+      "slug": "kb513",
+      "title": "KB513",
+      "Description": "<h3>KB513 bookshelf speaker</h3><p>The KB513 is a Garvan Acoustic Coro-series bookshelf speaker. It is built into a slim cabinet with the Coro magnetic cover system, supporting fabric, perforated steel and custom RAL / NCS finishes. Designed for stand or shelf placement in stereo, Multiroom and home cinema installations.</p><ul><li>Compact bookshelf cabinet</li><li>Magnetic interchangeable covers</li><li>Wide finish range, fabric or steel</li><li>Pairs cleanly with Garvan amplifiers and subwoofers</li></ul><p>Part of the Coro bookshelf family alongside KB112, KB213, KB313 and KB316.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/speaker-kb513/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KB513_Datasheet.pdf"
+    },
+    {
+      "slug": "wa113",
+      "title": "WA113",
+      "Description": "<h3>WA113 passive subwoofer</h3><p>The WA113 is a Garvan Acoustic Coro-series passive subwoofer. Designed to pair with KB-series bookshelf speakers and KW-series on-wall speakers, the WA113 extends the low-frequency response of the system in stereo, Multiroom and home cinema configurations. It is driven by an external amplifier so it integrates cleanly into both rack-mounted and architectural installations.</p><ul><li>Passive subwoofer, externally amplified</li><li>Compact cabinet for floor or behind-furniture placement</li><li>Coro magnetic cover system for finish customisation</li><li>Pairs with KB-series bookshelf or KW-series on-wall speakers</li></ul><p>Part of the wider Coro 2.1 / 5.1 systems sold with the Microkit configuration.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/passive-subwoofer-wa113/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA113_Datasheet.pdf"
+    },
+    {
+      "slug": "wa216-active",
+      "title": "WA216 Active",
+      "Description": "<h3>WA216 Active micro subwoofer</h3><p>The WA216 Active is a Garvan Acoustic compact active micro subwoofer. It pairs a 130 mm woofer with a 160 mm passive radiator in a steel cabinet, delivering deep low-frequency output from a small enclosure. The integrated amplifier means it can be added to any system that has a line-level subwoofer output, including TV soundbars, music streamers and Multiroom amplifiers.</p><ul><li>Active subwoofer, built-in amplifier</li><li>Power: 100 W RMS / 200 W MAX</li><li>13 cm woofer + 16 cm passive radiator, steel cabinet</li><li>Dimensions 23.0 x 21.0 x 23.0 cm, weight 6.5 kg</li></ul><p>Designed for music listening and home cinema in constrained spaces.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wa216-active/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA216_Datasheet.pdf"
+    },
+    {
+      "slug": "wa216-passive",
+      "title": "WA216 Passive",
+      "Description": "<h3>WA216 Passive micro subwoofer</h3><p>The WA216 Passive is the externally-amplified version of Garvan Acoustic's compact WA216 micro subwoofer. It pairs a 130 mm woofer with a 160 mm passive radiator in a steel cabinet, and is driven from an external amplifier or AV receiver. The compact footprint makes it easy to integrate behind furniture or in cabinetry while still extending the low-frequency response of a stereo or Multiroom system.</p><ul><li>Passive subwoofer driven from an external amplifier</li><li>13 cm woofer + 16 cm passive radiator, steel cabinet</li><li>Same physical footprint as the WA216 Active</li><li>Pairs cleanly with Garvan Coro and Luna systems</li></ul><p>Used alongside KB-series bookshelves and KR-series in-walls for 2.1 / 5.1 systems.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wa216-passive/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA216_Datasheet.pdf"
+    },
+    {
+      "slug": "wae121p",
+      "title": "WAE121P",
+      "Description": "<h3>WAE121P passive subwoofer</h3><p>The WAE121P is the passive version of Garvan Acoustic's WAE121 active subwoofer. Built into the same compact cabinet, it is driven from an external amplifier and is engineered to extend the low-frequency response of stereo, Multiroom and home cinema systems built around the Coro and Luna speaker families.</p><ul><li>Passive subwoofer driven from an external amplifier</li><li>Same cabinet and driver as the WAE121 Active</li><li>Designed for cabinetry or behind-furniture installation</li><li>Pairs cleanly with KB-series and KR-series speakers</li></ul><p>Part of the wider Garvan subwoofer family.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/active-subwoofer-wae121/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WAE121_Datasheet.pdf"
+    },
+    {
+      "slug": "wic125",
+      "title": "WIC125",
+      "Description": "<h3>WIC125 in-wall subwoofer</h3><p>The WIC125 is a Garvan Acoustic in-wall subwoofer engineered for architects and installers. Plastic-free and flush-fitting, it disappears into the wall behind a magnetic Luna cover while still extending the low-frequency response of a Multiroom or home cinema system. The slim profile makes it easy to integrate into both new builds and renovations.</p><ul><li>Flush in-wall subwoofer, plastic-free trim</li><li>Magnetic interchangeable Luna cover</li><li>Wide finish range, fabric or perforated steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Used to add a discreet sub channel to in-wall Luna installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-wall-subwoofer-wic125/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WIC125_Datasheet.pdf"
+    },
+    {
+      "slug": "wr116",
+      "title": "WR116",
+      "Description": "<h3>WR116 in-ceiling subwoofer</h3><p>The WR116 is a Garvan Acoustic Luna-series in-ceiling subwoofer. It mounts flush into the ceiling with a slim plastic-free trim and a magnetic cover, so the subwoofer disappears into the architecture rather than dominating it. The WR116 is engineered to add a discreet sub channel to in-ceiling Luna installations in homes, hotels and high-end commercial spaces.</p><ul><li>Flush in-ceiling subwoofer, plastic-free trim</li><li>Magnetic interchangeable Luna cover</li><li>Wide finish range: fabric, perforated steel, custom colours</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna subwoofer family alongside WR216 and WR416.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/in-ceiling-subwoofer-wr116/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WR116_Datasheet.pdf"
+    },
+    {
+      "slug": "wr216",
+      "title": "WR216",
+      "Description": "<h3>WR216 in-ceiling subwoofer</h3><p>The WR216 is a Garvan Acoustic Luna-series in-ceiling subwoofer. It is built for flush installation in ceilings, with a slim plastic-free trim and the Luna magnetic cover system so the subwoofer integrates cleanly into the surrounding architecture. The WR216 sits one step above the WR116 in the Luna subwoofer family and is used in larger rooms or as part of more demanding home cinema systems.</p><ul><li>Flush in-ceiling subwoofer, plastic-free trim</li><li>Magnetic interchangeable Luna cover</li><li>Wide finish range, fabric or steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Part of the Luna subwoofer family alongside WR116 and WR416.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/subwoofer-wr216/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WR216_Datasheet.pdf"
+    },
+    {
+      "slug": "wr416",
+      "title": "WR416",
+      "Description": "<h3>WR416 design in-ceiling subwoofer</h3><p>The WR416 is Garvan Acoustic's top-of-range Luna in-ceiling subwoofer. It mounts flush into the ceiling with a plastic-free trim and a magnetic Luna cover, integrating cleanly into demanding home cinema systems. The WR416 is the most powerful in-ceiling sub in the Luna line and is used in larger rooms or as part of full 5.1 / 7.1 Luna installations.</p><ul><li>Flush in-ceiling subwoofer, plastic-free trim</li><li>Magnetic interchangeable Luna cover</li><li>Wide finish range, fabric or steel</li><li>Compatible with Garvan plasterboard recessed boxes</li></ul><p>Top-of-range in the Luna in-ceiling subwoofer family.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/design-subwoofer-wr416/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WR416_Datasheet.pdf"
+    },
+    {
+      "slug": "wx125",
+      "title": "WX125",
+      "Description": "<h3>WX125 pipe subwoofer</h3><p>The WX125 is a Garvan Acoustic Luna-series pipe subwoofer engineered for installers who need a slim, vertical sub form factor that can be tucked into structural columns, room corners or cabinet voids. The pipe enclosure keeps the visible footprint to a minimum while still delivering full low-frequency extension for stereo and home cinema systems.</p><ul><li>Tall, slim pipe subwoofer cabinet</li><li>Designed for hidden installation in columns or cabinets</li><li>Compatible with Garvan amplifiers and Luna speaker systems</li><li>Plastic-free construction</li></ul><p>Part of Garvan's specialist subwoofer family alongside WX130.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/pipe-subwoofer-wx125/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WX125_Datasheet.pdf"
+    },
+    {
+      "slug": "wx130",
+      "title": "WX130",
+      "Description": "<h3>WX130 pipe subwoofer</h3><p>The WX130 is a Garvan Acoustic Luna-series pipe subwoofer designed for installers who need a tall, slim form factor that can be hidden in columns, room corners or cabinet voids. It is the larger sibling of the WX125 and extends the low-frequency response of stereo and home cinema systems while remaining visually subdued.</p><ul><li>Tall, slim pipe subwoofer cabinet</li><li>Designed for hidden installation in columns or cabinets</li><li>Compatible with Garvan amplifiers and Luna speaker systems</li><li>Plastic-free construction</li></ul><p>Part of Garvan's specialist subwoofer family alongside WX125.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/subwoofer-pipe-wx130/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WX130_Datasheet.pdf"
+    },
+    {
+      "slug": "kn116",
+      "title": "KN116",
+      "Description": "<h3>KN116 suspended commercial speaker</h3><p>The KN116 is a Garvan Acoustic Celeste-series suspended speaker designed for commercial environments such as retail, hospitality, restaurants and large public spaces. It hangs from the ceiling on a cable and delivers wide, even sound coverage in spaces with high ceilings where in-ceiling speakers would not be ideal. The cabinet is finished in a clean, neutral design that integrates with most commercial interiors.</p><ul><li>Suspended pendant speaker for commercial use</li><li>Wide, even dispersion suited to high-ceiling rooms</li><li>Available in multiple cabinet finishes</li><li>Compatible with Garvan 100V and 8 Ω amplifiers</li></ul><p>Part of the Celeste suspended-speaker family.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/suspended-speakers-for-commercial-environment-kn116/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KN116_Datasheet.pdf"
+    },
+    {
+      "slug": "kw3308",
+      "title": "KW3308",
+      "Description": "<h3>KW3308 Aria on-wall soundbar</h3><p>The KW3308 is a Garvan Acoustic Aria-series on-wall soundbar with customisable length (120 - 190 cm). Engineered for home cinema systems where the screen and the centre channel must share the same wall, the KW3308 uses an 8.8 cm woofer paired with a 2 cm tweeter per driver section and a slim flat steel cabinet that is finished to match the surrounding wall.</p><ul><li>On-wall soundbar with customisable length 120 - 190 cm</li><li>90 W RMS per driver section, 8.8 cm woofer + 2.0 cm tweeter</li><li>Cabinet 11.0 cm height x 7.7 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria soundbar family alongside KW3112, KW2316, KW3213, KW3316 and KW3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW3308_Datasheet.pdf"
+    },
+    {
+      "slug": "kw3112",
+      "title": "KW3112",
+      "Description": "<h3>KW3112 Aria on-wall soundbar</h3><p>The KW3112 is a Garvan Acoustic Aria-series on-wall soundbar with customisable length (120 - 190 cm). It uses a 13 cm woofer paired with a 1.4 cm tweeter and delivers 50 W RMS per driver section. The slim flat steel cabinet (19.3 cm tall, 7.7 cm deep) is engineered to integrate cleanly with the screen or projector wall in a home cinema installation.</p><ul><li>On-wall soundbar with customisable length 120 - 190 cm</li><li>50 W RMS per driver section, 13 cm woofer + 1.4 cm tweeter</li><li>Cabinet 19.3 cm height x 7.7 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria soundbar family alongside KW3308, KW2316, KW3213, KW3316 and KW3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW3112_Datasheet.pdf"
+    },
+    {
+      "slug": "kw2316",
+      "title": "KW2316",
+      "Description": "<h3>KW2316 Aria on-wall soundbar</h3><p>The KW2316 is a Garvan Acoustic Aria-series on-wall soundbar with customisable length (120 - 190 cm). It uses a 16 cm woofer paired with a 2.5 cm tweeter and delivers 80 W RMS per driver section. The slim flat steel cabinet (19.3 cm tall, 7.7 cm deep) is engineered to integrate cleanly with the screen wall in a home cinema installation.</p><ul><li>On-wall soundbar with customisable length 120 - 190 cm</li><li>80 W RMS per driver section, 16 cm woofer + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 7.7 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria soundbar family alongside KW3308, KW3112, KW3213, KW3316 and KW3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW2316_Datasheet.pdf"
+    },
+    {
+      "slug": "kw3213",
+      "title": "KW3213",
+      "Description": "<h3>KW3213 Aria on-wall soundbar</h3><p>The KW3213 is a Garvan Acoustic Aria-series on-wall soundbar with a centre-channel configuration (customisable length 120 - 190 cm). It uses a 13 cm woofer paired with a 2.5 cm tweeter for the centre section and delivers 80 W RMS for the centre channel. The slim flat steel cabinet (19.3 cm tall, 7.7 cm deep) integrates with the screen wall in home cinema installations.</p><ul><li>On-wall soundbar with customisable length 120 - 190 cm</li><li>80 W RMS centre channel, 13 cm woofer + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 7.7 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria soundbar family alongside KW3308, KW3112, KW2316, KW3316 and KW3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW3213_Datasheet.pdf"
+    },
+    {
+      "slug": "kw3316",
+      "title": "KW3316",
+      "Description": "<h3>KW3316 Aria on-wall soundbar</h3><p>The KW3316 is a Garvan Acoustic Aria-series on-wall soundbar with mixed-driver configuration (customisable length 145 - 190 cm). It combines 16 cm and 13 cm woofers with 2.5 cm tweeters for a wider, more flexible coverage pattern. The slim flat steel cabinet (19.3 cm tall, 7.7 cm deep) integrates with the screen wall in larger home cinema rooms.</p><ul><li>On-wall soundbar with customisable length 145 - 190 cm</li><li>Mixed 16 / 13 cm woofers + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 7.7 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria soundbar family alongside KW3308, KW3112, KW2316, KW3213 and KW3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW3316_Datasheet.pdf"
+    },
+    {
+      "slug": "kw3313",
+      "title": "KW3313",
+      "Description": "<h3>KW3313 Aria on-wall soundbar</h3><p>The KW3313 is a Garvan Acoustic Aria-series on-wall soundbar with customisable length (145 - 190 cm). It uses 13 cm woofers and 2.5 cm tweeters per driver section and delivers 160 W RMS. The slim flat steel cabinet (19.3 cm tall, 7.7 cm deep) integrates with the screen wall in larger home cinema rooms or open-plan living spaces.</p><ul><li>On-wall soundbar with customisable length 145 - 190 cm</li><li>160 W RMS, 13 cm woofers + 2.5 cm tweeters</li><li>Cabinet 19.3 cm height x 7.7 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria soundbar family alongside KW3308, KW3112, KW2316, KW3213 and KW3316.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KW3313_Datasheet.pdf"
+    },
+    {
+      "slug": "kr3308",
+      "title": "KR3308",
+      "Description": "<h3>KR3308 Aria in-wall soundbar</h3><p>The KR3308 is the Garvan Acoustic Aria-series in-wall version of the KW3308 soundbar. It mounts flush into the wall behind the screen, with the same 8.8 cm woofer + 2.0 cm tweeter driver configuration and 90 W RMS per section. The slim flat steel cabinet is 25 cm deep to allow flush in-wall integration into plasterboard walls.</p><ul><li>In-wall soundbar with customisable length 120 - 190 cm</li><li>90 W RMS per driver section, 8.8 cm woofer + 2.0 cm tweeter</li><li>Cabinet 11.0 cm height x 25.0 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3112, KR2316, KR3213, KR3316 and KR3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR3308_Datasheet.pdf"
+    },
+    {
+      "slug": "kr3112",
+      "title": "KR3112",
+      "Description": "<h3>KR3112 Aria in-wall soundbar</h3><p>The KR3112 is the Garvan Acoustic Aria-series in-wall version of the KW3112 soundbar. It mounts flush into the wall behind the screen, using a 13 cm woofer paired with a 1.4 cm tweeter at 50 W RMS per driver section. The slim flat steel cabinet (19.3 cm tall, 25.0 cm deep) is engineered for plasterboard wall integration in home cinema rooms.</p><ul><li>In-wall soundbar with customisable length 120 - 190 cm</li><li>50 W RMS per driver section, 13 cm woofer + 1.4 cm tweeter</li><li>Cabinet 19.3 cm height x 25.0 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3308, KR2316, KR3213, KR3316 and KR3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR3112_Datasheet.pdf"
+    },
+    {
+      "slug": "kr2316",
+      "title": "KR2316",
+      "Description": "<h3>KR2316 Aria in-wall soundbar</h3><p>The KR2316 is the Garvan Acoustic Aria-series in-wall version of the KW2316 soundbar. It mounts flush into the wall behind the screen, using a 16 cm woofer paired with a 2.5 cm tweeter at 80 W RMS per driver section. The slim flat steel cabinet (19.3 cm tall, 25.0 cm deep) is engineered for plasterboard wall integration in home cinema rooms.</p><ul><li>In-wall soundbar with customisable length 120 - 190 cm</li><li>80 W RMS per driver section, 16 cm woofer + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 25.0 cm depth</li><li>L+C+R or L+R configurations</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3308, KR3112, KR3213, KR3316 and KR3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR2316_Datasheet.pdf"
+    },
+    {
+      "slug": "kr3213",
+      "title": "KR3213",
+      "Description": "<h3>KR3213 Aria in-wall soundbar</h3><p>The KR3213 is the Garvan Acoustic Aria-series in-wall version of the KW3213 soundbar. It mounts flush into the wall behind the screen with an L / C / R configuration. The centre section uses a 13 cm woofer and 2.5 cm tweeter delivering 80 W RMS, and the slim flat steel cabinet (19.3 cm tall, 25.0 cm deep) is engineered for plasterboard wall integration in home cinema rooms.</p><ul><li>In-wall soundbar with customisable length 120 - 190 cm</li><li>80 W RMS centre channel, 13 cm woofer + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 25.0 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3308, KR3112, KR2316, KR3316 and KR3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR3213_Datasheet.pdf"
+    },
+    {
+      "slug": "kr3316",
+      "title": "KR3316",
+      "Description": "<h3>KR3316 Aria in-wall soundbar</h3><p>The KR3316 is the Garvan Acoustic Aria-series in-wall version of the KW3316 soundbar. It mounts flush into the wall behind the screen with a mixed 16 / 13 cm woofer + 2.5 cm tweeter configuration. The slim flat steel cabinet (19.3 cm tall, 25.0 cm deep) is engineered for plasterboard wall integration in larger home cinema rooms.</p><ul><li>In-wall soundbar with customisable length 145 - 190 cm</li><li>Mixed 16 / 13 cm woofers + 2.5 cm tweeter</li><li>Cabinet 19.3 cm height x 25.0 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3308, KR3112, KR2316, KR3213 and KR3313.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR3316_Datasheet.pdf"
+    },
+    {
+      "slug": "kr3313",
+      "title": "KR3313",
+      "Description": "<h3>KR3313 Aria in-wall soundbar</h3><p>The KR3313 is the Garvan Acoustic Aria-series in-wall version of the KW3313 soundbar. It mounts flush into the wall behind the screen with a 160 W RMS L / C / R configuration. The 13 cm woofers and 2.5 cm tweeters sit in a slim flat steel cabinet (19.3 cm tall, 25.0 cm deep) engineered for plasterboard wall integration in larger home cinema rooms.</p><ul><li>In-wall soundbar with customisable length 145 - 190 cm</li><li>160 W RMS, 13 cm woofers + 2.5 cm tweeters</li><li>Cabinet 19.3 cm height x 25.0 cm depth</li><li>L+C+R configuration</li></ul><p>Part of the Aria in-wall soundbar family alongside KR3308, KR3112, KR2316, KR3213 and KR3316.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/collections/collection-aria/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KR3313_Datasheet.pdf"
+    },
+    {
+      "slug": "sound-quadra",
+      "title": "Sound Quadra",
+      "Description": "<h3>Sound Quadra ceiling tile loudspeaker</h3><p>Sound Quadra is Garvan Acoustic's 60 x 60 cm lay-in ceiling tile loudspeaker. It integrates a discreet acoustic speaker into a standard suspended-ceiling tile so audio can be delivered into retail, office, hospitality and museum spaces with no visible speaker hardware at all. The tile is part of the Architectural Acoustic Solutions family and ships in a range of finishes including custom graphic prints and MatericaCement™ concrete effect.</p><ul><li>60 x 60 cm suspended-ceiling tile loudspeaker</li><li>Integrated full-range driver, hidden behind the tile face</li><li>Custom finishes: paint, graphics, MatericaCement™ concrete effect</li><li>Part of the Garvan Architectural Acoustic Solutions collection</li></ul><p>Pairs naturally with Quadra acoustic ceiling tiles for a fully integrated audio + acoustic ceiling.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/tile-loudspeaker-quadra/",
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Quadra_Datasheet.pdf"
+    },
+    {
+      "slug": "cinematelier",
+      "title": "CinemAtelier",
+      "Description": "<h3>CinemAtelier acoustic panel with integrated speakers</h3><p>CinemAtelier is Garvan Acoustic's flagship system that integrates high-fidelity speakers directly into Atelier acoustic panels. It is engineered for dedicated home cinemas and listening rooms where the architecture must also act as the acoustic treatment and the loudspeaker enclosure at the same time. The result is a wall finish that reduces reverberation and delivers full-range music and movie reproduction without any visible speakers.</p><ul><li>Speaker drivers integrated into Atelier acoustic panels</li><li>Six speaker variants: KA112H, KA213H, KA313H, KA316H, KA320H, KA520H</li><li>Two integrated subwoofers: WA130H, WA220H</li><li>Trevira CS yarn fabric, wide finish and graphic customisation</li></ul><p>Used in dedicated home cinemas, music rooms and high-end home theatres across residential and hospitality projects.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/acoustic-sound-panels-cinematelier/",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA111.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA214.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA314.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA317.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA320.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA520.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/WA220.png",
+        "https://www.garvanacoustic.com/wp-content/uploads/2022/02/WA130.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/CinemAtelier_Garvan.pdf"
+    },
+    {
+      "slug": "ka112h",
+      "title": "KA112H",
+      "Description": "<h3>KA112H CinemAtelier integrated speaker</h3><p>The KA112H is the smallest speaker module in Garvan Acoustic's CinemAtelier family. It is a high-fidelity driver integrated into an Atelier acoustic panel, so the speaker is acoustically and visually part of the wall treatment rather than mounted on top of it. Used in dedicated home cinemas, music rooms, and high-end listening spaces, the KA112H delivers clear, integrated sound without any visible speaker enclosure.</p><ul><li>Speaker integrated into an Atelier acoustic panel</li><li>Panel dimensions 25.0 x 19.0 x 8.0 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA213H, KA313H, KA316H, KA320H, KA520H</li></ul><p>Specified by acousticians and home cinema designers for fully integrated wall-treatment-plus-audio installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA111.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA111.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA112H_Datasheet.pdf"
+    },
+    {
+      "slug": "ka213h",
+      "title": "KA213H",
+      "Description": "<h3>KA213H CinemAtelier integrated speaker</h3><p>The KA213H is a Garvan Acoustic CinemAtelier speaker module — a high-fidelity driver integrated into an Atelier acoustic panel. The speaker is acoustically and visually part of the wall treatment, so the room benefits from both improved reverberation control and full-range music reproduction at the same time. Designed for dedicated home cinemas, music rooms and listening spaces.</p><ul><li>Speaker integrated into an Atelier acoustic panel</li><li>Panel dimensions 34.0 x 19.0 x 8.3 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA112H, KA313H, KA316H, KA320H, KA520H</li></ul><p>Specified by acousticians and home cinema designers for integrated wall-treatment-plus-audio installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA214.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA214.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA213H_Datasheet.pdf"
+    },
+    {
+      "slug": "ka313h",
+      "title": "KA313H",
+      "Description": "<h3>KA313H CinemAtelier integrated speaker</h3><p>The KA313H is a Garvan Acoustic CinemAtelier speaker module — a high-fidelity driver integrated into an Atelier acoustic panel. The speaker is acoustically and visually part of the wall treatment, so the room benefits from both improved reverberation control and full-range music reproduction at the same time. Engineered for dedicated home cinemas and listening rooms.</p><ul><li>Speaker integrated into an Atelier acoustic panel</li><li>Panel dimensions 50.0 x 19.0 x 8.3 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA112H, KA213H, KA316H, KA320H, KA520H</li></ul><p>Used in residential and hospitality projects where wall acoustics and audio share the same finish.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA314.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA314.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA313H_Datasheet.pdf"
+    },
+    {
+      "slug": "ka316h",
+      "title": "KA316H",
+      "Description": "<h3>KA316H CinemAtelier integrated speaker</h3><p>The KA316H is a Garvan Acoustic CinemAtelier speaker module — a high-fidelity driver integrated into an Atelier acoustic panel. The speaker is acoustically and visually part of the wall treatment, so the room benefits from both improved reverberation control and full-range music reproduction simultaneously. Engineered for dedicated home cinemas, music rooms and listening spaces.</p><ul><li>Speaker integrated into an Atelier acoustic panel</li><li>Panel dimensions 50.0 x 19.0 x 8.3 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA112H, KA213H, KA313H, KA320H, KA520H</li></ul><p>Specified by acousticians and home cinema designers for integrated audio-plus-treatment installations.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA317.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/11/SA317.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA316H_Datasheet.pdf"
+    },
+    {
+      "slug": "ka320h",
+      "title": "KA320H",
+      "Description": "<h3>KA320H CinemAtelier integrated speaker</h3><p>The KA320H is a Garvan Acoustic CinemAtelier speaker module — a high-fidelity driver integrated into a wider Atelier acoustic panel. The speaker is acoustically and visually part of the wall treatment, so the room benefits from improved reverberation control and full-range music reproduction simultaneously. Engineered for dedicated home cinemas, music rooms and listening spaces.</p><ul><li>Speaker integrated into an Atelier acoustic panel</li><li>Panel dimensions 50.0 x 36.0 x 8.6 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA112H, KA213H, KA313H, KA316H, KA520H</li></ul><p>Used in residential and hospitality projects where audio and acoustic treatment share the same finish.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA320.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA320.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA320H_Datasheet.pdf"
+    },
+    {
+      "slug": "ka520h",
+      "title": "KA520H",
+      "Description": "<h3>KA520H CinemAtelier integrated speaker</h3><p>The KA520H is the largest speaker module in Garvan Acoustic's CinemAtelier family. It integrates high-fidelity drivers into a wide Atelier acoustic panel, so the speaker becomes acoustically and visually part of the wall treatment. Used in dedicated home cinemas, music rooms and high-end listening spaces, the KA520H delivers full-range sound while still acting as a sound-absorbing surface.</p><ul><li>Largest CinemAtelier speaker module</li><li>Panel dimensions 110.0 x 36.0 x 8.6 cm</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Part of the CinemAtelier family alongside KA112H, KA213H, KA313H, KA316H, KA320H</li></ul><p>Specified for the L / C / R channels of high-end home cinemas where audio and acoustic treatment must share the same finish.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA520.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/SA520.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/KA520H_Datasheet.pdf"
+    },
+    {
+      "slug": "wa220h",
+      "title": "WA220H",
+      "Description": "<h3>WA220H CinemAtelier integrated subwoofer</h3><p>The WA220H is a Garvan Acoustic CinemAtelier integrated subwoofer. It places a passive subwoofer driver inside an Atelier acoustic panel so the low-frequency channel of a home cinema disappears into the wall treatment rather than sitting on the floor. The WA220H is driven from an external amplifier and is engineered to pair with KA-series CinemAtelier speakers for a fully integrated 5.1 / 7.1 system.</p><ul><li>Passive subwoofer integrated into an Atelier acoustic panel</li><li>2 x 20 cm woofers, 8 Ω impedance, 150 W RMS / 300 W MAX</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Driven from an external Garvan AT-series amplifier</li></ul><p>Used in dedicated home cinemas where the sub channel must be acoustically and visually integrated into the wall.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2021/09/WA220.png",
+      "Gallery_vendor_urls": [
+        "https://www.garvanacoustic.com/wp-content/uploads/2021/09/WA220.png"
+      ],
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA220_Datasheet.pdf"
+    },
+    {
+      "slug": "wa130h",
+      "title": "WA130H",
+      "Description": "<h3>WA130H CinemAtelier integrated subwoofer</h3><p>The WA130H is the smaller passive subwoofer in Garvan Acoustic's CinemAtelier family. It places a passive subwoofer driver inside an Atelier acoustic panel so the low-frequency channel of a home cinema disappears into the wall treatment. Driven from an external amplifier, it is engineered to pair with KA-series CinemAtelier speakers in fully integrated 5.1 / 7.1 systems.</p><ul><li>Passive subwoofer integrated into an Atelier acoustic panel</li><li>13 cm woofer module, externally amplified</li><li>Trevira CS yarn fabric, customisable colour, finish and graphic</li><li>Pairs with KA-series CinemAtelier speakers</li></ul><p>Used in dedicated home cinemas where the sub channel must be visually and acoustically integrated into the wall.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2022/02/WA130.png",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WA130_Datasheet.pdf"
+    },
+    {
+      "slug": "at232-a",
+      "title": "AT232-A",
+      "Description": "<h3>AT232-A 2-channel amplifier</h3><p>The AT232-A is a Garvan Acoustic 2-channel power amplifier built around a Powersoft DSP platform. It delivers 320 W total output and accepts a wide range of input sources, with onboard DSP for input matrix, equalisation, delay, limiter and frequency-range management. Designed to drive both the in-wall / in-ceiling speaker range and the passive subwoofer range, it works at 8, 4 or 2 ohms without altering the power output.</p><ul><li>2 channels, 320 W total power</li><li>Powersoft amplifier platform with onboard DSP</li><li>Input matrix, EQ, delay, limiter, frequency-range control</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family alongside AT260-A, AT432-A, AT432-D, AT460-A, AT460-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT232-A_Datasheet.pdf"
+    },
+    {
+      "slug": "at260-a",
+      "title": "AT260-A",
+      "Description": "<h3>AT260-A 2-channel amplifier</h3><p>The AT260-A is a Garvan Acoustic 2-channel power amplifier built around a Powersoft DSP platform. It delivers 600 W total output and accepts a wide range of input sources, with onboard DSP for input matrix, equalisation, delay, limiter and frequency-range management. Designed to drive both the in-wall / in-ceiling speaker range and the passive subwoofer range, it works at 8, 4 or 2 ohms without altering the power output.</p><ul><li>2 channels, 600 W total power</li><li>Powersoft amplifier platform with onboard DSP</li><li>Input matrix, EQ, delay, limiter, frequency-range control</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family alongside AT232-A, AT432-A, AT432-D, AT460-A, AT460-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT260-A_Datasheet.pdf"
+    },
+    {
+      "slug": "at432-a",
+      "title": "AT432-A",
+      "Description": "<h3>AT432-A 4-channel amplifier</h3><p>The AT432-A is a Garvan Acoustic 4-channel power amplifier built around a Powersoft DSP platform. It delivers 320 W total output across four channels, with onboard DSP for input matrix, equalisation, delay, limiter and frequency-range management. It is designed to drive both speaker and passive subwoofer channels in multi-zone or surround installations.</p><ul><li>4 channels, 320 W total power</li><li>Powersoft amplifier platform with onboard DSP</li><li>Input matrix, EQ, delay, limiter, frequency-range control</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family alongside AT232-A, AT260-A, AT432-D, AT460-A, AT460-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT432-A_Datasheet.pdf"
+    },
+    {
+      "slug": "at432-d",
+      "title": "AT432-D",
+      "Description": "<h3>AT432-D 4-channel Dante amplifier</h3><p>The AT432-D is a Garvan Acoustic 4-channel power amplifier built around a Powersoft DSP platform with Dante / AES67 networked audio input. It delivers 320 W total output and adds full DSP control (input matrix, EQ, delay, limiter, frequency-range) on top of network audio, so it slots cleanly into IP-based installations in offices, hotels, and venues.</p><ul><li>4 channels, 320 W total power</li><li>Powersoft amplifier with onboard DSP</li><li>Dante / AES67 network audio input</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family, specifically the Dante / AES67 variant alongside AT460-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT432-D_Datasheet.pdf"
+    },
+    {
+      "slug": "at460-a",
+      "title": "AT460-A",
+      "Description": "<h3>AT460-A 4-channel amplifier</h3><p>The AT460-A is a Garvan Acoustic 4-channel power amplifier built around a Powersoft DSP platform. It delivers 600 W total output across four channels, with onboard DSP for input matrix, EQ, delay, limiter and frequency-range management. Designed to drive both speaker and passive subwoofer channels in higher-power surround and multi-zone installations.</p><ul><li>4 channels, 600 W total power</li><li>Powersoft amplifier platform with onboard DSP</li><li>Input matrix, EQ, delay, limiter, frequency-range control</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family alongside AT232-A, AT260-A, AT432-A, AT432-D, AT460-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT460-A_Datasheet.pdf"
+    },
+    {
+      "slug": "at460-d",
+      "title": "AT460-D",
+      "Description": "<h3>AT460-D 4-channel Dante amplifier</h3><p>The AT460-D is a Garvan Acoustic 4-channel power amplifier built around a Powersoft DSP platform with Dante / AES67 networked audio input. It delivers 600 W total output and adds full DSP control (input matrix, EQ, delay, limiter, frequency-range) on top of network audio, suited to IP-based installations in offices, hotels and large venues.</p><ul><li>4 channels, 600 W total power</li><li>Powersoft amplifier with onboard DSP</li><li>Dante / AES67 network audio input</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's AT-series amplifier family, specifically the Dante / AES67 variant alongside AT432-D, AT2404-A and AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT460-D_Datasheet.pdf"
+    },
+    {
+      "slug": "at2404-a",
+      "title": "AT2404-A",
+      "Description": "<h3>AT2404-A 4-channel high-power Dante amplifier</h3><p>The AT2404-A is a Garvan Acoustic high-power 4-channel amplifier built around a Powersoft DSP platform with Dante / AES67 networked audio input. It delivers 2400 W total output across four channels and adds full DSP control (input matrix, EQ, delay, limiter, frequency-range) on top of network audio. Engineered for large home cinemas, hospitality venues and commercial sound systems.</p><ul><li>4 channels, 2400 W total power</li><li>Powersoft amplifier with onboard DSP</li><li>Dante / AES67 network audio input</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Part of Garvan's high-power AT-series amplifier family alongside AT4804-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT2404-A_Datasheet.pdf"
+    },
+    {
+      "slug": "at4804-a",
+      "title": "AT4804-A",
+      "Description": "<h3>AT4804-A 4-channel high-power Dante amplifier</h3><p>The AT4804-A is Garvan Acoustic's flagship 4-channel power amplifier, built around a Powersoft DSP platform with Dante / AES67 networked audio input. It delivers 4800 W total output across four channels and adds full DSP control (input matrix, EQ, delay, limiter, frequency-range) on top of network audio. Engineered for the most demanding home cinema, hospitality and commercial installations.</p><ul><li>4 channels, 4800 W total power</li><li>Powersoft amplifier with onboard DSP</li><li>Dante / AES67 network audio input</li><li>Compatible with 8, 4 and 2 Ω loads without power loss</li></ul><p>Top of Garvan's high-power AT-series amplifier family alongside AT2404-A.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT4804-A_Datasheet.pdf"
+    },
+    {
+      "slug": "ara",
+      "title": "ARA",
+      "Description": "",
+      "Thumbnail_vendor_url": "",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "",
+      "notes": "No 'ARA' product (or matching SKU like ARA / ARA-1) is present anywhere on garvanacoustic.com (out-of-production page, all Coro / Luna / Loto / Goccia / Celeste / Quadra / Aria / Architectural Acoustic Solutions collections, sitemap, and datasheet CDN folder were all checked). The closest match is the ARIA collection which is the soundbar family already represented by the KW3xxx / KR3xxx SKUs. Recommend confirming the source of this slug; if it should be 'aria-soundbar' the existing KW/KR3xxx products already cover it. Treated here as a placeholder pending vendor clarification."
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "sa225",
+      "title": "SA225",
+      "Description": "<h3>SA225 outdoor 360° speaker</h3><p>The SA225 is a Garvan Acoustic Loto-series outdoor 360° speaker in a Corian® cabinet. Built for gardens, terraces and pool decks, it delivers omnidirectional natural sound from a compact, weather-resistant enclosure. The Corian® cabinet is available in custom colours and can be installed as a free-standing object or on a Garvan floor stand.</p><ul><li>Outdoor 360° speaker, Corian® cabinet</li><li>Weather-resistant construction</li><li>Optional Garvan HRX031 floor stand</li><li>Part of the Loto outdoor family alongside SA117, SN116, SN117, SN120, SN220, WA125, WA138, WN120</li></ul>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/outdoor-speaker-sa225/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SA225_Datasheet.pdf"
+    },
+    {
+      "slug": "sa117",
+      "title": "SA117",
+      "Description": "<h3>SA117 outdoor 360° speaker</h3><p>The SA117 is a Garvan Acoustic Loto-series outdoor 360° speaker designed for gardens, terraces and pool decks. The compact cabinet is built with weather-resistant materials and delivers omnidirectional natural sound that fills the surrounding space without a directional sweet spot. Available in multiple finishes including white, green, grey and Corten® effect.</p><ul><li>Outdoor 360° speaker</li><li>Weather-resistant construction</li><li>Multiple finish options including Corten® effect</li><li>Part of the Loto outdoor family alongside SA225, SN116, SN117, SN120, SN220, WA125, WA138, WN120</li></ul>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/sa117/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SA117_Datasheet.pdf"
+    },
+    {
+      "slug": "sn117",
+      "title": "SN117",
+      "Description": "<h3>SN117 outdoor loudspeakers</h3><p>The SN117 is a Garvan Acoustic Loto-series outdoor loudspeaker for gardens, terraces and pool decks. The compact weather-resistant cabinet delivers natural 360° sound and is available in multiple finishes including white, green, grey and Corten® effect. Optional white or RGB LED lighting is available for accent lighting in landscape installations.</p><ul><li>Outdoor 360° loudspeaker</li><li>Weather-resistant construction</li><li>Optional white / RGB LED accent lighting</li><li>Part of the Loto outdoor family alongside SA117, SA225, SN116, SN120, SN220, WA125, WA138, WN120</li></ul>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/outdoor-loudspeakers-sn117/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/SN117_Datasheet.pdf"
+    },
+    {
+      "slug": "wn120",
+      "title": "WN120",
+      "Description": "<h3>WN120 outdoor subwoofer</h3><p>The WN120 is a Garvan Acoustic Loto-series outdoor subwoofer designed for gardens, terraces and pool decks. The weather-resistant cabinet delivers deep low-frequency support for outdoor 360° speakers such as the SN116, SN117 and SN120, completing the bass register for outdoor music and entertainment systems.</p><ul><li>Outdoor subwoofer for the Loto family</li><li>Weather-resistant construction</li><li>Pairs with SN-series Loto outdoor speakers</li><li>Available in multiple finishes</li></ul>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/wn120/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/WN120_Datasheet.pdf"
+    },
+    {
+      "slug": "atelier",
+      "title": "Atelier",
+      "Description": "<h3>Atelier decorative acoustic panel</h3><p>Atelier is Garvan Acoustic's flagship decorative acoustic panel collection, manufactured to Italian sartorial standards. Each panel is tailor-made: dimensions, fabric, colour and graphic print are specified on a per-project basis. Atelier panels are used to reduce reverberation and improve speech and music clarity in residential, hospitality, office and acoustic-treatment projects while integrating with interior design themes rather than competing with them.</p><ul><li>Tailor-made decorative acoustic panel</li><li>Custom dimensions and graphic prints</li><li>Trevira CS yarn fabrics, wide finish range</li><li>Part of the Architectural Acoustic Solutions collection alongside Microbaffle, Acoustic Parquet, Quadra, Surface, Sound Quadra and CinemAtelier</li></ul><p>Used in residential, hospitality, retail and corporate projects where acoustic treatment must be visually refined.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/sound-absorbing-panels-atelier/",
+      "Product Categories": "audio",
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Atelier_Datasheet.pdf"
+    },
+    {
+      "slug": "surface",
+      "title": "Surface",
+      "Description": "<h3>Surface sound-absorbing panel</h3><p>Surface is a Garvan Acoustic sound-absorbing panel inspired by the cladding slabs used on large buildings. The panel can be specified as a wall-mounted, ceiling-mounted, freestanding or desk-mounted sound absorber, making it one of the most flexible items in the Architectural Acoustic Solutions catalogue. Finishes include MatericaCement™ concrete effect, custom paint, graphic printing and fabric.</p><ul><li>Multi-mount sound-absorbing panel (wall, ceiling, freestanding, desk)</li><li>Trevira CS yarn fabric and MatericaCement™ finish options</li><li>Custom graphic printing available</li><li>Part of the Architectural Acoustic Solutions collection alongside Atelier, Microbaffle, Acoustic Parquet, Quadra, Sound Quadra and CinemAtelier</li></ul><p>Used in offices, schools, hospitality, residential and acoustic-treatment projects.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/sound-absorbing-panel-surface/",
+      "Product Categories": "audio",
+      "Product Tags": "acoustic-sound-panels",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/Surface_Datasheet.pdf"
+    },
+    {
+      "slug": "at440",
+      "title": "AT440",
+      "Description": "<h3>AT440 mini stereo amplifier</h3><p>The AT440 is a Garvan Acoustic compact 2-channel stereo amplifier rated 440 W total. Built into a small form factor for residential and light-commercial installations, it drives Garvan in-wall, in-ceiling and on-wall speakers as well as the WA-series passive subwoofers at 8, 4 or 2 ohms without altering its power output.</p><ul><li>2 channels (stereo), 440 W total power</li><li>Compact form factor</li><li>Compatible with 8, 4 and 2 Ω loads</li><li>Companion product to the AT-series Powersoft DSP amplifier family</li></ul>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/mini-amplifier-at440/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": "https://www.garvanacoustic.com/wp-content/uploads/2019/10/AT440_Datasheet.pdf"
+    },
+    {
+      "slug": "amplifiers",
+      "title": "Amplifiers",
+      "Description": "<h3>Garvan Acoustic amplifier family</h3><p>Garvan Acoustic builds a complete amplifier family designed to drive the entire Garvan speaker catalogue — including the passive subwoofer range — at 8, 4 or 2 ohms without altering the output power. The AT-series amplifiers are built around Powersoft DSP platforms and add input matrix, EQ, delay, limiter and frequency-range management; the higher-end models also support Dante / AES67 networked audio for IP-based installations.</p><ul><li>2-channel models: AT232-A, AT260-A</li><li>4-channel models: AT432-A, AT432-D, AT460-A, AT460-D</li><li>High-power 4-channel models: AT2404-A, AT4804-A</li><li>Compact stereo model: AT440</li></ul><p>Catalogue page covering the full amplifier line.</p>",
+      "Thumbnail_vendor_url": "https://www.garvanacoustic.com/en/product/amplifiers/",
+      "Product Categories": "audio",
+      "Product Tags": "",
+      "Specsheet_vendor_url": ""
+    }
+  ],
+  "discovery_not_added": [
+    {
+      "category": "Out of production speakers (44 SKUs)",
+      "skus": ["Rail", "SA115", "SB112", "SB213", "SB313", "SB316", "SB513", "SIC107", "SIC108", "SIC111", "SIC112", "SIC117", "SIC118", "SIC119", "SIC11S", "SIC120", "SIC12S", "SIC308", "SIC316", "SIC416", "SIC508", "SIM112", "SIM213", "SIM218", "SIM313", "SIM316", "SIM413", "SIR14M", "SIR16M", "SIR16N", "SIR23M", "SIR513", "SN115", "SNW112", "SNW12S", "SNW14M", "SNW16M", "SNW213", "SNW23M", "SNW313", "SNW316", "SNW413", "SNW513", "SX908", "WIR116", "WIR216", "WIR416"],
+      "reason": "Garvan explicitly lists these on its /en/speakers/out-of-production/ page. Not added to new_products since the brand has actively discontinued them, but flagged here so the catalog owner can decide whether to keep historical SKUs for spare-parts / legacy installation reference."
+    },
+    {
+      "category": "Custom / one-off speakers",
+      "skus": ["acoustic-guitar-by-gianni-duranti", "brummel-cucine", "corian-outdoor-subwoofer", "divani-divani-by-natuzzi", "flush-mounted-subwoofer", "gamma-arredamenti", "gold-soundbar", "high-quality-on-wall-speakers", "inclined-flush-mount-speakers", "leather-covered-speaker", "on-wall-without-compromise", "outdoor-stand-up-speaker", "pipe-microsubwoofer", "q-med", "sa115-gress-marble-effect", "subwoofer-micro", "two-way-in-wall-speaker"],
+      "reason": "Garvan's /en/speakers/custom/ page lists these as bespoke / partnership custom builds with no SKU code (most don't have a standard purchase path). Captured for reference; not appropriate for the standard product catalog."
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "ara",
+      "title": "ARA",
+      "reason": "No 'ARA' SKU found anywhere on garvanacoustic.com. Out-of-production list, all current Coro / Luna / Loto / Goccia / Celeste / Quadra / Aria / Architectural Acoustic Solutions / Custom / Out-of-production pages were checked. Closest match is the ARIA *collection* (in-wall and on-wall soundbars), which is already represented by the KW3xxx and KR3xxx SKUs in this audit. Recommend internal verification of where the 'ara' slug originated."
+    }
+  ]
+}

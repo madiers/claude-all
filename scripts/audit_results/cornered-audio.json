@@ -1,0 +1,156 @@
+{
+  "brand_slug": "cornered-audio",
+  "existing_updates": [
+    {
+      "slug": "c15nc",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2018/04/C15NC-3.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Passive subwoofer, bass-reflex</td></tr><tr><td>Driver</td><td>15-inch long-throw woofer</td></tr><tr><td>Cabinet</td><td>18 mm plywood, black polyurethane coating</td></tr><tr><td>Power handling (IEC268)</td><td>1000 W</td></tr><tr><td>Power handling (peak)</td><td>4000 W</td></tr><tr><td>Sensitivity (2.83 V / 1 m)</td><td>97 dB</td></tr><tr><td>Maximum SPL (long term)</td><td>127 dB</td></tr><tr><td>Maximum SPL (peak)</td><td>133 dB</td></tr><tr><td>Frequency response</td><td>32-940 Hz</td></tr><tr><td>Nominal impedance</td><td>8 ohm</td></tr><tr><td>Dimensions</td><td>502 x 502 x 502 mm</td></tr><tr><td>Weight</td><td>28 kg / 61.8 lbs</td></tr></tbody></table>"
+    },
+    {
+      "slug": "c3",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way passive on-wall / corner speaker</td></tr><tr><td>Drivers</td><td>4-inch woofer + 1-inch silk dome tweeter</td></tr><tr><td>Power handling (IEC268)</td><td>80 W</td></tr><tr><td>Power handling (peak)</td><td>320 W</td></tr><tr><td>Sensitivity (2.83 V / 1 m)</td><td>86 dB</td></tr><tr><td>Maximum SPL (long term)</td><td>105 dB</td></tr><tr><td>Maximum SPL (peak)</td><td>111 dB</td></tr><tr><td>Frequency response</td><td>70-25,000 Hz</td></tr><tr><td>Nominal impedance</td><td>8 ohm</td></tr><tr><td>Cabinet</td><td>ABS, triangular corner design</td></tr><tr><td>Dimensions</td><td>312 x 174 x 130 mm</td></tr><tr><td>Weight</td><td>2.7 kg / 6 lbs</td></tr></tbody></table>"
+    },
+    {
+      "slug": "c5",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way passive on-wall / corner speaker</td></tr><tr><td>Drivers</td><td>5 1/4-inch woofer + 5 1/4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Power handling (IEC268)</td><td>100 W</td></tr><tr><td>Power handling (peak)</td><td>400 W</td></tr><tr><td>Sensitivity (2.83 V / 1 m)</td><td>88 dB</td></tr><tr><td>Maximum SPL (long term)</td><td>108 dB</td></tr><tr><td>Maximum SPL (peak)</td><td>114 dB</td></tr><tr><td>Frequency response</td><td>59-25,000 Hz</td></tr><tr><td>Nominal impedance</td><td>8 ohm</td></tr><tr><td>Cabinet</td><td>Aluminium, triangular corner design</td></tr><tr><td>Dimensions</td><td>434 x 211 x 137 mm</td></tr></tbody></table>"
+    },
+    {
+      "slug": "ca280dsp",
+      "Specsheet_vendor_url": "https://cornered.nl/gallery/gallery-gallery-gallery-s-Manual_CA280DSP_03-feb-2020.pdf",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Channels</td><td>2 (bridgeable to 1)</td></tr><tr><td>Power output (4 ohm / 8 ohm)</td><td>2 x 140 W</td></tr><tr><td>Power output (bridged)</td><td>1 x 280 W</td></tr><tr><td>70 V / 100 V output</td><td>280 W (transformerless)</td></tr><tr><td>Amplifier class</td><td>Class D, fan-less</td></tr><tr><td>THD+N</td><td>&lt; 0.003%</td></tr><tr><td>Signal-to-noise ratio</td><td>&gt; 105 dB</td></tr><tr><td>Frequency response</td><td>20 Hz - 20 kHz (+/- 0.1 dB)</td></tr><tr><td>DSP engine</td><td>48 kHz / 24-bit, 24-bit AD/DA</td></tr><tr><td>EQ</td><td>5 input EQs + 30 output EQs (Bell, Lo/Hi-Shelf, variable Q)</td></tr><tr><td>Filters</td><td>HP/LP 6-24 dB/oct (Bessel, Butterworth, Linkwitz-Riley)</td></tr><tr><td>Control</td><td>USB, RJ45 or Wi-Fi to PC software (up to 32 units)</td></tr><tr><td>Mains</td><td>Universal 110-240 V</td></tr><tr><td>Standby power</td><td>0.25 W</td></tr><tr><td>Dimensions (H x W x D)</td><td>44 x 220 x 234 mm</td></tr></tbody></table>"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "ci2",
+      "Title": "Ci2",
+      "Sub Title": "Ultra-compact 2-way IP65 commercial install speaker",
+      "Product Description": "<p>The Cornered Audio Ci2 is an ultra-compact 2-way commercial installation speaker designed for background sound in coffee shops, hotels, retail spaces and similar small commercial rooms. Like the rest of the Ci range it uses Cornered's patented triangular ABS cabinet so it can sit flush in a corner or on a wall or ceiling without any visible bracket. The cabinet is IP65 rated for both indoor and outdoor use, the speaker terminal is hidden inside the cabinet for a clean finish, and the compact 2 1/2-inch woofer with 3/4-inch dome tweeter delivers a surprising amount of clear, even output for a speaker of its size. The Ci2 is sold through commercial AV distribution channels and is well-suited to projects that need many small, discreet speakers to cover an open public space.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way full-range commercial install speaker</td></tr><tr><td>Drivers</td><td>2 1/2-inch woofer + 3/4-inch dome tweeter</td></tr><tr><td>Cabinet</td><td>Triangular ABS, IP65 rated</td></tr><tr><td>Mounting</td><td>Corner, wall or ceiling - no brackets needed</td></tr><tr><td>Dimensions</td><td>181 x 135 x 102 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Ci2_par.jpg",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Datasheet_Ci2_print.pdf"
+    },
+    {
+      "slug": "ci4",
+      "Title": "Ci4",
+      "Sub Title": "Compact 2-way IP65 commercial install speaker",
+      "Product Description": "<p>The Cornered Audio Ci4 is a feature-packed compact 2-way full-range commercial install speaker. It pairs a 4-inch woofer with a 4-inch passive slave and a 1-inch silk dome tweeter inside Cornered's patented triangular ABS cabinet, so it can be flush-mounted into a corner, on a wall or on a ceiling without any visible bracket. The IP65 rating makes it equally happy indoors and outdoors, and a switchable tweeter protection circuit safeguards the high-frequency driver against accidental overload from the amplifier. Cabinets can be coupled together to widen the coverage pattern to 180, 270 or 360 degrees for open-plan spaces. The Ci4 is the 8-ohm low-impedance version and is intended for cafes, hotels, shops and other medium-sized commercial venues.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way full-range commercial install speaker</td></tr><tr><td>Drivers</td><td>4-inch woofer + 4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Nominal impedance</td><td>8 ohm</td></tr><tr><td>Cabinet</td><td>Triangular ABS, IP65 rated</td></tr><tr><td>Tweeter protection</td><td>Switchable</td></tr><tr><td>Mounting</td><td>Corner, wall or ceiling - couplable for 180/270/360 degree coverage</td></tr><tr><td>Dimensions</td><td>400 x 190 x 145 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Ci4-par.jpg",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Datasheet_Ci4_Ci4V_print.pdf"
+    },
+    {
+      "slug": "ci4-v",
+      "Title": "Ci4-V",
+      "Sub Title": "Ci4 with switchable 70 V / 100 V transformer",
+      "Product Description": "<p>The Cornered Audio Ci4-V is the high-impedance version of the popular Ci4 commercial install speaker. It has the same compact triangular ABS cabinet, IP65 rating and switchable tweeter protection as the standard Ci4, but adds an integrated step-down transformer with front-baffle tap settings of 3.5, 7.5, 15 or 30 watts and a switch to revert to standard 8-ohm operation. That makes it a drop-in fit for 70 V or 100 V distributed-audio backbones in restaurants, retail, hotels and similar venues, while still offering the option of low-impedance operation if the installer adds an amplifier per zone. Cabinets can be coupled together for 180, 270 or 360 degree coverage of larger open-plan rooms.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way full-range commercial install speaker (high-impedance)</td></tr><tr><td>Drivers</td><td>4-inch woofer + 4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Modes</td><td>Switchable 70 V / 100 V or 8-ohm</td></tr><tr><td>Tap settings (high-Z)</td><td>3.5 / 7.5 / 15 / 30 W</td></tr><tr><td>Cabinet</td><td>Triangular ABS, IP65 rated</td></tr><tr><td>Tweeter protection</td><td>Switchable</td></tr><tr><td>Dimensions</td><td>400 x 190 x 145 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Ci4-par.jpg",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Datasheet_Ci4_Ci4V_print.pdf"
+    },
+    {
+      "slug": "ci5",
+      "Title": "Ci5",
+      "Sub Title": "Versatile 2-way IP65 commercial install speaker",
+      "Product Description": "<p>The Cornered Audio Ci5 is a versatile, robust 2-way full-range commercial install speaker with stronger output and more solid bass than the smaller Ci2 and Ci4 models. It uses a 5 1/4-inch woofer plus a 5 1/4-inch passive slave and a 1-inch silk dome tweeter inside Cornered's patented triangular ABS cabinet, IP65 rated for indoor and outdoor use. The cabinet flush-mounts into a corner or onto a wall or ceiling without any visible bracket, the speaker terminal is hidden inside the cabinet for a clean finish, and a switchable tweeter protection circuit guards the high-frequency driver. Cabinets can be coupled together to widen coverage to 180, 270 or 360 degrees for larger open-plan spaces. The Ci5 is the 8-ohm low-impedance version, suited to venues that drive each zone with its own amplifier.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way full-range commercial install speaker</td></tr><tr><td>Drivers</td><td>5 1/4-inch woofer + 5 1/4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Nominal impedance</td><td>8 ohm</td></tr><tr><td>Cabinet</td><td>Triangular ABS, IP65 rated</td></tr><tr><td>Tweeter protection</td><td>Switchable</td></tr><tr><td>Mounting</td><td>Corner, wall or ceiling - couplable for 180/270/360 degree coverage</td></tr><tr><td>Dimensions</td><td>450 x 209 x 150 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Ci5-par.jpg",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Datasheet_Ci5_Ci5V_print.pdf"
+    },
+    {
+      "slug": "ci5-v",
+      "Title": "Ci5-V",
+      "Sub Title": "Ci5 with switchable 70 V / 100 V transformer",
+      "Product Description": "<p>The Cornered Audio Ci5-V is the high-impedance version of the Ci5 commercial install speaker. It has the same compact triangular ABS cabinet, IP65 rating and switchable tweeter protection as the standard Ci5, but adds an integrated step-down transformer with front-baffle tap settings of 3.5, 7.5, 15 or 30 watts plus a switch to revert to standard 8-ohm operation. That makes it a drop-in fit for 70 V or 100 V distributed-audio backbones in restaurants, retail, hotels and similar venues, while still offering low-impedance operation if the installer drops in a per-zone amplifier. Cabinets can be coupled together for 180, 270 or 360 degree coverage of larger open-plan rooms.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way full-range commercial install speaker (high-impedance)</td></tr><tr><td>Drivers</td><td>5 1/4-inch woofer + 5 1/4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Modes</td><td>Switchable 70 V / 100 V or 8-ohm</td></tr><tr><td>Tap settings (high-Z)</td><td>3.5 / 7.5 / 15 / 30 W</td></tr><tr><td>Cabinet</td><td>Triangular ABS, IP65 rated</td></tr><tr><td>Tweeter protection</td><td>Switchable</td></tr><tr><td>Dimensions</td><td>450 x 209 x 150 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Ci5-par.jpg",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/06/Datasheet_Ci5_Ci5V_print.pdf"
+    },
+    {
+      "slug": "c4",
+      "Title": "C4",
+      "Sub Title": "Compact full-range corner speaker for bars and meeting rooms",
+      "Product Description": "<p>The Cornered Audio C4 is a compact full-range corner speaker designed for bars, meeting rooms and similar small commercial spaces where it needs to deliver more output and warmth than the entry-level C3, but in a still very compact aluminium cabinet. It pairs a 4-inch woofer with a 4-inch passive slave and a 1-inch silk dome tweeter inside Cornered's patented triangular extruded-aluminium enclosure, so it flush-mounts into a corner or onto a wall without any visible bracket. The metal cabinet is well damped and the triangular shape minimises standing waves inside it, giving the C4 the clear, lively presentation that Cornered is known for in venues where music and dialogue need to cut through low to moderate background noise.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way passive on-wall / corner speaker</td></tr><tr><td>Drivers</td><td>4-inch woofer + 4-inch passive slave + 1-inch silk dome tweeter</td></tr><tr><td>Cabinet</td><td>Extruded aluminium, triangular corner design</td></tr><tr><td>Mounting</td><td>Corner or wall - no brackets needed</td></tr><tr><td>Dimensions</td><td>397 x 191 x 131 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2013/07/Datasheet_C4_web2013.pdf"
+    },
+    {
+      "slug": "c5trm",
+      "Title": "C5 TRM",
+      "Sub Title": "High-SPL conference and entertainment-venue speaker",
+      "Product Description": "<p>The Cornered Audio C5 TRM is the high-SPL evolution of the C5 corner speaker, aimed at conference rooms, entertainment venues and similar spaces that need significantly more output than a typical background-music speaker can deliver. It pairs the same 5 1/4-inch woofer plus passive slave configuration as the C5 with a horn-loaded 1-inch tweeter for higher sensitivity and a controlled 90 x 90 degree dispersion pattern, all inside Cornered's signature triangular extruded-aluminium cabinet. That combination lets the C5 TRM project music and speech evenly across rooms where the standard C5 would otherwise need to be driven hard, while still mounting flush in a corner or on a wall without a visible bracket.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way passive high-SPL on-wall / corner speaker</td></tr><tr><td>Drivers</td><td>5 1/4-inch woofer + 5 1/4-inch passive slave + 1-inch horn-loaded tweeter</td></tr><tr><td>Dispersion</td><td>90 x 90 degrees</td></tr><tr><td>Cabinet</td><td>Extruded aluminium, triangular corner design</td></tr><tr><td>Dimensions</td><td>439 x 213 x 154 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2016/12/Datasheet_C5TRM_print.pdf"
+    },
+    {
+      "slug": "c6trm",
+      "Title": "C6 TRM",
+      "Sub Title": "High-SPL professional sound-reinforcement corner speaker",
+      "Product Description": "<p>The Cornered Audio C6 TRM is a professional sound-reinforcement version of the C6 corner speaker, intended for medium-to-high SPL applications such as larger entertainment venues, conference rooms and worship spaces. It uses a 6 1/2-inch woofer with a neodymium magnet for high efficiency and reduced power compression, paired with a horn-loaded 1-inch tweeter, all inside Cornered's signature triangular extruded-aluminium cabinet. The triangular geometry minimises standing waves inside the cabinet and lets the speaker mount flush in a corner or on a wall without a visible bracket. Compared with the standard C6, the TRM variant offers significantly higher continuous and peak SPL while keeping the same discreet footprint, making it a go-to for venues that need volume without obvious loudspeaker boxes.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>2-way passive high-SPL on-wall / corner speaker</td></tr><tr><td>Drivers</td><td>6 1/2-inch neodymium woofer + 1-inch horn-loaded tweeter</td></tr><tr><td>Cabinet</td><td>Extruded aluminium, triangular corner design</td></tr><tr><td>Mounting</td><td>Corner or wall - no brackets needed</td></tr><tr><td>Dimensions</td><td>502 x 232 x 167 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2013/07/Datasheet_C6TRM_web2013.pdf"
+    },
+    {
+      "slug": "c12nc",
+      "Title": "C12NC",
+      "Sub Title": "Compact 12-inch subwoofer for indoor/outdoor and portable use",
+      "Product Description": "<p>The Cornered Audio C12NC is a compact passive subwoofer with a 12-inch long-throw woofer in a bass-reflex 18 mm plywood cabinet, finished with a very rugged non-reflective polyurethane coating that makes it equally happy in indoor, outdoor and portable applications. As a square cube of 42 x 42 x 42 cm it stacks neatly under a tabletop or behind staging, and its carbon-fibre reinforced cone keeps distortion low even at high output. The C12NC pairs naturally with the rest of the Cornered Audio professional range, including the LS1 line-source speakers and the C5/C6 corner speakers, and is the smaller sibling of the larger C15NC subwoofer for venues that need solid low end in a portable enclosure.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Passive subwoofer, bass-reflex</td></tr><tr><td>Driver</td><td>12-inch long-throw woofer with carbon-fibre reinforced cone</td></tr><tr><td>Cabinet</td><td>18 mm plywood, rugged polyurethane coating</td></tr><tr><td>Dimensions</td><td>420 x 420 x 420 mm</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "subwoofer,outdoor",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/wp-content/uploads/2017/07/Datasheet_C12NC.pdf"
+    },
+    {
+      "slug": "csp2-speaker-cable",
+      "Title": "CSP2 Speaker Cable",
+      "Sub Title": "Triangular on-wall speaker cable for clean corner runs",
+      "Product Description": "<p>The Cornered Audio CSP2 is a triangular on-wall speaker cable designed to be mounted in the corners of a room so a Cornered loudspeaker can be wired in cleanly without any visible cable trunking. It uses 2 mm-squared OFC multi-stranded conductors inside a white paintable jacket, so the cable can be painted to match the wall and disappear visually. The triangular cross-section sits flush in an inside corner exactly the way the rest of the Cornered Audio speaker range does, making it the natural companion product when an installer wants to retain the brand's clean, no-bracket aesthetic all the way from the amplifier rack to the speaker terminal.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>On-wall triangular speaker cable</td></tr><tr><td>Conductor</td><td>2 sq mm OFC multi-stranded</td></tr><tr><td>Jacket</td><td>White paintable</td></tr><tr><td>Cross-section</td><td>12 x 5 mm triangular</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "cornered-audio",
+      "Product Categories": "audio",
+      "Product Tags": "cabling",
+      "Specsheet_vendor_url": "https://cornered.dk/speak2me/products/csp2-speaker-cable/"
+    }
+  ],
+  "unfindable": []
+}

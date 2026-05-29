@@ -1,0 +1,62 @@
+{
+  "brand_slug": "lukh-ee",
+  "existing_updates": [],
+  "new_products": [
+    {
+      "slug": "rl-receptacles",
+      "Title": "RL Receptacles",
+      "Sub Title": "Solid-brass receptacles and media outlets in the luhk-ee family",
+      "Product Description": "<p>The RL Receptacles range from luhk-ee gives integrators a coordinated wall-outlet language that matches the rest of the family's keypad and faceplate aesthetic. Each plate is milled from solid brass with crisp edges and hand-finished by artisans, so power outlets, USB ports, HDMI, RJ45, RJ11, satellite, coax and speaker terminations all share the same finish, proportions and reveal as the lighting-control faceplates beside them. International power-outlet variants are available to support BTicino, LeGrand and other regional standards, making the line well-suited to high-end residential and hospitality projects where every visible wall element needs to read as part of a single design. The plates ship through architectural and integration dealers and can be ordered in over thirty standard finishes.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Material</td><td>Solid brass, hand-finished</td></tr><tr><td>Power outlet variants</td><td>BTicino / LeGrand compatible (H1, H2, H3, H4)</td></tr><tr><td>Media/data outlets</td><td>HDMI, RJ45, RJ11, RCA, Coax, USB-A, USB-C, Speaker</td></tr><tr><td>International power standards</td><td>E, F, G, J, K, L, and others on request</td></tr><tr><td>Finishes</td><td>30+ standard finishes; custom on request</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/f222ff_312b712be7ea4172ac461c7788ce37c8~mv2.png",
+      "Gallery_vendor_urls": [],
+      "Brand": "lukh-ee",
+      "Product Categories": "control-system",
+      "Product Tags": "faceplates",
+      "Specsheet_vendor_url": "https://www.luhkee.be/rl-series"
+    },
+    {
+      "slug": "ra-receptacles-for-alisse",
+      "Title": "RA Receptacles for Alisse",
+      "Sub Title": "Solid-brass receptacles that complement Lutron Alisse",
+      "Product Description": "<p>The RA Receptacles range from luhk-ee is a companion to the RA faceplate collection for Lutron Alisse keypads. Where the RA Collection frames Alisse controls in solid brass, the RA Receptacles do the same for the power, data and AV outlets that share the wall around them. The plates ship in the same finishes as the rest of the family so a complete Lutron Alisse install can carry one consistent material language across keypads, thermostats and outlets. Outlet types span international power standards (E, F, G, J, K, L and more), USB-A and USB-C, HDMI, RJ45 and coax/satellite TV, with the brass front plate hand-finished by artisans for a tactile, refined feel in high-end residential and hospitality interiors.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Material</td><td>Solid brass, hand-finished</td></tr><tr><td>Companion to</td><td>Lutron Alisse keypads (RA Collection)</td></tr><tr><td>Power outlets</td><td>International standards E, F, G, J, K, L, and others</td></tr><tr><td>Media/data outlets</td><td>HDMI, RJ45, USB-A, USB-C, Coax, TV-F, TV-PAL</td></tr><tr><td>Finishes</td><td>30+ standard finishes; custom on request</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://static.wixstatic.com/media/f222ff_312b712be7ea4172ac461c7788ce37c8~mv2.png",
+      "Gallery_vendor_urls": [],
+      "Brand": "lukh-ee",
+      "Product Categories": "control-system",
+      "Product Tags": "faceplates",
+      "Specsheet_vendor_url": "https://www.luhkee.be/ra-receptacles"
+    },
+    {
+      "slug": "nl-nightlights",
+      "Title": "NL Nightlights",
+      "Sub Title": "Brass-framed nightlights for guided low-level illumination",
+      "Product Description": "<p>The NL Nightlights from luhk-ee bring the same solid-brass language as the keypad and outlet faceplates to soft, low-level guidance lighting. They are intended for hallways, stair landings, bedrooms and bathrooms where a discreet, warm wash of light is needed at night without disturbing the ambient design. Each nightlight is milled from solid brass and hand-finished to coordinate with the rest of the luhk-ee family, so installers can carry a single material and finish across keypads, outlets and nightlights in the same room. Like the rest of the collection, the NL series is sold through architectural and integration dealers in over thirty standard finishes, with custom finishes available on request.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Wall-mounted nightlight / wayfinding light</td></tr><tr><td>Material</td><td>Solid brass, hand-finished</td></tr><tr><td>Light source</td><td>Integrated low-level LED</td></tr><tr><td>Finishes</td><td>30+ standard finishes; custom on request</td></tr><tr><td>Distribution</td><td>Architectural and AV integration dealers</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "lukh-ee",
+      "Product Categories": "lighting",
+      "Product Tags": "faceplates",
+      "Specsheet_vendor_url": "https://www.luhkee.be/"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "pl-collection-for-palladiom",
+      "fields": ["Specsheet"],
+      "note": "Vendor (luhkee.be, brand spelled 'luhk-ee') publishes the PL series page at https://www.luhkee.be/pl-series with images and descriptive copy, but no downloadable PDF spec sheet is hosted; the brand's product pages contain marketing imagery and finish lists only."
+    },
+    {
+      "slug": "ra-collection-for-alice",
+      "fields": ["Specsheet"],
+      "note": "RA Collection is luhk-ee's faceplate range for Lutron Alisse (note: 'Alice' in our CMS title appears to be a misspelling of Lutron's 'Alisse'). Vendor page https://www.luhkee.be/ra-receptacles and the related Alisse RA collection pages publish images and finish lists but no downloadable PDF spec sheet."
+    },
+    {
+      "slug": "pc-collection-for-pico",
+      "fields": ["Specsheet"],
+      "note": "Vendor (luhkee.be) publishes the PC series page at https://www.luhkee.be/pc-series with imagery and copy but no downloadable PDF spec sheet; the brand has not produced standalone product PDFs for any of its collections."
+    }
+  ]
+}

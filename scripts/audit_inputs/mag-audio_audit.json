@@ -1,0 +1,804 @@
+{
+  "brand": "mag-audio",
+  "count": 105,
+  "products": [
+    {
+      "slug": "vera-m-wh",
+      "title": "VerA M-WH",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "video,audio",
+      "current_tags": "encoder,extender"
+    },
+    {
+      "slug": "fly-sub-18",
+      "title": "Fly-Sub-18",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "fd-s15",
+      "title": "FD-S15",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "nx-15i",
+      "title": "NX 15i",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sting-6q",
+      "title": "STING 6Q",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cluster-q",
+      "title": "Cluster Q",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-82-ip",
+      "title": "AIR-82 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cluster-q-ip",
+      "title": "Cluster Q IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-62",
+      "title": "AIR-62",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "fly-sub-12l",
+      "title": "Fly-Sub-12L",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "fly-sub-15",
+      "title": "Fly-Sub-15",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-c4t",
+      "title": "AIR-C4T",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "fd-52",
+      "title": "FD-52",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "bee-12a",
+      "title": "BEE-12A",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-122-ip",
+      "title": "AIR-122 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "nx-12a",
+      "title": "NX 12A",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cluster-q8-ip",
+      "title": "Cluster Q8 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "nx-15-ip",
+      "title": "NX 15 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-28",
+      "title": "Sub 28",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-s26",
+      "title": "AIR-S26",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "cluster-s15-ip",
+      "title": "Cluster S15 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-s18",
+      "title": "AIR-S18",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-h18",
+      "title": "SUB H18",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "cluster-q8",
+      "title": "Cluster Q8",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "nx-15a",
+      "title": "NX 15A",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "bee-15a",
+      "title": "BEE-15A",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-s18-ip",
+      "title": "AIR-S18 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-28-ip",
+      "title": "Sub 28 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "nx-12-ip",
+      "title": "NX 12 IP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-18a",
+      "title": "Sub 18A",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-28a",
+      "title": "Sub 28A",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-s26a",
+      "title": "AIR-S26A",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-s15",
+      "title": "AIR-S15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-15",
+      "title": "Sub 15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "bee-15",
+      "title": "BEE-15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "nx-15",
+      "title": "NX 15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-c5",
+      "title": "AIR-C5",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-18-ip",
+      "title": "Sub 18 IP",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "s218",
+      "title": "S218",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "wasp-8i",
+      "title": "WASP-8i",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "bee-12",
+      "title": "BEE-12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "focus-sub",
+      "title": "Focus Sub",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-15-ip",
+      "title": "Sub 15 IP",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "cluster-q4-ip",
+      "title": "Cluster Q4 IP",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor"
+    },
+    {
+      "slug": "sub-12a",
+      "title": "Sub 12A",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "fly-6l",
+      "title": "Fly-6L",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-82",
+      "title": "AIR-82",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "hornet-12",
+      "title": "HORNET 12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "wasp-s15",
+      "title": "WASP-S15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "cluster-s15",
+      "title": "Cluster S15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "focus-5",
+      "title": "Focus 5",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "wasp-s18",
+      "title": "WASP-S18",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-c8",
+      "title": "AIR-C8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-152",
+      "title": "AIR-152",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-15a",
+      "title": "Sub 15A",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "nx-10",
+      "title": "NX 10",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-18",
+      "title": "Sub 18",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-c6",
+      "title": "AIR-C6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "wasp-8",
+      "title": "WASP-8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-122",
+      "title": "AIR-122",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-12",
+      "title": "Sub 12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sub-12-ip",
+      "title": "Sub 12 IP",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "air-c24-installation-speaker",
+      "title": "AIR-C24 - installation speaker",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sting-8-114",
+      "title": "STING 8 - 114",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "nx-12i",
+      "title": "NX 12i",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cluster-q4",
+      "title": "Cluster Q4",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-s12",
+      "title": "AIR-S12",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sting-8-74",
+      "title": "STING 8 - 74",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sub-h28",
+      "title": "Sub H28",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "io-6000",
+      "title": "IO-6000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "io-8000",
+      "title": "IO-8000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "io-16000",
+      "title": "IO-16000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "iq-3000",
+      "title": "IQ-3000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "iq-4000",
+      "title": "IQ-4000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "air-cx-10",
+      "title": "AIR-CX-10",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-cx-12",
+      "title": "AIR-CX-12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "air-cx-15",
+      "title": "AIR-CX-15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "iq-8000",
+      "title": "IQ-8000",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "pd-1x8",
+      "title": "PD-1x8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "pd-2t604",
+      "title": "PD-2T604",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "pd-2x4",
+      "title": "PD-2x4",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "pd-2x8",
+      "title": "PD-2x8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "pd-3x4",
+      "title": "PD-3x4",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "pd-4x4",
+      "title": "PD-4x4",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "power-conditioner"
+    },
+    {
+      "slug": "cue-li",
+      "title": "CUE Li",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cue-mi",
+      "title": "CUE Mi",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cue-si",
+      "title": "CUE Si",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cue-sub",
+      "title": "CUE Sub",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "cue-l",
+      "title": "CUE L",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cue-m",
+      "title": "CUE M",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cue-s",
+      "title": "CUE S",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "fly-r60",
+      "title": "FLY-R60",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "fly-r68",
+      "title": "FLY-R68",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "fly-r8b",
+      "title": "FLY-R8B",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "htf-01",
+      "title": "HTF-01",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "cl-s",
+      "title": "CL-S Ceiling Adapter",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit,subwoofer"
+    },
+    {
+      "slug": "lair-122",
+      "title": "LAIR-122 Mounting U-Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "lair-152",
+      "title": "LAIR-152 Mounting U-Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "lair-62",
+      "title": "LAIR-62 Mounting U-Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "lair-82",
+      "title": "LAIR-82 Mounting U-Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "lls",
+      "title": "LLS Low-Profile Wall Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit,subwoofer"
+    },
+    {
+      "slug": "air-cl",
+      "title": "AIR-CL Ceiling Mount",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "air-cs",
+      "title": "AIR-CS Ceiling Mount",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "h-air-12",
+      "title": "H-AIR-12 Horizontal Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "v-air-12",
+      "title": "V-AIR-12 Vertical Bracket",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "install-kit"
+    }
+  ]
+}

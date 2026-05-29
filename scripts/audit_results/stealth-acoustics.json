@@ -1,0 +1,361 @@
+{
+  "brand_slug": "stealth-acoustics",
+  "existing_updates": [
+    {
+      "slug": "stingray-soffit-speaker-kit",
+      "title": "Stingray Soffit Speaker Kit",
+      "source_url": "https://www.stealthacoustics.com/stingray/soffit/",
+      "product_tags": "speaker,outdoor,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>Stingray Soffit Speaker Kit</h3><p>The Stingray Soffit Speaker Kit lets installers swap ugly conventional speakers for the high-performance Stingray 8 or Stingray 83 in a clean, flush-mounted soffit application. Each kit ships with an integrated back box, dedicated mounting hardware and a router template so the cutout is precise the first time, producing a permanent fixture that survives the elements without compromising aesthetics.</p><ul><li>Choice of Stingray 8 (2-way, 45 Hz - 18 kHz) or Stingray 83 (3-way, 40 Hz - 20 kHz) drivers</li><li>160 watts RMS, 83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>FidelityGlass front face accepts paint or vinyl wrap to match the soffit</li><li>IP-68 rated for rain, snow, sleet, hail, sun and dust</li></ul><p>Stealth's direct-coupled motor and acoustic-lever technology energize the FidelityGlass radiating surface for crisp highs and impactful bass once installed flush under any eave or overhang.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>StingRay 8-SK</th><th>StingRay 83-SK</th></tr><tr><td>Type</td><td>2-way Full Range</td><td>3-way Full Range</td></tr><tr><td>Frequency Response</td><td>45Hz to 18kHz</td><td>40Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>160 watts RMS</td><td>160 watts RMS</td></tr><tr><td>Recommended Power</td><td>80 watts (Min)</td><td>80 watts (Min)</td></tr><tr><td>Sensitivity</td><td>83 dB</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Width</td><td>20-7/8&quot; (530 mm)</td><td>17-1/4&quot; (438 mm)</td></tr><tr><td>Height</td><td>14-3/4&quot; (374 mm)</td><td>14-3/4&quot; (374 mm)</td></tr><tr><td>Depth</td><td>3-7/8&quot; (98 mm)</td><td>3-7/8&quot; (98 mm)</td></tr><tr><td>Weight</td><td>15 lbs. (7 kg) each</td><td>15 lbs. (7 kg) each</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-StingRay-8-Soffit-Kit.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/StingRay-Main-No-Rusty-Grilles3.jpg",
+      "gallery_urls": [
+        "https://www.stealthacoustics.com/wp-content/uploads/2022/07/SR-Main-Header.png",
+        "https://www.stealthacoustics.com/wp-content/uploads/2022/12/StingRay-Slides-12.jpg",
+        "https://www.stealthacoustics.com/wp-content/uploads/2022/12/StingRay-Slides-10.jpg",
+        "https://www.stealthacoustics.com/wp-content/uploads/2023/01/StingRaySK-InstallationDrawing.jpg",
+        "https://www.stealthacoustics.com/wp-content/uploads/2023/01/StingRaySK-Installation.jpg"
+      ],
+      "updates_applied": ["Technical Table", "Specsheet"]
+    },
+    {
+      "slug": "slr8g",
+      "title": "SLR8g",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/slr8g/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>SLR8g Dual-Channel Invisible Speaker</h3><p>The SLR8g is a dual-channel, full-range invisible speaker most popularly deployed in distributed audio systems because it can reproduce both stereo channels from a single panel. After installation the rigid frame and paintable diaphragm vanish into the wall or ceiling, leaving only sound.</p><ul><li>Two 1-1/8 in (30 mm) neodymium high-frequency motors</li><li>One 8 in woofer with 1-1/2 in voice coil and 20 oz ceramic magnet</li><li>120 watts RMS capacity, 60 watts minimum recommended</li><li>82 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees vertical and horizontal dispersion</li><li>20-year limited warranty</li></ul><p>Ideal for hallways, foyers and other narrow rooms where running a true stereo pair is impractical, the SLR8g delivers the broad coverage and clean wall finish that make Stealth's LineaResponse series a long-running custom-install staple.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Response</td><td>45 Hz to 20 kHz</td></tr><tr><td>Power Capacity</td><td>120 watts RMS</td></tr><tr><td>Recommended Power</td><td>60 watts minimum</td></tr><tr><td>Sensitivity</td><td>82 dB (1 watt / 1 meter)</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>High Frequency Drivers</td><td>Two 1-1/8&quot; (30 mm) neodymium motors</td></tr><tr><td>Low Frequency Driver</td><td>8&quot; woofer, 1-1/2&quot; voice coil, 20 oz ceramic magnet</td></tr><tr><td>Polar Dispersion</td><td>170&#176; vertical and horizontal</td></tr><tr><td>Width</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height</td><td>22&quot; (559 mm)</td></tr><tr><td>Mounting Depth</td><td>2-1/2&quot; (64 mm)</td></tr><tr><td>Product Weight</td><td>14.5 lbs (6.6 kg)</td></tr><tr><td>Warranty</td><td>20-Year Limited</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-SLR8G.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-SLR8g-Header.jpg",
+      "gallery_urls": [
+        "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LR-Main-Header-V3.png",
+        "https://www.stealthacoustics.com/wp-content/uploads/2024/06/Stealth-We-Are-INVISIBLE-Speakers-LRg.png"
+      ],
+      "updates_applied": ["Technical Table", "Specsheet"]
+    },
+    {
+      "slug": "stingray-8",
+      "title": "Stingray 8",
+      "source_url": "https://www.stealthacoustics.com/stingray/stingray-8/",
+      "product_tags": "speaker,outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stingray 8 Outdoor Loudspeaker</h3><p>The Stingray 8 is a 2-way full-range outdoor loudspeaker built around an 8 in woofer and a 1-1/8 in neodymium high-frequency driver. Stealth's direct-coupled motor and acoustic-lever architecture drive the FidelityGlass face to produce broad coverage and weather-proof bass for residential and commercial outdoor systems.</p><ul><li>2-way passive crossover, 8 in woofer with 1-1/2 in voice coil</li><li>45 Hz to 18 kHz frequency response, 160 watts RMS</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>IP-68 environmental rating; two self-resetting protection circuits</li></ul><p>The sealed FidelityGlass diaphragm blocks intrusion of moisture and dust, allowing the Stingray 8 to survive rain, snow, sleet, hail, sun and dust between 0 and 150 deg F while maintaining studio-grade audio fidelity in patios, pools, marine environments and landscape installs.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>2-way Full Range</td></tr><tr><td>Frequency Response</td><td>45Hz to 18kHz</td></tr><tr><td>Power Capacity</td><td>160 watts RMS</td></tr><tr><td>Recommended Power</td><td>80 watts (Min)</td></tr><tr><td>Protection</td><td>2 independent self-resetting devices (LF and HF)</td></tr><tr><td>Sensitivity</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>HF Driver</td><td>One 1-1/8&quot; neodymium motor</td></tr><tr><td>LF Driver</td><td>One 1-1/2&quot; voice coil, 8&quot; woofer</td></tr><tr><td>Crossover</td><td>Passive 2-way</td></tr><tr><td>Width</td><td>20-7/8&quot; (530 mm)</td></tr><tr><td>Height</td><td>14-3/4&quot; (374 mm)</td></tr><tr><td>Depth</td><td>3-7/8&quot; (98 mm)</td></tr><tr><td>Weight</td><td>15 lbs. (7 kg)</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-StingRay-8.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2022/12/StingRay8-Header.jpg",
+      "gallery_urls": [
+        "https://www.stealthacoustics.com/wp-content/uploads/2022/07/SR-Main-Header.png"
+      ],
+      "updates_applied": ["Technical Table", "Specsheet"]
+    },
+    {
+      "slug": "lr6g",
+      "title": "LR6G",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/lr6g/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR6g Invisible In-Wall / In-Ceiling Speaker</h3><p>The LR6g is a 2-way, full-range invisible speaker that disappears into the wall or ceiling after installation. A rigid frame attaches to standard structural framing and a paintable active diaphragm face takes any finish from latex paint to light wallpaper, leaving no visible grille or trim.</p><ul><li>6.5 in woofer with 1.5 in voice coil and 15 oz ceramic magnet</li><li>1-1/8 in (30 mm) neodymium high-frequency motor</li><li>45 Hz to 20 kHz frequency response, 100 watts RMS</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees vertical and horizontal dispersion</li><li>Two independent self-resetting protection circuits</li></ul><p>Compact and lightweight, the LR6g is the go-to choice for distributed audio, background music and small surround-channel duties in rooms where any visible speaker would compromise the architecture.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Response</td><td>45Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>100 watts RMS (50W minimum recommended)</td></tr><tr><td>Sensitivity</td><td>83 dB (1 watt / 1 meter)</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>High-Frequency Driver</td><td>1-1/8&quot; (30mm) neodymium motor</td></tr><tr><td>Low-Frequency Driver</td><td>6.5&quot; woofer, 1.5&quot; voice coil, 15 oz ceramic magnet</td></tr><tr><td>Polar Dispersion</td><td>170&#176; vertical and horizontal</td></tr><tr><td>Width</td><td>15-7/8&quot; (403mm)</td></tr><tr><td>Height</td><td>11-7/8&quot; (302mm)</td></tr><tr><td>Mounting Depth</td><td>2-1/4&quot; (58mm)</td></tr><tr><td>Product Weight</td><td>8.7 lbs (3.9 kg) each</td></tr><tr><td>Shipping Weight</td><td>21 lbs per pair / 13 lbs single</td></tr><tr><td>Protection</td><td>Two independent self-resetting circuits</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR6G.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-LR6g-Header.jpg",
+      "gallery_urls": [],
+      "updates_applied": ["Technical Table"]
+    },
+    {
+      "slug": "lrx-85",
+      "title": "LRX-85",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/lrx85/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LRX-85 Premium 3-Way Invisible Speaker System</h3><p>The LRX-85 is a premium, 3-way, two-panel invisible loudspeaker system that delivers a complete full-range solution without requiring bass-limiting filters or external subwoofers. Seven precision drivers split between a high-mid panel and a low-frequency panel produce up to 105 dB output, ideal for home theater LCR duty, distributed audio and critical-listening rooms where visible speakers are not acceptable.</p><ul><li>3-way, two-panel architecture (HM + LF)</li><li>One 1 in neodymium HF, four 1-1/8 in neodymium MR motors</li><li>Two 8 in low-profile woofers</li><li>35 Hz to 20 kHz frequency response, 300 watts RMS capacity</li><li>84 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>Three independent self-resetting protection circuits</li></ul><p>Both panels finish flush to the wallboard and accept paint or light finish to disappear entirely once installed.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>3-way Full Range, Two Panels (HM + LF)</td></tr><tr><td>Frequency Response</td><td>35Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>300 watts RMS</td></tr><tr><td>Minimum Recommended Power</td><td>120 watts</td></tr><tr><td>Sensitivity</td><td>84 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Width (HM Panel)</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Width (LF Panel)</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height (HM Panel)</td><td>12&quot; (305 mm)</td></tr><tr><td>Height (LF Panel)</td><td>30&quot; (762 mm)</td></tr><tr><td>Depth (HM Panel)</td><td>2-3/4&quot; (70 mm)</td></tr><tr><td>Depth (LF Panel)</td><td>2-1/2&quot; (64 mm)</td></tr><tr><td>Weight</td><td>61 lbs. (28 kg) per pair</td></tr><tr><td>HF Driver</td><td>One 1&quot; neodymium motor</td></tr><tr><td>MR Driver</td><td>Four 1-1/8&quot; neodymium motors</td></tr><tr><td>LF Driver</td><td>Two 8&quot; low profile woofers</td></tr><tr><td>Protection</td><td>Three independent self-resetting devices</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LRX-85.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-LRX-85-HTA-Header.jpg",
+      "gallery_urls": [
+        "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LRX-Main-Header.png"
+      ],
+      "updates_applied": ["Technical Table"]
+    },
+    {
+      "slug": "lr3g",
+      "title": "LR3g",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/lr3/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR3g Invisible Full-Range Loudspeaker (Legacy)</h3><p>The LR3g is a 3-way, full-range invisible loudspeaker (now discontinued in favor of the 8th-generation LineaRadiance LR324) that fits standard structural framing and finishes flush with the surrounding wallboard. The paintable active diaphragm face accepts latex paint, light wallpaper, fabric and selected texture coats so the speaker effectively vanishes after install.</p><ul><li>3-way design with 8 in (203 mm) woofer and 1-1/2 in voice coil</li><li>One 1 in (25 mm) neodymium HF motor and two 1-1/8 in (30 mm) neodymium midrange motors</li><li>45 Hz to 20 kHz frequency response, 200 watts RMS capacity</li><li>81 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees vertical and horizontal dispersion</li><li>Three independent self-resetting protection circuits</li></ul><p>Built for either in-wall or in-ceiling mounting, the LR3g remains a reference for full-range invisible reproduction in legacy projects and replacement scenarios.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Response</td><td>45Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>200 watts RMS</td></tr><tr><td>Minimum Recommended Power</td><td>75 watts</td></tr><tr><td>Sensitivity</td><td>81 dB (1 watt / 1 meter)</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>High Frequency Driver</td><td>1&quot; (25 mm) neodymium motor</td></tr><tr><td>Midrange Drivers</td><td>Two 1-1/8&quot; (30 mm) neodymium motors</td></tr><tr><td>Woofer</td><td>8&quot; (203 mm) with 1-1/2&quot; voice coil</td></tr><tr><td>Woofer Magnet</td><td>Ceramic 20 oz. (567 gr)</td></tr><tr><td>Polar Dispersion</td><td>170 degrees vertical and horizontal</td></tr><tr><td>Width</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height</td><td>30&quot; (762 mm)</td></tr><tr><td>Mounting Depth</td><td>2-1/2&quot; (64 mm)</td></tr><tr><td>Product Weight</td><td>19 lbs. (8.8 kg) each</td></tr><tr><td>Shipping Weight</td><td>44 lbs. per pair; 26 lbs. per single</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/wp-content/uploads/2013/03/LR3g-Spec-Sheet_2013.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2016/02/LR3g-website-e1455043962904.jpg",
+      "gallery_urls": [],
+      "updates_applied": ["Technical Table"]
+    },
+    {
+      "slug": "ground-stake",
+      "title": "Ground Stake (SRGSTK)",
+      "source_url": "https://www.stealthacoustics.com/stingray/stingray-accessories/",
+      "product_tags": "install-kit,outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stingray Ground Stake (SRGSTK)</h3><p>The SRGSTK Ground Stake is a purpose-built mounting accessory for Stealth Acoustics' Stingray series outdoor loudspeakers. With an aluminum finish to resist corrosion, the stake plants directly into soft ground so Stingray speakers can be positioned freely throughout landscape, garden and poolside installations without requiring permanent structures or wall mounts.</p><ul><li>Designed exclusively for Stingray outdoor speakers</li><li>Aluminum finish for outdoor durability</li><li>Recommended for landscape and ground-based placement</li><li>Allows flexible speaker positioning around lawns, planters and pool decks</li><li>Pairs with the U-Bracket (SRUB) for situations requiring extra stability</li></ul><p>The Ground Stake keeps Stingray speakers upright and aimed correctly in soft soil applications, complementing the speakers' IP-68 environmental rating for a fully weather-proof outdoor audio solution.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Model</td><td>SRGSTK</td></tr><tr><td>Type</td><td>Ground stake mount</td></tr><tr><td>Finish</td><td>Aluminum</td></tr><tr><td>Compatible Speakers</td><td>Stingray series outdoor loudspeakers</td></tr><tr><td>Recommended Use</td><td>Landscape and ground-based installations</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Instruction-Sheet-StingRay.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2019/01/SRGSTK-Ground-Stake-FLAT.jpg",
+      "gallery_urls": [],
+      "updates_applied": ["Technical Table", "Product Categories", "Specsheet"]
+    },
+    {
+      "slug": "sa2400-mkii",
+      "title": "SA2400-MKII",
+      "source_url": "https://www.stealthacoustics.com/amplifiers/sa2400-mkii/",
+      "product_tags": "amplifier",
+      "product_categories": "audio",
+      "description": "<h3>SA2400-MKII High-Current DSP Amplifier</h3><p>The SA2400-MKII is a 2-rack-unit high-current amplifier with built-in DSP, engineered to drive Stealth invisible speakers, subwoofers and full home-theater systems. It delivers 310 watts per channel into 8 ohm and 450 watts per channel into 4 ohm with vanishingly low distortion, providing the clean headroom required to extract every drop of performance from Stealth's flat-diaphragm loudspeakers.</p><ul><li>310 W / channel into 8 ohm, 450 W / channel into 4 ohm</li><li>20 Hz to 50 kHz frequency response (+1 / -3 dB)</li><li>Total Harmonic Distortion below 0.05% at 460 W / 4 ohm</li><li>Signal-to-noise ratio greater than 105 dB (A-weighted)</li><li>Crosstalk greater than 85 dB; 36 dB maximum voltage gain into 8 ohm</li><li>2 RU rack-mount chassis, 19 in W x 15-3/4 in D x 3-1/2 in H</li></ul><p>Onboard DSP allows the installer to tailor crossovers, EQ and protection for any Stealth speaker pairing in residential or commercial deployments.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Power Output (8&#937;)</td><td>310 watts per channel</td></tr><tr><td>Power Output (4&#937;)</td><td>450 watts per channel</td></tr><tr><td>Frequency Response</td><td>20Hz-50kHz (+1/-3dB)</td></tr><tr><td>Total Harmonic Distortion</td><td>&lt; 0.05% @ 460W / 4&#937;</td></tr><tr><td>Signal-to-Noise Ratio</td><td>&gt;105 dB (A-weighted)</td></tr><tr><td>Analog Input Sensitivity</td><td>-1dBV for 312.5W output / 8&#937;</td></tr><tr><td>Maximum Voltage Gain</td><td>36 dB / 8&#937;</td></tr><tr><td>Crosstalk</td><td>&gt;85dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal, 4&#937; minimum</td></tr><tr><td>Rack Space</td><td>2 RU (3-1/2&quot;)</td></tr><tr><td>Width</td><td>19&quot; (482 mm)</td></tr><tr><td>Depth</td><td>15-3/4&quot; (400 mm)</td></tr><tr><td>Height</td><td>3-1/2&quot; (89 mm)</td></tr><tr><td>Shipping Weight</td><td>38 lbs (17.2 kg)</td></tr><tr><td>Heat Dissipation</td><td>849 BTU/Hr</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-SA2400-MKII.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/Amplifier-Product-SA2400MKII-Front-1024x307.jpg",
+      "gallery_urls": [
+        "https://www.stealthacoustics.com/wp-content/uploads/2023/02/Amplifier-Product-SA2400MKII-Rear-1024x307.jpg"
+      ],
+      "updates_applied": ["Specsheet"]
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "lr430",
+      "title": "LR430",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/linearadiance/lr430/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR430 Dual 8 in 3-Way Invisible Loudspeaker</h3><p>The LR430 is Stealth's 8th-generation LineaRadiance flagship, a dual 8 in, true 3-way invisible loudspeaker engineered for LCR front-stage and cinema-surround duty. The new transducer designs, larger diaphragm surface area, re-voiced crossover and acoustically tuned injection-molded back box deliver studio-quality output that disappears flush into the wall once finished.</p><ul><li>True 3-way design with two 1-1/2 in voice-coil, 8 in low-profile woofers</li><li>One 1 in (25 mm) neodymium HF and one 1-1/8 in (30 mm) neodymium MR motor</li><li>35 Hz to 20 kHz frequency response, 200 watts RMS capacity</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>Three independent self-resetting protection circuits</li><li>Integrated acoustically tuned back box; new Easy-Tape tapered frame</li><li>20-year warranty</li></ul><p>The LR430 is the reference LineaRadiance for premium home theater and high-output distributed-audio installations.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Dual 8&#8243; 3-way Full Range</td></tr><tr><td>Frequency Response</td><td>35Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>200 watts RMS</td></tr><tr><td>Minimum Recommended Power</td><td>100 watts</td></tr><tr><td>Sensitivity</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Width</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height</td><td>29-7/8&quot; (759 mm)</td></tr><tr><td>Depth</td><td>3-1/4&#8243; (83 mm); 2-7/8&quot; (72 mm) back box removed</td></tr><tr><td>Weight</td><td>29 lbs. (13.2 kg) each</td></tr><tr><td>HF Driver</td><td>(1) 1&quot; (25 mm) neodymium motor</td></tr><tr><td>MR Driver</td><td>(1) 1-1/8&quot; (30 mm) neodymium motor</td></tr><tr><td>LF Driver</td><td>(2) 1-1/2&quot; (38mm) voice coil, 8&quot; (203mm) low profile woofers</td></tr><tr><td>Protection</td><td>(3) independent self-resetting devices</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR430.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/05/LineaRadiance-LR430-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "lr324",
+      "title": "LR324",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/linearadiance/lr324/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR324 8 in 3-Way Invisible Loudspeaker</h3><p>The LR324 is an 8th-generation LineaRadiance 3-way invisible loudspeaker built for cinema surround, front soundstage (LCR), premium distributed audio and sound reinforcement. The 8 in woofer is paired with dedicated mid- and high-frequency exciters and a re-voiced crossover, all behind Stealth's Fidelity Glass Advanced tuned diaphragm.</p><ul><li>True 3-way design with 8 in low-profile woofer</li><li>Integrated, removable acoustically tuned back box</li><li>40 Hz to 20 kHz frequency response, 160 watts RMS capacity</li><li>82 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>Three independent self-resetting protection circuits</li><li>Easy-Tape tapered frame for improved drywall finishing</li><li>20-year warranty</li></ul><p>The LR324 supersedes the legacy LRX-83 and delivers significantly higher power handling and efficiency at the same flush-mount footprint.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>8&quot; 3-way Full Range</td></tr><tr><td>Frequency Response</td><td>40Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>160 watts RMS</td></tr><tr><td>Minimum Recommended Power</td><td>80 watts</td></tr><tr><td>Sensitivity</td><td>82 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Dimensions</td><td>15-7/8&quot; W &#215; 23-7/8&quot; H &#215; 3-1/4&quot; D (with back box)</td></tr><tr><td>Weight</td><td>26 lbs (11.8 kg)</td></tr><tr><td>Protection</td><td>3 independent self-resetting devices</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR324.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/LineaRadiance-LR324-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "lr224",
+      "title": "LR224",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/linearadiance/lr224/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR224 8 in 2-Way Invisible Loudspeaker</h3><p>The LR224 is an 8th-generation LineaRadiance 2-way invisible loudspeaker with one 8 in low-profile woofer and a 1-1/8 in neodymium HF motor. Designed for premium distributed audio, the LR224 produces robust bass at any volume level and disappears into the wall after finishing, the perfect upgrade path from the legacy LR8g.</p><ul><li>2-way design with 8 in low-profile woofer (1-1/2 in voice coil)</li><li>1-1/8 in (30 mm) neodymium high-frequency driver</li><li>45 Hz to 20 kHz frequency response, 120 watts RMS capacity</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>Integrated removable acoustically tuned back box</li><li>20-year warranty</li></ul><p>The LR224 is ideal for whole-house background audio, surround channels and any space where great sound must not interrupt the architecture.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>8&quot; 2-way Full Range</td></tr><tr><td>Frequency Response</td><td>45Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>120 watts RMS</td></tr><tr><td>Minimum Recommended Power</td><td>60 watts</td></tr><tr><td>Sensitivity</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Dimensions (W&#215;H&#215;D)</td><td>15-7/8&quot; &#215; 23-7/8&quot; &#215; 3-1/4&quot;</td></tr><tr><td>Weight</td><td>17.5 lbs (8.0 kg)</td></tr><tr><td>LF Driver</td><td>1-1/2&quot; voice coil, 8&quot; low-profile woofer</td></tr><tr><td>HF Driver</td><td>1-1/8&quot; (30mm) neodymium motor</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR224.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/LineaRadiance-LR224-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "lr224s",
+      "title": "LR224S",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/linearadiance/lr224s/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR224S Stereo Invisible Loudspeaker</h3><p>The LR224S is an 8th-generation LineaRadiance stereo invisible loudspeaker that combines dual high-frequency drivers and a dual voice-coil woofer in a single 8 in panel. It is purpose-built for installations where two-channel coverage is needed but a stereo pair will not fit, ideal for hallways, foyers, bathrooms and sound-masking deployments.</p><ul><li>2-way stereo speaker with dual voice coils</li><li>Two 1-1/8 in neodymium HF motors plus 1-1/2 in voice coil 8 in low-profile woofer</li><li>45 Hz to 20 kHz frequency response, 120 watts RMS per channel</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>Four independent self-resetting protection circuits</li><li>20-year warranty</li></ul><p>Stealth recommends the LR224S for distributed audio and sound masking applications where space is at a premium yet stereo separation is required.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>8&#8243; Stereo Speaker (2-Way)</td></tr><tr><td>Frequency Response</td><td>45Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>120 watts RMS per channel</td></tr><tr><td>Minimum Recommended Power</td><td>60 watts per channel</td></tr><tr><td>Sensitivity</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Dimensions</td><td>15-7/8&quot; W &#215; 23-7/8&quot; H &#215; 3-1/4&quot; D</td></tr><tr><td>Weight</td><td>18 lbs (8.2 kg)</td></tr><tr><td>HF Drivers</td><td>(2) 1-1/8&quot; neodymium motors</td></tr><tr><td>LF Driver</td><td>1-1/2&quot; voice coil, 8&quot; low-profile woofer</td></tr><tr><td>Protection</td><td>(4) independent self-resetting devices</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR224S.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/LineaRadiance-LR224S-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "lr24w",
+      "title": "LR24W",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/linearadiance/lr24w/",
+      "product_tags": "subwoofer",
+      "product_categories": "audio",
+      "description": "<h3>LR24W Dual 8 in Invisible Subwoofer System</h3><p>The LR24W is a two-panel monaural subwoofer from Stealth's 8th-generation LineaRadiance line, engineered to supplement low-frequency output for the LR116 and other distributed-audio configurations. Each panel houses an 8 in low-profile woofer behind the Fidelity Glass Advanced diaphragm so the subwoofers vanish into the wall after finishing.</p><ul><li>Two-panel monaural subwoofer system</li><li>Two 1-1/2 in voice coil, 8 in low-profile woofers (one per panel)</li><li>30 Hz to 150 Hz frequency response</li><li>160 watts RMS per pair, 100 watts minimum recommended</li><li>86 dB sensitivity, 8 ohm nominal impedance</li><li>20 oz ceramic magnets</li><li>20-year warranty</li></ul><p>The LR24W pairs naturally with the LR116 to extend low-frequency response in compact systems, or any LineaRadiance setup that needs more bass without adding visible cabinets.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Dual 8&#8243; Subwoofer</td></tr><tr><td>Frequency Response</td><td>30Hz to 150Hz</td></tr><tr><td>Power Capacity</td><td>160 watts RMS (per pair)</td></tr><tr><td>Minimum Recommended Power</td><td>100 watts (per pair)</td></tr><tr><td>Sensitivity</td><td>86 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Dimensions (W&#215;H&#215;D)</td><td>15-7/8&quot; &#215; 23-7/8&quot; &#215; 3-1/4&quot;</td></tr><tr><td>Weight</td><td>34 lbs. per pair</td></tr><tr><td>LF Drivers</td><td>(2) 1-1/2&quot; voice coil, 8&quot; low profile woofers</td></tr><tr><td>Magnets</td><td>(2) Ceramic 20 oz.</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR24W.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/LineaRadiance-LR24W-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "lr8g",
+      "title": "LR8g",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/lr8g/",
+      "product_tags": "speaker,install-kit",
+      "product_categories": "audio",
+      "description": "<h3>LR8g Invisible 2-Way Loudspeaker (Legacy)</h3><p>The LR8g is a 2-way, full-range invisible loudspeaker (superseded by the 8th-generation LR224) designed for in-wall or in-ceiling mounting. A rigid frame attaches to standard structural framing and a paintable active diaphragm face takes paint, wallpaper or fabric so the loudspeaker becomes completely invisible after installation.</p><ul><li>2-way design with 8 in woofer and 25 mm tweeter</li><li>Carbon-fiber composite construction</li><li>45 Hz to 20 kHz frequency response</li><li>120 watts RMS capacity, 60 watts minimum recommended</li><li>8 ohm nominal impedance</li><li>15-7/8 in wide x 22 in tall, 2-1/2 in mounting depth</li></ul><p>The LR8g remains a workhorse for replacements and matching existing LineaResponse-based installations.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>2-way Full Range</td></tr><tr><td>Frequency Response</td><td>45Hz to 20kHz</td></tr><tr><td>Power Capacity</td><td>120 watts RMS (60 watts minimum recommended)</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Width</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height</td><td>22&quot; (559 mm)</td></tr><tr><td>Mounting Depth</td><td>2-1/2&quot; (58 mm)</td></tr><tr><td>Product Weight</td><td>14 lbs. (6.3 kg)</td></tr><tr><td>Shipping Weight</td><td>32 lbs. per pair / 20 lbs. per single</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-LR8G.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-LR8g-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "b22g",
+      "title": "B22g",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/b22/",
+      "product_tags": "subwoofer",
+      "product_categories": "audio",
+      "description": "<h3>B22g Invisible Subwoofer System (Legacy)</h3><p>The B22g is a compact, dual-panel monaural invisible subwoofer system from Stealth's legacy LineaResponse line, now superseded by the 8th-generation LR24W. Two 8 in woofers in a rigid frame finish flush with the surrounding wallboard and accept latex paint, wallpaper, fabric or texture coats so the subwoofer becomes invisible after install.</p><ul><li>Dual 8 in woofers with 1-1/2 in voice coils and 20 oz ceramic magnets</li><li>30 Hz to 150 Hz frequency response</li><li>80 watts RMS capacity, 50 watts minimum recommended</li><li>86 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees vertical and horizontal dispersion</li><li>2-1/2 in mounting depth fits standard stud bays</li></ul><p>Use the B22g to add discreet low-frequency reinforcement to legacy invisible-speaker systems.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Response</td><td>30Hz to 150Hz</td></tr><tr><td>Power Capacity</td><td>80 watts RMS (50W minimum recommended)</td></tr><tr><td>Sensitivity</td><td>86 dB (1 watt / 1 meter)</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Drivers</td><td>Two 8&quot; woofers with 1-1/2&quot; voice coils, 20 oz ceramic magnets</td></tr><tr><td>Polar Dispersion</td><td>170 degrees vertical and horizontal</td></tr><tr><td>Width</td><td>15-7/8&quot; (403 mm)</td></tr><tr><td>Height</td><td>22&quot; (559 mm)</td></tr><tr><td>Mounting Depth</td><td>2-1/2&quot; (58 mm)</td></tr><tr><td>Product Weight</td><td>10.5 lbs per unit</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-B22G.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-B22g-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "b30g",
+      "title": "B30g",
+      "source_url": "https://www.stealthacoustics.com/invisible-speakers/b30/",
+      "product_tags": "subwoofer",
+      "product_categories": "audio",
+      "description": "<h3>B30g Invisible Subwoofer System (Legacy)</h3><p>The B30g is a two-panel monaural invisible subwoofer system from Stealth's legacy LineaResponse line, superseded by the 8th-generation LR30W. Four acoustically coupled 8 in woofers (two per panel) deliver enhanced bass reinforcement for surround sound, home theater and whole-house audio systems, while the paintable face vanishes once finished.</p><ul><li>Four 8 in woofers with 1-1/2 in voice coils across two panels</li><li>20 Hz to 160 Hz frequency response</li><li>100 watts RMS capacity, 60 watts minimum recommended</li><li>86 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees vertical and horizontal dispersion</li><li>Dimensions 15-7/8 in W x 30 in H per panel; 2-1/2 in mounting depth</li></ul><p>The B30g remains a strong choice for adding invisible low-frequency output to existing LineaResponse installations.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Frequency Response</td><td>20Hz to 160Hz</td></tr><tr><td>Power Capacity</td><td>100 watts RMS (60W minimum recommended)</td></tr><tr><td>Sensitivity</td><td>86 dB (1 watt / 1 meter)</td></tr><tr><td>Impedance</td><td>8&#937; nominal</td></tr><tr><td>Drivers</td><td>Four 8&quot; woofers with 1-1/2&quot; voice coils</td></tr><tr><td>Dimensions</td><td>15-7/8&quot; W &#215; 30&quot; H</td></tr><tr><td>Mounting Depth</td><td>2-1/2&quot;</td></tr><tr><td>Weight</td><td>20 lbs per panel</td></tr><tr><td>Polar Dispersion</td><td>170&#176; vertical and horizontal</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-B30G.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/02/LineaResponse-B30g-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "stingray-6",
+      "title": "Stingray 6",
+      "source_url": "https://www.stealthacoustics.com/stingray/stingray-6/",
+      "product_tags": "speaker,outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stingray 6 Compact Outdoor Loudspeaker</h3><p>The Stingray 6 is the smallest member of the Stingray series, a 2-way full-range outdoor loudspeaker designed for distributed audio and background music. A 6.5 in woofer and high-frequency driver behind Stealth's FidelityGlass radiating surface combine direct-coupled motor and acoustic-lever technology to produce crisp highs and impactful bass in a compact, weather-proof package.</p><ul><li>2-way passive crossover with 6.5 in woofer</li><li>50 Hz to 18 kHz frequency response</li><li>120 watts RMS capacity, 60 watts minimum recommended</li><li>83 dB sensitivity, 8 ohm nominal impedance</li><li>170 degrees horizontal and vertical dispersion</li><li>IP-68 environmental rating; operates 0 to 150 deg F</li></ul><p>Ideal for residential, commercial and marine outdoor installations where Stingray-grade durability is needed in a smaller footprint.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>2-way Full Range</td></tr><tr><td>Frequency Response</td><td>50Hz to 18kHz</td></tr><tr><td>Power Capacity</td><td>120 watts RMS</td></tr><tr><td>Recommended Power</td><td>60 watts (minimum)</td></tr><tr><td>Sensitivity</td><td>83 dB</td></tr><tr><td>System Impedance</td><td>8&#937; nominal</td></tr><tr><td>Polar Dispersion</td><td>170&#176; horizontal &amp; vertical</td></tr><tr><td>Environmental Rating</td><td>IP-68 (IEC standards)</td></tr><tr><td>Operating Temperature</td><td>0&#176; to 150&#176;F (-17&#176; to 65&#176;C)</td></tr><tr><td>Dimensions (W&#215;H&#215;D)</td><td>14-7/8&quot; &#215; 10-7/8&quot; &#215; 3-13/16&quot;</td></tr><tr><td>Weight</td><td>12 lbs. (6 kg) each</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-StingRay-6.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2022/12/StingRay6-Header.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "sa255-mkii",
+      "title": "SA255-MKII",
+      "source_url": "https://www.stealthacoustics.com/amplifiers/sa255-2/",
+      "product_tags": "amplifier",
+      "product_categories": "audio",
+      "description": "<h3>SA255-MKII Monaural Subwoofer Amplifier</h3><p>The SA255-MKII is an integrated monaural subwoofer amplifier and crossover system designed as a low-distortion power source for Stealth Acoustics invisible subwoofer panels and other un-powered subwoofers. The rack-mount chassis combines variable low-pass filtering, fixed subsonic filtering and high current output for clean, controlled bass in home audio and home-theater systems.</p><ul><li>250 watts into 8 ohm, 350 watts into 4 ohm (both less than 0.05% THD)</li><li>Total harmonic distortion below 0.05% at 1 watt</li><li>Signal-to-noise ratio 86 dB below rated output</li><li>Variable low-pass: 50 Hz to 150 Hz at 18 dB/octave with bypass</li><li>Fixed high-pass (subsonic) filter: 18 Hz at 30 dB/octave</li><li>19 in W x 3-1/2 in H x 13-5/8 in D, 31.3 lb</li><li>Selectable 115 / 230 VAC operation</li></ul><p>Black anodized aluminum finish and a single-rack-unit footprint make it easy to integrate into any equipment rack.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Power Output (8&#937;)</td><td>250 watts (&lt; 0.05 THD)</td></tr><tr><td>Power Output (4&#937;)</td><td>350 watts (&lt; 0.05 THD)</td></tr><tr><td>Total Harmonic Distortion</td><td>&lt; 0.05 @ 1 watt</td></tr><tr><td>Signal to Noise Ratio</td><td>86 dB below rated output</td></tr><tr><td>Low Pass Filter</td><td>50Hz-150Hz / 18 dB per octave (variable with bypass)</td></tr><tr><td>High Pass Filter</td><td>18Hz / 30 dB per octave (fixed)</td></tr><tr><td>Dimensions</td><td>19&quot; W &#215; 3-1/2&quot; H &#215; 13-5/8&quot; D</td></tr><tr><td>Weight</td><td>31.3 lbs</td></tr><tr><td>Finish</td><td>Black anodized aluminum</td></tr><tr><td>Impedance</td><td>8&#937; nominal; 4&#937; minimum</td></tr><tr><td>Current Draw</td><td>6.2A @ 350W/4&#937; (115VAC/60Hz)</td></tr><tr><td>Input Voltages</td><td>115VAC or 230VAC selectable</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-SA255-MKII.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/11/SA-255-MKII-BLACK-2400px-300x77.png",
+      "gallery_urls": []
+    },
+    {
+      "slug": "spt-extreme",
+      "title": "SPT Extreme",
+      "source_url": "https://www.stealthacoustics.com/patio-theater/sptv1-extreme/",
+      "product_tags": "outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stealth Patio Theater Extreme</h3><p>The SPT Extreme is Stealth's retractable outdoor LED TV system for patios, pools and backyards. When not in use the screen vertically retracts into a low-profile cabinet, disappearing from view. Audio is delivered through optional cabinet-mounted speakers or a sound bar that rises with the screen, both using Stealth's Stingray outdoor speaker technology.</p><ul><li>Vertical retracting LED screen with 4,000 cd/m2 brightness</li><li>Screen sizes from 105 in to 190 in (P3 resolution)</li><li>Above ground, partial recess or full recess installation</li><li>Audio options: none, 3.1 cabinet-mounted, 3.0 or 3.1 sound bar</li><li>220-240 VAC, 2 to 6 x 20 A circuits depending on model</li><li>Ambient light, rain and optional wind sensors</li><li>Compatible with major third-party home automation platforms</li></ul><p>Engineered to provide 365-day entertainment in any weather while leaving the patio uncluttered when the system is stowed.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Screen Closure</td><td>Vertically retracts into cabinet</td></tr><tr><td>Screen Sizes</td><td>105&#8243;, 138&#8243;, 156&#8243;, 190&#8243; (P3)</td></tr><tr><td>Screen Brightness</td><td>4,000 cd/m&#178; (nits)</td></tr><tr><td>Installation Options</td><td>Above ground, partial recess, full recess</td></tr><tr><td>Audio Options</td><td>None, 3.1 cabinet-mounted, or 3.0/3.1 sound bar</td></tr><tr><td>Power Requirements</td><td>220-240VAC; 2-6 x 20Amp circuits (model-dependent)</td></tr><tr><td>Control</td><td>Compatible with major third-party home automation systems</td></tr><tr><td>Sensors</td><td>Ambient light, rain, and optional wind sensors</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/brochures/Stealth-Patio-Theater-Brochure.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/09/SPT-Main-Header-2023.png",
+      "gallery_urls": []
+    },
+    {
+      "slug": "spt-megalith",
+      "title": "SPT Megalith",
+      "source_url": "https://www.stealthacoustics.com/patio-theater/sptv3-megalith/",
+      "product_tags": "outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stealth Patio Theater Megalith</h3><p>The SPT Megalith is a fixed-position outdoor LED video display system engineered for year-round entertainment in any weather. The customizable, weatherproof platform installs as a free-standing display, wall-mounted or ceiling-hung unit and can be configured with an optional integrated 3.1 sound bar driven by Stealth's Stingray outdoor speaker technology.</p><ul><li>Fixed-position LED screen with 4,000 cd/m2 brightness</li><li>P3 or P4 resolutions from 101 in to 339 in diagonal</li><li>Wall-mount or free-standing installation</li><li>Optional 3.1 cabinet-mounted sound bar</li><li>220-240 VAC, 2 to 6 x 20 A circuits depending on configuration</li><li>Ambient light sensor; weatherproof modular construction</li><li>Compatible with major third-party home automation systems</li></ul><p>The Megalith is the largest member of the Stealth Patio Theater family, ideal for commercial venues, large estates and outdoor cinema applications.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Screen Type</td><td>Fixed Screen</td></tr><tr><td>Available Sizes</td><td>P3 or P4 resolutions: 101&#8243;, 115&#8243;, 137&#8243;, 181&#8243;, 238&#8243;, 273&#8243;, 339&#8243;</td></tr><tr><td>Brightness</td><td>4,000 cd/m&#178; (nits)</td></tr><tr><td>Installation</td><td>Wall Mount or Free Standing</td></tr><tr><td>Audio</td><td>No Sound or 3.1 Cabinet Mounted options</td></tr><tr><td>Power Requirements</td><td>220-240VAC; 2-6 x 20Amp circuits (model dependent)</td></tr><tr><td>Controls</td><td>Compatible with major third-party home automation systems</td></tr><tr><td>Additional Features</td><td>Ambient light sensor; modular design; weatherproof construction</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/brochures/Stealth-Patio-Theater-Brochure.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2023/09/SPT-Main-Header-2023.png",
+      "gallery_urls": []
+    },
+    {
+      "slug": "bx-back-box",
+      "title": "BX Back Box",
+      "source_url": "https://www.stealthacoustics.com/accessories/bx-back-box/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>BX MDF Back Box</h3><p>The BX is an MDF back box engineered to improve sound isolation and speaker performance when retrofitting or new-constructing Stealth invisible speakers in walls or ceilings without plenum requirements. Each enclosure ships pre-assembled and pre-painted with Roxul insulation and a terminal cup with speaker-wire pigtails, ready to attach to the speaker prior to installation.</p><ul><li>Pre-assembled, pre-painted MDF construction</li><li>Roxul insulation pre-installed</li><li>Terminal cup with speaker-wire pigtails included</li><li>Five sizes: BX-30, BX-22, BX-22SLR, BX-12-85, BX-12</li><li>Compatible with legacy LineaResponse speakers (not LineaRadiance)</li></ul><p>Use the BX in residential settings where a sealed, sound-isolating enclosure is desired but plenum-rated metal back boxes are not required.</p>",
+      "technical_table": "<table><tbody><tr><th>Model</th><th>Compatible Speakers</th><th>Width</th><th>Height</th><th>Depth</th><th>Weight</th></tr><tr><td>BX-30</td><td>LRX-85-LF, B30g</td><td>11&quot; (279 mm)</td><td>28&quot; (711 mm)</td><td>3-1/2&quot; (89 mm)</td><td>12 lbs (5.4 kg)</td></tr><tr><td>BX-22</td><td>LRX-83, LR8g, B22g</td><td>11&quot; (279 mm)</td><td>20-1/4&quot; (514 mm)</td><td>3-1/2&quot; (89 mm)</td><td>10 lbs (4.5 kg)</td></tr><tr><td>BX-22SLR</td><td>SLR8g</td><td>11&quot; (279 mm)</td><td>20-1/4&quot; (514 mm)</td><td>3-1/2&quot; (89 mm)</td><td>10 lbs (4.5 kg)</td></tr><tr><td>BX-12-85</td><td>LRX-85-HM</td><td>10-1/2&quot; (279 mm)</td><td>14&quot; (711 mm)</td><td>3-1/2&quot; (89 mm)</td><td>6 lbs (2.7 kg)</td></tr><tr><td>BX-12</td><td>LR6g</td><td>10&quot; (254 mm)</td><td>14&quot; (356 mm)</td><td>3-1/2&quot; (89 mm)</td><td>6 lbs (2.7 kg)</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-BX-Back-Box.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2012/02/BX-Back-Box-e1458237968974.gif",
+      "gallery_urls": []
+    },
+    {
+      "slug": "mbx-metal-back-box",
+      "title": "MBX Metal Back Box",
+      "source_url": "https://www.stealthacoustics.com/accessories/mbx-metal-back-box/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>MBX UL-Rated Metal Back Box</h3><p>The MBX is a UL-listed, 1.1 mm thick metal enclosure for installing Stealth invisible speakers in walls or ceilings where metal protection is required or sound transfer between adjacent rooms must be minimized. At 3-1/2 in deep, it fits standard 2x4 stud bays and 16 in on-center stud spacing, and ships fully assembled.</p><ul><li>UL listed, 1.1 mm metal construction</li><li>Fully assembled at shipment</li><li>Knockouts for 1/2 in or 3/4 in conduit on top and bottom</li><li>Includes insulation, screws and 3/4 in x 1-1/2 in metal mounting angles</li><li>Five sizes covering LineaRadiance and LineaResponse speakers</li></ul><p>The MBX is the right choice for plenum spaces, fire-code installations and commercial applications.</p>",
+      "technical_table": "<table><tbody><tr><th>Model</th><th>Compatible Speakers</th><th>Width</th><th>Height</th><th>Depth</th><th>Weight</th></tr><tr><td>MBX-30</td><td>LR430, LR30W, others</td><td>14-1/2&#8243;</td><td>28-1/2&#8243;</td><td>3-1/2&#8243;</td><td>13 lbs</td></tr><tr><td>MBX-24</td><td>LR324, LR224, LR224S, LR24W</td><td>14-1/2&#8243;</td><td>22-3/8&#8243;</td><td>3-1/2&#8243;</td><td>11 lbs</td></tr><tr><td>MBX-22</td><td>LRX-83, LR8g, SLR8g, B22g</td><td>14-1/2&#8243;</td><td>20-1/2&#8243;</td><td>3-1/2&#8243;</td><td>10 lbs</td></tr><tr><td>MBX-16</td><td>LR116</td><td>14-1/2&#8243;</td><td>14-3/8&#8243;</td><td>3-1/2&#8243;</td><td>9 lbs</td></tr><tr><td>MBX-12</td><td>LRX-85-HM, LR6g</td><td>14-1/2&#8243;</td><td>10-3/8&#8243;</td><td>3-1/2&#8243;</td><td>7 lbs</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-MBX-Back-Box.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2018/03/MBX-Back-Box-2018.png",
+      "gallery_urls": []
+    },
+    {
+      "slug": "mba-metal-back-box-adjustable",
+      "title": "MBA Metal Back Box (Adjustable)",
+      "source_url": "https://www.stealthacoustics.com/accessories/mba-metal-back-box-adjustable/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>MBA Adjustable UL-Listed Metal Back Box</h3><p>The MBA is a versatile, UL-listed adjustable metal back box for installations where stud spacing is non-standard, framing members are tighter than 16 in on center, or metal studs and suspended ceilings are in play. Each enclosure ships unassembled so installers can configure it on-site for the exact application.</p><ul><li>1.1 mm thick metal construction, UL listed</li><li>Adjustable width from 9-3/4 in to 14-1/2 in</li><li>Ships unassembled for site-built configuration</li><li>Includes screws, Dynamat adhesive insulation, and 3/4 in x 1-1/2 in metal mounting angles</li><li>Knockouts for 1/2 in and 3/4 in conduit</li><li>Three sizes covering LineaRadiance and LineaResponse speakers</li></ul><p>The MBA is the most flexible Stealth back box, ideal for retrofits and commercial installs with unpredictable framing.</p>",
+      "technical_table": "<table><tbody><tr><th>Model</th><th>For Speakers</th><th>Width</th><th>Height</th><th>Depth</th><th>Ship Weight</th></tr><tr><td>MBA-30</td><td>L-RAD 430, LR30W, LRX-85-LF, B30g</td><td>9-3/4&quot; to 14-1/2&quot; (247-368 mm)</td><td>28.5&quot; (724 mm)</td><td>3-1/2&quot; (89 mm)</td><td>14 lbs (6.49 kg)</td></tr><tr><td>MBA-24</td><td>LR324, LR224, LR224S, LR24W, LR116</td><td>9-3/4&quot; to 14-1/2&quot; (247-368 mm)</td><td>20.5&quot; (521 mm)</td><td>3-1/2&quot; (89 mm)</td><td>12 lbs (5.4 kg)</td></tr><tr><td>MBA-22</td><td>LRX-85-HF, LR6g, LRX-83, LR8g, SLR8g, B22g</td><td>9-3/4&quot; to 14-1/2&quot; (247-368 mm)</td><td>18.5&quot; (470 mm)</td><td>3-1/2&quot; (89 mm)</td><td>10 lbs (4.5 kg)</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-MBA-Back-Box.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2018/03/MBA-Back-Box-2018.png",
+      "gallery_urls": []
+    },
+    {
+      "slug": "mbc-metal-back-box",
+      "title": "MBC Metal Back Box (Masonry)",
+      "source_url": "https://www.stealthacoustics.com/accessories/mbc-metal-back-box/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>MBC Masonry Metal Back Box</h3><p>The MBC is a wood-lined metal back box designed for installing Stealth invisible speakers into masonry, hat channel or other support structures. It can be installed before masonry work is completed or fitted into existing masonry. The 1.2 mm metal shell protects the speaker from surrounding masonry while the 3/4 in plywood liner provides secure mounting on all four edges.</p><ul><li>1.2 mm metal construction with 3/4 in plywood liner on all four edges</li><li>Fully assembled at shipment</li><li>Knockouts for 1/2 in conduit and loom clamps on top and bottom</li><li>Includes light insulation and screw package</li><li>Five sizes covering current and legacy Stealth invisible speakers</li></ul><p>Use the MBC anywhere a Stealth speaker must integrate with concrete, brick, block or other masonry construction.</p>",
+      "technical_table": "<table><tbody><tr><th>Model</th><th>For Speakers</th><th>Width</th><th>Height</th><th>Depth</th><th>Weight</th></tr><tr><td>MBC-30</td><td>LR430, LR30W, LRX-85-LF, B30g</td><td>16-1/8&#8243;</td><td>30-1/8&#8243;</td><td>3-15/16&#8243;</td><td>18 lbs.</td></tr><tr><td>MBC-24</td><td>LR324, LR224, LR224S, LR24W</td><td>16-1/8&#8243;</td><td>24-1/8&#8243;</td><td>3-15/16&#8243;</td><td>15 lbs.</td></tr><tr><td>MBC-22</td><td>LRX-83, LR8g, SLR8g, B22g</td><td>16-1/8&#8243;</td><td>22-1/8&#8243;</td><td>3-15/16&#8243;</td><td>14 lbs.</td></tr><tr><td>MBC-16</td><td>LR116</td><td>16-1/8&#8243;</td><td>16-1/8&#8243;</td><td>3-15/16&#8243;</td><td>13 lbs.</td></tr><tr><td>MBC-12</td><td>LRX-85-HM, LR6g</td><td>16-1/8&#8243;</td><td>12-1/8&#8243;</td><td>3-15/16&#8243;</td><td>10 lbs.</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-MBC-Back-Box.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/Stealth-Product-Image-MBC.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "placesavers",
+      "title": "PlaceSavers",
+      "source_url": "https://www.stealthacoustics.com/accessories/placesavers/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>PlaceSavers Pre-Installation Brackets</h3><p>PlaceSavers are temporary place-holders for new construction that allow Stealth invisible speakers to be installed in a later phase of the project while keeping the exact mounting location free of drywall. They protect the speaker positions from harsh construction conditions and are sold in reusable packs of six.</p><ul><li>Reusable pre-installation brackets, six per pack</li><li>Five sizes matching every current Stealth invisible speaker</li><li>Keep speaker positions free of drywall and protected during construction</li><li>Allow late-phase speaker installation without re-cutting</li></ul><p>PlaceSavers are essential on every new-construction project where Stealth speakers will be installed late in the build cycle.</p>",
+      "technical_table": "<table><tbody><tr><th>Model</th><th>Compatible Speakers</th><th>Width</th><th>Height</th><th>Weight (Qty 6)</th></tr><tr><td>PS-30</td><td>LR430, LR30W, LRX-85-LF, B30g</td><td>16&#8243; (406 mm)</td><td>30&#8243; (762 mm)</td><td>26 lbs (11.8 kg)</td></tr><tr><td>PS-24</td><td>LR324, LR224, LR224S, LR24W</td><td>16&#8243; (406 mm)</td><td>24&#8243; (610 mm)</td><td>20 lbs (9.1 kg)</td></tr><tr><td>PS-22</td><td>LRX-83, LR8g, SLR8g, B22g</td><td>16&#8243; (406 mm)</td><td>22&#8243; (559 mm)</td><td>17 lbs (7.7 kg)</td></tr><tr><td>PS-16</td><td>LR116</td><td>16&#8243; (406 mm)</td><td>16&#8243; (406 mm)</td><td>15 lbs (6.8 kg)</td></tr><tr><td>PS-12</td><td>LRX-85-HM, LR6g</td><td>16&#8243; (406 mm)</td><td>12&#8243; (305 mm)</td><td>13 lbs (5.9 kg)</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Specification-Sheet-PlaceSaver.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2025/09/Stealth-Product-Image-PS.jpg",
+      "gallery_urls": []
+    },
+    {
+      "slug": "shim-kit",
+      "title": "Shim Kit",
+      "source_url": "https://www.stealthacoustics.com/accessories/shim-kit/",
+      "product_tags": "install-kit",
+      "product_categories": "audio",
+      "description": "<h3>Stealth Acoustics Shim Kit</h3><p>The Shim Kit allows installers to shim the face of a Stealth invisible speaker panel further out from the framing depending on the chosen finishing method. Each kit contains a bundle of 25 shims of two thicknesses for fine adjustment in any drywall or finishing scenario.</p><ul><li>Two shim thicknesses: 1/16 in (1.6 mm) and 1/8 in (3.2 mm)</li><li>25 shims of each thickness per bundle</li><li>Compatible with the full Stealth Acoustics invisible speaker line</li><li>Critical for matching panel face to finished wall surface</li></ul><p>The Shim Kit is a low-cost accessory that pays for itself the first time a finished wall thickness varies from spec.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Shim Thicknesses</td><td>1/16&quot; (1.6 mm) and 1/8&quot; (3.2 mm)</td></tr><tr><td>Quantity per Bundle</td><td>25 shims of each thickness</td></tr><tr><td>Compatibility</td><td>Stealth Acoustics invisible speaker line</td></tr><tr><td>Purpose</td><td>Adjusts speaker panel face depth for finishing method</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/LineaResponse-User-Manual-Installation-Guide.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2012/02/SK-1-Shim-Kit.gif",
+      "gallery_urls": []
+    },
+    {
+      "slug": "srub-u-bracket",
+      "title": "Stingray U-Bracket (SRUB)",
+      "source_url": "https://www.stealthacoustics.com/stingray/stingray-accessories/",
+      "product_tags": "install-kit,outdoor",
+      "product_categories": "audio",
+      "description": "<h3>Stingray U-Bracket (SRUB)</h3><p>The SRUB is a heavy-duty U-bracket designed for Stealth Acoustics Stingray outdoor speakers. Constructed from powder-coated aluminum and offered in matching white or black finishes, it provides the extra stability required when Stingray speakers are mounted to walls, soffits, posts or other vertical structures.</p><ul><li>Heavy-duty powder-coated aluminum construction</li><li>Available in white or black to match Stingray speakers</li><li>Provides enhanced mounting stability versus the basic mount</li><li>Compatible with the full Stingray outdoor speaker series</li><li>Pairs with the Ground Stake (SRGSTK) for landscape installs</li></ul><p>Specify the SRUB whenever extra mechanical rigidity or aiming control is needed for outdoor Stingray installations.</p>",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Model</td><td>SRUB</td></tr><tr><td>Type</td><td>Heavy-duty U-bracket mount</td></tr><tr><td>Material</td><td>Powder-coated aluminum</td></tr><tr><td>Available Colors</td><td>White or Black</td></tr><tr><td>Compatible Speakers</td><td>Stingray series outdoor loudspeakers</td></tr></tbody></table>",
+      "specsheet_url": "https://www.stealthacoustics.com/productspecifications/Instruction-Sheet-StingRay.pdf",
+      "thumbnail_url": "https://www.stealthacoustics.com/wp-content/uploads/2019/01/SRUB-Mount-BLACK-FLAT-e1560891096384.jpg",
+      "gallery_urls": []
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "surface",
+      "title": "SURFACE",
+      "reason": "No product named 'SURFACE' exists in the Stealth Acoustics catalog (verified against stealthacoustics.com 8th-gen LineaRadiance, LineaResponse, Stingray, Patio Theater, amplifiers and accessories listings). The current 'acoustic-sound-panels' tag also falls outside the Stealth product line. This slug appears to be either mis-attributed to Stealth Acoustics or a discontinued/private-label item not present on the vendor site; manual verification with the brand is recommended."
+    }
+  ]
+}

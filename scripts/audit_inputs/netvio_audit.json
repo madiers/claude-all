@@ -1,0 +1,176 @@
+{
+  "brand": "netvio",
+  "count": 17,
+  "products": [
+    {
+      "slug": "ip-sw-48p-10",
+      "title": "IP-SW-48P-10",
+      "missing": [
+        "Technical Table",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": ""
+    },
+    {
+      "slug": "ex-hc48-10",
+      "title": "EX-HC48-10",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "extender"
+    },
+    {
+      "slug": "ip-jp4-tx-10",
+      "title": "IP-JP4-TX-10",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "encoder"
+    },
+    {
+      "slug": "tp-13-10",
+      "title": "TP-13-10",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel"
+    },
+    {
+      "slug": "ex-hc24-d-30",
+      "title": "EX-HC24-D-30",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "cabling"
+    },
+    {
+      "slug": "mx-h2-0404-10",
+      "title": "MX-H2-0404-10",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "video,audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "mx-ht2-0806-10",
+      "title": "MX-HT2-0806-10",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "sp-h2-0102-10",
+      "title": "SP-H2-0102-10",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "video,audio",
+      "current_tags": "splitter"
+    },
+    {
+      "slug": "ex-ht2-402-10",
+      "title": "EX-HT2-402-10",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "extender"
+    },
+    {
+      "slug": "netvio-software",
+      "title": "NETVIO Software",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "video-distribution"
+    },
+    {
+      "slug": "ip-jp4-60-dnt-tx-10",
+      "title": "IP-JP4-60-DNT-TX-10",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "decoder"
+    },
+    {
+      "slug": "rx-ht2-40-20",
+      "title": "RX-HT2-40-20",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "receiver"
+    },
+    {
+      "slug": "rx-ht2-70-10",
+      "title": "RX-HT2-70-10",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "receiver"
+    },
+    {
+      "slug": "ex-hc24-20",
+      "title": "EX-HC24-20",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "video",
+      "current_tags": "cabling"
+    },
+    {
+      "slug": "ip-jp4-rx-10",
+      "title": "IP-JP4-RX-10",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "decoder"
+    },
+    {
+      "slug": "netvio-control",
+      "title": "NETVIO Control",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "controller"
+    },
+    {
+      "slug": "ex-arc-150-10",
+      "title": "EX-ARC-150-10",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "extender"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "brand": "fasttel",
+  "count": 20,
+  "products": [
+    {
+      "slug": "ftbg2403skip",
+      "title": "FTBG2403SKIP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "automation",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2401sip",
+      "title": "FTBG2401SIP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "automation",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft2501ip",
+      "title": "FT2501IP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "automation",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg30cc-ftbg30ccdesk",
+      "title": "FTBG30CC + FTBG30CCDESK",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2402sip",
+      "title": "FTBG2402SIP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2402skip",
+      "title": "FTBG2402SKIP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft600sip-3",
+      "title": "FT600SIP-3",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg30cc",
+      "title": "FTBG30CC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "db9701ip",
+      "title": "DB9701IP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "automation",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft2501ipvc",
+      "title": "FT2501IPVC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "automation",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft30cc",
+      "title": "FT30CC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft600ksip",
+      "title": "FT600KSIP",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2403skipvc",
+      "title": "FTBG2403SKIPVC",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone,controller"
+    },
+    {
+      "slug": "ftbr30cc",
+      "title": "FTBR30CC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel,door-phone"
+    },
+    {
+      "slug": "ft2520kvc",
+      "title": "FT2520KVC",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2403sipvc",
+      "title": "FTBG2403SIPVC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft600ksipvc",
+      "title": "FT600KSIPVC",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ft2503kip",
+      "title": "FT2503KIP",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftb2520",
+      "title": "FTB2520",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "ftbg2402sipvc",
+      "title": "FTBG2402SIPVC",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    }
+  ]
+}

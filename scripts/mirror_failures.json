@@ -1,0 +1,887 @@
+[
+  {
+    "info": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>",
+    "status": "fail",
+    "url": "https://cornered.nl/gallery/gallery-gallery-gallery-s-Manual_CA280DSP_03-feb-2020.pdf"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=26702 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://cornered.dk/speak2me/products/csp2-speaker-cable/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/mini-amplifier-at440/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/sound-absorbing-panels-atelier/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=242099 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/amplifiers/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=243755 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/acoustic-sound-panels-cinematelier/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/kb112/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=184806 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/kb213-bookshelf-speakers/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/bookshelf-loudspeakers-kb313/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/bookshelf-loudspeaker-kb316/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/built-in-speaker-kc216/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=177932 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/speaker-kb513/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/suspended-speakers-for-commercial-environment-kn116/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=183843 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/speakers-for-plasterboard-kc316/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=179423 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-speaker-with-center-channel-kc416/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/slim-speakers-kr107/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-speakers-kr111/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=179342 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/slim-loudspeakers-kr108/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=180645 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-speaker-kr112/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/angled-in-ceiling-speaker-kr117n30/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/ceiling-speaker-kr117/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/ceiling-speakers-kr118/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wall-speakers-kr119/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/angled-in-wall-speakers-kr119n30/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-ceiling-speakers-kr120/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/outdoor-in-wall-speakers-kr12m/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=180879 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/false-ceiling-speakers-kr207/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/speakers-for-outdoor-kr22m/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=181162 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/plasterboard-recessed-boxes-kr208/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/recessed-wall-speakers-kr213/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=178897 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/slim-in-wall-speakers-kr308/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/recessed-wall-speaker-kr313/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/loudspeaker-kr316/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/slim-speaker-kr508/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-loudspeaker-with-central-channel-kr413/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-speakers-kr513/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/compact-acoustic-speaker-kw109/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw108/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/on-ceiling-speaker-kw112/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw208/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=180297 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/speaker-cube-kw110/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/on-wall-speaker-kw213/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/kw25m/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=180687 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/outdoor-wall-mount-speaker-kw22m/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wall-mount-speaker-kw313/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/on-wall-speakers-kw316/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=253374 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/collections/collection-aria/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wall-mount-speaker-with-center-channel-kw413/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/kw513/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/outdoor-speaker-sa225/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/outdoor-loudspeakers-sn117/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=178063 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/sa117/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/tile-loudspeaker-quadra/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/sound-absorbing-panel-surface/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/passive-subwoofer-wa113/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wa216-active/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wa216-passive/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/active-subwoofer-wae121/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-wall-subwoofer-wic125/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/in-ceiling-subwoofer-wr116/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/subwoofer-wr216/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=190613 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/wn120/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/design-subwoofer-wr416/"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=174941 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/pipe-subwoofer-wx125/"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.garvanacoustic.com/en/product/subwoofer-pipe-wx130/"
+  },
+  {
+    "info": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>",
+    "status": "fail",
+    "url": "https://wiki.innovo.net/aura"
+  },
+  {
+    "info": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>",
+    "status": "fail",
+    "url": "https://wiki.innovo.net/aura"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=1004613 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://innovo.net/aura-rack-mount/"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=1016829 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://innovo.net/magic-cube-poe/"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=1025105 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://innovo.net/mc-display/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-cds-1504/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-cds-1504/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/cds-354-spec-sheet/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/cds-354-spec-sheet/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/cds-704-spec-sheet/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/cds-704-spec-sheet/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-124/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-124/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-1504/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-1504/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/1504-g-spec-sheet/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/1504-g-spec-sheet/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-series/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-series/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-3004/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-3004/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-3004d/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-3004d/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-series/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-series/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-series/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-series/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-64d/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-64d/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-series/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-series/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-network-connect-adsp/"
+  },
+  {
+    "info": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/",
+    "status": "lea-gated",
+    "url": "https://leaprofessional.com/download/spec-sheet-dante-connect-adsp/"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=685053 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.luhkee.be/"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=539186 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.luhkee.be/ra-receptacles"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=566487 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.luhkee.be/rl-series"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=750433 ct=text/html; charset=UTF-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://leaprofessional.com/products/connect-series-government-models/704d-g/"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/jh6zrbgivu2m5z12d773s/ABGRiemD_Q4cG05KugyxUCM?rlkey=tz5sdmllzlt4pug64d91pqmx2&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/jh6zrbgivu2m5z12d773s/ABGRiemD_Q4cG05KugyxUCM?rlkey=tz5sdmllzlt4pug64d91pqmx2&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/1iqknxmdrqi7imkszfr1d/AJqfTxUjLjffQUQswx2q0Sc?rlkey=ool5lqat2d4jyyk0gs94flbu8&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/1iqknxmdrqi7imkszfr1d/AJqfTxUjLjffQUQswx2q0Sc?rlkey=ool5lqat2d4jyyk0gs94flbu8&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/41o3sfzjtrs968ydf908d/AFOPJmT0pFk3qdjGFQKR7l0?rlkey=dq41onl9ukz0n54cy47k5zyxb&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/41o3sfzjtrs968ydf908d/AFOPJmT0pFk3qdjGFQKR7l0?rlkey=dq41onl9ukz0n54cy47k5zyxb&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/q4npel65tk96c8oqaw1r4/AMW_LmR_U-Ol-Bsse_Zs1XA?rlkey=5ywkhx0cpr64221h2w0ei86fl&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/q4npel65tk96c8oqaw1r4/AMW_LmR_U-Ol-Bsse_Zs1XA?rlkey=5ywkhx0cpr64221h2w0ei86fl&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/cpum089k7cg354jvsdhho/AKvvz7odn_NikYbqpZQOHxM?rlkey=tp9uofsqj2ivcxu42kwo0vpyn&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/cpum089k7cg354jvsdhho/AKvvz7odn_NikYbqpZQOHxM?rlkey=tp9uofsqj2ivcxu42kwo0vpyn&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/cxnxdq2uz3xcr4ahphwbr/AHP7XP-gZDsOckSOtwg2xm0?rlkey=lsn84l9gzxv6ssb6cnoozj204&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/cxnxdq2uz3xcr4ahphwbr/AHP7XP-gZDsOckSOtwg2xm0?rlkey=lsn84l9gzxv6ssb6cnoozj204&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/f4wv9bjryatjmk00dfbsq/AIZH5qlkiwSPG5umXzWFZgs?rlkey=3d5pb8x3mua49weoe2dfz1e9y&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/f4wv9bjryatjmk00dfbsq/AIZH5qlkiwSPG5umXzWFZgs?rlkey=3d5pb8x3mua49weoe2dfz1e9y&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/qy0db0snhblzjn5locx3i/AI6uuHbczCilB_ghbZT3xBk?rlkey=f9ac5fnpknu8w1baxjnjeycpr&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/qy0db0snhblzjn5locx3i/AI6uuHbczCilB_ghbZT3xBk?rlkey=f9ac5fnpknu8w1baxjnjeycpr&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/vjt85sp915zcn246ocs91/AFAp6qzorBywIeH_d6QI0JY?rlkey=jzs979rf7tj5tdl2oh00pir91&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/vjt85sp915zcn246ocs91/AFAp6qzorBywIeH_d6QI0JY?rlkey=jzs979rf7tj5tdl2oh00pir91&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/ozfl5k6pbnbgkumc7fgpf/ACkixh3tcCK5yaPkHmH3Tjc?rlkey=us8g482lgaxgaa2xidmjsvfwg&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/ozfl5k6pbnbgkumc7fgpf/ACkixh3tcCK5yaPkHmH3Tjc?rlkey=us8g482lgaxgaa2xidmjsvfwg&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/hwcbaricoy4yxnlnf1qwo/ADD5NkP4-QHevrcE8U2zLC0?rlkey=cj099i12br9mp7dcgsh8dwulv&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/hwcbaricoy4yxnlnf1qwo/ADD5NkP4-QHevrcE8U2zLC0?rlkey=cj099i12br9mp7dcgsh8dwulv&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/6tjjqsqdkpxlybw6szuek/AHS6J5D5_QEPaC-giEzYBtM?rlkey=jq64uwz5lm4vwyr69dklnbbsl&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/6tjjqsqdkpxlybw6szuek/AHS6J5D5_QEPaC-giEzYBtM?rlkey=jq64uwz5lm4vwyr69dklnbbsl&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/ycnqppl1mgrfailes8xzm/ANk6PQq8rrFhrFIMIlJCasQ?rlkey=2abrsbqtnbypb3a1f625mocwi&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/ycnqppl1mgrfailes8xzm/ANk6PQq8rrFhrFIMIlJCasQ?rlkey=2abrsbqtnbypb3a1f625mocwi&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/n4ins16bwatxe047msfhw/AE1qnXgK8SUsfJwRD5VAFrs?rlkey=9d40ahhiewsegrcucwyxpz0hj&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/n4ins16bwatxe047msfhw/AE1qnXgK8SUsfJwRD5VAFrs?rlkey=9d40ahhiewsegrcucwyxpz0hj&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7kb01fe5wedpp8tbs79nn/AO3xy2lSTr_HZOEkY5RHI9o?rlkey=q0awbzmk2hefdrrfpgvu80bo4&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/uxsr0gjwd5mkm655euqvn/h?rlkey=he3kj29h5i0kxetuhaqsryiou&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/no4pcz7ap93uqhx0k8nr1/ABkQ9I_QPh1PdDv4f2kMHMo?rlkey=69v996ithnjkz50dpsfc8yb29&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/no4pcz7ap93uqhx0k8nr1/ABkQ9I_QPh1PdDv4f2kMHMo?rlkey=69v996ithnjkz50dpsfc8yb29&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7t0ucgrcgqvq3888b8nxr/AJDODnIcvAMQCnTBb8DxhC8?rlkey=5wga55p9zcx8drrhr1poxf5vk&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/6wsrp7kvsqr1zu1hki9nt/APfXELACv-kimRmdfom5hmk?rlkey=6wte0ue9cjcze70zc9p4rye3o&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/6wsrp7kvsqr1zu1hki9nt/APfXELACv-kimRmdfom5hmk?rlkey=6wte0ue9cjcze70zc9p4rye3o&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/pkeeqg8iwuo6ie7i6n13s/AH-B9zj49BSm0TsEAbNPwkE?rlkey=2z8527o5utwkau4hidmzsvv85&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/pkeeqg8iwuo6ie7i6n13s/AH-B9zj49BSm0TsEAbNPwkE?rlkey=2z8527o5utwkau4hidmzsvv85&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/9wfy7x8umtyje23cg9ehi/AA0Sns2CMRyiSNJEYa0H8PI?rlkey=fjqwfoq4nht0wns2f50rxl4q1&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/9wfy7x8umtyje23cg9ehi/AA0Sns2CMRyiSNJEYa0H8PI?rlkey=fjqwfoq4nht0wns2f50rxl4q1&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/mhjhx7sevzflkdtqwj48d/ANevwFXMSC9Oq2c3GHCl5GI?rlkey=adcmzhrklz6rd1y8b9kftt549&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/7c30kfy6lrni9y1kotjmm/AC3bEr13e9ElYctj9lyeah4?rlkey=wrlzs3ed7ujlvkkt7tqksc7yi&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/7c30kfy6lrni9y1kotjmm/AC3bEr13e9ElYctj9lyeah4?rlkey=wrlzs3ed7ujlvkkt7tqksc7yi&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/viwiujnw05ctus72nvt6m/ACCq0v6ar2P09bwCvBaXjU4?rlkey=yw9l1ydk6v5mucdi6c03m0yrj&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/viwiujnw05ctus72nvt6m/ACCq0v6ar2P09bwCvBaXjU4?rlkey=yw9l1ydk6v5mucdi6c03m0yrj&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/ohsu1vwvv9tst6271nlro/AGRh7859sBk0oIy5h4K651E?rlkey=q5uv6wkaqr6pjpwds8jmh06b1&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/ohsu1vwvv9tst6271nlro/AGRh7859sBk0oIy5h4K651E?rlkey=q5uv6wkaqr6pjpwds8jmh06b1&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/3oy0weco1cnl8q5jegq4k/ADNi_p-fxNb-YswzfgekEe4?rlkey=yi020cresx9d5pdtzk2y7rsmd&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/6mysmjvto3zpbxmvky4xt/APM7UyrvqV_NpYgl-WwB_JU?rlkey=7qvbx0ljx6ykarhbjktwl4d31&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/6mysmjvto3zpbxmvky4xt/APM7UyrvqV_NpYgl-WwB_JU?rlkey=7qvbx0ljx6ykarhbjktwl4d31&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/69ox8ut0lq1rtbm0apajc/AGMoOc-yBrBJZ-dr0YCrwXk?rlkey=ltypdmuzwgrvaljyqitpwthap&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/69ox8ut0lq1rtbm0apajc/AGMoOc-yBrBJZ-dr0YCrwXk?rlkey=ltypdmuzwgrvaljyqitpwthap&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/mamduvafywvdyug6hxd6j/AEuz0v-Zhbd5LHyvzwYO8t0?rlkey=hwmidwd94bolunbotj062f12k&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/mamduvafywvdyug6hxd6j/AEuz0v-Zhbd5LHyvzwYO8t0?rlkey=hwmidwd94bolunbotj062f12k&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/zpno32qr3tuehdvff7784/AEafaJ66yoVL79rP-9zCwnE?rlkey=l97zl8452lc7gpd0b0fxnwib1&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/zpno32qr3tuehdvff7784/AEafaJ66yoVL79rP-9zCwnE?rlkey=l97zl8452lc7gpd0b0fxnwib1&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/xwfk31ie6fzbyvbusn1eu/ABVAR_CMfllbrU1r21ttyjk?rlkey=ixrvmy9oupy0aa7i9okt29t7n&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/xwfk31ie6fzbyvbusn1eu/ABVAR_CMfllbrU1r21ttyjk?rlkey=ixrvmy9oupy0aa7i9okt29t7n&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/uwe7262tefehwmpyjpq11/AG2F-XDlvExpFRMXOUo3RXE?rlkey=lnufpsli9lopc9e659s1y77ak&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/uwe7262tefehwmpyjpq11/AG2F-XDlvExpFRMXOUo3RXE?rlkey=lnufpsli9lopc9e659s1y77ak&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/zhmb7ajj01ife71gvawns/ACjPuTHfnydFFwplIpDxa7w?rlkey=f4k5ji5ecq2i0f0v82ngey9ms&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/zhmb7ajj01ife71gvawns/ACjPuTHfnydFFwplIpDxa7w?rlkey=f4k5ji5ecq2i0f0v82ngey9ms&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0"
+  },
+  {
+    "info": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0",
+    "status": "dropbox-folder",
+    "url": "https://www.dropbox.com/scl/fo/u2k3ugb92z4l5cg5e4mc7/AJfu0AR4JmgA-CKf-MjMhhk?rlkey=kepagb11bkduhp3g8ok5xluxb&dl=0"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=65714 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/155/neo4-hdbaset-video-matrix-with-poh-receivers"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=36518 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/203/neoultra-hdmi-extender-set"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=34771 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/230/neo6a"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=35975 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/214/neox"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=31948 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/245/neo-xsr"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=34211 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/176/neopro-hdmi-extender-set"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=67473 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/219/proamp-8"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=34247 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/212/proaudio-32"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=33963 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/213/proaudio-3248"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=33963 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/213/proaudio-3248"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=34247 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/212/proaudio-32"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=32674 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/241/proaudio-3264"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=33877 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/215/proaudio-8"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=34500 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/216/neo8a"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=32674 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/241/proaudio-3264"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.stealthacoustics.com/wp-content/uploads/2013/03/LR3g-Spec-Sheet_2013.pdf"
+  },
+  {
+    "info": "invalid-content kind=Specsheet bytes=34267 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/211/proaudio-1632"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-ELITE-MK3-range-Specification-sheet-2025.03.25.pdf"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-EVO-Specification-sheet-2025.03.25.pdf"
+  },
+  {
+    "info": "http-404",
+    "status": "fail",
+    "url": "https://www.stormaudio.com/wp-content/uploads/2024/04/StormAudio-CI-ISP-CORE-16-Specification-sheet-2025.06.24-1.pdf"
+  },
+  {
+    "info": "invalid-content kind=Thumbnail bytes=30176 ct=text/html; charset=utf-8 starts=b'<!DOCTYP'",
+    "status": "fail",
+    "url": "https://www.pulse-eight.com/p/185/neolite-hdmi-extender-set"
+  }
+]

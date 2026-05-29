@@ -1,0 +1,44 @@
+{
+  "brand": "innovo",
+  "count": 4,
+  "products": [
+    {
+      "slug": "4-inch-touch-panel",
+      "title": "4 Inch Touch Panel",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel"
+    },
+    {
+      "slug": "5-5-inch-touch-panel",
+      "title": "5.5 Inch Touch Panel",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel"
+    },
+    {
+      "slug": "magic-cube-aura",
+      "title": "Magic Cube Aura",
+      "missing": [
+        "Technical Table",
+        "Thumbnail",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "magic-cube-aura-wired-plus-ble-5-and-wifi-6",
+      "title": "Magic Cube Aura Wired Plus BLE 5 and WiFi 6",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": "controller"
+    }
+  ]
+}

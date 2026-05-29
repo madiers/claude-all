@@ -1,0 +1,135 @@
+{
+  "brand": "stealth-acoustics",
+  "count": 15,
+  "products": [
+    {
+      "slug": "lr30w",
+      "title": "LR30W",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "stingray-soffit-speaker-kit",
+      "title": "Stingray Soffit Speaker Kit",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "slr8g",
+      "title": "SLR8g",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "l-rad-430",
+      "title": "L-RAD 430",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "stingray-8",
+      "title": "Stingray 8",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "lrx-83",
+      "title": "LRX-83",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "surface",
+      "title": "SURFACE",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "lr6g",
+      "title": "LR6G",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "lrx-85",
+      "title": "LRX-85",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "lr3g",
+      "title": "LR3g",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "stingray-83",
+      "title": "Stingray 83",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "stingray-430",
+      "title": "Stingray 430",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor"
+    },
+    {
+      "slug": "l-rad-116",
+      "title": "L-RAD 116",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ground-stake",
+      "title": "GROUND STAKE",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "sa2400-mkii",
+      "title": "SA2400-MKII",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    }
+  ]
+}

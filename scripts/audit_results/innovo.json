@@ -1,0 +1,70 @@
+{
+  "brand_slug": "innovo",
+  "existing_updates": [
+    {
+      "slug": "5-5-inch-touch-panel",
+      "Thumbnail_vendor_url": "https://innovo.net/wp-content/uploads/5-inch-wall-climate-320x320.png",
+      "Specsheet_vendor_url": "https://innovo.net/wp-content/uploads/4-inch-Panel.pdf"
+    },
+    {
+      "slug": "magic-cube-aura",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller",
+      "Thumbnail_vendor_url": "https://innovo.net/wp-content/uploads/front-ra-2-320x247.png",
+      "Specsheet_vendor_url": "https://wiki.innovo.net/aura",
+      "Technical Table": "<table><thead><tr><th>Component</th><th>Specification</th></tr></thead><tbody><tr><td>CPU</td><td>Rockchip RK3568B2, Quad-core ARM Cortex-A55 up to 2.0 GHz</td></tr><tr><td>GPU</td><td>Mali-G52 1-Core-2EE</td></tr><tr><td>RAM</td><td>2 GB LPDDR4X</td></tr><tr><td>Storage</td><td>32 GB eMMC flash</td></tr><tr><td>Network</td><td>2x PCIe 2.5 GbE, M.2 E-Key slot</td></tr><tr><td>Video</td><td>HDMI 1.4/2.0 up to 4096x2304@60Hz</td></tr><tr><td>USB</td><td>2x USB 3.0 Host, 1x USB-C (power)</td></tr><tr><td>Wireless adapters</td><td>Zigbee and Z-Wave (USB, sold separately)</td></tr><tr><td>Operating temperature</td><td>0 to 70 degC</td></tr><tr><td>Power input</td><td>USB-C, 5 V (PoE adapter included)</td></tr></tbody></table>"
+    },
+    {
+      "slug": "magic-cube-aura-wired-plus-ble-5-and-wifi-6",
+      "Specsheet_vendor_url": "https://wiki.innovo.net/aura"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "magic-cube-display-pro",
+      "Title": "Magic Cube Display Pro",
+      "Sub Title": "Professional in-wall display for Magic Cube ecosystems",
+      "Product Description": "<p>The Magic Cube Display Pro is Innovo's professional in-wall display companion for the Magic Cube Aura controller. It pairs the visual polish of a dedicated touchscreen with the open-source Magic Cube driver ecosystem, giving integrators a flexible front-of-wall surface for lighting, climate, shading, audio, and security scenes across Nice, Control4, Lutron, and Rako-based projects. The device is sold through the Innovo dealer channel and is designed to slot alongside the Aura hub and the rest of the Magic Cube hardware family. Like the rest of the Magic Cube line, the Display Pro is targeted at professional residential integrators and benefits from the same active driver development and community knowledge base that powers the broader Innovo platform, allowing dealers to standardize on a single interface across multi-protocol smart-home deployments.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>In-wall touch display</td></tr><tr><td>Compatible controllers</td><td>Magic Cube Aura, Magic Cube Aura Wired Plus</td></tr><tr><td>Supported platforms</td><td>Nice, Control4, Lutron, Rako</td></tr><tr><td>Distribution</td><td>Dealer-only, not sold retail</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "innovo",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "touch-panel",
+      "Specsheet_vendor_url": "https://innovo.net/mc-display/"
+    },
+    {
+      "slug": "magic-cube-poe-driver",
+      "Title": "Magic Cube POE Driver",
+      "Sub Title": "Power-over-Ethernet driver module for the Magic Cube",
+      "Product Description": "<p>The Magic Cube POE Driver gives integrators a clean, single-cable power option for any Magic Cube Aura installation. Instead of relying on the supplied wall power supply or PoE injector, the POE driver lets the Magic Cube draw both power and network from a single Cat5e/Cat6 run back to a PoE-capable switch, which simplifies rack and in-cabinet installs and removes the need for an extra outlet near the device. It is sold as part of the Innovo accessory line alongside other Magic Cube power and network add-ons, and is intended for professional dealers building Nice, Control4, Lutron, or Rako control systems on the Magic Cube platform.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Function</td><td>Power-over-Ethernet for Magic Cube Aura</td></tr><tr><td>PoE standard</td><td>IEEE 802.3af or better</td></tr><tr><td>Output</td><td>USB-C 5 V to Magic Cube</td></tr><tr><td>Distribution</td><td>Dealer-only</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "innovo",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "controller",
+      "Specsheet_vendor_url": "https://innovo.net/magic-cube-poe/"
+    },
+    {
+      "slug": "magic-cube-aura-rack-mount-kit",
+      "Title": "Magic Cube Aura Rack Mount Kit",
+      "Sub Title": "1U rack-mount kit for the Magic Cube Aura controller",
+      "Product Description": "<p>The Magic Cube Aura Rack Mount Kit is a purpose-made bracket assembly that lets integrators install one or more Magic Cube Aura controllers into a standard equipment rack. It keeps the Aura tidy alongside the rest of the AV and network gear in a closet or central rack and provides repeatable mounting for multi-Aura deployments. The kit is part of the Innovo accessory range and is aimed at professional dealers standardizing on the Magic Cube ecosystem for whole-home control, automation and IoT bridging duties. As with the rest of the Innovo line it is sold only through approved dealers and not at retail.</p>",
+      "Technical Table": "<table><thead><tr><th>Specification</th><th>Detail</th></tr></thead><tbody><tr><td>Type</td><td>Rack mount kit</td></tr><tr><td>Compatible with</td><td>Magic Cube Aura, Magic Cube Aura Wired Plus</td></tr><tr><td>Form factor</td><td>Standard 19-inch rack</td></tr><tr><td>Distribution</td><td>Dealer-only</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "innovo",
+      "Product Categories": "control-system,automation",
+      "Product Tags": "install-kit",
+      "Specsheet_vendor_url": "https://innovo.net/aura-rack-mount/"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "5-5-inch-touch-panel",
+      "fields": ["Specsheet"],
+      "note": "Innovo publishes a dedicated PDF spec sheet for the 4 Inch Touch Panel (innovo.net/wp-content/uploads/4-inch-Panel.pdf) which is the closest official document and covers the same 5.5\" panel family on its second page; no standalone 5-inch PDF is hosted. The Wiki page https://wiki.innovo.net/5intp is the only other primary source."
+    }
+  ]
+}

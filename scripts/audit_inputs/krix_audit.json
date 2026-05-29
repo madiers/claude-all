@@ -1,0 +1,789 @@
+{
+  "brand": "krix",
+  "count": 93,
+  "products": [
+    {
+      "slug": "theatrix",
+      "title": "THEATRIX",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cyclonix-12",
+      "title": "CYCLONIX 12",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "megaphonix-centre",
+      "title": "MEGAPHONIX CENTRE",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cinematix",
+      "title": "CINEMATIX",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cyclonix-18",
+      "title": "CYCLONIX 18",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "as-325",
+      "title": "AS-325",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "seismix-1-mk6",
+      "title": "SEISMIX 1 MK6",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "mx-20",
+      "title": "MX-20",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "mx-5",
+      "title": "MX-5",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "epicentrix-mk2",
+      "title": "EPICENTRIX MK2",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cyclonix-11",
+      "title": "CYCLONIX 11",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "megaphonix-centre-in-wall",
+      "title": "MEGAPHONIX CENTRE IN-WALL",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "mx-10",
+      "title": "MX-10",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "as-200",
+      "title": "AS-200",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "esoterix-altum",
+      "title": "ESOTERIX ALTUM",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "vortex-mk2",
+      "title": "VORTEX MK2",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "hemispherix-sps",
+      "title": "HEMISPHERIX SPS",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "epix",
+      "title": "EPIX",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "hyperphonix-45",
+      "title": "HYPERPHONIX 45",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "pix",
+      "title": "PIX",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "megaphonix-flat",
+      "title": "MEGAPHONIX FLAT",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "scenix",
+      "title": "SCENIX",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "megaphonix",
+      "title": "Megaphonix",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "aquatix",
+      "title": "Aquatix",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor"
+    },
+    {
+      "slug": "megacyclonix",
+      "title": "Megacyclonix",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "subwoofer,cinema"
+    },
+    {
+      "slug": "neuphonix-mk2",
+      "title": "NEUPHONIX MK2",
+      "missing": [
+        "Technical Table"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ic-52",
+      "title": "IC-52",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "tropix",
+      "title": "Tropix",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor"
+    },
+    {
+      "slug": "equinox-mk5",
+      "title": "Equinox Mk5",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "owx-55",
+      "title": "OWX-55",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "ic-50",
+      "title": "IC-50",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "ic-20",
+      "title": "IC-20",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor,install-kit"
+    },
+    {
+      "slug": "phoenix-mk2",
+      "title": "Phoenix Mk2",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "holographix",
+      "title": "Holographix",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "as-315",
+      "title": "AS-315",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "cinema,audio",
+      "current_tags": "install-kit"
+    },
+    {
+      "slug": "acoustix-mk2",
+      "title": "Acoustix Mk2",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "phonix-flat",
+      "title": "Phonix Flat",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "iw-50",
+      "title": "IW-50",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "seismix-transmitter",
+      "title": "Seismix Transmitter",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka-1100",
+      "title": "KA-1100",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "owx-50",
+      "title": "OWX-50",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "phonix-in-wall",
+      "title": "Phonix In-Wall",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema,install-kit"
+    },
+    {
+      "slug": "phonix",
+      "title": "Phonix",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "lx-7",
+      "title": "LX-7",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ic-32",
+      "title": "IC-32",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "sonix-mk3",
+      "title": "Sonix Mk3",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "flix",
+      "title": "Flix",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cyclonix-15",
+      "title": "Cyclonix 15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "harmonix-mk2",
+      "title": "Harmonix Mk2",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "dynamix-mk4",
+      "title": "Dynamix Mk4",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "megaphonix-in-wall",
+      "title": "Megaphonix In-Wall",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema,install-kit"
+    },
+    {
+      "slug": "mx-30",
+      "title": "MX-30",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "megaphonix-in-room",
+      "title": "Megaphonix In-Room",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "mx-40",
+      "title": "MX-40",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "phonix-45",
+      "title": "Phonix 45",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "ic-30",
+      "title": "IC-30",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,install-kit"
+    },
+    {
+      "slug": "graphix-mk2",
+      "title": "Graphix Mk2",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "iw-30",
+      "title": "IW-30",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "acoustix-evara",
+      "title": "Acoustix Evara",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "cyclonix-12ac",
+      "title": "Cyclonix 12 Active Compact",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "graphix-evara",
+      "title": "Graphix Evara",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ic-10",
+      "title": "IC-10 (Holographix)",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ic-35s",
+      "title": "IC-35S (Hemispherix SPS)",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "phoenix-evara",
+      "title": "Phoenix Evara",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "seismix-3d",
+      "title": "Seismix 3D Mk3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "seismix-3d-evara",
+      "title": "Seismix 3D Evara",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "seismix-5",
+      "title": "Seismix 5",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "seismix1",
+      "title": "Seismix 1 Mk7",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "seismix3",
+      "title": "Seismix 3 Mk8",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "kx-5974",
+      "title": "KX-5974",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5972",
+      "title": "KX-5972",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5954",
+      "title": "KX-5954",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5946",
+      "title": "KX-5946",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5620",
+      "title": "KX-5620",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5275",
+      "title": "KX-5275",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5255",
+      "title": "KX-5255",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-5205",
+      "title": "KX-5205",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-4205",
+      "title": "KX-4205",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1062",
+      "title": "KX-1062",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1061",
+      "title": "KX-1061",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1570f",
+      "title": "KX-1570F",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1570",
+      "title": "KX-1570",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1875",
+      "title": "KX-1875",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1870f",
+      "title": "KX-1870F",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1870",
+      "title": "KX-1870",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kx-1840",
+      "title": "KX-1840",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "mx-20-mk2",
+      "title": "MX-20 Mk2",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "mx-30i",
+      "title": "MX-30i",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "mx-40i",
+      "title": "MX-40i",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "speaker,cinema"
+    },
+    {
+      "slug": "mxi-118",
+      "title": "MXi-118",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "subwoofer,cinema"
+    },
+    {
+      "slug": "ucx-218",
+      "title": "UCX-218",
+      "missing": [],
+      "current_categories": "cinema,audio",
+      "current_tags": "subwoofer,cinema"
+    },
+    {
+      "slug": "banana-plugs",
+      "title": "Banana Plugs",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "cabling"
+    },
+    {
+      "slug": "ic-80",
+      "title": "IC-80",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor,install-kit"
+    }
+  ]
+}

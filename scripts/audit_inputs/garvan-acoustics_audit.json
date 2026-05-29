@@ -1,0 +1,1042 @@
+{
+  "brand": "garvan-acoustics",
+  "count": 98,
+  "products": [
+    {
+      "slug": "sa203",
+      "title": "SA203",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sa520",
+      "title": "SA520",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "microbaffle",
+      "title": "MICROBAFFLE",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "sn116",
+      "title": "SN116",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor"
+    },
+    {
+      "slug": "kr16m",
+      "title": "KR16M",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "wa220",
+      "title": "WA220",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "sn220",
+      "title": "SN220",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sn120",
+      "title": "SN120",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "kw16m",
+      "title": "KW16M",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker,outdoor"
+    },
+    {
+      "slug": "kw12m",
+      "title": "KW12M",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "wa125",
+      "title": "WA125",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker,subwoofer"
+    },
+    {
+      "slug": "svk15",
+      "title": "SVK15",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "wa138",
+      "title": "WA138",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "acoustic-parquet",
+      "title": "ACOUSTIC PARQUET",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "quadra",
+      "title": "QUADRA",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "acoustic-sound-panels"
+    },
+    {
+      "slug": "kr107",
+      "title": "KR107",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr108",
+      "title": "KR108",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr308",
+      "title": "KR308",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr508",
+      "title": "KR508",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr111",
+      "title": "KR111",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr207",
+      "title": "KR207",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr118",
+      "title": "KR118",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr120",
+      "title": "KR120",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr112",
+      "title": "KR112",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr208",
+      "title": "KR208",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr117",
+      "title": "KR117",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr119",
+      "title": "KR119",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kc216",
+      "title": "KC216",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr213",
+      "title": "KR213",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kc316",
+      "title": "KC316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr316",
+      "title": "KR316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr313",
+      "title": "KR313",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr513",
+      "title": "KR513",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr117n30",
+      "title": "KR117N30",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr119n30",
+      "title": "KR119N30",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr12m",
+      "title": "KR12M",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr22m",
+      "title": "KR22M",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kc416",
+      "title": "KC416",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr413",
+      "title": "KR413",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw108",
+      "title": "KW108",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw109",
+      "title": "KW109",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw110",
+      "title": "KW110",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw112",
+      "title": "KW112",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw208",
+      "title": "KW208",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw213",
+      "title": "KW213",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw22m",
+      "title": "KW22M",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw25m",
+      "title": "KW25M",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw313",
+      "title": "KW313",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw316",
+      "title": "KW316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw413",
+      "title": "KW413",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw513",
+      "title": "KW513",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kb112",
+      "title": "KB112",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kb213",
+      "title": "KB213",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kb313",
+      "title": "KB313",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kb316",
+      "title": "KB316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kb513",
+      "title": "KB513",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wa113",
+      "title": "WA113",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wa216-active",
+      "title": "WA216 Active",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wa216-passive",
+      "title": "WA216 Passive",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wae121p",
+      "title": "WAE121P",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wic125",
+      "title": "WIC125",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wr116",
+      "title": "WR116",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wr216",
+      "title": "WR216",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wr416",
+      "title": "WR416",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wx125",
+      "title": "WX125",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wx130",
+      "title": "WX130",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kn116",
+      "title": "KN116",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw3308",
+      "title": "KW3308",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw3112",
+      "title": "KW3112",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw2316",
+      "title": "KW2316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw3213",
+      "title": "KW3213",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw3316",
+      "title": "KW3316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kw3313",
+      "title": "KW3313",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr3308",
+      "title": "KR3308",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr3112",
+      "title": "KR3112",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr2316",
+      "title": "KR2316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr3213",
+      "title": "KR3213",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr3316",
+      "title": "KR3316",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "kr3313",
+      "title": "KR3313",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "sound-quadra",
+      "title": "Sound Quadra",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "cinematelier",
+      "title": "CinemAtelier",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka112h",
+      "title": "KA112H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka213h",
+      "title": "KA213H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka313h",
+      "title": "KA313H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka316h",
+      "title": "KA316H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka320h",
+      "title": "KA320H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ka520h",
+      "title": "KA520H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wa220h",
+      "title": "WA220H",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "wa130h",
+      "title": "WA130H",
+      "missing": [
+        "Thumbnail",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "at232-a",
+      "title": "AT232-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at260-a",
+      "title": "AT260-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at432-a",
+      "title": "AT432-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at432-d",
+      "title": "AT432-D",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at460-a",
+      "title": "AT460-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at460-d",
+      "title": "AT460-D",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at2404-a",
+      "title": "AT2404-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "at4804-a",
+      "title": "AT4804-A",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    },
+    {
+      "slug": "ara",
+      "title": "ARA",
+      "missing": [
+        "Thumbnail",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": ""
+    }
+  ]
+}

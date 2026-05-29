@@ -1,0 +1,656 @@
+{
+  "brand": "nice",
+  "count": 80,
+  "products": [
+    {
+      "slug": "hrsi-10",
+      "title": "HRSi-10",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sdsi-15",
+      "title": "SDSi-15",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc-dx-ec6-dt",
+      "title": "SC-DX-EC6-DT",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ela-ipd-pre-sio",
+      "title": "ELA-IPD-PRE-SIO",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "ela-ipd-pre-msi",
+      "title": "ELA-IPD-PRE-MSI",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "asm57703",
+      "title": "ASM57703",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "asm54655-2",
+      "title": "ASM54655-2",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc-bt-12",
+      "title": "SC-BT-12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc2-ic6-tilt",
+      "title": "SC2-IC6-TILT",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc1-ic6",
+      "title": "SC1-IC6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "ela-ipd-nac-ext",
+      "title": "ELA-IPD-NAC-EXT",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "sc1-ic6-dt",
+      "title": "SC1-IC6-DT",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc12-30",
+      "title": "SC12-30",
+      "missing": [
+        "Technical Table",
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "sc-aim285-mk3",
+      "title": "SC-AIM285-Mk3",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "el-sc-150",
+      "title": "EL-SC-150",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "controller"
+    },
+    {
+      "slug": "ela-ipd-mtx-8ch",
+      "title": "ELA-IPD-MTX-8CH",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-4k-vip-tx",
+      "title": "EL-4K-VIP-TX",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "encoder"
+    },
+    {
+      "slug": "sc-sb-40p",
+      "title": "SC-SB-40P",
+      "missing": [
+        "Technical Table",
+        "Thumbnail",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "sc1-ic6-tilt",
+      "title": "SC1-IC6-TILT",
+      "missing": [
+        "Technical Table",
+        "Thumbnail",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-itp2-12",
+      "title": "EL-ITP2-12",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel"
+    },
+    {
+      "slug": "hrsi-12",
+      "title": "HRSi-12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc-aim282-mk3",
+      "title": "SC-AIM282-Mk3",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-4k-vip-acm",
+      "title": "EL-4K-VIP-ACM",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "controller"
+    },
+    {
+      "slug": "oe6-one",
+      "title": "OE6-One",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "sc-ic3",
+      "title": "SC-IC3",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc3-ic8",
+      "title": "SC3-IC8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "el-itp2-8",
+      "title": "EL-ITP2-8",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "touch-panel"
+    },
+    {
+      "slug": "oe6-three",
+      "title": "OE6-Three",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "sc-og-6",
+      "title": "SC-OG-6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "hrsi-8",
+      "title": "HRSi-8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc3-ic6",
+      "title": "SC3-IC6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "el-sc-350",
+      "title": "EL-SC-350",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "controller"
+    },
+    {
+      "slug": "sc-ic-sub8",
+      "title": "SC-IC-SUB8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "el-io-200",
+      "title": "EL-IO-200",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "extender"
+    },
+    {
+      "slug": "sdsi-10",
+      "title": "SDSi-10",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc2-ic6",
+      "title": "SC2-IC6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "xteqi-12",
+      "title": "XTEQi-12",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "sc2-ic8",
+      "title": "SC2-IC8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc-bt-10",
+      "title": "SC-BT-10",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    },
+    {
+      "slug": "oe5-one",
+      "title": "OE5-One",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "el-hr40",
+      "title": "EL-HR40",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "controller,remote-control"
+    },
+    {
+      "slug": "el-4k-vip-rx",
+      "title": "EL-4K-VIP-RX",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "decoder"
+    },
+    {
+      "slug": "sc2-iw5-lcr",
+      "title": "SC2-IW5-LCR",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc3-iw5-lcr",
+      "title": "SC3-IW5-LCR",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc-og-4",
+      "title": "SC-OG-4",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "sc-hrsiw8-cab",
+      "title": "SC-HRSIW8-CAB",
+      "missing": [
+        "Specsheet"
+      ],
+      "current_categories": "audio",
+      "current_tags": "speaker"
+    },
+    {
+      "slug": "sc-dx-fc6-lcr",
+      "title": "SC-DX-FC6-LCR",
+      "missing": [
+        "Technical Table",
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "sc-rs8si",
+      "title": "SC-RS8Si",
+      "missing": [
+        "Product Categories",
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-4khdbt-kit-70-arc-18g",
+      "title": "EL-4KHDBT-KIT-70-ARC-18G",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "extender"
+    },
+    {
+      "slug": "el-4khdbt-rx-40-18g",
+      "title": "EL-4KHDBT-RX-40-18G",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "receiver"
+    },
+    {
+      "slug": "el-4khdbt-rx-70-arc-18g",
+      "title": "EL-4KHDBT-RX-70-ARC-18G",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "receiver"
+    },
+    {
+      "slug": "el-4km-v44-18g",
+      "title": "EL-4KM-V44-18G",
+      "missing": [],
+      "current_categories": "video",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-4kpm-v88-a268-18g",
+      "title": "EL-4KPM-V88-A268-18G",
+      "missing": [],
+      "current_categories": "video,audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-ip-4fb",
+      "title": "EL-IP-4FB",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ip-4fd",
+      "title": "EL-IP-4FD",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ip-4ft",
+      "title": "EL-IP-4FT",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ip-4pt-wh",
+      "title": "EL-IP-4PT-WH",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ip-8fb",
+      "title": "EL-IP-8FB",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ip-8ft",
+      "title": "EL-IP-8FT",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "282x",
+      "title": "282X",
+      "missing": [
+        "Product Tags",
+        "Specsheet"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "283d",
+      "title": "283D",
+      "missing": [
+        "Thumbnail",
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "283d10p",
+      "title": "283D10P",
+      "missing": [
+        "Thumbnail",
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "284d10p",
+      "title": "284D10P",
+      "missing": [
+        "Thumbnail",
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "286d10p",
+      "title": "286D10P",
+      "missing": [
+        "Thumbnail",
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "28des",
+      "title": "28DES",
+      "missing": [
+        "Product Tags"
+      ],
+      "current_categories": "control-system",
+      "current_tags": ""
+    },
+    {
+      "slug": "el-ipd-amp-2ch",
+      "title": "EL-IPD-AMP-2CH",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "el-ipd-amp-ext",
+      "title": "EL-IPD-AMP-EXT",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "el-ipd-mtx-8ch",
+      "title": "EL-IPD-MTX-8CH",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-ipd-nac-ext",
+      "title": "EL-IPD-NAC-EXT",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-ipd-pre-msi",
+      "title": "EL-IPD-PRE-MSI",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "matrix"
+    },
+    {
+      "slug": "el-ipd-pre-sio",
+      "title": "EL-IPD-PRE-SIO",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "amplifier"
+    },
+    {
+      "slug": "nice-video-doorbell",
+      "title": "Nice Video Doorbell",
+      "missing": [],
+      "current_categories": "control-system",
+      "current_tags": "door-phone"
+    },
+    {
+      "slug": "oe8",
+      "title": "OE8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "ps6si",
+      "title": "PS6Si",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "rs5pro",
+      "title": "RS5PRO",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "rs6",
+      "title": "RS6",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "rs8sipro",
+      "title": "RS8SiPRO",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "sc-terr-2-0",
+      "title": "SC-TERR-2-0",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "sc-terr-4-1",
+      "title": "SC-TERR-4-1",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "outdoor,speaker"
+    },
+    {
+      "slug": "hrsiw8",
+      "title": "HRSiW8",
+      "missing": [],
+      "current_categories": "audio",
+      "current_tags": "subwoofer"
+    }
+  ]
+}

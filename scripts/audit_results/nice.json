@@ -1,0 +1,462 @@
+{
+  "brand_slug": "nice",
+  "existing_updates": [
+    {
+      "slug": "sdsi-15",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SDSi-15/SpeakerCraft_SDSi_datasheet.pdf"
+    },
+    {
+      "slug": "sc-dx-ec6-dt",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>6.5\" in-ceiling stereo (DT) speaker</td></tr><tr><td>Woofer</td><td>6.5\" (160 mm) polypropylene cone</td></tr><tr><td>Tweeter</td><td>Dual 1/2\" (13 mm) fixed Mylar dome</td></tr><tr><td>Frequency response</td><td>52 Hz - 20 kHz</td></tr><tr><td>Impedance</td><td>8 Ohms</td></tr><tr><td>Power handling</td><td>100 W</td></tr><tr><td>Sensitivity</td><td>89 dB</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm) diameter</td></tr><tr><td>Mounting depth</td><td>3.7\" (94 mm)</td></tr><tr><td>Dimensions</td><td>9.625\" diameter x 3.8\" depth</td></tr><tr><td>Series</td><td>SpeakerCraft Stage E (DX)</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-DX-EC6-DT/pdf_SC-DX-EC6-DT_Datasheet.pdf"
+    },
+    {
+      "slug": "ela-ipd-pre-sio",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Local audio source preamp (ELA region SKU; equivalent to EL-IPD-PRE-SSI)</td></tr><tr><td>Function</td><td>Delivers two-channel PCM audio from a remote source to a Dante-enabled ELAN audio matrix over standard LAN</td></tr><tr><td>Audio inputs</td><td>1 optical TOSLINK, 1 coaxial RCA, 1 stereo RCA line level (selectable)</td></tr><tr><td>Digital audio formats</td><td>Stereo, PCM, 96 kHz, 24-bit</td></tr><tr><td>Network</td><td>1 RJ45 10/100 Ethernet, PoE 802.3af/at</td></tr><tr><td>Power</td><td>5 V, 2 A DC or PoE</td></tr><tr><td>Dimensions</td><td>7.0\" W x 1.06\" H x 4.0\" D (178 x 27 x 102 mm)</td></tr><tr><td>Weight</td><td>0.65 lb / 0.29 kg</td></tr><tr><td>Operating temperature</td><td>+5 to +45 degC</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://s3-us-west-1.amazonaws.com/corebrands-resources/products/EL-IPD-MTX-8CH/pdf_EL-IPD-Line_datasheet.pdf"
+    },
+    {
+      "slug": "ela-ipd-pre-msi",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Multi-zone preamp audio matrix (ELA region SKU; equivalent to EL-IPD-PRE-MSI)</td></tr><tr><td>Inputs</td><td>Up to 23 (3 optical TOSLINK, 3 coaxial RCA, 8 stereo / 16 mono RCA line level, 1 doorbell 3.5 mm stereo)</td></tr><tr><td>Preamp outputs</td><td>6 stereo / 12 mono RCA, configurable L/R/Mono/Sub</td></tr><tr><td>Output gain</td><td>Fixed 0 dB or variable -50 to 0 dB in 0.5 dB steps</td></tr><tr><td>Output impedance</td><td>470 Ohm</td></tr><tr><td>Lip-sync delay</td><td>0-400 ms per zone in 10 ms steps</td></tr><tr><td>EQ</td><td>5-band per zone, loudness on/off, high/low pass</td></tr><tr><td>Network</td><td>1 RJ45 100/1000 Ethernet (Dante via optional EL-IPD-NAC-EXT)</td></tr><tr><td>Trigger outputs</td><td>3 x 3.5 mm mono, +12 VDC / 100 mA</td></tr><tr><td>Power</td><td>AC 100-240 V, 50/60 Hz, 1000 W</td></tr><tr><td>Dimensions</td><td>17\" D x 17\" W x 4\" H (with feet)</td></tr><tr><td>Weight</td><td>15.55 lb / 7.05 kg</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://s3-us-west-1.amazonaws.com/corebrands-resources/products/EL-IPD-MTX-8CH/pdf_EL-IPD-Line_datasheet.pdf"
+    },
+    {
+      "slug": "asm57703",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Architectural speaker accessory (SpeakerCraft/Nice ASM SKU)</td></tr><tr><td>Notes</td><td>ASM-prefix part number used by Nice/SpeakerCraft for accessory and bulk-pack speaker SKUs; no public per-SKU datasheet for ASM57703</td></tr></tbody></table>",
+      "Specsheet_vendor_url": ""
+    },
+    {
+      "slug": "asm54655-2",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Architectural speaker accessory (SpeakerCraft/Nice ASM SKU)</td></tr><tr><td>Notes</td><td>ASM-prefix part number used by Nice/SpeakerCraft for accessory / bulk-pack SKUs; no public per-SKU datasheet for ASM54655-2</td></tr></tbody></table>",
+      "Specsheet_vendor_url": ""
+    },
+    {
+      "slug": "sc2-ic6-tilt",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>6.5\" 2-way in-ceiling, tilted (angled woofer)</td></tr><tr><td>Series</td><td>SpeakerCraft Series 2 (anodized ceramic / aluminum drivers)</td></tr><tr><td>Woofer</td><td>6.5\" anodized ceramic/aluminum, pivoting</td></tr><tr><td>Tweeter</td><td>1\" (25 mm) ceramic/aluminum AccuAim dome</td></tr><tr><td>Frequency range</td><td>46 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>90 dB SPL</td></tr><tr><td>Recommended power</td><td>30 - 135 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock by Swarm</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "ela-ipd-nac-ext",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Network audio card (Dante) for ELAN IP audio matrix (ELA region SKU; equivalent to EL-IPD-NAC-EXT)</td></tr><tr><td>Function</td><td>Adds Dante audio networking to EL-IPD-MTX-8CH and EL-IPD-PRE-MSI for multi-chassis distribution</td></tr><tr><td>Compatibility</td><td>EL-IPD-MTX-8CH, EL-IPD-PRE-MSI, EL-IPD-PRE-SSI</td></tr><tr><td>Networking</td><td>Dante over standard Gigabit Ethernet, up to 64 individual audio zones</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://s3-us-west-1.amazonaws.com/corebrands-resources/products/EL-IPD-MTX-8CH/pdf_EL-IPD-Line_datasheet.pdf"
+    },
+    {
+      "slug": "sc1-ic6-dt",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>6.5\" 2-way stereo (dual tweeter) in-ceiling speaker</td></tr><tr><td>Series</td><td>SpeakerCraft / Nice Series 1 (injected polypropylene woofers, silk dome tweeters)</td></tr><tr><td>Woofer</td><td>6.5\" injected polypropylene</td></tr><tr><td>Tweeter</td><td>Dual 1\" (25 mm) silk dome AccuAim</td></tr><tr><td>Frequency range</td><td>45 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>89 dB</td></tr><tr><td>Recommended power</td><td>30 - 130 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock by Swarm</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "sc12-30",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>12-channel fully configurable systems integration power amplifier</td></tr><tr><td>Power output</td><td>30 W RMS/ch into 8 Ohm; 40 W RMS/ch into 4 Ohm (all channels driven)</td></tr><tr><td>Bridged output</td><td>80 W RMS into 8 Ohm per bridged pair (up to 6 bridged channels)</td></tr><tr><td>THD</td><td>0.2% from 20 Hz to 20 kHz</td></tr><tr><td>Routing</td><td>BusMatrix selector: each channel assigns to L bus, R bus, summed L+R, or its own dedicated input</td></tr><tr><td>Turn-on modes</td><td>Manual, audio sense, 3-24 V AC/DC voltage trigger</td></tr><tr><td>Control output</td><td>12 V trigger out</td></tr><tr><td>Independent level controls</td><td>All 12 channels</td></tr><tr><td>Power supply</td><td>Switchable 110/230 V</td></tr><tr><td>Dimensions</td><td>17.25\" W x 5.75\" H x 16.25\" D (including feet)</td></tr><tr><td>Weight</td><td>35 lb / 15.8 kg</td></tr><tr><td>Mounting</td><td>Rack mount ears included</td></tr><tr><td>Warranty</td><td>2 years</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC12-30/pdf_SC12-30_datasheet.pdf"
+    },
+    {
+      "slug": "sc-aim285-mk3",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-AIM285-MK3/pdf_AIM-MK3_Datasheet.pdf"
+    },
+    {
+      "slug": "ela-ipd-mtx-8ch",
+      "Specsheet_vendor_url": "https://s3-us-west-1.amazonaws.com/corebrands-resources/products/EL-IPD-MTX-8CH/pdf_EL-IPD-Line_datasheet.pdf"
+    },
+    {
+      "slug": "sc-sb-40p",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>40\" 3-channel passive LCR soundbar</td></tr><tr><td>Drivers</td><td>Six 3\" graphite/polypropylene/carbon-fiber IMG woofers, three 1\" titanium dome tweeters</td></tr><tr><td>Power handling</td><td>60 W per channel</td></tr><tr><td>Frequency response</td><td>140 Hz - 20 kHz</td></tr><tr><td>Impedance</td><td>6 Ohm</td></tr><tr><td>Sensitivity</td><td>88 dB (2.83 V / 1 m)</td></tr><tr><td>Cabinet</td><td>Rounded-corner MDF, isolated L/C/R chambers (vented L/R, sealed centre)</td></tr><tr><td>Dimensions (H x W x D)</td><td>5.18\" x 39.8\" x 2.75\"</td></tr><tr><td>Pairing</td><td>40-50\" displays in small to medium rooms</td></tr><tr><td>Mounting</td><td>Included horizontally adjustable wall bracket, also surface-placeable on stand feet</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-SB-40P/pdf_SC-SB-40P_DataSheet.pdf"
+    },
+    {
+      "slug": "sc1-ic6-tilt",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>6.5\" 2-way in-ceiling, tilted (angled woofer)</td></tr><tr><td>Series</td><td>SpeakerCraft / Nice Series 1 (injected polypropylene woofers, silk dome tweeters)</td></tr><tr><td>Woofer</td><td>6.5\" injected polypropylene, angled</td></tr><tr><td>Tweeter</td><td>1\" (25 mm) silk dome AccuAim</td></tr><tr><td>Frequency range</td><td>45 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>89 dB</td></tr><tr><td>Recommended power</td><td>30 - 130 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock by Swarm</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "sc-aim282-mk3",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>8\" 2-way aimable in-ceiling speaker</td></tr><tr><td>Series</td><td>SpeakerCraft AIM Mk3 (glass-fiber woofer, silk dome ARC tweeter array)</td></tr><tr><td>Woofer</td><td>8\" glass fiber, pivoting (aimable)</td></tr><tr><td>Tweeters</td><td>2 x 3/4\" + 2 x 5/8\" silk dome, pivoting, 359-degree rotational, dual-axis arc</td></tr><tr><td>Frequency response</td><td>37 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>87 dB @ 1 W / 1 m</td></tr><tr><td>Power handling</td><td>150 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal</td></tr><tr><td>Crossover</td><td>Symmetrical 2nd order Butterworth</td></tr><tr><td>Tweeter level switch</td><td>Yes</td></tr><tr><td>Cutout</td><td>9-3/4\" (248 mm)</td></tr><tr><td>Mounting depth</td><td>5.5\" (140 mm)</td></tr></tbody></table>",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-AIM282-MK3/pdf_AIM-MK3_Datasheet.pdf"
+    },
+    {
+      "slug": "sc-hrsiw8-cab",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-HRSIW8-CAB/pdf_SC-HRSIW8-CAB_datasheet.pdf"
+    },
+    {
+      "slug": "sc-dx-fc6-lcr",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>6.5\" in-ceiling LCR speaker</td></tr><tr><td>Series</td><td>SpeakerCraft Stage F (DX)</td></tr><tr><td>Woofer</td><td>6.5\" (160 mm) injection-molded polypropylene, angled 15 degrees</td></tr><tr><td>Tweeter</td><td>1\" (25 mm) pivoting silk dome</td></tr><tr><td>Frequency response</td><td>51 Hz - 20 kHz</td></tr><tr><td>Impedance</td><td>8 Ohms</td></tr><tr><td>Power handling</td><td>110 W</td></tr><tr><td>Sensitivity</td><td>88 dB</td></tr><tr><td>Cutout</td><td>8.25\" (210 mm) diameter</td></tr><tr><td>Mounting depth</td><td>4.4\" (111 mm)</td></tr><tr><td>Dimensions</td><td>9.625\" diameter x 4.5\" depth</td></tr></tbody></table>",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-DX-FC6-LCR/pdf_SC-DX-FC6-LCR_Datasheet.pdf"
+    },
+    {
+      "slug": "sc-rs8si",
+      "Product Categories": "audio",
+      "Product Tags": "outdoor,speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-RS6-GRANITE/pdf_SpeakerCraft_Rock-Speakers_Datasheet.pdf"
+    },
+    {
+      "slug": "el-ip-4fb",
+      "Product Tags": ""
+    },
+    {
+      "slug": "el-ip-4fd",
+      "Product Tags": ""
+    },
+    {
+      "slug": "el-ip-4ft",
+      "Product Tags": ""
+    },
+    {
+      "slug": "el-ip-4pt-wh",
+      "Product Tags": ""
+    },
+    {
+      "slug": "el-ip-8fb",
+      "Product Tags": ""
+    },
+    {
+      "slug": "el-ip-8ft",
+      "Product Tags": ""
+    },
+    {
+      "slug": "282x",
+      "Product Tags": "faceplates"
+    },
+    {
+      "slug": "283d",
+      "Product Tags": "faceplates",
+      "Thumbnail_vendor_url": ""
+    },
+    {
+      "slug": "283d10p",
+      "Product Tags": "faceplates",
+      "Thumbnail_vendor_url": ""
+    },
+    {
+      "slug": "284d10p",
+      "Product Tags": "faceplates",
+      "Thumbnail_vendor_url": ""
+    },
+    {
+      "slug": "286d10p",
+      "Product Tags": "faceplates",
+      "Thumbnail_vendor_url": ""
+    },
+    {
+      "slug": "28des",
+      "Product Tags": "faceplates"
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "gen3-avoip-receiver",
+      "Title": "Gen3 AVoIP Receiver",
+      "Sub Title": "4K 60Hz 4:4:4 HDMI / USB-C / KVM over IP receiver",
+      "Product Description": "<h3>Broadcast-grade 4K AV over IP receiver</h3><p>The Nice Gen3 AVoIP Receiver (Gefen GF-HDK18G-VIP-RX) is the receive-side endpoint of the new Gen3 AVoIP distribution platform launched at ISE 2025. It pulls 4K 60Hz 4:4:4 HDMI video, multichannel audio, RS-232, IR and USB off a standard Gigabit network and re-creates them at the display location with virtually zero latency.</p><ul><li>4K 60Hz 4:4:4 with HDR10, HDR10+ and Dolby Vision; HDCP 2.3/2.2/1.4 compliant</li><li>Uncompressed 7.1 LPCM audio with Dolby Atmos, Dolby TrueHD, DTS:X and DTS-HD Master Audio support</li><li>Built-in scaler and video-wall controller (up to 16 x 16 configurations)</li><li>Two-port Gigabit Ethernet switch with PoE in for single-cable installs</li><li>Independent routing of video, audio, RS-232, IR and USB; AES-256 encryption</li><li>Scales to 65,000 sender/receiver endpoints on a single network</li></ul><p>The Gen3 platform is designed for residential, hospitality, retail and command-and-control jobs where Nice ELAN dealers need broadcast-level performance with simple network deployment.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Model</td><td>GF-HDK18G-VIP-RX</td></tr><tr><td>Max resolution</td><td>4K 60 Hz 4:4:4</td></tr><tr><td>HDR formats</td><td>HDR10, HDR10+, Dolby Vision</td></tr><tr><td>HDCP</td><td>2.3 / 2.2 / 1.4</td></tr><tr><td>Audio formats</td><td>LPCM up to 7.1, Dolby Atmos, Dolby TrueHD, DTS:X, DTS-HD MA</td></tr><tr><td>HDMI</td><td>1 x HDMI Type A (locking)</td></tr><tr><td>Network</td><td>2 x RJ45 Gigabit Ethernet with PoE-in</td></tr><tr><td>USB</td><td>2 x USB 2.0 Type A</td></tr><tr><td>Audio I/O</td><td>3.5 mm stereo output, TOSLINK optical input (audio return)</td></tr><tr><td>Power</td><td>12 V DC or PoE (IEEE 802.3at)</td></tr><tr><td>Video wall</td><td>Up to 16 x 16</td></tr><tr><td>Network scale</td><td>Up to 65,000 endpoints</td></tr><tr><td>Dimensions</td><td>8.4\" x 1.0\" x 4.9\" (214 x 25 x 123 mm)</td></tr><tr><td>Warranty</td><td>3 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "video",
+      "Product Tags": "decoder,receiver",
+      "Specsheet_vendor_url": "https://cdn.shopify.com/s/files/1/0949/1044/7929/files/Gefen_GF-HDK18G-VIP-TX-RX_Datasheet_Rev-B_0313_WEB.pdf"
+    },
+    {
+      "slug": "gen3-avoip-transmitter",
+      "Title": "Gen3 AVoIP Transmitter",
+      "Sub Title": "4K 60Hz 4:4:4 HDMI / USB-C / KVM over IP sender",
+      "Product Description": "<h3>Sender for the Gen3 AVoIP distribution platform</h3><p>The Nice Gen3 AVoIP Transmitter (Gefen GF-HDK18G-VIP-TX) is the source-side counterpart to the Gen3 receiver. It encodes 4K 60Hz 4:4:4 HDMI, multichannel audio, USB, RS-232 and IR onto a standard Gigabit network for delivery to any number of receivers in a virtual matrix configuration, with point-to-point or full matrix routing.</p><ul><li>4K 60Hz 4:4:4 with HDR10, HDR10+ and Dolby Vision</li><li>HDMI input plus USB-C alternate mode input for laptops and dock-free workstations</li><li>RS-232 and IR pass-through for source control</li><li>Two-port Gigabit Ethernet switch with PoE-in - single-cable install behind the display or rack</li><li>AES-256 encryption end-to-end</li><li>Up to 330 ft (100 m) over a single Cat cable</li><li>Scales to 65,000 endpoints on one network</li></ul><p>Sold by Nice's Gefen brand and aimed at dealers replacing legacy HDBaseT matrix systems with a network-based distribution backbone.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Model</td><td>GF-HDK18G-VIP-TX</td></tr><tr><td>Max resolution</td><td>4K 60 Hz 4:4:4</td></tr><tr><td>HDR formats</td><td>HDR10, HDR10+, Dolby Vision</td></tr><tr><td>HDCP</td><td>2.3 / 2.2 / 1.4</td></tr><tr><td>Video inputs</td><td>1 x HDMI Type A, 1 x USB-C (alt-mode video)</td></tr><tr><td>USB</td><td>USB 2.0, 480 Mbps</td></tr><tr><td>Network</td><td>2 x RJ45 Gigabit Ethernet, PoE-in</td></tr><tr><td>Audio I/O</td><td>3.5 mm stereo input, TOSLINK optical output</td></tr><tr><td>Encryption</td><td>AES-256</td></tr><tr><td>Distance</td><td>Up to 100 m (330 ft) over Cat cable</td></tr><tr><td>Power</td><td>12 V DC or PoE (IEEE 802.3at)</td></tr><tr><td>Network scale</td><td>Up to 65,000 endpoints</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "video",
+      "Product Tags": "encoder",
+      "Specsheet_vendor_url": "https://cdn.shopify.com/s/files/1/0949/1044/7929/files/Gefen_GF-HDK18G-VIP-TX-RX_Datasheet_Rev-B_0313_WEB.pdf"
+    },
+    {
+      "slug": "el-itp-8",
+      "Title": "EL-ITP-8",
+      "Sub Title": "8-inch intelligent touch panel with face recognition and voice control",
+      "Product Description": "<h3>Intelligent in-wall touch panel for Nice/ELAN</h3><p>The EL-ITP-8 is Nice's 8-inch wall-mount touch interface for ELAN control systems. It pairs edge-to-edge glass with an integrated 5 MP IntelliVision camera and a dual-microphone array, so users can personalize the home with face recognition and trigger scenes with voice as well as touch.</p><ul><li>8\" diagonal LCD capacitive touchscreen, 1920 x 1200, edge-to-edge glass</li><li>IntelliVision face recognition and voice control for hands-free operation</li><li>Proximity sensor wakes the panel as a hand approaches</li><li>7-button flyout for instant lighting scenes, favorites or event maps</li><li>Mounts portrait or landscape in a standard 2-gang US junction box</li><li>10/100 Ethernet or 802.11 b/g/n Wi-Fi; PoE 802.3at powered</li><li>Available in white (EL-ITP-8-WH) or black (EL-ITP-8-BK) bezel</li></ul><p>Designed for any gSC or g1 Nice system to deliver an interactive, full-featured front-of-wall experience for media, lighting, climate, security and surveillance.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Display</td><td>8\" diagonal LCD capacitive, 1920 x 1200</td></tr><tr><td>Overall dimensions</td><td>8\" W x 5.5\" H (20.33 x 13.98 cm)</td></tr><tr><td>Camera</td><td>5 MP CMOS with IntelliVision face recognition</td></tr><tr><td>Microphone</td><td>Dual digital MEMS array</td></tr><tr><td>Speaker</td><td>Stereo micro speaker, 1 W</td></tr><tr><td>Network</td><td>10/100 Ethernet RJ-45, 802.11 b/g/n Wi-Fi</td></tr><tr><td>Power</td><td>PoE 802.3at (13 W max) or 12 V 1 A via 2-pin Phoenix</td></tr><tr><td>USB</td><td>USB Type A</td></tr><tr><td>Mounting</td><td>Standard 2-gang US junction box, portrait or landscape</td></tr><tr><td>Variants</td><td>EL-ITP-8-WH (white), EL-ITP-8-BK (black)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "touch-panel",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-ITP-8-WH/pdf_EL-ITP_datasheet.pdf"
+    },
+    {
+      "slug": "el-itp-12",
+      "Title": "EL-ITP-12",
+      "Sub Title": "12-inch intelligent touch panel with face recognition and voice control",
+      "Product Description": "<h3>Large-format intelligent touch interface for Nice/ELAN</h3><p>The EL-ITP-12 is the 11.6-inch sibling of the EL-ITP-8, designed for primary living areas and entry walls where the touch panel needs to act as both a control interface and a visual statement. It carries the same IntelliVision face-recognition camera and dual-microphone voice array on a larger 1920 x 1080 edge-to-edge glass surface.</p><ul><li>11.6\" diagonal LCD capacitive touchscreen, 1920 x 1080, edge-to-edge glass</li><li>IntelliVision face recognition personalizes the interface per user</li><li>Dual MEMS microphone array for voice control of Nice systems</li><li>Surveillance playback interface for Nice NVR feeds</li><li>Proximity wake, 7-button flyout, portrait or landscape mounting</li><li>10/100 Ethernet or 802.11 b/g/n Wi-Fi; PoE 802.3at powered</li><li>White (EL-ITP-12-WH) or black (EL-ITP-12-BK)</li></ul><p>Pairs with any gSC or g1 Nice/ELAN system as a premium in-wall interface for media, lighting, climate, security, surveillance and intercom.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Display</td><td>11.6\" diagonal LCD capacitive, 1920 x 1080</td></tr><tr><td>Overall dimensions</td><td>11.68\" W x 7.25\" H, 1\" (2.54 cm) mounting depth</td></tr><tr><td>Camera</td><td>5 MP CMOS with IntelliVision face recognition</td></tr><tr><td>Microphone</td><td>Dual digital MEMS array</td></tr><tr><td>Speaker</td><td>Stereo micro speaker, 1 W</td></tr><tr><td>Network</td><td>10/100 Ethernet RJ-45, 802.11 b/g/n Wi-Fi</td></tr><tr><td>Power</td><td>PoE 802.3at (13 W max) or 12 V 1 A via 2-pin Phoenix</td></tr><tr><td>USB</td><td>USB Type A</td></tr><tr><td>Mounting</td><td>Portrait or landscape, 2-gang US junction box</td></tr><tr><td>Variants</td><td>EL-ITP-12-WH, EL-ITP-12-BK</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "touch-panel",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/pdf/ise-2024/nice-intelligent-touch-panels.pdf"
+    },
+    {
+      "slug": "el-sc-100",
+      "Title": "EL-SC-100",
+      "Sub Title": "Compact system controller for small to moderate Nice/ELAN installations",
+      "Product Description": "<h3>Entry-class Nice system controller</h3><p>The EL-SC-100 is Nice's mainstream ELAN system controller for smaller and moderately sized homes. It delivers a single point of control and automation for media, climate, lighting, security, surveillance and the rest of the Nice ecosystem in a compact fanless chassis. Where a universal remote would only cover entertainment, the EL-SC-100 brings true cross-subsystem integration backed by the Nice Home Management UI on touch panels, remotes and mobile apps.</p><ul><li>Integrated IP, serial and infrared control in a one-box design</li><li>Fanless, ultra-efficient design with no moving parts for long-life reliability</li><li>Compact form factor for cabinets, structured wiring or behind-display mounting</li><li>PoE or Wi-Fi connection options to reduce cabling</li><li>HDMI on-screen display output for video doorbell chimes and feedback</li></ul><p>Often paired with the EL-IO-200 Control Extender to add I/O coverage to additional zones without long cable runs.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>System controller for Nice/ELAN home management</td></tr><tr><td>Control protocols</td><td>IP, RS-232, IR</td></tr><tr><td>Connectivity</td><td>Ethernet RJ-45 (PoE) and Wi-Fi</td></tr><tr><td>Video output</td><td>HDMI on-screen display</td></tr><tr><td>Form factor</td><td>Compact fanless; cabinet, structured-wiring or behind-display mountable</td></tr><tr><td>Software</td><td>Nice Core Module / ELAN OS, managed by Nice Management Cloud</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-SC-100/pdf_EL-SC-100_Datasheet.pdf"
+    },
+    {
+      "slug": "el-sc-100-zw",
+      "Title": "EL-SC-100-ZW",
+      "Sub Title": "Nice system controller with integrated Z-Wave",
+      "Product Description": "<h3>Z-Wave-enabled compact Nice/ELAN system controller</h3><p>The EL-SC-100-ZW is the Z-Wave variant of Nice's mainstream EL-SC-100 system controller. It adds an embedded Z-Wave radio so dealers can control Z-Wave lighting, locks, thermostats and sensors directly from the Nice Home Management platform without bolting on a separate gateway. Otherwise it carries the same integrated IP, RS-232 and IR control as the standard EL-SC-100, with a fanless chassis sized for cabinets, structured wiring panels or behind-display mounting.</p><ul><li>Built-in Z-Wave radio for direct device control</li><li>Integrated IP, serial and IR control in a single chassis</li><li>PoE or Wi-Fi connectivity, HDMI OSD output</li><li>Compact fanless design with no moving parts</li><li>Also bundled in the EL-SC-200-ZW (with EL-IO-200) for medium installs</li></ul><p>Targeted at small and moderately sized projects where Z-Wave is the chosen sub-protocol for lighting and energy.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>System controller with integrated Z-Wave radio</td></tr><tr><td>Control protocols</td><td>IP, RS-232, IR, Z-Wave</td></tr><tr><td>Connectivity</td><td>Ethernet RJ-45 with PoE, Wi-Fi</td></tr><tr><td>Video output</td><td>HDMI on-screen display</td></tr><tr><td>Form factor</td><td>Compact fanless chassis</td></tr><tr><td>Bundled in</td><td>EL-SC-200-ZW System Control Bundle (with EL-IO-200)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-SC-100-ZW/pdf_EL-SC-100-ZW_Datasheet.pdf"
+    },
+    {
+      "slug": "el-sc-300-zw",
+      "Title": "EL-SC-300-ZW",
+      "Sub Title": "Nice system controller with integrated Z-Wave for larger installations",
+      "Product Description": "<h3>Mid-tier Z-Wave Nice/ELAN system controller</h3><p>The EL-SC-300-ZW sits between the EL-SC-150 and EL-SC-350 in Nice's controller lineup with an integrated Z-Wave radio for direct lighting, lock, thermostat and sensor control. It supports the same IP, RS-232 and IR integration as the rest of the family and is intended for medium-sized residential installations where Z-Wave is the primary low-level automation protocol.</p><ul><li>Integrated Z-Wave radio - no separate gateway required</li><li>IP, serial and IR control built in</li><li>HDMI OSD output for video doorbell chimes and on-screen feedback</li><li>Runs the Nice Home Management UI on touch panels, remotes and mobile apps</li><li>Updates handled via Nice Management Cloud</li></ul><p>Aimed at dealers standardizing on a Z-Wave-centric stack inside a Nice/ELAN whole-home system.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>System controller with integrated Z-Wave radio</td></tr><tr><td>Control protocols</td><td>IP, RS-232, IR, Z-Wave</td></tr><tr><td>Connectivity</td><td>Ethernet RJ-45 (PoE), Wi-Fi</td></tr><tr><td>Video output</td><td>HDMI</td></tr><tr><td>Software</td><td>Nice Core Module / ELAN OS, Nice Management Cloud updates</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "controller",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-SC-300-ZW/pdf_EL-SC-300-ZW_datasheet.pdf"
+    },
+    {
+      "slug": "el-sc-200-zw",
+      "Title": "EL-SC-200-ZW",
+      "Sub Title": "System control bundle: EL-SC-100-ZW controller + EL-IO-200 extender",
+      "Product Description": "<h3>Bundled controller + extender for medium Nice/ELAN installs</h3><p>The EL-SC-200-ZW is a pre-packaged Nice system control bundle perfect for moderately sized or decentralized installations. It combines the EL-SC-100-ZW System Controller (with integrated Z-Wave) with the EL-IO-200 Control Extender and an EL-SW-100-PRO software license, giving dealers everything needed for a multi-area job out of one box.</p><ul><li>Includes EL-SC-100-ZW controller (Z-Wave-equipped)</li><li>Includes EL-IO-200 Control Extender for distributed RS-232, RS-485, relays, IR and sensor inputs</li><li>Includes EL-SW-100-PRO software license</li><li>Wired or wireless connection between controller and extender via ELAN Discovery</li><li>Both units PoE-ready and compact for cabinet or behind-display mounting</li></ul><p>The bundle is positioned as the sweet spot for medium Nice/ELAN deployments that need control across two or more areas without long cable runs back to a central rack.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Bundle contents</td><td>EL-SC-100-ZW + EL-IO-200 + EL-SW-100-PRO software license</td></tr><tr><td>Z-Wave</td><td>Integrated in the controller</td></tr><tr><td>Distributed I/O</td><td>RS-232, RS-485, relays, IR, signal inputs via EL-IO-200</td></tr><tr><td>Connectivity</td><td>Wired or wireless network between controller and extender</td></tr><tr><td>Power</td><td>Both units PoE-ready or local 12 V DC</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "controller,extender",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-SC-200-ZW/pdf_EL-SC-200-ZW_datasheet.pdf"
+    },
+    {
+      "slug": "el-hr30",
+      "Title": "EL-HR30",
+      "Sub Title": "Nice/ELAN handheld remote",
+      "Product Description": "<h3>Simplified handheld remote for Nice/ELAN systems</h3><p>The EL-HR30 is Nice's simplified handheld remote control for ELAN-based smart homes. Designed to bring out the best in the Nice Home Management platform, it provides direct, hardware-button access to media, lighting and climate scenes with the familiar look and feel of a traditional remote - while still talking to a full automation system underneath.</p><ul><li>Hardware buttons for fast access to common entertainment and scene controls</li><li>Wireless connectivity to the Nice/ELAN controller</li><li>Designed to complement the larger HR40 touchscreen remote</li><li>Backlit buttons for low-light rooms</li></ul><p>Pairs with any Nice/ELAN system controller and is targeted at simpler, cost-conscious installs where a touchscreen remote is not required.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Handheld remote control for Nice/ELAN systems</td></tr><tr><td>Buttons</td><td>Backlit hardware buttons</td></tr><tr><td>Connectivity</td><td>Wireless to Nice/ELAN system controller</td></tr><tr><td>Compatibility</td><td>Nice/ELAN OS-based controllers (gSC, EL-SC series)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "remote-control",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-HR30/pdf_EL-HR30_datasheet.pdf"
+    },
+    {
+      "slug": "el-hr10",
+      "Title": "EL-HR10",
+      "Sub Title": "Nice/ELAN entry-level handheld remote",
+      "Product Description": "<h3>Entry-level handheld remote for Nice/ELAN</h3><p>The EL-HR10 is the most affordable hand-held control option for Nice/ELAN systems. It offers the essential remote functions - source, volume, transport and macro buttons - over a reliable wireless link to the Nice controller, without a touchscreen. Aimed at bedrooms, guest rooms and secondary zones where a touchscreen interface isn't needed.</p><ul><li>Compact, lightweight hardware remote</li><li>Wireless link to Nice/ELAN system controllers</li><li>Backlit buttons for visibility in dim rooms</li><li>Drops into existing Nice configuration tools alongside HR30 and HR40</li></ul><p>Designed for the same Nice Home Management ecosystem as the rest of the HR remote family.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Entry-level handheld remote</td></tr><tr><td>Connectivity</td><td>Wireless</td></tr><tr><td>Compatibility</td><td>Nice/ELAN system controllers</td></tr><tr><td>Buttons</td><td>Backlit hardware</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "control-system",
+      "Product Tags": "remote-control",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/EL-HR10/pdf_EL-HR10_datasheet.pdf"
+    },
+    {
+      "slug": "sc-aim252-mk3",
+      "Title": "SC-AIM252-Mk3",
+      "Sub Title": "5.25-inch aimable 2-way in-ceiling speaker",
+      "Product Description": "<h3>Compact AIM Mk3 aimable in-ceiling speaker</h3><p>The SC-AIM252-Mk3 is the smallest cabinet in the SpeakerCraft/Nice AIM Mk3 family. It carries the same aimable woofer and pivoting tweeter array architecture as the larger AIM Mk3 models, in a 5.25\" footprint suited to smaller rooms, hallways, surrounds and overhead Atmos channels where the bigger 7\" and 8\" cabinets won't fit.</p><ul><li>5.25\" glass-fiber pivoting woofer for aimable directivity</li><li>Triple 5/8\" silk dome ARC tweeter array, dual-axis pivot up to 15 degrees</li><li>359-degree rotational adjustability</li><li>WavePlane acoustic lens and Vortex Eliminator for wider, smoother off-axis response</li><li>Symmetrical 2nd-order Butterworth crossover with tweeter level switch</li><li>Acoustic Isolation Technology decouples cabinet from ceiling structure</li></ul><p>Targeted at home theater overhead and surround channels and distributed audio in smaller rooms within a Nice/ELAN home.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>5.25\" 2-way aimable in-ceiling</td></tr><tr><td>Woofer</td><td>5.25\" glass fiber, pivoting</td></tr><tr><td>Tweeters</td><td>3 x 5/8\" silk dome, pivoting, dual-axis arc, 359-degree rotational</td></tr><tr><td>Power handling</td><td>100 W</td></tr><tr><td>Frequency response</td><td>42 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>87 dB @ 1 W / 1 m</td></tr><tr><td>Impedance</td><td>8 Ohm nominal</td></tr><tr><td>Crossover</td><td>Symmetrical 2nd order Butterworth</td></tr><tr><td>Tweeter level switch</td><td>Yes</td></tr><tr><td>Cutout</td><td>6-5/8\" (168 mm)</td></tr><tr><td>Mounting depth</td><td>4-7/8\" (124 mm)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-AIM252-MK3/pdf_AIM-MK3_Datasheet.pdf"
+    },
+    {
+      "slug": "sc-aim272-mk3",
+      "Title": "SC-AIM272-Mk3",
+      "Sub Title": "7-inch aimable 2-way in-ceiling speaker",
+      "Product Description": "<h3>Mid AIM Mk3 aimable in-ceiling speaker</h3><p>The SC-AIM272-Mk3 carries the AIM Mk3 platform's aimable woofer and ARC tweeter array architecture in a 7\" cabinet. It is voiced for music, home theater and immersive object-based platforms like Dolby Atmos, Auro-3D and DTS:X, with finer aiming control than fixed-axis ceiling speakers.</p><ul><li>7\" glass-fiber pivoting woofer</li><li>Four 5/8\" silk dome ARC tweeter array, dual-axis pivot, 359-degree rotational</li><li>WavePlane acoustic lens for cleaner, wider off-axis response</li><li>Vortex Eliminator baffle treatment for smoother dispersion</li><li>Symmetrical 2nd-order Butterworth crossover with tweeter level switch</li><li>Acoustic Isolation Technology for stable, repeatable installs</li></ul><p>A staple LCR / surround / overhead choice in mid-sized Nice/ELAN home theater and whole-home rooms.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>7\" 2-way aimable in-ceiling</td></tr><tr><td>Woofer</td><td>7\" glass fiber, pivoting</td></tr><tr><td>Tweeters</td><td>4 x 5/8\" silk dome, pivoting, dual-axis arc, 359-degree rotational</td></tr><tr><td>Power handling</td><td>125 W</td></tr><tr><td>Frequency response</td><td>40 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>88 dB @ 1 W / 1 m</td></tr><tr><td>Impedance</td><td>8 Ohm nominal</td></tr><tr><td>Crossover</td><td>Symmetrical 2nd order Butterworth</td></tr><tr><td>Tweeter level switch</td><td>Yes</td></tr><tr><td>Cutout</td><td>7-5/8\" (194 mm)</td></tr><tr><td>Mounting depth</td><td>8-3/4\" (223 mm)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-AIM272-MK3/pdf_AIM-MK3_Datasheet.pdf"
+    },
+    {
+      "slug": "sc-aim275-mk3",
+      "Title": "SC-AIM275-Mk3",
+      "Sub Title": "7-inch aimable 2-way in-ceiling speaker with Kevlar woofer",
+      "Product Description": "<h3>High-performance AIM Mk3 with Kevlar woofer and aluminum/magnesium tweeters</h3><p>The SC-AIM275-Mk3 is the high-performance 7\" cabinet in the AIM Mk3 family. It steps up to a Kevlar pivoting woofer and four 5/8\" aluminum/magnesium dome tweeters with an asymmetrical 2nd/3rd-order Linkwitz-Riley crossover for tighter phase coherence and higher power handling than the silk-dome SC-AIM272-Mk3.</p><ul><li>7\" Kevlar pivoting woofer for tight, dynamic mids</li><li>Four 5/8\" aluminum/magnesium dome tweeters in pivoting ARC array</li><li>WavePlane acoustic lens for wider, cleaner off-axis high frequencies</li><li>Asymmetrical 2nd/3rd-order Linkwitz-Riley crossover with dialog and tweeter level switches</li><li>Acoustic Isolation Technology decouples the cabinet from ceiling structure</li><li>359-degree rotational and 15-degree pivot for surgical placement</li></ul><p>Voiced for home theater, dedicated cinema rooms, gaming and whole-home distributed audio in higher-tier Nice/ELAN systems.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>7\" 2-way aimable in-ceiling (high performance)</td></tr><tr><td>Woofer</td><td>7\" Kevlar, pivoting</td></tr><tr><td>Tweeters</td><td>4 x 5/8\" aluminum/magnesium dome, pivoting, dual-axis arc, 359-degree rotational</td></tr><tr><td>Power handling</td><td>150 W</td></tr><tr><td>Frequency response</td><td>35 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>90 dB @ 1 W / 1 m</td></tr><tr><td>Impedance</td><td>8 Ohm nominal</td></tr><tr><td>Crossover</td><td>Asymmetrical 2nd/3rd order Linkwitz-Riley</td></tr><tr><td>Dialog switch</td><td>Yes</td></tr><tr><td>Tweeter level switch</td><td>Yes</td></tr><tr><td>Cutout</td><td>9-5/8\" (244 mm)</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://s3.niceforyou.support/products/SC-AIM275-MK3/pdf_AIM-MK3_Datasheet.pdf"
+    },
+    {
+      "slug": "sc3-ic6-tilt",
+      "Title": "SC3-IC6-TILT",
+      "Sub Title": "Series 3 6.5-inch tilted in-ceiling speaker (Kevlar / aluminum-magnesium)",
+      "Product Description": "<h3>Premium tilted in-ceiling Kevlar speaker</h3><p>The SC3-IC6-TILT is the tilted variant of the Series 3 in-ceiling cabinet in Nice's Premium Toolless Architectural Speaker family. The angled cabinet directs sound toward the listening area when the speaker can't be located directly overhead - useful for off-axis listening positions in great rooms, hallways and lofts.</p><ul><li>6.5\" black Kevlar woofer with XMag pole piece</li><li>1-1/4\" (30 mm) aluminum/magnesium dome AccuAim tweeter</li><li>Toolless ViseLock by Swarm mounting system (up to 75% faster installs)</li><li>Tilted woofer baffle for aimed coverage</li><li>Paintable bezelless stainless-steel grille included</li></ul><p>Part of the same Series 3 product line as the SC3-IC6 / SC3-IC8 / SC3-IW5-LCR, with matching voicing for whole-house Nice/ELAN deployments.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Series 3 6.5\" tilted in-ceiling</td></tr><tr><td>Woofer</td><td>6.5\" black Kevlar</td></tr><tr><td>Tweeter</td><td>1-1/4\" (30 mm) aluminum/magnesium AccuAim</td></tr><tr><td>Frequency range</td><td>43 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>90 dB SPL</td></tr><tr><td>Recommended power</td><td>50 - 145 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "sc3-ic8-tilt",
+      "Title": "SC3-IC8-TILT",
+      "Sub Title": "Series 3 8-inch tilted in-ceiling speaker (Kevlar / aluminum-magnesium)",
+      "Product Description": "<h3>Series 3 tilted 8-inch in-ceiling speaker</h3><p>The SC3-IC8-TILT is the larger 8-inch tilted variant of the Premium Toolless Architectural Series 3. The angled cabinet aims the woofer at the listener even when the ceiling cutout can't sit directly above the seat, helping deliver coherent on-axis response in non-ideal rooms.</p><ul><li>8\" black Kevlar woofer with XMag pole piece</li><li>1-1/4\" (30 mm) aluminum/magnesium dome AccuAim tweeter</li><li>Toolless ViseLock by Swarm mounting</li><li>Tilted woofer baffle for off-axis aim</li><li>Paintable bezelless stainless-steel grille included</li></ul><p>Voiced to match the rest of the Series 3 line for surround and overhead use in Nice/ELAN home theater systems.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Series 3 8\" tilted in-ceiling</td></tr><tr><td>Woofer</td><td>8\" black Kevlar</td></tr><tr><td>Tweeter</td><td>1-1/4\" (30 mm) aluminum/magnesium AccuAim</td></tr><tr><td>Frequency range</td><td>36 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>92 dB SPL</td></tr><tr><td>Recommended power</td><td>50 - 170 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>9-3/4\" (248 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "sc3-ic8-dt",
+      "Title": "SC3-IC8-DT",
+      "Sub Title": "Series 3 8-inch dual-tweeter stereo in-ceiling speaker",
+      "Product Description": "<h3>Series 3 single-stereo (DT) 8-inch in-ceiling</h3><p>The SC3-IC8-DT is the dual-tweeter (stereo) Series 3 cabinet, designed so a single in-ceiling speaker can deliver both left and right channels - perfect for small spaces, hallways, walk-in closets or bathrooms where a stereo pair isn't practical but Series 3 sound quality is still wanted.</p><ul><li>8\" black Kevlar woofer with XMag pole piece</li><li>Dual 1-1/4\" (30 mm) aluminum/magnesium AccuAim tweeters</li><li>Toolless ViseLock by Swarm mounting</li><li>Paintable bezelless stainless-steel grille included</li></ul><p>Part of the same Nice Premium Toolless Architectural Speaker family as the rest of Series 3.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Series 3 8\" in-ceiling, dual-tweeter (stereo)</td></tr><tr><td>Woofer</td><td>8\" black Kevlar</td></tr><tr><td>Tweeters</td><td>Dual 1-1/4\" (30 mm) aluminum/magnesium AccuAim</td></tr><tr><td>Frequency range</td><td>36 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>92 dB SPL</td></tr><tr><td>Recommended power</td><td>50 - 170 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>9-3/4\" (248 mm)</td></tr><tr><td>Mounting</td><td>Toolless ViseLock</td></tr><tr><td>Warranty</td><td>5 years</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "sc1-ic6-aw",
+      "Title": "SC1-IC6-AW",
+      "Sub Title": "Series 1 6.5-inch all-weather in-ceiling speaker (IP66)",
+      "Product Description": "<h3>All-weather Premium Toolless 6.5\" in-ceiling speaker</h3><p>The SC1-IC6-AW is the IP66 all-weather variant of the Series 1 cabinet, designed for covered patios, gazebos, lanais and other outdoor ceilings where the speaker still needs to disappear into the ceiling like an indoor in-ceiling. It carries the same toolless ViseLock mounting and silk-dome AccuAim tweeter as the indoor SC1-IC6, with weather-treated components.</p><ul><li>IP66 all-weather rated for covered outdoor installations</li><li>6.5\" injected polypropylene woofer</li><li>1\" silk dome AccuAim tweeter</li><li>Toolless ViseLock by Swarm mounting</li><li>Paintable bezelless stainless-steel grille</li></ul><p>Drops directly into the same cutout as the SC1-IC6 indoor model, keeping a consistent aesthetic between indoor and covered outdoor spaces.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Series 1 6.5\" in-ceiling, IP66 all-weather</td></tr><tr><td>Woofer</td><td>6.5\" injected polypropylene</td></tr><tr><td>Tweeter</td><td>1\" (25 mm) silk dome AccuAim</td></tr><tr><td>Frequency range</td><td>45 Hz - 20 kHz</td></tr><tr><td>Sensitivity</td><td>89 dB</td></tr><tr><td>Recommended power</td><td>30 - 130 W</td></tr><tr><td>Impedance</td><td>8 Ohm nominal (6.2 Ohm minimum)</td></tr><tr><td>Cutout</td><td>8-1/4\" (210 mm)</td></tr><tr><td>Weather rating</td><td>IP66</td></tr><tr><td>Mounting</td><td>Toolless ViseLock</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "speaker,outdoor",
+      "Specsheet_vendor_url": "https://www.niceforyou.com/sites/default/files/2025-01/nice-premium-toolless-speakers.pdf"
+    },
+    {
+      "slug": "el-ipd-pre-ssi",
+      "Title": "EL-IPD-PRE-SSI",
+      "Sub Title": "Local audio source preamp for ELAN Dante distribution",
+      "Product Description": "<h3>Single-source Dante preamp for ELAN whole-home audio</h3><p>The EL-IPD-PRE-SSI is Nice's compact, single-source Dante input device for ELAN IP audio distribution. Connect a single source (optical, coaxial or analog stereo) and the unit puts it onto the Dante network so any ELAN matrix (EL-IPD-MTX-8CH or EL-IPD-PRE-MSI with the EL-IPD-NAC-EXT card installed) can route it to any zone in the house.</p><ul><li>One optical TOSLINK, one coaxial RCA, one analog stereo line input (selectable)</li><li>PCM stereo 96 kHz 24-bit digital audio</li><li>PoE (802.3af/at) or 5 V 2 A DC powered</li><li>Drops in behind a TV or near a turntable to put a remote source on the Dante backbone</li><li>Compact 7\" x 4\" footprint, 0.65 lb</li></ul><p>Perfect for adding TV audio return paths, dedicated source rooms, or hidden source equipment to a Nice/ELAN IP audio system without long analog cable runs.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Function</td><td>Single-source Dante preamp for ELAN IP audio</td></tr><tr><td>Inputs</td><td>1 optical TOSLINK, 1 coaxial RCA, 1 stereo RCA line (selectable)</td></tr><tr><td>Digital audio</td><td>PCM stereo 96 kHz 24-bit</td></tr><tr><td>Network</td><td>1 RJ45 10/100 Ethernet, Dante</td></tr><tr><td>Power</td><td>PoE (802.3af/at) or 5 V 2 A DC</td></tr><tr><td>Dimensions</td><td>7.0\" W x 1.06\" H x 4.0\" D (178 x 27 x 102 mm)</td></tr><tr><td>Weight</td><td>0.65 lb / 0.29 kg</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "",
+      "Gallery_vendor_urls": [],
+      "Brand": "nice",
+      "Product Categories": "audio",
+      "Product Tags": "extender",
+      "Specsheet_vendor_url": "https://s3-us-west-1.amazonaws.com/corebrands-resources/products/EL-IPD-MTX-8CH/pdf_EL-IPD-Line_datasheet.pdf"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "sc-dx-ec6-dt",
+      "fields": ["Specsheet"],
+      "note": "Specsheet was reported missing but is hosted at https://s3.niceforyou.support/products/SC-DX-EC6-DT/pdf_SC-DX-EC6-DT_Datasheet.pdf (also mirrored at https://speakercraft.com/wp-content/uploads/assets/SpeakerCraft-SC-DX-EC6-DT_Datasheet.pdf). Added in existing_updates."
+    },
+    {
+      "slug": "asm57703",
+      "fields": ["Technical Table", "Specsheet"],
+      "note": "ASM-prefix part numbers are internal Nice/SpeakerCraft accessory or bulk-pack SKUs; no public per-SKU datasheet is published on niceforyou.com, niceforyou.support, corebrands-resources, or galtechtrading. Recommend confirming what physical product the SKU corresponds to and re-categorising under the matching SpeakerCraft model (e.g. SC1-IC6 pair pack, etc.)."
+    },
+    {
+      "slug": "asm54655-2",
+      "fields": ["Technical Table", "Specsheet"],
+      "note": "Same situation as ASM57703 - ASM SKU with no public datasheet."
+    },
+    {
+      "slug": "el-ip-4fb",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-4FB is a 4MP bullet surveillance camera (per https://www.niceforyou.com/sites/default/files/2025-12/Nice_EL-IP-4FT_EL-IP-8FT_EL-IP-4PT-WH.pdf and ELAN OS 9 docs). Nothing in the brand's tag allowlist (controller, receiver, extender, matrix, encoder, decoder, splitter, video-distribution, remote-control, touch-panel, door-phone, faceplates, speaker, subwoofer, amplifier, outdoor, install-kit, cabling) describes a CCTV/surveillance camera. Category retained as control-system; tag left empty. Suggest adding a 'surveillance' / 'camera' tag to the allowlist."
+    },
+    {
+      "slug": "el-ip-4fd",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-4FD is a 4MP dome surveillance camera (sibling of EL-IP-4FT/B). Same allowlist gap as the rest of the EL-IP-* line."
+    },
+    {
+      "slug": "el-ip-4ft",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-4FT is a 4MP turret surveillance camera. Same allowlist gap; tag left empty."
+    },
+    {
+      "slug": "el-ip-4pt-wh",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-4PT-WH is a 4MP PTZ surveillance camera with 5x optical zoom and person/vehicle auto-tracking. Same allowlist gap; tag left empty."
+    },
+    {
+      "slug": "el-ip-8fb",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-8FB is an 8MP bullet surveillance camera with siren/strobe deterrent. Same allowlist gap; tag left empty."
+    },
+    {
+      "slug": "el-ip-8ft",
+      "fields": ["Product Tags"],
+      "note": "EL-IP-8FT is an 8MP turret surveillance camera with siren/strobe deterrent. Same allowlist gap; tag left empty."
+    },
+    {
+      "slug": "282x",
+      "fields": ["Specsheet"],
+      "note": "282X is a legacy Gefen-line wall plate / faceplate SKU. The Nortek resources frame URL points at https://s3-us-west-1.amazonaws.com/corebrands-resources/products/282X/pdf_282X_Datasheet.pdf but the underlying S3 object returns NoSuchKey - the datasheet was removed when Nortek/Nice retired older Gefen wall-plate line items. No current PDF found on niceforyou.com, niceforyou.support, or gefen.com."
+    },
+    {
+      "slug": "283d",
+      "fields": ["Thumbnail"],
+      "note": "283D is a Gefen-line legacy decora-style wall plate (likely a 2-button single-gang plate for Gefen scaler/extender systems). The corebrands frame redirect URL pdf_283D_Datasheet.pdf exists as a Nortek wrapper but the underlying S3 object has been removed. No current image is hosted on niceforyou.com, niceforyou.support or gefen.com - source unfindable for the legacy wall-plate SKU."
+    },
+    {
+      "slug": "283d10p",
+      "fields": ["Thumbnail"],
+      "note": "283D10P is the 10-pack contractor SKU of 283D. Datasheet and thumbnail share the same unfindable status as the single-unit 283D."
+    },
+    {
+      "slug": "284d10p",
+      "fields": ["Thumbnail"],
+      "note": "284D10P appears to be a 10-pack of a 4-port decora-style Gefen wall plate. No current public thumbnail on niceforyou.com / niceforyou.support / gefen.com."
+    },
+    {
+      "slug": "286d10p",
+      "fields": ["Thumbnail"],
+      "note": "286D10P appears to be a 10-pack of a 6-port decora-style Gefen wall plate. No current public thumbnail on niceforyou.com / niceforyou.support / gefen.com."
+    }
+  ]
+}

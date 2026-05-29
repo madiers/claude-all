@@ -1,0 +1,114 @@
+{
+  "brand_slug": "bassboss",
+  "existing_updates": [
+    {
+      "slug": "at212-mk3",
+      "title": "AT212-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Configuration</td><td>2-way dual 12-inch self-powered vented direct-radiating full-range with rotatable 80 x 60 degree constant-directivity horn</td></tr><tr><td>LF drivers</td><td>2 x 12-inch neodymium woofers, 3.5-inch voice coils</td></tr><tr><td>HF driver</td><td>1 x 3-inch compression driver, 1.4-inch exit, on rotatable horn</td></tr><tr><td>Amplifier</td><td>3,200W Class-D 2-channel (2,400W LF / 800W HF)</td></tr><tr><td>Frequency response</td><td>50Hz - 18,000Hz (+/-3dB)</td></tr><tr><td>Maximum SPL</td><td>136dB sustained / 142dB peak (1m, half-space)</td></tr><tr><td>Coverage</td><td>80 x 60 degrees (rotatable)</td></tr><tr><td>Processing</td><td>96kHz DSP with 8 pushbutton presets</td></tr><tr><td>Inputs</td><td>XLR-F signal in; Neutrik powerCON TRUE1 (power)</td></tr><tr><td>Power</td><td>100-240V AC, 50/60Hz; 4.6A @ 120V nominal</td></tr><tr><td>Dimensions (H x W x D)</td><td>47.75 x 14.3 x 17.75 in</td></tr><tr><td>Weight</td><td>99 lb (45 kg)</td></tr></tbody></table>",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d60632bba501575780b25_BASSBOSS%20AT212-MK3%20Powered%20Top%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "dj18s-mk3",
+      "title": "DJ18S-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "technical_table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Configuration</td><td>Single 18-inch self-powered vented direct-radiating subwoofer</td></tr><tr><td>Driver</td><td>1 x 18-inch (457mm) neodymium woofer, 4.5-inch (115mm) voice coil</td></tr><tr><td>Amplifier</td><td>2,500W Class-D with integrated DSP</td></tr><tr><td>Frequency response</td><td>27Hz - 100Hz (+/-3dB)</td></tr><tr><td>Maximum SPL</td><td>129dB sustained / 132dB peak (1m, half-space)</td></tr><tr><td>Processing</td><td>96kHz DSP with 8 pushbutton presets; up to 100 stored presets via software</td></tr><tr><td>Enclosure</td><td>CNC-machined 18mm birch plywood with bracing and dado joinery; vented</td></tr><tr><td>Dimensions (H x W x D)</td><td>27.5 x 20.5 x 29.5 in (28.75 in high with feet)</td></tr><tr><td>Weight</td><td>110 lb (50 kg) net</td></tr><tr><td>Inputs</td><td>XLR-F signal in, XLR-M pass-through; Neutrik powerCON TRUE1 (IP65)</td></tr><tr><td>Power</td><td>100-240V AC, 50/60Hz (auto-sensing)</td></tr></tbody></table>",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/687aa0e29f648840e95cfec2_BASSBOSS%20DJ18S-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "ssp118-mk3",
+      "title": "SSP118-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d68ebc3f16428c9ec932c_BASSBOSS%20SSP118-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "diamon-mk3",
+      "title": "DiaMon-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d601ccda9490f46334927_BASSBOSS%20DiaMon-MK3%20Powered%20Top%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "sv9-mk3",
+      "title": "SV9-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6031713488ffe8114c8d_BASSBOSS%20SV9-MK3%20Powered%20Top%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "at312-mk3",
+      "title": "AT312-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d607570a61cfcd7b1f313_BASSBOSS%20AT312-MK3%20Powered%20Top%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "ccm12-mk3",
+      "title": "CCM12-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6001facb6242a17e5dd6_BASSBOSS%20CCM12-MK3%20Powered%20Monitor%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "bb15-mk3",
+      "title": "BB15-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d62e068e94c646c824e2f_BASSBOSS%20BB15-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "ssp218-mk3",
+      "title": "SSP218-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6948322ab53d4eab19fe_BASSBOSS%20SSP218-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "ssp215-mk3",
+      "title": "SSP215-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6924445d7f90e5863b1c_BASSBOSS%20SSP215-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "zv28-mk3",
+      "title": "ZV28-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6962e0ce3c027aa63346_BASSBOSS%20ZV28-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "dv12-mk3",
+      "title": "DV12-MK3",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d6049bdf0fd30d3b74c34_BASSBOSS%20DV12-MK3%20Powered%20Top%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "makara-mk3",
+      "title": "Makara-MK3",
+      "product_categories": "audio",
+      "product_tags": "subwoofer",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d686d052d8959efc62633_BASSBOSS%20Makara-MK3%20Powered%20Subwoofer%20Cut%20Sheet.pdf"
+    },
+    {
+      "slug": "krakatoa-quintuple-18-point-source-full-range",
+      "title": "KRAKATOA Quintuple 18\" Point Source Full Range",
+      "product_categories": "audio",
+      "product_tags": "speaker",
+      "specsheet_url": "https://cdn.prod.website-files.com/65f2989505d63045bb4938af/686d632db46c58223d7f17e3_BASSBOSS%20Krakatoa-MK3%20Powered%20Point%20Source%20Cutsheet.pdf"
+    }
+  ],
+  "new_products": [],
+  "unfindable": [
+    {
+      "slug": "stackatoa",
+      "title": "Stackatoa",
+      "missing": ["Specsheet"],
+      "reason": "BassBoss product page at https://www.bassboss.com/stackatoa-point-source-dance-stack has no downloadable PDF cut sheet or owner's manual. Stackatoa is a system bundle (Krakatoa + Makara dance stack) rather than a single SKU, so the vendor publishes specs only inline on the page. The Krakatoa-MK3 and Makara-MK3 component cut sheets are linked from their own individual product entries."
+    }
+  ]
+}

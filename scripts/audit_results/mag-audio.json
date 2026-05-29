@@ -1,0 +1,540 @@
+{
+  "brand_slug": "mag-audio",
+  "existing_updates": [
+    {
+      "slug": "vera-m-wh",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/VerA%20M/VerA_M_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/VerA%20M/VerA-M-WH-dual-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/VerA%20M/VerA-M-WH-dual-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "fly-sub-18",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/FLY/Fly_Sub-18_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_main-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_front-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_side-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_back-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-18_iso-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "fd-s15",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Field%20FD/FD-S15_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-main-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-front-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-back-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-side-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-S15-iso-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-15i",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-15i-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-main-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-front-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-side-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-back-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15i-iso-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "sting-6q",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Sting-series/Sting-6Q_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Sting-series/Sting-6Q-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Sting-series/Sting-6Q-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-q",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-Q_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-82-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-82_IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-82-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-82-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-q-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-Q-IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q-IP_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q-IP_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "fly-sub-12l",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/FLY/Fly_Sub-12L_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-12L_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-12L_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "fly-sub-15",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/FLY/Fly_Sub-15_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-15_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/FLY/Fly-Sub-15_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-c4t",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-C-series/AIR-C4T_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C4-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C4-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "fd-52",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Field%20FD/FD-52_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-52-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Field%20FD/FD-52-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "bee-12a",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Bee-series/BEE-12A_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Bee-series/BEE-12_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Bee-series/BEE-12_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-122-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-122_IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-122-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-122-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-12a",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-12A-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-12A-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12A-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-q8-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-Q8-IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q8-IP_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q8-IP_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-15-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-15-IP-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-15-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "sub-28",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive subwoofer</td></tr><tr><td>Frequency response (-10dB)</td><td>30 - 220 Hz</td></tr><tr><td>Peak SPL</td><td>144.5 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>100 dB</td></tr><tr><td>LF Driver</td><td>2 x 18\", 4\" VC</td></tr><tr><td>Impedance</td><td>4 Ohm</td></tr><tr><td>Nominal power</td><td>2000 W</td></tr><tr><td>Connectors</td><td>2 x Neutrik Speakon</td></tr><tr><td>Dimensions (W x H x D)</td><td>530 x 1170 x 665 mm</td></tr><tr><td>Net weight</td><td>78 kg</td></tr><tr><td>Shipping weight</td><td>81 kg</td></tr><tr><td>Enclosure material</td><td>Plywood with wear-resistant paint</td></tr><tr><td>Mounting</td><td>2 x M20 distance pole adapter; 4 x M10 mounting points for wheels</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Subwoofer-series/Sub-28_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Subwoofer-series/SUB-28-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Subwoofer-series/SUB-28-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-s26",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-C-series/AIR-S26_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-S26-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-S26-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-s15-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-S15-IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-S15_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-S15_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-q8",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-Q8_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q8_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q8_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-15a",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-15A-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-15A-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-15A-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "bee-15a",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Bee-series/BEE-15A_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Bee-series/BEE-15A_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Bee-series/BEE-15A_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-s18-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-S18_IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S18-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S18-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "sub-28-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Subwoofer-series/Sub-28-IP_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Subwoofer-series/SUB-28-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Subwoofer-series/SUB-28-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-12-ip",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-12-IP-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-12-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12-IP-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-c24-installation-speaker",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive installation speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>85 - 20000 Hz</td></tr><tr><td>Max SPL</td><td>123 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>91 dB</td></tr><tr><td>LF Drivers</td><td>2 x 4\", 1\" VC</td></tr><tr><td>HF Driver</td><td>1\" carbon fiber diaphragm, 1\" VC, ND magnet</td></tr><tr><td>Coverage Angle (H x V)</td><td>100° x 70°, rotatable horn</td></tr><tr><td>Impedance</td><td>8 Ohm</td></tr><tr><td>Nominal power</td><td>100 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>385 x 134 x 146 mm</td></tr><tr><td>Net weight</td><td>4.4 kg</td></tr><tr><td>Mounting</td><td>VESA 50 x 50; Safety mounting point</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-C-series/AIR-C24_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C24-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C24-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "sting-8-114",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Sting-series/Sting-8-114_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "nx-12i",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/NX-series/NX-12i-datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-main-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-front-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-side-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-back-1000x1000.jpg",
+        "https://mag-audio.com/image/cache/catalog/NX-series/NX-12i-iso-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "cluster-q4",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Cluster/Cluster-Q4_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q4_main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Cluster/Cluster-Q4_main-1000x1000.jpg"
+      ]
+    },
+    {
+      "slug": "air-s12",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-S12_datasheet.pdf",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S12-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S12-main-1000x1000.jpg"
+      ]
+    }
+  ],
+  "new_products": [
+    {
+      "slug": "air-152-ip",
+      "Title": "AIR-152 IP",
+      "Sub Title": "Weather-resistant 15-inch coaxial installation speaker",
+      "Product Description": "<h3>15-inch coaxial install speaker, ready for the weather</h3><p>The AIR-152 IP is the weather-resistant version of MAG Audio's AIR-152 installation loudspeaker. Built around a single 15-inch coaxial driver, the cabinet is carefully optimised so a full-range box fits neatly into demanding interiors and exteriors without compromising voicing or directivity.</p><ul><li>15-inch coaxial driver, 80° x 80° conical dispersion</li><li>600 W nominal power, 134 dB Max SPL</li><li>IP54 weather protection for indoor and outdoor installs</li><li>4 / 8 Ohm switchable impedance</li><li>VESA 100 x 100 plus multiple M10 mounting points</li></ul><p>Compact and lightweight at 25.5 kg, the AIR-152 IP is aimed at retail, leisure, hospitality, sports and outdoor venues where a discreet, install-friendly full-range cabinet has to keep working in every season.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Weather-resistant installation speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>50 - 18000 Hz</td></tr><tr><td>Max SPL</td><td>134 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>97 dB</td></tr><tr><td>Driver</td><td>15\" coaxial</td></tr><tr><td>Coverage Angle (H x V)</td><td>80° x 80°</td></tr><tr><td>Impedance</td><td>4 / 8 Ohm</td></tr><tr><td>Nominal Power</td><td>600 W</td></tr><tr><td>Dimensions (W x H x D)</td><td>530 x 619 x 348 mm</td></tr><tr><td>Net weight</td><td>25.5 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr><tr><td>Mounting</td><td>VESA 100 x 100; M10 points</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-152-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-152-IP-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-152_IP_datasheet.pdf"
+    },
+    {
+      "slug": "air-cx-10-ip",
+      "Title": "AIR-CX10 IP",
+      "Sub Title": "Weather-resistant 10-inch coaxial installation speaker",
+      "Product Description": "<h3>10-inch coaxial install speaker, weatherised</h3><p>The AIR-CX10 IP is a passive 10-inch coaxial loudspeaker engineered for balanced output, clarity and even coverage in medium installations. Its conical dispersion pattern works equally well in vertical or horizontal orientation, and the IP54 enclosure carries that performance outdoors.</p><ul><li>10-inch coaxial driver with 2.5-inch voice coil</li><li>300 W nominal power, 120 dB Max SPL</li><li>90° x 90° conical coverage, vertical or horizontal mount</li><li>4 / 8 / 16 Ohm impedance options for flexible install wiring</li><li>VESA 100 x 100 plus eight M10 fixing points and an M10 safety point</li></ul><p>Compact at 305 x 460 mm and 18.5 kg, the AIR-CX10 IP suits retail, hospitality, clubs, fitness, foyers and outdoor terraces where a small but accurate full-range box has to disappear into the architecture.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive coaxial weather-resistant speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>65 - 18000 Hz</td></tr><tr><td>Max SPL</td><td>120 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>95 dB</td></tr><tr><td>Driver</td><td>10\" coaxial, 2.5\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>90° x 90°</td></tr><tr><td>Impedance</td><td>4 / 8 / 16 Ohm</td></tr><tr><td>Nominal Power</td><td>300 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>305 x 460 x 278 mm</td></tr><tr><td>Net weight</td><td>18.5 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr><tr><td>Mounting</td><td>VESA 100 x 100; 8 x M10 points; M10 safety point</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-10-main-1000x1000.JPG",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-10-main-1000x1000.JPG"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-CX-series/AIR-CX10-datasheet.pdf"
+    },
+    {
+      "slug": "air-cx-12-ip",
+      "Title": "AIR-CX12 IP",
+      "Sub Title": "Weather-resistant 12-inch coaxial installation speaker",
+      "Product Description": "<h3>12-inch coaxial install speaker for outdoor and indoor use</h3><p>The AIR-CX12 IP is a passive 12-inch coaxial loudspeaker for medium to large installations, with conical 90 x 90 dispersion and a weather-resistant enclosure rated to IP54. Pan-tilt U-brackets and VESA 100 x 100 mounting open up wall, ceiling, vertical and horizontal orientations.</p><ul><li>12-inch coaxial driver with 2.5-inch voice coil</li><li>300 W nominal power, 121 dB Max SPL, 97 dB sensitivity</li><li>90° x 90° conical coverage in any orientation</li><li>4 / 8 / 16 Ohm install-friendly impedance options</li><li>Available in black or white finishes</li></ul><p>The AIR-CX12 IP sits between the CX10 and CX15 for projects needing more headroom than a 10-inch can deliver while keeping the same dispersion and install footprint - clubs, restaurants, retail, lobbies and outdoor terraces.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive coaxial weather-resistant speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>55 - 18000 Hz</td></tr><tr><td>Max SPL</td><td>121 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>97 dB</td></tr><tr><td>Driver</td><td>12\" coaxial, 2.5\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>90° x 90°</td></tr><tr><td>Impedance</td><td>4 / 8 / 16 Ohm</td></tr><tr><td>Nominal Power</td><td>300 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>350 x 524 x 318 mm</td></tr><tr><td>Net weight</td><td>20 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr><tr><td>Mounting</td><td>VESA 100 x 100; 8 x M10 points; M10 safety point</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-12-main-1000x1000.JPG",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-12-main-1000x1000.JPG"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-CX-series/AIR-CX12-datasheet.pdf"
+    },
+    {
+      "slug": "air-cx-15-ip",
+      "Title": "AIR-CX15 IP",
+      "Sub Title": "Weather-resistant 15-inch coaxial installation speaker",
+      "Product Description": "<h3>15-inch coaxial install speaker, all-weather</h3><p>The AIR-CX15 IP is the largest member of the AIR-CX coaxial install family, built around a 15-inch coaxial driver in an IP54 cabinet. Its 90 x 90 conical pattern provides smooth coverage from short throws to medium-throw installation environments.</p><ul><li>15-inch coaxial driver with 2.5-inch voice coil</li><li>300 W nominal power, 122 dB Max SPL, 98 dB sensitivity</li><li>50 - 18,000 Hz frequency response (-10 dB)</li><li>4 / 8 / 16 Ohm impedance for flexible install wiring</li><li>VESA 100 x 100, 8 x M10 mounts and an M10 safety point</li></ul><p>The CX15 IP is the choice when a single coaxial cabinet has to cover bigger areas with extended low end and full-range tone - large clubs, gyms, sports venues, atriums and outdoor stage-side fills.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive coaxial weather-resistant speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>50 - 18000 Hz</td></tr><tr><td>Max SPL</td><td>122 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>98 dB</td></tr><tr><td>Driver</td><td>15\" coaxial, 2.5\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>90° x 90°</td></tr><tr><td>Impedance</td><td>4 / 8 / 16 Ohm</td></tr><tr><td>Nominal Power</td><td>300 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>422 x 640 x 347 mm</td></tr><tr><td>Net weight</td><td>21.5 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr><tr><td>Mounting</td><td>VESA 100 x 100; 8 x M10 points; M10 safety point</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-15-main-1000x1000.JPG",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-CX-series/AIR-CX-15-main-1000x1000.JPG"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-CX-series/AIR-CX15-datasheet.pdf"
+    },
+    {
+      "slug": "air-s12-ip",
+      "Title": "AIR-S12 IP",
+      "Sub Title": "Weather-resistant 12-inch installation subwoofer",
+      "Product Description": "<h3>Weather-resistant 12-inch install sub</h3><p>The AIR-S12 IP is the IP54-rated version of MAG Audio's compact AIR-S12 installation subwoofer. Engineered to extend the AIR series down into the low end, it brings tight, install-friendly bass to fixed systems indoors and out.</p><ul><li>12-inch woofer with 3-inch voice coil</li><li>450 W nominal power, 130.5 dB Max SPL</li><li>45 - 300 Hz frequency response (-10 dB)</li><li>4 / 8 Ohm switchable impedance</li><li>Barrier strip connector under gland nut cover plate</li></ul><p>At 29 kg in a compact 620 x 486 x 350 mm cabinet, the AIR-S12 IP is built for outdoor terraces, restaurants, fitness, retail and other permanent installs that need genuine low end without ground-stack PA dimensions.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Weather-resistant installation subwoofer</td></tr><tr><td>Frequency response (-10dB)</td><td>45 - 300 Hz</td></tr><tr><td>Max SPL</td><td>130.5 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>95 dB</td></tr><tr><td>LF Driver</td><td>12\", 3\" VC</td></tr><tr><td>Impedance</td><td>4 / 8 Ohm</td></tr><tr><td>Nominal Power</td><td>450 W</td></tr><tr><td>Connectors</td><td>Barrier strip / Gland nut cover plate</td></tr><tr><td>Dimensions (W x H x D)</td><td>620 x 486 x 350 mm</td></tr><tr><td>Net weight</td><td>29 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S12-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S12-IP-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "subwoofer, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-S12_IP_datasheet.pdf"
+    },
+    {
+      "slug": "air-s15-ip",
+      "Title": "AIR-S15 IP",
+      "Sub Title": "Weather-resistant 15-inch installation subwoofer",
+      "Product Description": "<h3>Weather-resistant 15-inch install sub</h3><p>The AIR-S15 IP is the IP54 version of MAG Audio's AIR-S15 installation subwoofer. A single 15-inch driver with a 4-inch voice coil delivers controlled low end for permanent install systems, while the weather-resistant cabinet keeps the box working through outdoor seasons.</p><ul><li>15-inch woofer with 4-inch voice coil</li><li>1000 W nominal power, 136 dB Max SPL</li><li>37 - 300 Hz frequency response (-10 dB)</li><li>4 / 8 Ohm switchable impedance</li><li>Phoenix connector with IP54 enclosure</li></ul><p>At 36 kg in a 700 x 527 x 417 mm cabinet, the AIR-S15 IP is a workhorse low-end companion for outdoor terraces, hospitality, leisure venues and retail builds.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Weather-resistant installation subwoofer</td></tr><tr><td>Frequency response (-10dB)</td><td>37 - 300 Hz</td></tr><tr><td>Max SPL</td><td>136 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>97 dB</td></tr><tr><td>LF Driver</td><td>15\", 4\" VC</td></tr><tr><td>Impedance</td><td>4 / 8 Ohm</td></tr><tr><td>Nominal Power</td><td>1000 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>700 x 527 x 417 mm</td></tr><tr><td>Net weight</td><td>36 kg</td></tr><tr><td>Shipping weight</td><td>41 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S15-IP-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-series/AIR-S15-IP-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "subwoofer, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-series/AIR-S15_IP_datasheet.pdf"
+    },
+    {
+      "slug": "air-c4",
+      "Title": "AIR-C4",
+      "Sub Title": "Compact 4-inch passive installation speaker",
+      "Product Description": "<h3>The smallest box in the AIR-C family</h3><p>The AIR-C4 is the most compact system in the AIR-C installation series, with a 4-inch woofer and a high-frequency driver mounted on a rotatable horn. The cabinet is IP54-rated for indoor or outdoor permanent installs and ships with VESA 50 x 50 plus a safety mounting point.</p><ul><li>4-inch woofer with 1-inch voice coil</li><li>1-inch carbon-fibre HF diaphragm on a rotatable horn</li><li>50 W nominal, 117 dB Max SPL, 16 Ohm impedance</li><li>100° x 70° rotatable coverage</li><li>VESA 50 x 50 plus safety point; IP54 weather rating</li></ul><p>At 146 x 260 x 154 mm and only 2.7 kg, the AIR-C4 is built for ceilings and walls in cafes, retail, fitness studios and small foyers - anywhere the speaker should disappear visually but stay tonally even.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive installation speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>90 - 20000 Hz</td></tr><tr><td>Max SPL</td><td>117 dB</td></tr><tr><td>LF Driver</td><td>4\", 1\" VC</td></tr><tr><td>HF Driver</td><td>1\" carbon fiber diaphragm</td></tr><tr><td>Coverage Angle (H x V)</td><td>100° x 70° (rotatable horn)</td></tr><tr><td>Impedance</td><td>16 Ohm</td></tr><tr><td>Nominal Power</td><td>50 W</td></tr><tr><td>Dimensions (W x H x D)</td><td>146 x 260 x 154 mm</td></tr><tr><td>Net weight</td><td>2.7 kg</td></tr><tr><td>Mounting</td><td>VESA 50 x 50; safety mounting point</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C4-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C4-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-C-series/AIR-C4_datasheet.pdf"
+    },
+    {
+      "slug": "air-c5t",
+      "Title": "AIR-C5T",
+      "Sub Title": "5.25-inch Hi-Z (70V / 100V) installation speaker",
+      "Product Description": "<h3>5.25-inch install speaker with 70V / 100V line input</h3><p>The AIR-C5T is the transformer (Hi-Z) version of the compact AIR-C5 installation cabinet. A 5.25-inch woofer plus a 1-inch carbon-fibre HF on a rotatable horn covers 100 x 70 degrees, while built-in 70V / 100V tap settings make distributed-system wiring straightforward.</p><ul><li>5.25-inch woofer with 1.25-inch voice coil</li><li>1-inch carbon-fibre HF with neodymium magnet on a rotatable horn</li><li>70 W nominal power, 119.5 dB Max SPL</li><li>Compatible with 70V / 100V lines and 16 Ohm Lo-Z connections</li><li>VESA 50 x 50 plus M10 safety point; IP54 weather rating</li></ul><p>At 160 x 277 x 157 mm and 4.1 kg, the AIR-C5T fits ceiling, wall, vertical and horizontal mounts in restaurants, retail, hospitality, fitness studios and outdoor terraces where 70V / 100V distribution is the standard.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive Hi-Z (70V/100V) installation speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>80 - 20000 Hz</td></tr><tr><td>Max SPL</td><td>119.5 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>89 dB</td></tr><tr><td>LF Driver</td><td>5.25\", 1.25\" VC</td></tr><tr><td>HF Driver</td><td>1\" carbon fiber diaphragm, 1\" VC, ND magnet</td></tr><tr><td>Coverage Angle (H x V)</td><td>100° x 70° (rotatable horn)</td></tr><tr><td>Impedance</td><td>16 Ohm</td></tr><tr><td>Nominal Power</td><td>70 W</td></tr><tr><td>Dimensions (W x H x D)</td><td>160 x 277 x 157 mm</td></tr><tr><td>Net weight</td><td>4.1 kg</td></tr><tr><td>Mounting</td><td>VESA 50 x 50; safety mounting point</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C5-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/AIR-C-series/AIR-C5-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/AIR-C-series/AIR-C5T_datasheet.pdf"
+    },
+    {
+      "slug": "sting-6qi",
+      "Title": "STING 6Qi",
+      "Sub Title": "Subcompact 6-inch coaxial installation point-source speaker",
+      "Product Description": "<h3>Subcompact coaxial point source for fixed installs</h3><p>The STING 6Qi is a subcompact installation point-source loudspeaker that combines a 6-inch coaxial driver with advanced distortion reduction in a small, install-friendly cabinet. It is designed for clean, high-output performance in retail, club and leisure builds.</p><ul><li>6-inch coaxial driver with low-distortion design</li><li>150 W nominal power, 124.8 dB Max SPL</li><li>Wide 100° x 100° coverage from a 200 mm cube</li><li>8 / 16 Ohm impedance options for distributed systems</li><li>VESA mounting points on the rear panel; Phoenix connector</li></ul><p>At just 4.4 kg and 200 x 210 x 200 mm, the STING 6Qi gives integrators a high-SPL coaxial point source that still tucks into tight architectural spaces and bracket-mounts to walls and ceilings easily.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Installation point-source speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>82 - 20000 Hz</td></tr><tr><td>Max SPL</td><td>124.8 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>91 dB</td></tr><tr><td>Driver</td><td>6\" coaxial</td></tr><tr><td>Coverage Angle (H x V)</td><td>100° x 100°</td></tr><tr><td>Impedance</td><td>8 / 16 Ohm</td></tr><tr><td>Nominal Power</td><td>150 W</td></tr><tr><td>Connectors</td><td>Phoenix</td></tr><tr><td>Dimensions (W x H x D)</td><td>200 x 210 x 200 mm</td></tr><tr><td>Net weight</td><td>4.4 kg</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Sting-series/Sting-6Qi-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Sting-series/Sting-6Qi-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Sting-series/Sting-6Qi_datasheet.pdf"
+    },
+    {
+      "slug": "sting-8-ip-74",
+      "Title": "STING 8 IP - 74",
+      "Sub Title": "Weather-resistant dual-8 point-source speaker (74-degree horn)",
+      "Product Description": "<h3>Weather-resistant dual-8 point-source, 74-degree horn</h3><p>The STING 8 IP - 74 is the IP54 weather-resistant version of the STING 8 point-source loudspeaker, fitted with the 74-degree (70 x 40) coverage horn for focused throw. Two 8-inch neodymium woofers couple with a 1.5-inch neodymium HF driver in a coherent point-source design that holds its tonality outdoors.</p><ul><li>2 x 8-inch neodymium woofers with 2.5-inch voice coils</li><li>1.5-inch neodymium HF driver with 2.8-inch voice coil</li><li>600 W nominal power, 135 dB Max SPL</li><li>74-degree (70 x 40) rotatable horn for vertical or horizontal install</li><li>IP54 weather protection in a 19.8 kg cabinet</li></ul><p>The STING 8 IP - 74 is aimed at fixed installs that need a focused throw - covered terraces, outdoor stages, sports venues, theme parks and theatre under-balcony fills.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Weather-resistant point-source speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>65 - 19000 Hz</td></tr><tr><td>Max SPL</td><td>135 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>98 dB</td></tr><tr><td>LF Driver</td><td>2 x 8\", 2.5\" VC</td></tr><tr><td>HF Driver</td><td>1.5\", 2.8\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>70° x 40° (rotatable horn)</td></tr><tr><td>Impedance</td><td>8 Ohm</td></tr><tr><td>Nominal Power</td><td>600 W</td></tr><tr><td>Dimensions (W x H x D)</td><td>608 x 267 x 350 mm</td></tr><tr><td>Net weight</td><td>19.8 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Sting-series/Sting-8-74-IP_datasheet.pdf"
+    },
+    {
+      "slug": "sting-8-ip-114",
+      "Title": "STING 8 IP - 114",
+      "Sub Title": "Weather-resistant dual-8 point-source speaker (114-degree horn)",
+      "Product Description": "<h3>Weather-resistant dual-8 point-source, 110-degree horn</h3><p>The STING 8 IP - 114 is the IP54 weather-resistant version of the STING 8 point-source loudspeaker fitted with the wide-coverage (110 x 40 / 40 x 110) rotatable horn. Two 8-inch neodymium woofers couple with a 1.5-inch neodymium HF driver for an even, broad throw outdoors.</p><ul><li>2 x 8-inch neodymium woofers with 2.5-inch voice coils</li><li>1.5-inch neodymium HF driver with 2.8-inch voice coil</li><li>600 W nominal power, 135 dB Max SPL</li><li>110° x 40° rotatable horn for wide vertical or horizontal coverage</li><li>IP54 weather protection; 2 x VESA 100 x 100 plus 4 x M8 mounts</li></ul><p>The 114-degree variant suits wide audiences - covered terraces, plazas, parade routes, theme parks and outdoor pop-up venues where a single box has to cover as much area as possible.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Weather-resistant point-source speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>65 - 19000 Hz</td></tr><tr><td>Max SPL</td><td>135 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>98 dB</td></tr><tr><td>LF Driver</td><td>2 x 8\", 2.5\" VC</td></tr><tr><td>HF Driver</td><td>1.5\", 2.8\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>110° x 40° or 40° x 110°</td></tr><tr><td>Impedance</td><td>8 Ohm</td></tr><tr><td>Nominal Power</td><td>600 W</td></tr><tr><td>Dimensions (W x H x D)</td><td>608 x 267 x 350 mm</td></tr><tr><td>Net weight</td><td>19.8 kg</td></tr><tr><td>Weather protection</td><td>IP54</td></tr><tr><td>Mounting</td><td>2 x VESA 100 x 100; 4 x M8</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/Sting-series/STING-8-BK-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, outdoor",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/Sting-series/Sting-8-114-IP_datasheet.pdf"
+    },
+    {
+      "slug": "vera-m",
+      "Title": "VerA M",
+      "Sub Title": "Powered plug-and-play portable speaker set (black)",
+      "Product Description": "<h3>Powered portable set in black</h3><p>VerA M is the all-in-one MAG Audio portable speaker set in black, packaging quad 6-inch plus 1-inch low-distortion satellites with two 15-inch subwoofers, integrated Powersoft amplification and DSP. The complete set is plug-and-play, ready for fast small-event deployment.</p><ul><li>6000 W total system power, 132 dB Max SPL per side</li><li>4 x 6\" + 1\" satellites per side, 15\" subwoofer per side</li><li>Integrated Powersoft Class-D amplification, 4 switchable presets</li><li>XLR in / out, Powercon mains, Speakon top output</li><li>Compact and complete - includes accessories set</li></ul><p>The VerA M is aimed at corporate events, conferences, clubs, weddings and small concerts where a powerful, reliable rig has to be set up by a small crew without external amplification or processing.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Powered plug-and-play portable set</td></tr><tr><td>Frequency response (-10dB)</td><td>42 - 20000 Hz</td></tr><tr><td>Max SPL</td><td>132 dB (one sub + one top)</td></tr><tr><td>Satellites</td><td>4 x 6\" + 1\" per side</td></tr><tr><td>Subwoofer</td><td>15\" per side</td></tr><tr><td>Coverage Angle (H x V)</td><td>90° x 40° (one side)</td></tr><tr><td>Total system power</td><td>6000 W</td></tr><tr><td>Amplifier</td><td>Class D Powersoft, bi-amp, fan cooling</td></tr><tr><td>Input sensitivity</td><td>+4 dBV</td></tr><tr><td>Presets</td><td>4 switchable</td></tr><tr><td>Connectors</td><td>XLR input, XLR output, Powercon mains, Speakon top out</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/VerA%20M/VerA-M-BK-dual-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/VerA%20M/VerA-M-BK-dual-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker, subwoofer",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/VerA%20M/VerA_M_datasheet.pdf"
+    },
+    {
+      "slug": "focus-5p",
+      "Title": "Focus 5P",
+      "Sub Title": "Passive 15-inch coaxial stage monitor",
+      "Product Description": "<h3>Low-profile passive coaxial stage monitor</h3><p>The Focus 5P is a discreet, low-profile stage monitor built around a 15-inch coaxial driver. The cabinet is engineered for performers who want clear imaging and accurate reference tone on stage, with a built-in low-distortion crossover network ready to be driven by an external amplifier.</p><ul><li>15-inch coaxial driver (3-inch and 2.8-inch voice coils)</li><li>500 W nominal power, 137 dB peak SPL, 98 dB sensitivity</li><li>40° x 80° coverage from a low-profile wedge cabinet</li><li>Built-in low-distortion crossover</li><li>35 mm distance pole adapter for DJ / backline use</li></ul><p>The Focus 5P is aimed at touring artists, DJs and FOH-side fill applications where a passive coaxial wedge is preferred for amp-shared system designs.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Passive stage monitor</td></tr><tr><td>Frequency response (-10dB)</td><td>48 - 20000 Hz</td></tr><tr><td>Peak SPL</td><td>137 dB</td></tr><tr><td>Sensitivity (1W/1m)</td><td>98 dB</td></tr><tr><td>Driver</td><td>15\" coaxial, 3\" / 2.8\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>40° x 80°</td></tr><tr><td>Impedance</td><td>8 Ohm</td></tr><tr><td>Nominal Power</td><td>500 W</td></tr><tr><td>Connectors</td><td>2 x Neutrik Speakon</td></tr><tr><td>Dimensions (W x H x D)</td><td>590 x 360 x 541 mm</td></tr><tr><td>Net weight</td><td>21.4 kg</td></tr><tr><td>Mounting</td><td>35 mm distance pole adapter</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/FOCUS/Focus-5P-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/FOCUS/Focus-5P-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/FOCUS/Focus-5P-datasheet.pdf"
+    },
+    {
+      "slug": "nd-10a",
+      "Title": "ND 10A",
+      "Sub Title": "Powered 10-inch full-range loudspeaker",
+      "Product Description": "<h3>Powered 10-inch full-range from the new ND series</h3><p>The ND 10A is the powered version of MAG Audio's compact 10-inch ND loudspeaker. A low-distortion 10-inch neodymium woofer pairs with a 1.5-inch neodymium HF driver, run by an onboard Class-D amplifier with a phase-linear FIR DSP, in a 22 kg cabinet ready for portable and install use.</p><ul><li>10-inch neodymium woofer (3-inch VC) + 1.5-inch neodymium HF (2.8-inch VC)</li><li>900 + 500 W bi-amped Class-D with fan cooling</li><li>DSP with phase-linear FIR filtering</li><li>134 dB Max SPL; 80° x 70° coverage</li><li>XLR input, XLR output, Powercon mains; 10 x M10 plus pole socket</li></ul><p>The ND 10A is a flexible compact box for portable PA, fills, conferences and small installs where a powered, DSP-equipped point source is preferred over a passive plus separate amp rack.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Powered full-range speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>55 - 19000 Hz</td></tr><tr><td>Max SPL (calculated)</td><td>134 dB</td></tr><tr><td>LF Driver</td><td>10\", 3\" VC</td></tr><tr><td>HF Driver</td><td>1.5\", 2.8\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>80° x 70°</td></tr><tr><td>Amplifier Power</td><td>900 + 500 W</td></tr><tr><td>Amplifier Type</td><td>Class D, fan cooling, DSP with phase-linear FIR</td></tr><tr><td>Input sensitivity</td><td>0 dBV (1 V RMS)</td></tr><tr><td>Dimensions (W x H x D)</td><td>319 x 605 x 336 mm</td></tr><tr><td>Net weight</td><td>22 kg</td></tr><tr><td>Connectors</td><td>XLR input, XLR output, Powercon mains</td></tr><tr><td>Mounting</td><td>10 x M10 points, 35 mm pole socket</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/ND-series/ND-10A-main-1000x1000.JPG",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/ND-series/ND-10A-main-1000x1000.JPG"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/ND-series/ND-10A-datasheet.pdf"
+    },
+    {
+      "slug": "nd-12a",
+      "Title": "ND 12A",
+      "Sub Title": "Powered 12-inch full-range loudspeaker",
+      "Product Description": "<h3>Powered 12-inch full-range from the new ND series</h3><p>The ND 12A is a versatile, compact powered 12-inch full-range loudspeaker. A low-distortion 12-inch neodymium woofer is matched with a 1.5-inch neodymium HF driver and driven by an onboard 900 + 500 W bi-amp Class-D module with DSP and phase-linear FIR filtering.</p><ul><li>12-inch neodymium woofer (3-inch VC) + 1.5-inch neodymium HF (2.8-inch VC)</li><li>900 + 500 W bi-amp Class-D amplifier with DSP</li><li>135 dB Max SPL; 80° x 70° coverage</li><li>50 - 19,000 Hz frequency response (-10 dB)</li><li>M10 mounting points and a 35 mm pole socket</li></ul><p>At 25 kg in a 379 x 655 x 367 mm cabinet, the ND 12A is the workhorse powered point source for portable PA, fills, conferences, live music and mid-sized installs.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Powered full-range speaker</td></tr><tr><td>Frequency response (-10dB)</td><td>50 - 19000 Hz</td></tr><tr><td>Max SPL</td><td>135 dB</td></tr><tr><td>LF Driver</td><td>12\", 3\" VC</td></tr><tr><td>HF Driver</td><td>1.5\", 2.8\" VC</td></tr><tr><td>Coverage Angle (H x V)</td><td>80° x 70°</td></tr><tr><td>Amplifier Power</td><td>900 + 500 W</td></tr><tr><td>Amplifier Type</td><td>Class D with DSP phase-linear FIR</td></tr><tr><td>Input sensitivity</td><td>0 dBV (1 V RMS)</td></tr><tr><td>Dimensions (W x H x D)</td><td>379 x 655 x 367 mm</td></tr><tr><td>Net weight</td><td>25 kg</td></tr><tr><td>Enclosure</td><td>Plywood with wear-resistant paint</td></tr><tr><td>Mounting</td><td>M10 points, 35 mm pole socket</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/ND-series/ND-12A-main-1000x1000.JPG",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/ND-series/ND-12A-main-1000x1000.JPG"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "speaker",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/ND-series/ND-12A-datasheet.pdf"
+    },
+    {
+      "slug": "war-6",
+      "Title": "WAR-6",
+      "Sub Title": "6U suspension amplifier rack for WASP systems",
+      "Product Description": "<h3>Suspended 6U amp rack for the WASP line array</h3><p>The WAR-6 is MAG Audio's 6U suspension amplifier rack purpose-built for the WASP line array system. It packages amplification and processing in a touring-grade enclosure that can fly with the line array, ride in a truck or sit in a fixed install.</p><ul><li>6U rack space, designed around MAG-spec components</li><li>Suspension-rated for flying with WASP line arrays</li><li>Heavy-duty enclosure for touring use</li><li>Compatible with storage and transport accessories</li><li>Indoor or outdoor deployment</li></ul><p>The WAR-6 keeps the WASP system's amplifier electronics close to the array, simplifying cable runs and gain staging on tour and at festivals.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Suspension amplifier rack for WASP systems</td></tr><tr><td>Rack height</td><td>6U</td></tr><tr><td>Dimensions (W x D x H)</td><td>608 x 463 x 765 mm</td></tr><tr><td>Net weight</td><td>21.5 kg</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/WAR/WAR-6-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/WAR/WAR-6-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "install-kit",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/MAG-Audio-catalog.pdf"
+    },
+    {
+      "slug": "war-8",
+      "Title": "WAR-8",
+      "Sub Title": "8U suspension amplifier rack for WASP systems",
+      "Product Description": "<h3>Suspended 8U amp rack for the WASP line array</h3><p>The WAR-8 is the larger 8U version of MAG Audio's purpose-built WASP amplifier rack. It carries more amplifier capacity in the same suspension-rated touring enclosure, keeping the WASP system's electronics close to the array on tour and in fixed installs.</p><ul><li>8U rack space for larger amp / processor stacks</li><li>Suspension-rated for flying with WASP line arrays</li><li>Heavy-duty touring enclosure</li><li>Compatible with WASP storage and transport accessories</li><li>Indoor or outdoor deployment</li></ul><p>The WAR-8 is sized for systems where multiple amplifier channels and processing have to fly with - or sit very close to - the line array, simplifying cable runs and gain staging.</p>",
+      "Technical Table": "<table><tbody><tr><th>Specification</th><th>Value</th></tr><tr><td>Type</td><td>Suspension amplifier rack for WASP systems</td></tr><tr><td>Rack height</td><td>8U</td></tr><tr><td>Dimensions (W x D x H)</td><td>608 x 537 x 765 mm</td></tr><tr><td>Net weight</td><td>26.5 kg</td></tr></tbody></table>",
+      "Thumbnail_vendor_url": "https://mag-audio.com/image/cache/catalog/WAR/WAR-8-main-1000x1000.jpg",
+      "Gallery_vendor_urls": [
+        "https://mag-audio.com/image/cache/catalog/WAR/WAR-8-main-1000x1000.jpg"
+      ],
+      "Brand": "mag-audio",
+      "Product Categories": "audio",
+      "Product Tags": "install-kit",
+      "Specsheet_vendor_url": "https://mag-audio.com/image/catalog/MAG-Audio-catalog.pdf"
+    }
+  ],
+  "unfindable": [
+    {
+      "slug": "war-6",
+      "fields": ["Specsheet_vendor_url"],
+      "note": "Vendor product page lists only the general MAG-Audio-catalog.pdf as the downloadable document; no individual WAR-6 datasheet exists on mag-audio.com. Catalog PDF used as the closest equivalent."
+    },
+    {
+      "slug": "war-8",
+      "fields": ["Specsheet_vendor_url"],
+      "note": "Vendor product page lists only the general MAG-Audio-catalog.pdf as the downloadable document; no individual WAR-8 datasheet exists on mag-audio.com. Catalog PDF used as the closest equivalent."
+    }
+  ]
+}
