@@ -94,6 +94,15 @@ For new products, set `:draft=true`. Re-importing an existing slug **UPDATES** t
 
 See [batch_2026-05-29.csv](batch_2026-05-29.csv) for the most recent example, and [scripts/merge_batch_2026-05-29.py](scripts/merge_batch_2026-05-29.py) for the skeleton → final-CSV merger.
 
+#### Per-brand split CSVs (Garvan + Fasttel, 2026-06-08)
+
+For Garvan and Fasttel the import is split into **two files per brand**, both keyed by `Slug`, so product copy and images can be imported (and re-imported) independently:
+
+- `<Brand>_Products.csv` — `Slug, :draft, Title, Sub Title, Product Description, Technical Table, Brand, Product Categories, Product Tags, Specsheet` (no image columns).
+- `<Brand>_Images.csv` — `Slug, Thumbnail, Thumbnail:alt, Gallery`.
+
+Built by [scripts/build_csvs.py](scripts/build_csvs.py) from the live export, `scripts/garvan_manifest.json`, and `scripts/research_fasttel.json` + `scripts/fasttel_manifest.json`. Categories/Tags are restricted to values already present in the live export (no new collection slugs). Assets live in `Assets/<brand>/<slug>/`; the FT600 family datasheet is shared at `Assets/fasttel/_shared/`.
+
 ### 5. Commit + push in chunks under 2 GB
 
 GitHub's per-push pack limit is around 2 GB. Anything bigger gets `remote end hung up unexpectedly` somewhere past 2.3 GB. To keep pushes reliable:
