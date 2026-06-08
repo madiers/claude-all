@@ -1,0 +1,377 @@
+{
+ "ft600sip": {
+  "images": [
+   "ft600sip_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ft600sip-3": {
+  "images": [
+   "ft600sip-3_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft600sip-3/ft600sip-3_datasheet.pdf"
+ },
+ "ft600ksip": {
+  "images": [
+   "ft600ksip_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft600ksip/ft600ksip_datasheet.pdf"
+ },
+ "ft600ksipvc": {
+  "images": [
+   "ft600ksipvc_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft600ksipvc/ft600ksipvc_datasheet.pdf"
+ },
+ "ft2501ip": {
+  "images": [
+   "ft2501ip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft2501ip/ft2501ip_datasheet.pdf"
+ },
+ "ft2501ipvc": {
+  "images": [
+   "ft2501ipvc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft2501ipvc/ft2501ipvc_datasheet.pdf"
+ },
+ "ft2503kip": {
+  "images": [
+   "ft2503kip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft2503kip/ft2503kip_datasheet.pdf"
+ },
+ "db9701ip": {
+  "images": [
+   "db9701ip_01.jpg",
+   "db9701ip_02.jpg"
+  ],
+  "datasheet": "Assets/fasttel/db9701ip/db9701ip_datasheet.pdf"
+ },
+ "ft2520kvc": {
+  "images": [
+   "ft2520kvc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft2520kvc/ft2520kvc_datasheet.pdf"
+ },
+ "ftb2520": {
+  "images": [
+   "ftb2520_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftb2520/ftb2520_datasheet.pdf"
+ },
+ "ftbg2401sip": {
+  "images": [
+   "ftbg2401sip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2401sip/ftbg2401sip_datasheet.pdf"
+ },
+ "ftbg2402sip": {
+  "images": [
+   "ftbg2402sip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2402sip/ftbg2402sip_datasheet.pdf"
+ },
+ "ftbg2402sipvc": {
+  "images": [
+   "ftbg2402sipvc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2402sipvc/ftbg2402sipvc_datasheet.pdf"
+ },
+ "ftbg2402skip": {
+  "images": [
+   "ftbg2402skip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2402skip/ftbg2402skip_datasheet.pdf"
+ },
+ "ftbg2403sipvc": {
+  "images": [
+   "ftbg2403sipvc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2403sipvc/ftbg2403sipvc_datasheet.pdf"
+ },
+ "ftbg2403skip": {
+  "images": [
+   "ftbg2403skip_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2403skip/ftbg2403skip_datasheet.pdf"
+ },
+ "ftbg2403skipvc": {
+  "images": [
+   "ftbg2403skipvc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbg2403skipvc/ftbg2403skipvc_datasheet.pdf"
+ },
+ "ft30cc": {
+  "images": [
+   "ft30cc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft30cc/ft30cc_datasheet.pdf"
+ },
+ "ftbg30cc": {
+  "images": [
+   "ftbg30cc_01.png"
+  ],
+  "datasheet": "Assets/fasttel/ftbg30cc/ftbg30cc_datasheet.pdf"
+ },
+ "ftbg30cc-ftbg30ccdesk": {
+  "images": [
+   "ftbg30cc-ftbg30ccdesk_01.png"
+  ],
+  "datasheet": "Assets/fasttel/ftbg30cc-ftbg30ccdesk/ftbg30cc-ftbg30ccdesk_datasheet.pdf"
+ },
+ "ftbr30cc": {
+  "images": [
+   "ftbr30cc_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ftbr30cc/ftbr30cc_datasheet.pdf"
+ },
+ "ft600vk": {
+  "images": [
+   "ft600vk_01.jpg",
+   "ft600vk_02.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft600vk/ft600vk_datasheet.pdf"
+ },
+ "ft600vkk": {
+  "images": [
+   "ft600vkk_01.jpg",
+   "ft600vkk_02.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft600vkk/ft600vkk_datasheet.pdf"
+ },
+ "ft600w": {
+  "images": [
+   "ft600w_01.jpg"
+  ],
+  "datasheet": "Assets/fasttel/ft600w/ft600w_datasheet.pdf"
+ },
+ "ft600": {
+  "images": [
+   "ft600_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600m": {
+  "images": [
+   "ft600m_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600l": {
+  "images": [
+   "ft600l_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft6002": {
+  "images": [
+   "ft6002_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft6003": {
+  "images": [
+   "ft6003_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft6004": {
+  "images": [
+   "ft6004_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft6005": {
+  "images": [
+   "ft6005_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600k": {
+  "images": [
+   "ft600k_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600kl": {
+  "images": [
+   "ft600kl_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc": {
+  "images": [
+   "ft600vc_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vcm": {
+  "images": [
+   "ft600vcm_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vcl": {
+  "images": [
+   "ft600vcl_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc2": {
+  "images": [
+   "ft600vc2_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc3": {
+  "images": [
+   "ft600vc3_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc4": {
+  "images": [
+   "ft600vc4_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc5": {
+  "images": [
+   "ft600vc5_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600kvc": {
+  "images": [
+   "ft600kvc_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600kvcl": {
+  "images": [
+   "ft600kvcl_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600vc22w": {
+  "images": [
+   "ft600vc22w_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft600ana": {
+  "images": [
+   "ft600ana_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/_shared/ft600_family_datasheet.pdf"
+ },
+ "ft800vc": {
+  "images": [
+   "ft800vc_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft800vc/ft800vc_datasheet.pdf"
+ },
+ "ft800vcl": {
+  "images": [
+   "ft800vcl_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ft800kvc": {
+  "images": [
+   "ft800kvc_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft800kvc/ft800kvc_datasheet.pdf"
+ },
+ "ft800kvcl": {
+  "images": [
+   "ft800kvcl_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbg800kvc": {
+  "images": [
+   "ftbg800kvc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbg800vc": {
+  "images": [
+   "ftbg800vc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbm800kvc": {
+  "images": [
+   "ftbm800kvc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbm800vc": {
+  "images": [
+   "ftbm800vc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbr800kvc": {
+  "images": [
+   "ftbr800kvc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftbr800vc": {
+  "images": [
+   "ftbr800vc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftg800kvc": {
+  "images": [
+   "ftg800kvc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ftg800vc": {
+  "images": [
+   "ftg800vc_01.webp"
+  ],
+  "datasheet": null
+ },
+ "ft9000": {
+  "images": [
+   "ft9000_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft9000/ft9000_datasheet.pdf"
+ },
+ "ft23k": {
+  "images": [
+   "ft23k_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft23k/ft23k_datasheet.pdf"
+ },
+ "ft24k": {
+  "images": [
+   "ft24k_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft24k/ft24k_datasheet.pdf"
+ },
+ "ft25k": {
+  "images": [
+   "ft25k_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft25k/ft25k_datasheet.pdf"
+ },
+ "ft26k": {
+  "images": [
+   "ft26k_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ft26k/ft26k_datasheet.pdf"
+ },
+ "ftemperor-v": {
+  "images": [
+   "ftemperor-v_01.webp"
+  ],
+  "datasheet": "Assets/fasttel/ftemperor-v/ftemperor-v_datasheet.pdf"
+ }
+}
