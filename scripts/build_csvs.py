@@ -21,6 +21,9 @@ import csv, json, os, urllib.parse, html as _html
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIVE = os.path.join(REPO, "Products_Famer_latest_6-56pm.csv")
 G_MAN = json.load(open(os.path.join(REPO, "scripts", "garvan_manifest.json")))
+# Per-slug thumbnail + gallery picks (clean white-bg render first, own images
+# only — never the shared `line__*` dumps). Built by scripts/garvan_pick_images.py.
+G_PICK = json.load(open(os.path.join(REPO, "scripts", "garvan_image_pick.json")))["pick"]
 F_RES = json.load(open(os.path.join(REPO, "scripts", "research_fasttel.json")))
 F_MAN = json.load(open(os.path.join(REPO, "scripts", "fasttel_manifest.json")))
 
@@ -192,12 +195,16 @@ def build_garvan():
             "Brand": "garvan-acoustics", "Product Categories": cat,
             "Product Tags": tags, "Specsheet": spec,
         })
-        # image row
-        photos = m["images"]
-        if photos:
-            thumb = raw_url(f"Assets/garvan-acoustics/{slug}/{photos[0]}")
+        # image row — thumbnail = clean white-bg render, gallery = own images only
+        pk = G_PICK.get(slug, {})
+        thumb_file = pk.get("thumbnail")
+        photos = pk.get("gallery", [])
+        if thumb_file:
+            thumb = raw_url(f"Assets/garvan-acoustics/{slug}/{thumb_file}")
             gallery = ", ".join(raw_url(f"Assets/garvan-acoustics/{slug}/{f}") for f in photos)
         else:
+            # no own product images locally (needs vendor scrape) — keep any
+            # existing hosted thumbnail rather than regress it to blank.
             thumb = b.get("Thumbnail", "") if hosted(b.get("Thumbnail")) else ""
             gallery = ""
         alt = " ".join((sub or f"{title} — Garvan Acoustics").split())
