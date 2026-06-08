@@ -16,7 +16,7 @@ Rules honored:
   where the catalog has no spec data; a full spec table for Fasttel).
 - Every image row gets a Thumbnail:alt.
 """
-import csv, json, os, urllib.parse
+import csv, json, os, urllib.parse, html as _html
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIVE = os.path.join(REPO, "Products_Famer_latest_6-56pm.csv")
@@ -28,7 +28,11 @@ BRANCH = "claude/blissful-cori-JY3Gi"
 RAW = f"https://raw.githubusercontent.com/madiers/claude-all/{BRANCH}/"
 PCOLS = ['Slug', ':draft', 'Title', 'Sub Title', 'Product Description',
          'Technical Table', 'Brand', 'Product Categories', 'Product Tags', 'Specsheet']
-ICOLS = ['Slug', 'Thumbnail', 'Thumbnail:alt', 'Gallery']
+# Image CSV carries Title + Product Description because Framer's CSV importer
+# refuses to map an update unless the required "Product Description" field is
+# present ("Map the required field 'Product Description'"). Values are the same
+# cleaned copy as the products CSV, so re-importing images is non-destructive.
+ICOLS = ['Slug', 'Title', 'Product Description', 'Thumbnail', 'Thumbnail:alt', 'Gallery']
 
 def raw_url(path):
     return RAW + urllib.parse.quote(path)
@@ -42,14 +46,101 @@ def tech_table(pairs):
     return ("<table><tbody><tr><th>Specification</th><th>Value</th></tr>"
             + rows + "</tbody></table>")
 
+# ---- Wix Ricos JSON -> clean HTML --------------------------------------------
+# Several Garvan products were migrated from Wix with raw Ricos document JSON
+# ({"nodes":[...]}) sitting in the Product Description cell (often wrapped in a
+# single <p>). Framer renders that as literal JSON. Convert it to plain HTML.
+def _esc(t):
+    return _html.escape(t or "", quote=False)
+
+def _inline(tn):
+    td = tn.get("textData", {}) or {}
+    s = _esc(td.get("text", "").replace("\r", "")).replace("\n", "<br>")
+    bold = ital = und = False
+    link = None
+    for d in td.get("decorations", []) or []:
+        ty = d.get("type")
+        if ty == "BOLD": bold = True
+        elif ty == "ITALIC": ital = True
+        elif ty == "UNDERLINE": und = True
+        elif ty == "LINK": link = ((d.get("linkData", {}) or {}).get("link", {}) or {}).get("url")
+    if und: s = f"<u>{s}</u>"
+    if ital: s = f"<em>{s}</em>"
+    if bold: s = f"<strong>{s}</strong>"
+    if link: s = f'<a href="{_esc(link)}">{s}</a>'
+    return s
+
+def _inline_children(node):
+    s = "".join(_inline(c) for c in node.get("nodes", []) if c.get("type") == "TEXT").strip()
+    while s.startswith("<br>"): s = s[4:].strip()
+    while s.endswith("<br>"): s = s[:-4].strip()
+    return s
+
+def _para(p):
+    return _inline_children(p) if p.get("type") == "PARAGRAPH" else ""
+
+def _render_ricos(nodes):
+    out = []
+    for n in nodes:
+        t = n.get("type")
+        if t == "PARAGRAPH":
+            inner = _inline_children(n)
+            if inner: out.append(f"<p>{inner}</p>")
+        elif t == "HEADING":
+            lvl = max(2, min(6, int((n.get("headingData", {}) or {}).get("level", 3))))
+            inner = _inline_children(n)
+            if inner: out.append(f"<h{lvl}>{inner}</h{lvl}>")
+        elif t in ("BULLETED_LIST", "ORDERED_LIST"):
+            tag = "ul" if t == "BULLETED_LIST" else "ol"
+            items = []
+            for li in n.get("nodes", []):
+                if li.get("type") != "LIST_ITEM": continue
+                txt = " ".join(filter(None, (_para(p) for p in li.get("nodes", []))))
+                if txt: items.append(f"<li>{txt}</li>")
+            if items: out.append(f"<{tag}>" + "".join(items) + f"</{tag}>")
+        elif t == "TABLE":
+            rws = []
+            for r in n.get("nodes", []):
+                if r.get("type") != "TABLE_ROW": continue
+                cells = ["<td>" + " ".join(filter(None, (_para(p) for p in c.get("nodes", [])))) + "</td>"
+                         for c in r.get("nodes", []) if c.get("type") == "TABLE_CELL"]
+                if cells: rws.append("<tr>" + "".join(cells) + "</tr>")
+            if rws: out.append("<figure><table><tbody>" + "".join(rws) + "</tbody></table></figure>")
+        # IMAGE / other node types: skipped (Wix media ids aren't usable URLs)
+    return "".join(out)
+
+def ricos_to_html(desc):
+    s = (desc or "").strip()
+    cand = s
+    if cand.startswith("<p>") and cand.endswith("</p>"):
+        cand = cand[3:-4].strip()
+    if not (cand.startswith("{") and '"nodes"' in cand):
+        return desc                      # already clean HTML — leave untouched
+    try:
+        data = json.loads(cand)
+    except Exception:
+        return desc
+    return _render_ricos(data.get("nodes", [])) or desc
+
 # ---------------- Garvan ----------------
+# Garvan products that exist in the export with an EMPTY Brand (so the brand
+# filter skipped them) — the SA/SN/WA CinemAtelier, LOTO & CORO lines. They
+# carry raw Ricos JSON descriptions. Pull them in, brand + clean them.
+ORPHAN_GARVAN = ["sa111", "sa117", "sa214", "sa225", "sa314", "sa317", "sa320",
+                 "sn117", "snw23m", "atelier", "wa120", "wa420", "wae121", "wn120"]
 ACOUSTIC_SLUGS = {"cinematelier", "atelier", "acoustic-parquet", "microbaffle",
                   "quadra", "sound-quadra", "surface"}
 def garvan_type_tags(slug, title, sub, desc):
     text = f"{title} {sub} {desc}".lower()
+    # NB: Garvan's marketing voice calls its 360° speakers "diffusers" ("marine
+    # outdoor diffusers", "the other diffusers in the collection") — so the bare
+    # words "diffuser"/"absorber" are NOT acoustic markers here. Require the
+    # acoustic/sound qualifier to catch real acoustic-treatment panels only.
     is_acoustic = (slug in ACOUSTIC_SLUGS or (slug.startswith("ka") and slug.endswith("h"))
-                   or any(w in text for w in ("acoustic panel", "sound panel", "absorber",
-                          "diffuser", "parquet", "baffle", "acoustic treatment")))
+                   or any(w in text for w in ("acoustic panel", "sound panel", "parquet",
+                          "baffle", "acoustic treatment", "sound-absorbing", "sound absorbing",
+                          "acoustic absorber", "sound absorber", "acoustic diffuser",
+                          "sound diffuser")))
     if is_acoustic:
         return "cinema,audio", "acoustic-sound-panels", "Acoustic panel"
     if "subwoofer" in text or "sub-woofer" in text:
@@ -73,13 +164,19 @@ def pick_datasheet(pdfs, slug):
 
 def build_garvan():
     live = list(csv.DictReader(open(LIVE, newline="", encoding="utf-8")))
-    g = {r["Slug"]: r for r in live if r.get("Brand") == "garvan-acoustics"}
+    by_slug = {r["Slug"]: r for r in live}
+    g = {s: r for s, r in by_slug.items() if r.get("Brand") == "garvan-acoustics"}
+    # Pull in the SA/SN/WA orphans that ship with an EMPTY Brand (so the brand
+    # filter skipped them, leaving their raw Ricos-JSON descriptions live).
+    for slug in ORPHAN_GARVAN:
+        if slug in by_slug and slug not in g:
+            g[slug] = by_slug[slug]
     prods, imgs = [], []
     for slug in sorted(g):
         b = g[slug]
         title = (b.get("Title") or slug).strip()
         sub = (b.get("Sub Title") or "").strip()
-        desc = (b.get("Product Description") or "").strip()
+        desc = ricos_to_html((b.get("Product Description") or "").strip())
         cat, tags, typ = garvan_type_tags(slug, title, sub, desc)
         m = G_MAN.get(slug, {"images": [], "pdfs": []})
         # Specsheet: keep hosted, else mirrored datasheet
@@ -104,7 +201,8 @@ def build_garvan():
             thumb = b.get("Thumbnail", "") if hosted(b.get("Thumbnail")) else ""
             gallery = ""
         alt = " ".join((sub or f"{title} — Garvan Acoustics").split())
-        imgs.append({"Slug": slug, "Thumbnail": thumb, "Thumbnail:alt": alt[:160], "Gallery": gallery})
+        imgs.append({"Slug": slug, "Title": title, "Product Description": desc,
+                     "Thumbnail": thumb, "Thumbnail:alt": alt[:160], "Gallery": gallery})
     return prods, imgs
 
 # ---------------- Fasttel ----------------
@@ -145,7 +243,8 @@ def build_fasttel():
             thumb = b.get("Thumbnail", "") if hosted(b.get("Thumbnail")) else ""
             gallery = ""
         alt = " ".join(f"{title} — {sub}".split()) if sub else f"{title} — Fasttel"
-        imgs.append({"Slug": slug, "Thumbnail": thumb, "Thumbnail:alt": alt[:160], "Gallery": gallery})
+        imgs.append({"Slug": slug, "Title": title, "Product Description": desc,
+                     "Thumbnail": thumb, "Thumbnail:alt": alt[:160], "Gallery": gallery})
     return prods, imgs
 
 def write_csv(path, cols, rows):
