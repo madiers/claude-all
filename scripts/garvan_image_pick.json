@@ -31,9 +31,11 @@
    "has_clean": false
   },
   "at2404-a": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at2404-a_v01.png",
+   "gallery": [
+    "at2404-a_v01.png"
+   ],
+   "has_clean": true
   },
   "at260-a": {
    "thumbnail": null,
@@ -41,38 +43,55 @@
    "has_clean": false
   },
   "at432-a": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at432-a_v01.png",
+   "gallery": [
+    "at432-a_v01.png"
+   ],
+   "has_clean": true
   },
   "at432-d": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at432-d_v01.png",
+   "gallery": [
+    "at432-d_v01.png"
+   ],
+   "has_clean": true
   },
   "at440": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at440_v01.png",
+   "gallery": [
+    "at440_v01.png"
+   ],
+   "has_clean": true
   },
   "at460-a": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at460-a_v01.png",
+   "gallery": [
+    "at460-a_v01.png"
+   ],
+   "has_clean": true
   },
   "at460-d": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at460-d_v01.png",
+   "gallery": [
+    "at460-d_v01.png"
+   ],
+   "has_clean": true
   },
   "at4804-a": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "at4804-a_v01.png",
+   "gallery": [
+    "at4804-a_v01.png"
+   ],
+   "has_clean": true
   },
   "atelier": {
-   "thumbnail": null,
-   "gallery": [],
+   "thumbnail": "atelier_v01.jpg",
+   "gallery": [
+    "atelier_v01.jpg",
+    "atelier_v02.jpg",
+    "atelier_v03.jpg",
+    "atelier_v04.jpg"
+   ],
    "has_clean": false
   },
   "cinematelier": {
@@ -800,10 +819,19 @@
    ],
    "has_clean": false
   },
+  "sa111": {
+   "thumbnail": "sa111_v01.png",
+   "gallery": [
+    "sa111_v01.png"
+   ],
+   "has_clean": true
+  },
   "sa117": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "sa117_v01.png",
+   "gallery": [
+    "sa117_v01.png"
+   ],
+   "has_clean": true
   },
   "sa203": {
    "thumbnail": "sa203_01.jpg",
@@ -818,15 +846,50 @@
    ],
    "has_clean": true
   },
+  "sa214": {
+   "thumbnail": "sa214_v01.png",
+   "gallery": [
+    "sa214_v01.png"
+   ],
+   "has_clean": true
+  },
   "sa225": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "sa225_v01.jpg",
+   "gallery": [
+    "sa225_v01.jpg",
+    "sa225_v02.jpg",
+    "sa225_v03.jpg",
+    "sa225_v04.jpg"
+   ],
+   "has_clean": true
+  },
+  "sa314": {
+   "thumbnail": "sa314_v01.png",
+   "gallery": [
+    "sa314_v01.png"
+   ],
+   "has_clean": true
+  },
+  "sa317": {
+   "thumbnail": "sa317_v01.png",
+   "gallery": [
+    "sa317_v01.png"
+   ],
+   "has_clean": true
+  },
+  "sa320": {
+   "thumbnail": "sa320_v01.png",
+   "gallery": [
+    "sa320_v01.png"
+   ],
+   "has_clean": true
   },
   "sa520": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "sa520_v01.png",
+   "gallery": [
+    "sa520_v01.png"
+   ],
+   "has_clean": true
   },
   "sn116": {
    "thumbnail": "sn116_05.jpg",
@@ -843,8 +906,10 @@
    "has_clean": true
   },
   "sn117": {
-   "thumbnail": null,
-   "gallery": [],
+   "thumbnail": "sn117_v01.jpg",
+   "gallery": [
+    "sn117_v01.jpg"
+   ],
    "has_clean": false
   },
   "sn120": {
@@ -880,13 +945,25 @@
    "has_clean": true
   },
   "sound-quadra": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "sound-quadra_v04.jpg",
+   "gallery": [
+    "sound-quadra_v04.jpg",
+    "sound-quadra_v01.jpg",
+    "sound-quadra_v02.jpg",
+    "sound-quadra_v03.jpg",
+    "sound-quadra_v05.jpg"
+   ],
+   "has_clean": true
   },
   "surface": {
-   "thumbnail": null,
-   "gallery": [],
+   "thumbnail": "surface_v01.jpg",
+   "gallery": [
+    "surface_v01.jpg",
+    "surface_v02.jpg",
+    "surface_v03.jpg",
+    "surface_v04.jpg",
+    "surface_v05.jpg"
+   ],
    "has_clean": false
   },
   "svk15": {
@@ -983,15 +1060,28 @@
    "has_clean": true
   },
   "wa220": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "wa220_v01.png",
+   "gallery": [
+    "wa220_v01.png"
+   ],
+   "has_clean": true
   },
   "wa220h": {
    "thumbnail": "wa220h_main.png",
    "gallery": [
     "wa220h_main.png",
     "wa220h_gallery_1.png"
+   ],
+   "has_clean": true
+  },
+  "wae121": {
+   "thumbnail": "wae121_v01.jpg",
+   "gallery": [
+    "wae121_v01.jpg",
+    "wae121_v02.jpg",
+    "wae121_v03.jpg",
+    "wae121_v04.jpg",
+    "wae121_v05.jpg"
    ],
    "has_clean": true
   },
@@ -1018,9 +1108,18 @@
    "has_clean": true
   },
   "wn120": {
-   "thumbnail": null,
-   "gallery": [],
-   "has_clean": false
+   "thumbnail": "wn120_v01.jpg",
+   "gallery": [
+    "wn120_v01.jpg",
+    "wn120_v02.jpg",
+    "wn120_v03.jpg",
+    "wn120_v04.jpg",
+    "wn120_v05.jpg",
+    "wn120_v06.jpg",
+    "wn120_v07.jpg",
+    "wn120_v08.jpg"
+   ],
+   "has_clean": true
   },
   "wr116": {
    "thumbnail": "wr116_02.jpg",
@@ -1084,15 +1183,7 @@
  "needs_vendor_images": [
   "ara",
   "at232-a",
-  "at2404-a",
   "at260-a",
-  "at432-a",
-  "at432-d",
-  "at440",
-  "at460-a",
-  "at460-d",
-  "at4804-a",
-  "atelier",
   "kr2316",
   "kr3112",
   "kr3213",
@@ -1104,14 +1195,6 @@
   "kw3213",
   "kw3308",
   "kw3313",
-  "kw3316",
-  "sa117",
-  "sa225",
-  "sa520",
-  "sn117",
-  "sound-quadra",
-  "surface",
-  "wa220",
-  "wn120"
+  "kw3316"
  ]
 }
