@@ -1,0 +1,3199 @@
+<!DOCTYPE html>
+<html lang="it-IT" class="no-js">
+	<head>
+    <script>console.log("HEADER CHILD ATTIVO");</script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<style type="text/css">div[id^="wpcf7-f79524"] button.cf7mls_next {   }div[id^="wpcf7-f79524"] button.cf7mls_back {   }div[id^="wpcf7-f79523"] button.cf7mls_next {   }div[id^="wpcf7-f79523"] button.cf7mls_back {   }div[id^="wpcf7-f79522"] button.cf7mls_next {   }div[id^="wpcf7-f79522"] button.cf7mls_back {   }div[id^="wpcf7-f79521"] button.cf7mls_next {   }div[id^="wpcf7-f79521"] button.cf7mls_back {   }div[id^="wpcf7-f79485"] button.cf7mls_next {   }div[id^="wpcf7-f79485"] button.cf7mls_back {   }div[id^="wpcf7-f78055"] button.cf7mls_next {   }div[id^="wpcf7-f78055"] button.cf7mls_back {   }div[id^="wpcf7-f78054"] button.cf7mls_next {   }div[id^="wpcf7-f78054"] button.cf7mls_back {   }div[id^="wpcf7-f78053"] button.cf7mls_next {   }div[id^="wpcf7-f78053"] button.cf7mls_back {   }div[id^="wpcf7-f78052"] button.cf7mls_next {   }div[id^="wpcf7-f78052"] button.cf7mls_back {   }div[id^="wpcf7-f78022"] button.cf7mls_next {   }div[id^="wpcf7-f78022"] button.cf7mls_back {   }div[id^="wpcf7-f78003"] button.cf7mls_next {   }div[id^="wpcf7-f78003"] button.cf7mls_back {   }div[id^="wpcf7-f78000"] button.cf7mls_next {   }div[id^="wpcf7-f78000"] button.cf7mls_back {   }div[id^="wpcf7-f77995"] button.cf7mls_next {   }div[id^="wpcf7-f77995"] button.cf7mls_back {   }div[id^="wpcf7-f77992"] button.cf7mls_next {   }div[id^="wpcf7-f77992"] button.cf7mls_back {   }div[id^="wpcf7-f77986"] button.cf7mls_next {   }div[id^="wpcf7-f77986"] button.cf7mls_back {   }div[id^="wpcf7-f74581"] button.cf7mls_next { background-color: #f2cf7e; color: #0a0a0a }div[id^="wpcf7-f74581"] button.cf7mls_back {   }div[id^="wpcf7-f74565"] button.cf7mls_next { background-color: #f2cf7e; color: #0a0a0a }div[id^="wpcf7-f74565"] button.cf7mls_back {   }div[id^="wpcf7-f74487"] button.cf7mls_next { background-color: #f2cf7e; color: #0a0a0a }div[id^="wpcf7-f74487"] button.cf7mls_back {   }div[id^="wpcf7-f73945"] button.cf7mls_next {   }div[id^="wpcf7-f73945"] button.cf7mls_back {   }div[id^="wpcf7-f73944"] button.cf7mls_next {   }div[id^="wpcf7-f73944"] button.cf7mls_back {   }div[id^="wpcf7-f73943"] button.cf7mls_next {   }div[id^="wpcf7-f73943"] button.cf7mls_back {   }div[id^="wpcf7-f73941"] button.cf7mls_next {   }div[id^="wpcf7-f73941"] button.cf7mls_back {   }div[id^="wpcf7-f73904"] button.cf7mls_next {   }div[id^="wpcf7-f73904"] button.cf7mls_back {   }div[id^="wpcf7-f73161"] button.cf7mls_next { background-color: #f2cf7e; color: #0a0a0a }div[id^="wpcf7-f73161"] button.cf7mls_back {   }div[id^="wpcf7-f72613"] button.cf7mls_next {   }div[id^="wpcf7-f72613"] button.cf7mls_back {   }div[id^="wpcf7-f72612"] button.cf7mls_next {   }div[id^="wpcf7-f72612"] button.cf7mls_back {   }div[id^="wpcf7-f72611"] button.cf7mls_next {   }div[id^="wpcf7-f72611"] button.cf7mls_back {   }div[id^="wpcf7-f72595"] button.cf7mls_next {   }div[id^="wpcf7-f72595"] button.cf7mls_back {   }div[id^="wpcf7-f72571"] button.cf7mls_next {   }div[id^="wpcf7-f72571"] button.cf7mls_back {   }div[id^="wpcf7-f71217"] button.cf7mls_next {   }div[id^="wpcf7-f71217"] button.cf7mls_back {   }div[id^="wpcf7-f71216"] button.cf7mls_next {   }div[id^="wpcf7-f71216"] button.cf7mls_back {   }div[id^="wpcf7-f66975"] button.cf7mls_next {   }div[id^="wpcf7-f66975"] button.cf7mls_back {   }div[id^="wpcf7-f65703"] button.cf7mls_next {   }div[id^="wpcf7-f65703"] button.cf7mls_back {   }div[id^="wpcf7-f65679"] button.cf7mls_next { background-color: #f2cf7e; color: #0a0a0a }div[id^="wpcf7-f65679"] button.cf7mls_back {   }div[id^="wpcf7-f65670"] button.cf7mls_next {   }div[id^="wpcf7-f65670"] button.cf7mls_back {   }div[id^="wpcf7-f65418"] button.cf7mls_next {   }div[id^="wpcf7-f65418"] button.cf7mls_back {   }div[id^="wpcf7-f64064"] button.cf7mls_next {   }div[id^="wpcf7-f64064"] button.cf7mls_back {   }div[id^="wpcf7-f64063"] button.cf7mls_next {   }div[id^="wpcf7-f64063"] button.cf7mls_back {   }div[id^="wpcf7-f64062"] button.cf7mls_next {   }div[id^="wpcf7-f64062"] button.cf7mls_back {   }div[id^="wpcf7-f64061"] button.cf7mls_next {   }div[id^="wpcf7-f64061"] button.cf7mls_back {   }div[id^="wpcf7-f60835"] button.cf7mls_next {   }div[id^="wpcf7-f60835"] button.cf7mls_back {   }div[id^="wpcf7-f59986"] button.cf7mls_next {   }div[id^="wpcf7-f59986"] button.cf7mls_back {   }div[id^="wpcf7-f59985"] button.cf7mls_next {   }div[id^="wpcf7-f59985"] button.cf7mls_back {   }div[id^="wpcf7-f59984"] button.cf7mls_next {   }div[id^="wpcf7-f59984"] button.cf7mls_back {   }div[id^="wpcf7-f59939"] button.cf7mls_next {   }div[id^="wpcf7-f59939"] button.cf7mls_back {   }div[id^="wpcf7-f53375"] button.cf7mls_next {   }div[id^="wpcf7-f53375"] button.cf7mls_back {   }div[id^="wpcf7-f43088"] button.cf7mls_next {   }div[id^="wpcf7-f43088"] button.cf7mls_back {   }div[id^="wpcf7-f43082"] button.cf7mls_next {   }div[id^="wpcf7-f43082"] button.cf7mls_back {   }div[id^="wpcf7-f43073"] button.cf7mls_next {   }div[id^="wpcf7-f43073"] button.cf7mls_back {   }div[id^="wpcf7-f42299"] button.cf7mls_next {   }div[id^="wpcf7-f42299"] button.cf7mls_back {   }div[id^="wpcf7-f37163"] button.cf7mls_next {   }div[id^="wpcf7-f37163"] button.cf7mls_back {   }div[id^="wpcf7-f37162"] button.cf7mls_next {   }div[id^="wpcf7-f37162"] button.cf7mls_back {   }div[id^="wpcf7-f37134"] button.cf7mls_next {   }div[id^="wpcf7-f37134"] button.cf7mls_back {   }div[id^="wpcf7-f37131"] button.cf7mls_next {   }div[id^="wpcf7-f37131"] button.cf7mls_back {   }div[id^="wpcf7-f33023"] button.cf7mls_next {   }div[id^="wpcf7-f33023"] button.cf7mls_back {   }div[id^="wpcf7-f33019"] button.cf7mls_next {   }div[id^="wpcf7-f33019"] button.cf7mls_back {   }div[id^="wpcf7-f32752"] button.cf7mls_next {   }div[id^="wpcf7-f32752"] button.cf7mls_back {   }div[id^="wpcf7-f32702"] button.cf7mls_next {   }div[id^="wpcf7-f32702"] button.cf7mls_back {   }div[id^="wpcf7-f29917"] button.cf7mls_next {   }div[id^="wpcf7-f29917"] button.cf7mls_back {   }div[id^="wpcf7-f29916"] button.cf7mls_next {   }div[id^="wpcf7-f29916"] button.cf7mls_back {   }div[id^="wpcf7-f29910"] button.cf7mls_next {   }div[id^="wpcf7-f29910"] button.cf7mls_back {   }div[id^="wpcf7-f29723"] button.cf7mls_next {   }div[id^="wpcf7-f29723"] button.cf7mls_back {   }div[id^="wpcf7-f29720"] button.cf7mls_next {   }div[id^="wpcf7-f29720"] button.cf7mls_back {   }div[id^="wpcf7-f29717"] button.cf7mls_next {   }div[id^="wpcf7-f29717"] button.cf7mls_back {   }div[id^="wpcf7-f28139"] button.cf7mls_next {   }div[id^="wpcf7-f28139"] button.cf7mls_back {   }div[id^="wpcf7-f28138"] button.cf7mls_next {   }div[id^="wpcf7-f28138"] button.cf7mls_back {   }div[id^="wpcf7-f27253"] button.cf7mls_next {   }div[id^="wpcf7-f27253"] button.cf7mls_back {   }div[id^="wpcf7-f27252"] button.cf7mls_next {   }div[id^="wpcf7-f27252"] button.cf7mls_back {   }div[id^="wpcf7-f27251"] button.cf7mls_next {   }div[id^="wpcf7-f27251"] button.cf7mls_back {   }div[id^="wpcf7-f27250"] button.cf7mls_next {   }div[id^="wpcf7-f27250"] button.cf7mls_back {   }div[id^="wpcf7-f22998"] button.cf7mls_next {   }div[id^="wpcf7-f22998"] button.cf7mls_back {   }div[id^="wpcf7-f22274"] button.cf7mls_next {   }div[id^="wpcf7-f22274"] button.cf7mls_back {   }div[id^="wpcf7-f21702"] button.cf7mls_next {   }div[id^="wpcf7-f21702"] button.cf7mls_back {   }div[id^="wpcf7-f2638"] button.cf7mls_next {   }div[id^="wpcf7-f2638"] button.cf7mls_back {   }</style><meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v27.7 (Yoast SEO v27.7) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Pagina non trovata - Garvan Acoustic</title>
+	<meta property="og:locale" content="it_IT" />
+	<meta property="og:title" content="Pagina non trovata - Garvan Acoustic" />
+	<meta property="og:site_name" content="Garvan Acoustic" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/www.garvanacoustic.com\/#website","url":"https:\/\/www.garvanacoustic.com\/","name":"Garvan Acoustic","description":"Diffusori e trattamento acustico: scopri la qualità del Made in Italy","publisher":{"@id":"https:\/\/www.garvanacoustic.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.garvanacoustic.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"it-IT"},{"@type":"Organization","@id":"https:\/\/www.garvanacoustic.com\/#organization","name":"Garvan Acoustic","url":"https:\/\/www.garvanacoustic.com\/","logo":{"@type":"ImageObject","inLanguage":"it-IT","@id":"https:\/\/www.garvanacoustic.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.garvanacoustic.com\/wp-content\/uploads\/2018\/07\/garvan-acoustic-logo.png","contentUrl":"https:\/\/www.garvanacoustic.com\/wp-content\/uploads\/2018\/07\/garvan-acoustic-logo.png","width":400,"height":161,"caption":"Garvan Acoustic"},"image":{"@id":"https:\/\/www.garvanacoustic.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/garvanacoustic","https:\/\/www.instagram.com\/garvanacoustic\/"],"description":"Produttori di Diffusori Acustici e Pannelli Fonoassorbenti Made in Italy","email":"garvan@garvanacoustic.com","telephone":"0546 682097"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+<link rel="alternate" type="application/rss+xml" title="Garvan Acoustic &raquo; Feed" href="https://www.garvanacoustic.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Garvan Acoustic &raquo; Feed dei commenti" href="https://www.garvanacoustic.com/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='dnd-upload-cf7-css' href='https://www.garvanacoustic.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css?ver=1.3.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7mls-css' href='https://www.garvanacoustic.com/wp-content/plugins/ninjateam-cf7-multi-step-pro/assets/frontend/css/cf7mls.css?ver=2.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7mls_progress_bar-css' href='https://www.garvanacoustic.com/wp-content/plugins/ninjateam-cf7-multi-step-pro/assets/frontend/css/progress_bar.css?ver=2.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7mls_animate-css' href='https://www.garvanacoustic.com/wp-content/plugins/ninjateam-cf7-multi-step-pro/assets/frontend/animate/animate.min.css?ver=2.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.garvanacoustic.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mfcf7_zl_button_style-css' href='https://www.garvanacoustic.com/wp-content/plugins/multiline-files-for-contact-form-7/css/style.css?12&#038;ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sr7css-css' href='//www.garvanacoustic.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.51' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsl-styles-css' href='https://www.garvanacoustic.com/wp-content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://www.garvanacoustic.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1775632047' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-navigation-style-base-css' href='https://www.garvanacoustic.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation-base.css?ver=1.5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='cms-navigation-style-css' href='https://www.garvanacoustic.com/wp-content/plugins/wpml-cms-nav/res/css/cms-navigation.css?ver=1.5.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='hcode-animate-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/animate.css?ver=3.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-bootstrap-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/bootstrap.css?ver=3.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-et-line-icons-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/et-line-icons.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-font-awesome-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/font-awesome.min.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-magnific-popup-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/magnific-popup.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-owl-carousel-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/owl.carousel.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-owl-transitions-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/owl.transitions.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-text-effect-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/text-effect.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-menu-hamburger-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/menu-hamburger.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-mCustomScrollbar-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/jquery.mCustomScrollbar.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-parent-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A600&#038;subset&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='https://www.garvanacoustic.com/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.14.2' type='text/css' media='all' />
+<style id='wpdreams-asl-basic-inline-css' type='text/css'>
+
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 0px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgba(217, 49, 43, 1);
+						background-color: rgba(238, 238, 238, 1);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 70px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div[id*='ajaxsearchlite'].asl_r .results {
+						max-height: 0px;
+					}
+					div[id*='ajaxsearchlite'].asl_r {
+						position: absolute;
+					}
+				
+						.asl_m, .asl_m .probox {
+							background-color: rgb(166, 166, 166) !important;
+							background-image: none !important;
+							-webkit-background-image: none !important;
+							-ms-background-image: none !important;
+						}
+					
+						.asl_m .probox svg {
+							fill: rgb(255, 255, 255) !important;
+						}
+						.asl_m .probox .innericon {
+							background-color: rgb(155, 155, 155) !important;
+							background-image: none !important;
+							-webkit-background-image: none !important;
+							-ms-background-image: none !important;
+						}
+					
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+					 div.asl_r.vertical {
+    padding: 0px;
+}
+
+div.asl_m .probox div.asl_loader, div.asl_m .probox div.asl_loader * {
+    display: none;
+}
+/*# sourceURL=wpdreams-asl-basic-inline-css */
+</style>
+<link rel='stylesheet' id='wpdreams-asl-instance-css' href='https://www.garvanacoustic.com/wp-content/plugins/ajax-search-lite/css/style-simple-grey.css?ver=4.14.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code-child/style.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-responsive-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/responsive.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='hcode-extralayers-style-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/assets/css/extralayers.css?ver=3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-elusive-icon-css' href='https://www.garvanacoustic.com/wp-content/themes/h-code/lib/admin/ReduxCore/assets/css/vendor/elusive-icons.min.css?ver=dd0876de083228bcafbd305940179beb' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat&#038;display=swap&#038;ver=1775805688" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat&#038;display=swap&#038;ver=1775805688" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat&#038;display=swap&#038;ver=1775805688" /></noscript><script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":"/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":"/"}};
+//# sourceURL=wpml-cookie-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=494000" id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/multiline-files-for-contact-form-7/js/zl-multine-files.js?ver=dd0876de083228bcafbd305940179beb" id="mfcf7_zl_multiline_files_script-js"></script>
+<script type="text/javascript" src="//www.garvanacoustic.com/wp-content/plugins/revslider/public/js/libs/tptools.js?ver=6.7.51" id="tp-tools-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="//www.garvanacoustic.com/wp-content/plugins/revslider/public/js/sr7.js?ver=6.7.51" id="sr7-js" async="async" data-wp-strategy="async"></script>
+<script></script><link rel="https://api.w.org/" href="https://www.garvanacoustic.com/wp-json/" /><meta name="generator" content="WPML ver:4.9.4 stt:1,4,3,27,2;" />
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/plain" data-service="google-analytics" data-category="statistics" async data-cmplz-src="https://www.googletagmanager.com/gtag/js?id=UA-46919445-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-46919445-1');
+</script><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.garvanacoustic.com/?wordfence_lh=1&hid=2FF4EBD451D6B87474842137E6A21EEC');
+</script>			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><meta name="generator" content="Redux 4.5.11" />				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+				<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+								<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" media="all" />
+				<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><script>document.addEventListener('DOMContentLoaded', function () {
+  const carousel = document.querySelector('.surface-variants-carousel__track');
+  if (!carousel) return;
+
+  const card = carousel.querySelector('.surface-variant-card');
+  if (!card) return;
+
+  const gap = parseInt(getComputedStyle(carousel).gap) || 20;
+  const cardWidth = card.offsetWidth + gap;
+
+  const next = document.querySelector('.svc-arrow--next');
+  const prev = document.querySelector('.svc-arrow--prev');
+
+  if (next) {
+    next.addEventListener('click', function (e) {
+      e.preventDefault();
+      carousel.scrollBy({ left: cardWidth, behavior: 'smooth' });
+    });
+  }
+
+  if (prev) {
+    prev.addEventListener('click', function (e) {
+      e.preventDefault();
+      carousel.scrollBy({ left: -cardWidth, behavior: 'smooth' });
+    });
+  }
+});
+</script><!-- Pinterest Tag -->
+<script>
+!function(e){if(!window.pintrk){window.pintrk = function () {
+window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+n=window.pintrk;n.queue=[],n.version="3.0";var
+t=document.createElement("script");t.async=!0,t.src=e;var
+r=document.getElementsByTagName("script")[0];
+r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+
+pintrk('load', '2612451532149', {em: '<user_email_address>'});
+pintrk('page');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?event=init&tid=2612451532149&noscript=1" />
+</noscript>
+<!-- End Pinterest Tag -->
+<script type="text/plain" data-service="facebook" data-category="marketing">!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '609413739918273'); // il tuo Pixel ID
+fbq('track', 'PageView');
+
+// Evento Ricerca (esempio di trigger: query param "?s=")
+if(window.location.search.indexOf('?s=') > -1) {
+  fbq('track', 'Search');
+}
+
+// Evento AdvancedEvents (personalizzato)
+// Da personalizzare secondo le tue esigenze
+function trackAdvancedEvent() {
+  fbq('trackCustom', 'AdvancedEvents');
+}
+
+// Evento JoinChat (esempio click su pulsante chat WhatsApp)
+document.addEventListener('click', function(e) {
+  if(e.target && e.target.closest('.join-chat')) { // cambia '.join-chat' con la classe del tuo pulsante chat
+    fbq('trackCustom', 'JoinChat');
+  }
+});
+</script><meta name="ahrefs-site-verification" content="86a60c4498693c03bb44f4293d6b3e1c547f10524a05e7b58d815158647d4188">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<meta name="generator" content="Powered by Slider Revolution 6.7.51 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script>
+	window._tpt			??= {};
+	window.SR7			??= {};
+	_tpt.R				??= {};
+	_tpt.R.fonts		??= {};
+	_tpt.R.fonts.customFonts??= {};
+	SR7.devMode			=  false;
+	SR7.F 				??= {};
+	SR7.G				??= {};
+	SR7.LIB				??= {};
+	SR7.E				??= {};
+	SR7.E.gAddons		??= {};
+	SR7.E.php 			??= {};
+	SR7.E.nonce			= 'f7180eecc7';
+	SR7.E.ajaxurl		= 'https://www.garvanacoustic.com/wp-admin/admin-ajax.php';
+	SR7.E.resturl		= 'https://www.garvanacoustic.com/wp-json/';
+	SR7.E.slug_path		= 'revslider/revslider.php';
+	SR7.E.slug			= 'revslider';
+	SR7.E.plugin_url	= 'https://www.garvanacoustic.com/wp-content/plugins/revslider/';
+	SR7.E.wp_plugin_url = 'https://www.garvanacoustic.com/wp-content/plugins/';
+	SR7.E.revision		= '6.7.51';
+	SR7.E.fontBaseUrl	= '';
+	SR7.G.breakPoints 	= [1240,1024,778,480];
+	SR7.G.fSUVW 		= false;
+	SR7.E.modules 		= ['module','page','slide','layer','draw','animate','srtools','canvas','defaults','carousel','navigation','media','modifiers','migration'];
+	SR7.E.libs 			= ['WEBGL'];
+	SR7.E.css 			= ['csslp','cssbtns','cssfilters','cssnav','cssmedia'];
+	SR7.E.resources		= {};
+	SR7.E.ytnc			= false;
+	SR7.E.wpml			??= {};
+	SR7.E.wpml.lang		= 'it';
+	SR7.JSON			??= {};
+/*! Slider Revolution 7.0 - Page Processor */
+!function(){"use strict";window.SR7??={},window._tpt??={},SR7.version="Slider Revolution 6.7.40",_tpt.getMobileZoom=()=>_tpt.is_mobile?document.documentElement.clientWidth/window.innerWidth:1,_tpt.getWinDim=function(t){_tpt.screenHeightWithUrlBar??=window.innerHeight;let e=SR7.F?.modal?.visible&&SR7.M[SR7.F.module.getIdByAlias(SR7.F.modal.requested)];_tpt.scrollBar=window.innerWidth!==document.documentElement.clientWidth||e&&window.innerWidth!==e.c.module.clientWidth,_tpt.winW=_tpt.getMobileZoom()*window.innerWidth-(_tpt.scrollBar||"prepare"==t?_tpt.scrollBarW??_tpt.mesureScrollBar():0),_tpt.winH=_tpt.getMobileZoom()*window.innerHeight,_tpt.winWAll=document.documentElement.clientWidth},_tpt.getResponsiveLevel=function(t,e){return SR7.G.fSUVW?_tpt.closestGE(t,window.innerWidth):_tpt.closestGE(t,_tpt.winWAll)},_tpt.mesureScrollBar=function(){let t=document.createElement("div");return t.className="RSscrollbar-measure",t.style.width="100px",t.style.height="100px",t.style.overflow="scroll",t.style.position="absolute",t.style.top="-9999px",document.body.appendChild(t),_tpt.scrollBarW=t.offsetWidth-t.clientWidth,document.body.removeChild(t),_tpt.scrollBarW},_tpt.loadCSS=async function(t,e,s){return s?_tpt.R.fonts.required[e].status=1:(_tpt.R[e]??={},_tpt.R[e].status=1),new Promise((i,n)=>{if(_tpt.isStylesheetLoaded(t))s?_tpt.R.fonts.required[e].status=2:_tpt.R[e].status=2,i();else{const o=document.createElement("link");o.rel="stylesheet";let l="text",r="css";o["type"]=l+"/"+r,o.href=t,o.onload=()=>{s?_tpt.R.fonts.required[e].status=2:_tpt.R[e].status=2,i()},o.onerror=()=>{s?_tpt.R.fonts.required[e].status=3:_tpt.R[e].status=3,n(new Error(`Failed to load CSS: ${t}`))},document.head.appendChild(o)}})},_tpt.addContainer=function(t){const{tag:e="div",id:s,class:i,datas:n,textContent:o,iHTML:l}=t,r=document.createElement(e);if(s&&""!==s&&(r.id=s),i&&""!==i&&(r.className=i),n)for(const[t,e]of Object.entries(n))"style"==t?r.style.cssText=e:r.setAttribute(`data-${t}`,e);return o&&(r.textContent=o),l&&(r.innerHTML=l),r},_tpt.collector=function(){return{fragment:new DocumentFragment,add(t){var e=_tpt.addContainer(t);return this.fragment.appendChild(e),e},append(t){t.appendChild(this.fragment)}}},_tpt.isStylesheetLoaded=function(t){let e=t.split("?")[0];return Array.from(document.querySelectorAll('link[rel="stylesheet"], link[rel="preload"]')).some(t=>t.href.split("?")[0]===e)},_tpt.preloader={requests:new Map,preloaderTemplates:new Map,show:function(t,e){if(!e||!t)return;const{type:s,color:i}=e;if(s<0||"off"==s)return;const n=`preloader_${s}`;let o=this.preloaderTemplates.get(n);o||(o=this.build(s,i),this.preloaderTemplates.set(n,o)),this.requests.has(t)||this.requests.set(t,{count:0});const l=this.requests.get(t);clearTimeout(l.timer),l.count++,1===l.count&&(l.timer=setTimeout(()=>{l.preloaderClone=o.cloneNode(!0),l.anim&&l.anim.kill(),void 0!==_tpt.gsap?l.anim=_tpt.gsap.fromTo(l.preloaderClone,1,{opacity:0},{opacity:1}):l.preloaderClone.classList.add("sr7-fade-in"),t.appendChild(l.preloaderClone)},150))},hide:function(t){if(!this.requests.has(t))return;const e=this.requests.get(t);e.count--,e.count<0&&(e.count=0),e.anim&&e.anim.kill(),0===e.count&&(clearTimeout(e.timer),e.preloaderClone&&(e.preloaderClone.classList.remove("sr7-fade-in"),e.anim=_tpt.gsap.to(e.preloaderClone,.3,{opacity:0,onComplete:function(){e.preloaderClone.remove()}})))},state:function(t){if(!this.requests.has(t))return!1;return this.requests.get(t).count>0},build:(t,e="#ffffff",s="")=>{if(t<0||"off"===t)return null;const i=parseInt(t);if(t="prlt"+i,isNaN(i))return null;if(_tpt.loadCSS(SR7.E.plugin_url+"public/css/preloaders/t"+i+".css","preloader_"+t),isNaN(i)||i<6){const n=`background-color:${e}`,o=1===i||2==i?n:"",l=3===i||4==i?n:"",r=_tpt.collector();["dot1","dot2","bounce1","bounce2","bounce3"].forEach(t=>r.add({tag:"div",class:t,datas:{style:l}}));const d=_tpt.addContainer({tag:"sr7-prl",class:`${t} ${s}`,datas:{style:o}});return r.append(d),d}{let n={};if(7===i){let t;e.startsWith("#")?(t=e.replace("#",""),t=`rgba(${parseInt(t.substring(0,2),16)}, ${parseInt(t.substring(2,4),16)}, ${parseInt(t.substring(4,6),16)}, `):e.startsWith("rgb")&&(t=e.slice(e.indexOf("(")+1,e.lastIndexOf(")")).split(",").map(t=>t.trim()),t=`rgba(${t[0]}, ${t[1]}, ${t[2]}, `),t&&(n.style=`border-top-color: ${t}0.65); border-bottom-color: ${t}0.15); border-left-color: ${t}0.65); border-right-color: ${t}0.15)`)}else 12===i&&(n.style=`background:${e}`);const o=[10,0,4,2,5,9,0,4,4,2][i-6],l=_tpt.collector(),r=l.add({tag:"div",class:"sr7-prl-inner",datas:n});Array.from({length:o}).forEach(()=>r.appendChild(l.add({tag:"span",datas:{style:`background:${e}`}})));const d=_tpt.addContainer({tag:"sr7-prl",class:`${t} ${s}`});return l.append(d),d}}},SR7.preLoader={show:(t,e)=>{"off"!==(SR7.M[t]?.settings?.pLoader?.type??"off")&&_tpt.preloader.show(e||SR7.M[t].c.module,SR7.M[t]?.settings?.pLoader??{color:"#fff",type:10})},hide:(t,e)=>{"off"!==(SR7.M[t]?.settings?.pLoader?.type??"off")&&_tpt.preloader.hide(e||SR7.M[t].c.module)},state:(t,e)=>_tpt.preloader.state(e||SR7.M[t].c.module)},_tpt.prepareModuleHeight=function(t){window.SR7.M??={},window.SR7.M[t.id]??={},"ignore"==t.googleFont&&(SR7.E.ignoreGoogleFont=!0);let e=window.SR7.M[t.id];if(null==_tpt.scrollBarW&&_tpt.mesureScrollBar(),e.c??={},e.states??={},e.settings??={},e.settings.size??={},t.fixed&&(e.settings.fixed=!0),e.c.module=document.querySelector("sr7-module#"+t.id),e.c.adjuster=e.c.module.getElementsByTagName("sr7-adjuster")[0],e.c.content=e.c.module.getElementsByTagName("sr7-content")[0],"carousel"==t.type&&(e.c.carousel=e.c.content.getElementsByTagName("sr7-carousel")[0]),null==e.c.module||null==e.c.module)return;t.plType&&t.plColor&&(e.settings.pLoader={type:t.plType,color:t.plColor}),void 0===t.plType||"off"===t.plType||SR7.preLoader.state(t.id)&&SR7.preLoader.state(t.id,e.c.module)||SR7.preLoader.show(t.id,e.c.module),_tpt.winW||_tpt.getWinDim("prepare"),_tpt.getWinDim();let s=""+e.c.module.dataset?.modal;"modal"==s||"true"==s||"undefined"!==s&&"false"!==s||(e.settings.size.fullWidth=t.size.fullWidth,e.LEV??=_tpt.getResponsiveLevel(window.SR7.G.breakPoints,t.id),t.vpt=_tpt.fillArray(t.vpt,5),e.settings.vPort=t.vpt[e.LEV],void 0!==t.el&&"720"==t.el[4]&&t.gh[4]!==t.el[4]&&"960"==t.el[3]&&t.gh[3]!==t.el[3]&&"768"==t.el[2]&&t.gh[2]!==t.el[2]&&delete t.el,e.settings.size.height=null==t.el||null==t.el[e.LEV]||0==t.el[e.LEV]||"auto"==t.el[e.LEV]?_tpt.fillArray(t.gh,5,-1):_tpt.fillArray(t.el,5,-1),e.settings.size.width=_tpt.fillArray(t.gw,5,-1),e.settings.size.minHeight=_tpt.fillArray(t.mh??[0],5,-1),e.cacheSize={fullWidth:e.settings.size?.fullWidth,fullHeight:e.settings.size?.fullHeight},void 0!==t.off&&(t.off?.t&&(e.settings.size.m??={})&&(e.settings.size.m.t=t.off.t),t.off?.b&&(e.settings.size.m??={})&&(e.settings.size.m.b=t.off.b),t.off?.l&&(e.settings.size.p??={})&&(e.settings.size.p.l=t.off.l),t.off?.r&&(e.settings.size.p??={})&&(e.settings.size.p.r=t.off.r),e.offsetPrepared=!0),_tpt.updatePMHeight(t.id,t,!0))},_tpt.updatePMHeight=(t,e,s)=>{let i=SR7.M[t];var n=i.settings.size.fullWidth?_tpt.winW:i.c.module.parentNode.offsetWidth;n=0===n||isNaN(n)?_tpt.winW:n;let o=i.settings.size.width[i.LEV]||i.settings.size.width[i.LEV++]||i.settings.size.width[i.LEV--]||n,l=i.settings.size.height[i.LEV]||i.settings.size.height[i.LEV++]||i.settings.size.height[i.LEV--]||0,r=i.settings.size.minHeight[i.LEV]||i.settings.size.minHeight[i.LEV++]||i.settings.size.minHeight[i.LEV--]||0;if(l="auto"==l?0:l,l=parseInt(l),"carousel"!==e.type&&(n-=parseInt(e.onw??0)||0),i.MP=!i.settings.size.fullWidth&&n<o||_tpt.winW<o?Math.min(1,n/o):1,e.size.fullScreen||e.size.fullHeight){let t=parseInt(e.fho)||0,s=(""+e.fho).indexOf("%")>-1;e.newh=_tpt.winH-(s?_tpt.winH*t/100:t)}else e.newh=i.MP*Math.max(l,r);if(e.newh+=(parseInt(e.onh??0)||0)+(parseInt(e.carousel?.pt)||0)+(parseInt(e.carousel?.pb)||0),void 0!==e.slideduration&&(e.newh=Math.max(e.newh,parseInt(e.slideduration)/3)),e.shdw&&_tpt.buildShadow(e.id,e),i.c.adjuster.style.height=e.newh+"px",i.c.module.style.height=e.newh+"px",i.c.content.style.height=e.newh+"px",i.states.heightPrepared=!0,i.dims??={},i.dims.moduleRect=i.c.module.getBoundingClientRect(),i.c.content.style.left="-"+i.dims.moduleRect.left+"px",!i.settings.size.fullWidth)return s&&requestAnimationFrame(()=>{n!==i.c.module.parentNode.offsetWidth&&_tpt.updatePMHeight(e.id,e)}),void _tpt.bgStyle(e.id,e,window.innerWidth==_tpt.winW,!0);_tpt.bgStyle(e.id,e,window.innerWidth==_tpt.winW,!0),requestAnimationFrame(function(){s&&requestAnimationFrame(()=>{n!==i.c.module.parentNode.offsetWidth&&_tpt.updatePMHeight(e.id,e)})}),i.earlyResizerFunction||(i.earlyResizerFunction=function(){requestAnimationFrame(function(){_tpt.getWinDim(),_tpt.moduleDefaults(e.id,e),_tpt.updateSlideBg(t,!0)})},window.addEventListener("resize",i.earlyResizerFunction))},_tpt.buildShadow=function(t,e){let s=SR7.M[t];null==s.c.shadow&&(s.c.shadow=document.createElement("sr7-module-shadow"),s.c.shadow.classList.add("sr7-shdw-"+e.shdw),s.c.content.appendChild(s.c.shadow))},_tpt.bgStyle=async(t,e,s,i,n)=>{const o=SR7.M[t];if((e=e??o.settings).fixed&&!o.c.module.classList.contains("sr7-top-fixed")&&(o.c.module.classList.add("sr7-top-fixed"),o.c.module.style.position="fixed",o.c.module.style.width="100%",o.c.module.style.top="0px",o.c.module.style.left="0px",o.c.module.style.pointerEvents="none",o.c.module.style.zIndex=5e3,o.c.content.style.pointerEvents="none"),null==o.c.bgcanvas){let t=document.createElement("sr7-module-bg"),l=!1;if("string"==typeof e?.bg?.color&&e?.bg?.color.includes("{"))if(_tpt.gradient&&_tpt.gsap)e.bg.color=_tpt.gradient.convert(e.bg.color);else try{let t=JSON.parse(e.bg.color);(t?.orig||t?.string)&&(e.bg.color=JSON.parse(e.bg.color))}catch(t){return}let r="string"==typeof e?.bg?.color?e?.bg?.color||"transparent":e?.bg?.color?.string??e?.bg?.color?.orig??e?.bg?.color?.color??"transparent";if(t.style["background"+(String(r).includes("grad")?"":"Color")]=r,("transparent"!==r||n)&&(l=!0),o.offsetPrepared&&(t.style.visibility="hidden"),e?.bg?.image?.src&&(t.style.backgroundImage=`url(${e?.bg?.image.src})`,t.style.backgroundSize=""==(e.bg.image?.size??"")?"cover":e.bg.image.size,t.style.backgroundPosition=e.bg.image.position,t.style.backgroundRepeat=""==e.bg.image.repeat||null==e.bg.image.repeat?"no-repeat":e.bg.image.repeat,l=!0),!l)return;o.c.bgcanvas=t,e.size.fullWidth?t.style.width=_tpt.winW-(s&&_tpt.winH<document.body.offsetHeight?_tpt.scrollBarW:0)+"px":i&&(t.style.width=o.c.module.offsetWidth+"px"),e.sbt?.use?o.c.content.appendChild(o.c.bgcanvas):o.c.module.appendChild(o.c.bgcanvas)}o.c.bgcanvas.style.height=void 0!==e.newh?e.newh+"px":("carousel"==e.type?o.dims.module.h:o.dims.content.h)+"px",o.c.bgcanvas.style.left=!s&&e.sbt?.use||o.c.bgcanvas.closest("SR7-CONTENT")?"0px":"-"+(o?.dims?.moduleRect?.left??0)+"px"},_tpt.updateSlideBg=function(t,e){const s=SR7.M[t];let i=s.settings;s?.c?.bgcanvas&&(i.size.fullWidth?s.c.bgcanvas.style.width=_tpt.winW-(e&&_tpt.winH<document.body.offsetHeight?_tpt.scrollBarW:0)+"px":preparing&&(s.c.bgcanvas.style.width=s.c.module.offsetWidth+"px"))},_tpt.moduleDefaults=(t,e)=>{let s=SR7.M[t];null!=s&&null!=s.c&&null!=s.c.module&&(s.dims??={},s.dims.moduleRect=s.c.module.getBoundingClientRect(),s.c.content.style.left="-"+s.dims.moduleRect.left+"px",s.c.content.style.width=_tpt.winW-_tpt.scrollBarW+"px","carousel"==e.type&&(s.c.module.style.overflow="visible"),_tpt.bgStyle(t,e,window.innerWidth==_tpt.winW))},_tpt.getOffset=t=>{var e=t.getBoundingClientRect(),s=window.pageXOffset||document.documentElement.scrollLeft,i=window.pageYOffset||document.documentElement.scrollTop;return{top:e.top+i,left:e.left+s}},_tpt.fillArray=function(t,e){let s,i;t=Array.isArray(t)?t:[t];let n=Array(e),o=t.length;for(i=0;i<t.length;i++)n[i+(e-o)]=t[i],null==s&&"#"!==t[i]&&(s=t[i]);for(let t=0;t<e;t++)void 0!==n[t]&&"#"!=n[t]||(n[t]=s),s=n[t];return n},_tpt.closestGE=function(t,e){let s=Number.MAX_VALUE,i=-1;for(let n=0;n<t.length;n++)t[n]-1>=e&&t[n]-1-e<s&&(s=t[n]-1-e,i=n);return++i}}();</script>
+		<style type="text/css" id="wp-custom-css">
+			/* GARVAN DAY - Migliora checkbox privacy da mobile */
+@media (max-width: 767px) {
+
+  /* Contenitore consenso privacy */
+  .wpcf7-list-item {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 14px !important;
+    margin-left: 0 !important;
+  }
+
+  /* Checkbox più grande e cliccabile */
+  .wpcf7-list-item input[type="checkbox"] {
+    width: 24px !important;
+    height: 24px !important;
+    min-width: 24px !important;
+    margin-top: 6px !important;
+    accent-color: #000000;
+  }
+
+  /* Testo privacy più leggibile */
+  .wpcf7-list-item-label {
+    display: block !important;
+    font-size: 18px !important;
+    line-height: 1.55 !important;
+  }
+
+  /* Link privacy */
+  .wpcf7-list-item-label a {
+    font-size: 18px !important;
+    line-height: 1.55 !important;
+  }
+}
+
+/* =====================================================
+   NAV / HEADER
+===================================================== */
+
+@media (min-width: 992px) {
+  .navbar-fixed-top,
+  .navbar-fixed-bottom {
+    border-radius: 20px;
+    margin: 20px;
+  }
+
+  section#hero-home {
+    margin-top: -82px;
+  }
+}
+
+.retina-logo,
+.retina-logo-light {
+  max-width: 80% !important;
+}
+.navbar > .nav-header-container {
+width: 90%;
+    max-width: 1280px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/* =====================================================
+   CTA PRODOTTI
+===================================================== */
+
+.ga-cta-box {
+  background: #ffffff;
+  border: 2px solid #f2cf7e;
+  border-radius: 14px;
+  padding: 20px;
+  margin: 50px 6%;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.04);
+}
+
+.ga-cta-content h3 {
+  margin: 0 0 12px 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #1a1a1a;
+}
+
+.ga-cta-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #444;
+  margin-bottom: 12px;
+}
+
+.ga-cta-meta {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 22px;
+}
+
+.ga-cta-buttons {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.ga-btn {
+  display: inline-block;
+  padding: 12px 22px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.ga-btn-primary {
+  background: #F2CF7E;
+  color: #000;
+}
+
+.ga-btn-primary:hover {
+  background: #e6c36f;
+}
+
+.ga-btn-secondary {
+  background: transparent;
+  color: #000;
+  border: 1px solid rgba(0,0,0,0.25);
+}
+
+.ga-btn-secondary:hover {
+  background: rgba(0,0,0,0.03);
+}
+
+/* =====================================================
+   BREADCRUMB / PAGE TITLE
+===================================================== */
+
+.breadcrumb-gray-text,
+.breadcrumb-gray-text a {
+  color: #575757;
+}
+
+.page-title .col-lg-8,
+.page-title .col-lg-4,
+.page-title .col-md-8,
+.page-title .col-md-4 {
+  width: 100% !important;
+  max-width: 100% !important;
+  flex: 0 0 100% !important;
+}
+
+.page-title .row {
+  display: block !important;
+}
+
+@media (max-width: 767.98px) {
+  .page-title .breadcrumb-gray-text {
+    display: none !important;
+  }
+}
+
+
+/* =====================================================
+   HOME
+===================================================== */
+
+.title-box-home {
+  font-weight: 600;
+  color: black;
+}
+
+.title-box-home figure {
+  display: block;
+  width: 60%;
+  min-width: 360px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.5;
+  transform: translateX(-50%);
+  left: 50%;
+  pointer-events: none;
+}
+
+.title-box-home .text-large::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 60%;
+  height: 100%;
+  background-color: #e3e3e3;
+  opacity: 0.6;
+  transform: translateX(-50%) scale(2);
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* =====================================================
+   LINK STYLES
+===================================================== */
+
+.link {
+  color: #0070c9;
+  font-size: 16px;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link-white {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.link-white:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+
+/* =====================================================
+   TYPOGRAPHY
+===================================================== */
+
+h1, h2, h3, h4, h5 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+.h5 {
+  letter-spacing: 1px;
+}
+
+.text-med {
+  line-height: 26px;
+  font-size: 18px !important;
+  font-weight: 300;
+}
+
+.titolo,
+.titolo-black {
+  font-size: 42px;
+  line-height: 46px;
+}
+
+.titolo { color: #ffffff; }
+.titolo-black { color: #303030; }
+
+@media (max-width: 768px) {
+  .titolo,
+  .titolo-black {
+    font-size: 30px;
+    line-height: 32px;
+  }
+}
+
+
+/* =====================================================
+   BLOG / PORTFOLIO / IMMAGINI
+===================================================== */
+
+.blog-details-headline,
+.standard-post-meta,
+.padding-five-bottom,
+.single-cpo_portfolio .single-image.wp-post-image {
+  display: none;
+}
+
+.grid-gallery figure img,
+.grid figure:hover .gallery-img,
+.blog-image,
+.blog-slider-con figcaption,
+.wpb_single_image img {
+  border-radius: 15px;
+}
+
+.owl-carousel .owl-item img {
+  height: 250px !important;
+  object-fit: cover;
+}
+
+
+.titolo-linea {
+	    font-size: 45px;
+    line-height: normal;
+    color: white;
+}
+
+/* BLOCCO FINITURE DISPONIBILI — GARVAN */
+
+.ga-finishes-block {
+  --ga-title-size: 16px;
+  --ga-link-size: 16px;
+  --ga-dot-size: 30px;
+  --ga-dot-gap: 10px;
+  --ga-title-color: #000;
+  --ga-link-color: #5d5d5d;
+  --ga-link-hover-color: #000;
+
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  margin: 20px 0 0 0;
+  text-decoration: none;
+  font-family: Montserrat, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  color: #1e1e1e;
+}
+
+.ga-finishes-title {
+  font-size: var(--ga-title-size);
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--ga-title-color);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ga-finishes-dots {
+  display: flex;
+  align-items: center;
+  gap: var(--ga-dot-gap);
+}
+
+.ga-finishes-dots span {
+  width: var(--ga-dot-size);
+  height: var(--ga-dot-size);
+  border-radius: 50%;
+  background: var(--ga-finish-color);
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  display: block;
+}
+
+.ga-finishes-link {
+  font-size: var(--ga-link-size);
+  line-height: 1.2;
+  color: var(--ga-link-color);
+  text-decoration: underline;
+  padding-top: 5px;
+  transition: color 0.2s ease;
+}
+
+.ga-finishes-block:hover .ga-finishes-link {
+  color: var(--ga-link-hover-color);
+}
+
+/* BLOCCO FINITURE DISPONIBILI — NASCOSTO TEMPORANEAMENTE */
+a.mat-fin {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+
+	/* RIMUOVI QUESTA RIGA PER MOSTRARE IL BLOCCO FINITURE */
+	display: none !important;
+}
+
+/* =====================================================
+   FORM / PRIVACY
+===================================================== */
+
+.privacy-home {
+  color: white;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.privacy-home input[type="submit"] {
+  width: auto;
+  background-color: #3CDBC0;
+  font-weight: 800;
+  border-radius: 15px;
+}
+
+.wpcf7 input[type="email"] {
+  color: black;
+}
+
+
+/* =====================================================
+   BOTTONI GENERALI
+===================================================== */
+
+.btn,
+.btn-round {
+  border-radius: 15px !important;
+}
+
+.btn-static {
+  display: inline-block;
+  margin: 25px 0 20px;
+  background: rgba(255,214,160,0.9);
+  color: #000;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.btn-static:hover {
+  background: rgba(255,214,160,0.9);
+  color: #000;
+}
+
+
+/* =====================================================
+   HACK / FIX PLUGIN / BROWSER
+===================================================== */
+
+/* Nasconde overlay esterni */
+#shadow-host-companion,
+#cmplz-manage-consent {
+  display: none !important;
+}
+
+/* Safari – WP Table Builder fix */
+.wptb-button-container,
+.wptb-button-wrapper.wptb-size-s {
+  width: auto !important;
+  height: auto !important;
+}
+
+.wptb-button-wrapper.wptb-size-s > a.wptb-link-target {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: auto !important;
+  height: auto !important;
+  padding: 10px 16px !important;
+}
+
+.wptb-button-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+/* ======== SEZIONE NEWSLETTER ======== */
+
+.newsletter-section.bg-image{
+  position:relative;
+  background:url('https://www.garvanacoustic.com/wp-content/uploads/2025/10/bg_Garvan.jpg') center/cover no-repeat;
+  color:#fff;
+  text-align:center;
+  padding:80px 20px;
+  border-radius:20px;
+  overflow:hidden;
+  width:90vw;
+  max-width:1400px;
+  margin:60px auto;
+  left:50%;
+  transform:translateX(-50%);
+}
+
+.newsletter-section.bg-image:before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,.5);
+  z-index:1;
+}
+
+.newsletter-wrapper{
+  position:relative;
+  z-index:2;
+  width:100%;
+  max-width:1100px;
+  margin:0 auto;
+}
+
+.newsletter-text h2{
+  font-size:28px;
+  font-weight:700;
+  margin:0 0 15px;
+  color:#fff;
+}
+
+.newsletter-text p{
+  color:#eee;
+  font-size:16px;
+  line-height:1.6;
+  margin:0 0 30px;
+}
+
+.newsletter-section .wpcf7,
+.newsletter-section .wpcf7-form{
+  width:100%;
+}
+
+.newsletter-section .wpcf7-form{
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+  align-items:center;
+}
+
+.newsletter-section .wpcf7-form p{
+  margin:0;
+}
+
+.newsletter-section .input-group{
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  justify-content:center;
+  width:100%;
+  max-width:980px;
+  margin:0 auto;
+}
+
+.newsletter-section .input-group br{display:none!important;}
+.newsletter-section .input-group p{display:contents!important;}
+
+.newsletter-section .input-group input[type="text"],
+.newsletter-section .input-group input[type="email"]{
+  width:100%;
+  padding:14px 18px;
+  border:none;
+  border-radius:10px;
+  font-size:15px;
+  box-sizing:border-box;
+  background:rgba(255,255,255,.15);
+  color:#fff;
+  transition:background .3s ease;
+}
+
+.newsletter-section .input-group input::placeholder{color:rgba(255,255,255,.7);}
+.newsletter-section .input-group input:focus{outline:none;background:rgba(255,255,255,.25);}
+
+.newsletter-section .checkbox{
+  width:100%;
+  max-width:980px;
+  margin:0 auto;
+  text-align:left;
+  color:#ccc;
+  font-size:13px;
+  line-height:1.6;
+}
+
+.newsletter-section .checkbox .wpcf7-list-item{
+  margin:0!important;
+  display:block;
+}
+
+.newsletter-section .checkbox .wpcf7-list-item > label{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+  cursor:pointer;
+  margin:0!important;
+  padding:6px 0;
+}
+
+.newsletter-section .checkbox input[type="checkbox"]{
+  width:18px;
+  height:18px;
+  margin:4px 0 0 0;
+  cursor:pointer;
+  flex:0 0 auto;
+}
+
+.newsletter-section .checkbox .wpcf7-list-item-label{
+  display:block;
+  padding-left:20px; /* il tuo “spostamento testo” */
+}
+
+.newsletter-section .checkbox a{color:#2f87ff;text-decoration:none;}
+.newsletter-section .checkbox a:hover{text-decoration:underline;}
+
+.newsletter-section input[type="submit"]{
+  background:#FFD6A0;
+  color:#000;
+  font-weight:700;
+  border:none;
+  padding:14px 32px;
+  border-radius:10px;
+  cursor:pointer;
+  transition:all .3s ease;
+  font-size:16px;
+}
+.newsletter-section input[type="submit"]:hover{background:#ffc87a;transform:translateY(-2px);}
+
+.newsletter-section .wpcf7-response-output{color:#fff;border:none!important;margin-top:10px;}
+
+@media (min-width:1025px){
+  .newsletter-section .input-group{flex-wrap:nowrap;gap:22px;}
+  .newsletter-section .input-group .wpcf7-form-control-wrap{
+    flex:0 0 calc(33.333% - 14.7px);
+    min-width:0;
+  }
+}
+
+@media (min-width:769px) and (max-width:1024px){
+  .newsletter-section .input-group{gap:18px;}
+  .newsletter-section .input-group .wpcf7-form-control-wrap{
+    flex:1 1 calc(50% - 9px);
+    min-width:260px;
+  }
+  .newsletter-section .input-group .wpcf7-form-control-wrap[data-name="your-email"]{flex:1 1 100%;}
+}
+
+@media (max-width:768px){
+  .newsletter-section.bg-image{
+    padding:60px 18px;
+    width:calc(100vw - 24px);
+    margin:28px auto;
+    border-radius:18px;
+  }
+  .newsletter-wrapper{max-width:560px;}
+  .newsletter-section .input-group {flex-direction:column;gap:14px;}
+  .newsletter-section .checkbox{font-size:13px;}
+  .newsletter-section .checkbox input[type="checkbox"]{width:20px;height:20px;margin-top:3px;}
+}
+
+/* =========================================================
+   GARVAN – GRID DIFFUSORI (GLOBAL)
+========================================================= */
+.ga-fullwidth-section {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* ===== RESET CONTAINER (solo sezioni Garvan) ===== */
+.ga-fullwidth-section > .container {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.ga-fullwidth-section > .container > .row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.ga-fullwidth-section .vc_column_container,
+.ga-fullwidth-section .vc_column-inner {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+
+/* ===== GRID ===== */
+.ga-diffusori-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+  width: 90%;
+  max-width: 1600px;
+  margin: 70px auto;
+}
+
+
+/* ===== CARD ===== */
+.ga-diffusori-card {
+  position: relative;
+  display: block;
+  height: 300px;
+  border-radius: 20px;
+  overflow: hidden;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+/* ===== IMMAGINE ===== */
+.ga-card-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.8s ease;
+}
+
+
+/* ===== OVERLAY ===== */
+.ga-card-overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      to top,
+      rgba(0,0,0,0.58) 0%,
+      rgba(0,0,0,0.20) 45%,
+      rgba(0,0,0,0.02) 72%
+    ),
+    rgba(0,0,0,0.14);
+  pointer-events: none;
+}
+
+
+/* ===== TESTO ===== */
+.ga-card-label {
+  position: absolute;
+  bottom: 22px;
+  right: 22px;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 2;
+  color: #fff;
+  transition: transform 0.35s ease;
+}
+
+.ga-card-title {
+  font-size: 17px;
+  letter-spacing: 0.07em;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1.15;
+  text-align: right;
+}
+
+.ga-card-arrow {
+  font-size: 18px;
+  transition: transform 0.35s ease;
+}
+
+
+/* ===== HOVER ===== */
+.ga-diffusori-card:hover .ga-card-bg {
+  transform: scale(1.03);
+}
+
+.ga-diffusori-card:hover .ga-card-label {
+  transform: translateY(-4px);
+}
+
+.ga-diffusori-card:hover .ga-card-arrow {
+  transform: translateX(6px);
+}
+
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1024px) {
+  .ga-diffusori-grid {
+    grid-template-columns: repeat(2, 1fr);
+    width: 92%;
+    gap: 22px;
+  }
+
+  .ga-diffusori-card {
+    height: 260px;
+  }
+}
+
+@media (max-width: 640px) {
+  .ga-diffusori-grid {
+    grid-template-columns: 1fr;
+    width: 100%;
+    gap: 18px;
+    margin: 50px 0;
+  }
+
+  .ga-diffusori-card {
+    height: 300px;
+    border-radius: 18px;
+  }
+
+  .ga-card-title {
+    font-size: 16px;
+  }
+}
+
+
+/* ===== SFONDO SEZIONE ===== */
+.ga-bg-soft-gradient {
+  background: linear-gradient(0deg, #e3e3e3, transparent);
+}
+
+/* =========================
+   GARVAN DAY FORM
+   ========================= */
+
+.day.gd-form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 46px 36px;
+    background: #d8d8d8;
+    border-radius: 28px;
+    color: #2f2f2f;
+    box-sizing: border-box;
+}
+
+.day.gd-form * {
+    box-sizing: border-box;
+}
+
+/* INTRO */
+.gd-form-intro {
+    margin-bottom: 30px;
+}
+
+.gd-eyebrow {
+    display: block;
+    font-size: 12px;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    font-weight: 700;
+    color: #666;
+    margin-bottom: 14px;
+}
+
+.gd-form-intro h2 {
+    font-size: 46px;
+    line-height: 1.05;
+    font-weight: 700;
+    color: #2f2f2f;
+    margin: 0 0 14px 0;
+}
+
+.gd-form-intro p {
+    font-size: 17px;
+    line-height: 1.65;
+    color: #555;
+    margin: 0 0 10px 0;
+}
+
+.gd-note {
+    font-size: 14px !important;
+    color: #666 !important;
+}
+
+/* SECTIONS */
+.gd-section {
+    margin-top: 34px;
+}
+
+.gd-section h3,
+.gd-label {
+    display: block;
+    font-size: 18px;
+    line-height: 1.4;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #2f2f2f;
+    margin: 0 0 14px 0;
+}
+
+/* INPUTS */
+.day.gd-form input[type="text"],
+.day.gd-form input[type="tel"],
+.day.gd-form input[type="email"],
+.day.gd-form textarea {
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #cfcfcf;
+    border-radius: 14px;
+    padding: 16px 18px;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #2f2f2f;
+    margin: 0 0 14px 0;
+    box-shadow: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.day.gd-form input[type="text"]:focus,
+.day.gd-form input[type="tel"]:focus,
+.day.gd-form input[type="email"]:focus,
+.day.gd-form textarea:focus {
+    outline: none;
+    border-color: #c8a15a;
+    box-shadow: 0 0 0 3px rgba(200, 161, 90, 0.14);
+    background: #fff;
+}
+
+.day.gd-form textarea {
+    min-height: 100px;
+    resize: vertical;
+}
+
+.day.gd-form input::placeholder,
+.day.gd-form textarea::placeholder {
+    color: #9a9a9a;
+    opacity: 1;
+}
+
+/* CHECKBOX GENERALI (più grandi) */
+
+.day.gd-form input[type="checkbox"]{
+    transform: scale(1.5);
+    margin-right: 10px;
+    cursor: pointer;
+    accent-color: #000;
+}
+
+/* LINGUE */
+
+.gd-lang {
+    margin-top: 6px;
+}
+
+.gd-lang .wpcf7-list-item {
+    display: inline-block;
+    margin: 0 18px 12px 0;
+}
+
+.gd-lang label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+}
+
+.gd-lang .wpcf7-list-item-label {
+    font-size: 16px;
+    color: #333;
+}
+
+/* EXPERIENCE BOX */
+
+.gd-experience-box {
+    background: #ededed;
+    border: 1px solid #d3d3d3;
+    border-radius: 22px;
+    padding: 24px 22px;
+}
+
+.gd-experience-box h3 {
+    margin-top: 0;
+}
+
+.gd-small {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #666;
+    margin: 0 0 16px 0;
+}
+
+.gd-exp-item {
+    padding: 16px 0;
+    border-top: 1px solid #d8d8d8;
+}
+
+.gd-exp-item:first-of-type {
+    border-top: none;
+    padding-top: 4px;
+}
+
+.gd-exp-item strong {
+    display: block;
+    font-size: 18px;
+    line-height: 1.35;
+    color: #2f2f2f;
+    margin-bottom: 5px;
+}
+
+.gd-exp-meta {
+    font-size: 15px;
+    line-height: 1.6;
+    color: #666;
+}
+
+.gd-exp-disabled {
+    opacity: 0.6;
+}
+
+.gd-exp-check {
+    margin-top: 12px;
+}
+
+.gd-exp-check .wpcf7-list-item {
+    margin: 0;
+}
+
+.gd-exp-check label {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 999px;
+    padding: 10px 16px;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.gd-exp-check label:hover {
+    background: #fafafa;
+    border-color: #c1c1c1;
+}
+
+.gd-exp-check .wpcf7-list-item-label {
+    font-size: 15px;
+    color: #333;
+}
+
+/* PRIVACY */
+
+.gd-privacy {
+    font-size: 15px;
+    line-height: 1.75;
+    color: #444;
+}
+
+.gd-privacy label {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.gd-privacy a {
+    text-decoration: underline;
+}
+
+/* SUBMIT */
+
+.gd-submit {
+    margin-top: 30px;
+}
+
+.day.gd-form input[type="submit"] {
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 999px;
+    padding: 14px 30px;
+    font-size: 13px;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.day.gd-form input[type="submit"]:hover {
+    opacity: 0.92;
+    transform: translateY(-1px);
+}
+
+/* RESPONSE MESSAGES */
+
+.day.gd-form .wpcf7-response-output {
+    margin: 20px 0 0 0;
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 14px;
+}
+
+/* TABLET */
+
+@media screen and (max-width: 992px) {
+
+    .day.gd-form {
+        padding: 38px 28px;
+    }
+
+    .gd-form-intro h2 {
+        font-size: 38px;
+    }
+
+}
+
+/* MOBILE */
+
+@media screen and (max-width: 600px) {
+
+    .day.gd-form {
+        padding: 26px 18px;
+        border-radius: 18px;
+    }
+
+    .gd-eyebrow {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+
+    .gd-form-intro h2 {
+        font-size: 32px;
+        line-height: 1.08;
+    }
+
+    .gd-form-intro p {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    .gd-section {
+        margin-top: 28px;
+    }
+
+    .gd-experience-box {
+        padding: 20px 16px;
+        border-radius: 16px;
+    }
+
+    .gd-lang .wpcf7-list-item {
+        display: block;
+        margin: 0 0 12px 0;
+    }
+
+    .gd-exp-check label {
+        width: 100%;
+    }
+
+    .day.gd-form input[type="text"],
+    .day.gd-form input[type="tel"],
+    .day.gd-form input[type="email"],
+    .day.gd-form textarea {
+        font-size: 16px;
+    }
+
+}
+
+/* ===== GARVAN ARTICLE MASTER CSS ===== */
+
+.ga-article {
+  max-width: 900px;
+  margin: 0 auto;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+.ga-article h1,
+.ga-article h2,
+.ga-article h3 {
+  color: #111;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.ga-article h1 {
+  font-size: 42px;
+  margin-bottom: 28px;
+}
+
+.ga-article h2 {
+  font-size: 30px;
+  margin-top: 56px;
+  margin-bottom: 18px;
+}
+
+.ga-article h3 {
+  font-size: 22px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.ga-article p {
+  margin: 0 0 18px 0;
+}
+
+.ga-article ul,
+.ga-article ol {
+  margin: 0 0 26px 24px;
+  padding: 0;
+}
+
+.ga-article li {
+  margin-bottom: 12px;
+}
+
+.ga-article strong {
+  color: #111;
+}
+
+.ga-article a {
+  color: #111;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.ga-article__intro {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 28px;
+}
+
+.ga-article__image {
+  margin: 34px 0;
+}
+
+.ga-article__image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+}
+
+.ga-article__caption {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #666;
+  margin-top: 10px;
+}
+
+.ga-article__media {
+  margin: 34px 0;
+}
+
+.ga-article__media iframe,
+.ga-article__media video {
+  width: 100%;
+  border: 0;
+  border-radius: 18px;
+  display: block;
+}
+
+.ga-article__note {
+  margin: 32px 0;
+  padding: 22px 24px;
+  background: #f6f6f6;
+  border-radius: 18px;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.ga-article__cta {
+  margin-top: 48px;
+  padding: 28px;
+  background: #f6f6f6;
+  border-radius: 22px;
+}
+
+.ga-article__cta-title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #111;
+}
+
+.ga-article__spacer {
+  height: 8px;
+}
+
+.ga-article__faq {
+  margin-top: 56px;
+}
+
+.ga-faq-item {
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.ga-faq-item:first-of-type {
+  border-top: 1px solid #e7e7e7;
+}
+
+.ga-faq-item summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding: 18px 42px 18px 0;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #111;
+}
+
+.ga-faq-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.ga-faq-item summary::after {
+  content: "+";
+  position: absolute;
+  right: 0;
+  top: 18px;
+  font-size: 24px;
+  line-height: 1;
+  font-weight: 400;
+  color: #111;
+}
+
+.ga-faq-item[open] summary::after {
+  content: "–";
+}
+
+.ga-faq-content {
+  padding: 0 0 18px 0;
+}
+
+.ga-faq-content p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .ga-article {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+
+  .ga-article h1 {
+    font-size: 34px;
+    margin-bottom: 22px;
+  }
+
+  .ga-article h2 {
+    font-size: 26px;
+    margin-top: 42px;
+    margin-bottom: 16px;
+  }
+
+  .ga-article h3 {
+    font-size: 20px;
+    margin-top: 26px;
+  }
+
+  .ga-article__intro {
+    font-size: 18px;
+  }
+
+  .ga-article__note,
+  .ga-article__cta {
+    padding: 22px 20px;
+  }
+
+  .ga-faq-item summary {
+    font-size: 18px;
+    padding: 16px 36px 16px 0;
+  }
+
+  .ga-faq-item summary::after {
+    top: 16px;
+    font-size: 22px;
+  }
+}
+/* =====================================================
+   SOLUTION CARD - Articoli acustica
+   Card prodotto con testo + CTA + immagine
+===================================================== */
+
+.ga-article .ga-solution-card{
+  margin:50px 0;
+  padding:32px;
+  border-radius:22px;
+  background:linear-gradient(135deg,#f7f5f2,#f0ebe5);
+  border:1px solid #e3ddd5;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  gap:36px;
+}
+
+.ga-article .ga-solution-card__text{
+  flex:1;
+  min-width:280px;
+}
+
+.ga-article .ga-solution-card__text h2{
+  margin:0 0 18px;
+  font-size:28px;
+  line-height:1.15;
+  color:#111;
+}
+
+.ga-article .ga-solution-card__text h3{
+  margin:0 0 14px;
+  font-size:22px;
+  line-height:1.15;
+  text-transform:uppercase;
+  color:#111;
+}
+
+.ga-article .ga-solution-card__text p{
+  color:#555;
+}
+
+.ga-article .ga-solution-card__link,
+.ga-article .ga-solution-card__link:link,
+.ga-article .ga-solution-card__link:visited{
+  display:inline-flex;
+  align-items:center;
+  gap:10px;
+  margin-top:14px;
+  padding:14px 22px;
+  border-radius:14px;
+  background:#2f2f31;
+  color:#ffffff !important;
+  text-decoration:none !important;
+  font-weight:700;
+  font-size:15px;
+  line-height:1.2;
+}
+
+.ga-article .ga-solution-card__link:hover{
+  background:#1f1f20;
+  color:#ffffff !important;
+  text-decoration:none !important;
+}
+
+.ga-article .ga-solution-card__media{
+  flex:1;
+  min-width:280px;
+}
+
+.ga-article .ga-solution-card__media img{
+  width:100%;
+  height:auto;
+  border-radius:16px;
+  display:block;
+}
+
+@media (max-width: 767px){
+  .ga-article .ga-solution-card{
+    padding:24px;
+    gap:24px;
+  }
+
+  .ga-article .ga-solution-card__text,
+  .ga-article .ga-solution-card__media{
+    flex:1 1 100%;
+    min-width:100%;
+  }
+
+  .ga-article .ga-solution-card__text h2{
+    font-size:24px;
+  }
+
+  .ga-article .ga-solution-card__text h3{
+    font-size:19px;
+  }
+
+  .ga-article .ga-solution-card__link{
+    width:100%;
+    justify-content:center;
+  }
+}
+/* =====================================================
+   GARVAN PRODUCT SYSTEM – START
+   Template: on-wall / in-wall / outdoor / suspended
+===================================================== */
+
+/* =========================
+   HERO PRODOTTO
+========================= */
+
+.ga-hero {
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.ga-hero-overlay {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 30%;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,0.88) 0%,
+    rgba(0,0,0,0.68) 35%,
+    rgba(0,0,0,0.32) 62%,
+    rgba(0,0,0,0.0) 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 clamp(16px, 3vw, 32px);
+  box-sizing: border-box;
+}
+
+.ga-hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(16px, 2.6vw, 22px);
+  transform: translateX(-2%);
+}
+
+.ga-hero-title {
+  color: #ffffff;
+  font-family: Montserrat, Arial, sans-serif;
+  font-weight: 700;
+  font-size: clamp(26px, 4.2vw, 50px);
+  line-height: 1;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.ga-hero-arrow {
+  width: 52px;
+  height: 52px;
+  border-radius: 999px;
+  border: 2px solid rgba(255,255,255,0.9);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background: rgba(255,255,255,0.02);
+}
+
+.ga-hero-arrow svg {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .ga-hero {
+    margin-top: 83px !important;
+  }
+
+  .ga-hero-content {
+    display: none !important;
+  }
+}
+
+@media (min-width: 769px) {
+  .ga-hero-arrow {
+    animation: ga-bounce 2.4s ease-in-out infinite;
+  }
+
+  @keyframes ga-bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(4px); }
+  }
+}
+
+/* =========================
+   01. WRAPPER BASE
+========================= */
+
+.ga-product {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.ga-product-section {
+  margin: 0 0 28px 0;
+  padding: 0 !important;
+}
+
+.ga-product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: stretch;
+}
+
+/* =========================
+   02. CARD BASE
+========================= */
+
+.ga-product-card {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 18px;
+  padding: 26px 24px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.04);
+  flex: 1 1 320px;
+}
+
+
+/* =========================
+   03. TITOLI E TESTI
+========================= */
+
+.ga-product-title {
+  margin: 0 0 14px 0;
+  font-size: 18px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  line-height: 1.2;
+}
+
+.ga-product-subtitle {
+  display: block;
+  margin-top: 4px;
+  color: #6a6a6a;
+  font-weight: 600;
+}
+
+.ga-product-text {
+  font-size: 16px;
+  line-height: 1.75;
+  color: #2a2a2a;
+  margin: 14px 0 0 0;
+}
+
+
+/* =========================
+   04. DATI TECNICI
+========================= */
+
+.ga-product-tech-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.ga-product-tech-item {
+  border: 1px solid #efefef;
+  border-radius: 14px;
+  padding: 14px 16px;
+  background: #fafafa;
+}
+
+.ga-product-tech-item strong {
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.ga-product-tech-item span {
+  display: block;
+  margin-top: 8px;
+  font-size: 13px;
+  color: #6a6a6a;
+  line-height: 1.4;
+}
+
+
+/* =========================
+   05. DOWNLOAD
+========================= */
+
+.ga-product-grid--tech-download {
+  align-items: stretch;
+}
+
+.ga-product-grid--tech-download .ga-product-tech {
+  flex: 2 1 620px;
+}
+
+.ga-product-grid--tech-download .ga-product-download {
+  flex: 1 1 340px;
+}
+
+.ga-product-download .ga-product-title {
+  margin-bottom: 18px;
+}
+
+.ga-product-download .ga-btn,
+.ga-product-download-list a {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  transition: all 0.25s ease;
+  box-sizing: border-box;
+}
+
+/* bottone principale nero */
+.ga-btn.ga-btn--dark {
+  background: #303030;
+  color: #ffffff;
+  border: 1px solid #303030;
+}
+
+.ga-btn.ga-btn--dark:hover {
+  background: #1f1f1f;
+  color: #ffffff;
+}
+
+/* bottone secondario bianco */
+.ga-btn.ga-btn--outline-dark {
+  background: #ffffff;
+  color: #1e1e1e;
+  border: 1px solid #1e1e1e;
+}
+
+.ga-btn.ga-btn--outline-dark:hover {
+  background: #f7f7f7;
+  color: #1e1e1e;
+}
+
+.ga-product-download-list {
+  margin-top: 10px;
+  padding-top: 0;
+  border-top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ga-product-download-list a {
+  background: #ffffff;
+  color: #1e1e1e;
+  border: 1px solid #1e1e1e;
+}
+
+.ga-product-download-list a:hover {
+  background: #f7f7f7;
+  color: #1e1e1e;
+}
+
+.ga-product-download .ga-btn span:last-child,
+.ga-product-download-list a span:last-child {
+  font-size: 16px;
+  line-height: 1;
+  flex: 0 0 auto;
+}
+
+/* =========================
+   06. FEATURE BLOCKS
+========================= */
+
+.ga-product-feature {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: stretch;
+}
+
+.ga-product-feature-text {
+  flex: 1 1 520px;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 18px;
+  padding: 26px 24px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.04);
+}
+
+.ga-product-feature-media {
+  flex: 1 1 360px;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #f3f3f3;
+  box-shadow: 0 14px 32px rgba(0,0,0,0.06);
+}
+
+.ga-product-feature-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* alternanza layout */
+.ga-product-feature.is-reverse {
+  flex-direction: row-reverse;
+}
+
+
+/* =========================
+   07. LISTE
+========================= */
+
+.ga-product-list {
+  margin-top: 14px;
+  padding-left: 18px;
+}
+
+.ga-product-list li {
+  margin-bottom: 8px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+
+/* =========================
+   08. METRICHE (suono)
+========================= */
+
+.ga-product-metrics {
+  display: flex;
+  gap: 14px;
+  margin-top: 16px;
+  flex-wrap: wrap;
+}
+
+.ga-product-metrics div {
+  border: 1px solid #efefef;
+  border-radius: 12px;
+  padding: 12px 14px;
+  background: #fafafa;
+}
+
+.ga-product-metrics strong {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.ga-product-metrics span {
+  font-size: 12px;
+  color: #6a6a6a;
+}
+
+
+/* =========================
+   09. VIDEO + TESTO 50/50
+========================= */
+
+.ga-product-video-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  align-items: stretch;
+}
+
+.ga-product-video-row .ga-product-video-text,
+.ga-product-video-row .ga-product-video-media {
+  flex: 1 1 420px;
+}
+
+.ga-product-video-text {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 18px;
+  padding: 26px 24px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.04);
+}
+
+.ga-product-video-media {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 10px 26px rgba(0,0,0,0.04);
+}
+
+.ga-product-video-wrapper {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #000;
+}
+
+.ga-product-video-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: 0;
+}
+
+@media (max-width: 768px) {
+  .ga-product-video-row {
+    flex-direction: column;
+  }
+}
+
+/* =========================
+   10. TEMPLATE MODIFIERS
+========================= */
+
+/* IN-WALL */
+.ga-template-inwall .ga-product-feature-text {
+  border-left: 3px solid #eaeaea;
+}
+
+/* OUTDOOR */
+.ga-template-outdoor .ga-product-card {
+  background: #ffffff;
+}
+
+/* ON-WALL */
+.ga-template-onwall .ga-product-feature-media {
+  background: #f6f6f6;
+}
+
+/* SUSPENDED */
+.ga-template-suspended .ga-product-feature-media {
+  box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+}
+
+
+/* =========================
+   11. RESPONSIVE
+========================= */
+@media (max-width: 768px) {
+  .ga-product-section {
+    margin: 0 0 20px 0;
+    padding: 0 !important;
+  }
+
+  .ga-product-feature {
+    flex-direction: column;
+  }
+
+  .ga-product-feature.is-reverse {
+    flex-direction: column;
+  }
+
+  .ga-product-tech-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ga-product-video-row {
+    flex-direction: column;
+  }
+}
+
+/* =========================
+   12. FULL IMAGE SECTION (AMBIENTI)
+========================= */
+
+.ga-product-image-full {
+  margin: 0 0 28px 0;
+}
+
+.ga-product-image-full-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.ga-product-image-full img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+}
+
+/* Variante con crop (opzionale, per immagini più cinematiche) */
+.ga-product-image-full.is-cover img {
+  height: 420px;
+  object-fit: cover;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+
+  .ga-product-image-full {
+    margin: 0 0 20px 0;
+  }
+
+  .ga-product-image-full.is-cover img {
+    height: 260px;
+  }
+
+}
+
+/* =====================================================
+   GARVAN PRODUCT SYSTEM – END
+===================================================== */
+
+		</style>
+		<style id="hcode_theme_setting-dynamic-css" title="dynamic-css" class="redux-options-output">body, input, textarea, select, .navbar-nav li.fas a, .navbar-nav li.fa-solid a, .navbar-nav li.far a, .navbar-nav li.fa-regular a, .navbar-nav li.fab a, .navbar-nav li.fa-brands a, .navbar-nav li.fas span,.navbar-nav li.fa-solid span, .navbar-nav li.far span, .navbar-nav li.fa-regular span, .navbar-nav li.fab span, .navbar-nav li.fa-brands span, .navbar-nav li.fas .dropdown-header, .navbar-nav li.fa-solid .dropdown-header, .navbar-nav li.far .dropdown-header, .navbar-nav li.fa-regular .dropdown-header, .navbar-nav li.fab .dropdown-header, .navbar-nav li.fa-brands .dropdown-header, footer ul li.menu-item.fas a, footer ul li.menu-item.far a, footer ul li.menu-item.fa-regular a, footer ul li.menu-item.fab a, footer ul li.menu-item.fa-brands a, .sidebar ul li.menu-item.fas a, .sidebar ul li.menu-item.fa-solid a, .sidebar ul li.menu-item.far a, .sidebar ul li.menu-item.fa-regular a, .sidebar ul li.menu-item.fab a, .sidebar ul li.menu-item.fa-brands a{font-family:Montserrat;}.alt-font, .cd-headline span{font-family:Montserrat;}body{line-height:26px;font-size:16px;}.navbar .navbar-nav > li > a, .search-cart-header .subtitle{font-size:11px;}.top-cart .fa-shopping-cart, .search-cart-header i{font-size:13px;}.dropdown-header, .dropdown-menu, .simple-dropdown > ul.dropdown-menu > li a{font-size:11px;}h1{font-size:36px;}h2{font-size:24px;}h3{font-size:20px;}h4{font-size:16px;}h5{font-size:18px;}h6{font-size:13px;}h1.section-title{font-size:36px;}h2.section-title{font-size:24px;}h3.section-title{font-size:20px;}h5.section-title{font-size:14px;}h6.section-title{font-size:13px;}.text-small{line-height:15px;font-size:11px;}.text-med{line-height:26px;font-size:14px;}.text-large{line-height:24px;font-size:15px;}.text-extra-large{line-height:28px;font-size:16px;}.title-small{line-height:30px;font-size:20px;}.title-med{line-height:34px;font-size:24px;}.title-large{line-height:41px;font-size:28px;}.title-extra-large{line-height:43px;font-size:35px;}.page-title h1{font-size:20px;}.page-title span{font-size:14px;}.breadcrumb ul li{font-size:11px;}.breadcrumb ul > li+li:before{font-size:8px;}.page-title-shop h1{font-size:35px;}.page-title-small h1{font-size:18px;}.blog-details-headline{line-height:24px;font-size:18px;}.standard-post-meta{line-height:23px;font-size:11px;}.full-width-headline h2{line-height:55px;font-size:40px;}.full-width-headline .full-width-header-post-meta{line-height:23px;font-size:13px;}.blog-single-full-width-with-image-slider-headline{line-height:64px;font-size:50px;}.blog-headline .blog-single-full-width-with-image-slider-meta{line-height:23px;font-size:25px;}footer .hcode-footer-wrapper, footer .hcode-footer-wrapper h6{line-height:22px;font-size:11px;}footer .sidebar-title{line-height:13px;font-size:13px;}.bg-blck-overlay{background:rgba(0,0,0,0.85);}.bg-white{background:#FFFFFF;}.bg-yellow{background:#e6af2a;}.bg-deep-yellow{background:#f7f5e7;}.bg-golden-yellow{background:#c3bd86;}.bg-fast-yellow{background:#fdd947;}.bg-dark-gray{background:#252525;}.bg-mid-gray{background:#d4d4d4;}.bg-black{background:#252525;}.bg-green{background:#70bd5b;}.bg-gray{background:#f6f6f6;}.bg-yellow-ochre{background:#997546;}.bg-deep-brown{background:#544441;}.bg-orange{background:#c24742;}.bg-deep-orange{background:#f15a22;}.bg-fast-orange{background:#ff513b;}.bg-pink{background:#c2345f;}.bg-deep-red{background:#e75e50;}.bg-red{background:#d21616;}.bg-deep-pink{background:#e53878;}.bg-light-pink{background:#dc378e;}.bg-fast-pink{background:#ff1a56;}.bg-magenta{background:#d94378;}.bg-light-yellow{background:#f8f7f5;}.bg-dark-green{background:#60a532;}.bg-dark-blue{background:#3273a5;}.bg-violet{background:#6c407e;}.bg-light-gray{background:#f8f7f7;}.bg-light-gray2{background:#f4f4f4;}.bg-light-gray3{background:#fcfcfc;}.bg-slider{background:rgba(27,22,28,0.9);}.wide-separator-line{background:#e5e5e5;}.video-background{background:rgba(67,67,67,0.5);}.overlay-yellow{background:#ffca18;}.overlay-blue{background:#8ac4fe;}.overlay-gray{background:#f4f5f6;}.overlay-green{background:#71f1b9;}.transparent-header.shrink-nav{background:#303030;}.dropdown-menu, .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(27,22,28,0.95);}.cart-content{background:rgba(27,22,28,0.95);}.white-header{background:#ffffff;}.white-header.shrink-nav{background:#ffffff;}.white-header .dropdown-menu, .white-header .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.white-header > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.white-header > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.white-header > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.white-header > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(27,22,28,0.95);}.white-header .search-cart-header .cart-content{background:rgba(27,22,28,0.95);}.static-sticky, header .static-sticky{background:#303030;}.static-sticky.shrink-nav, header .static-sticky.shrink-nav{background:#303030;}header .static-sticky .dropdown-menu, header .static-sticky .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .static-sticky .dropdown-menu, .static-sticky .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.static-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.static-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.static-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.static-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(27,22,28,0.95);}header .static-sticky .cart-content, .static-sticky .cart-content{background:rgba(27,22,28,0.95);}.static-sticky-gray, header .static-sticky-gray{background:#f6f6f6;}.static-sticky-gray.shrink-nav, header .static-sticky-gray.shrink-nav{background:#ffffff;}header .static-sticky-gray .dropdown-menu, header .static-sticky-gray .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.static-sticky-gray > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.static-sticky-gray > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.static-sticky-gray > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.static-sticky-gray > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(27,22,28,0.95);}header .static-sticky-gray .cart-content{background:rgba(27,22,28,0.95);}.nav-dark{background:#303030;}.nav-dark.shrink-nav{background:#303030;}.nav-dark .dropdown-menu, .nav-dark .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.nav-dark > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.nav-dark > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.nav-dark > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.nav-dark > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(0,0,0,0.9);}.nav-dark .cart-content{background:rgba(0,0,0,0.9);}.nav-dark-transparent{background:rgba(0,0,0,0.8);}.nav-dark-transparent.shrink-nav{background:rgba(0,0,0,0.8);}.nav-dark-transparent .dropdown-menu, .nav-dark-transparent .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.nav-dark-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.nav-dark-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.nav-dark-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.nav-dark-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(0,0,0,0.9);}.nav-dark-transparent .cart-content{background:rgba(0,0,0,0.9);}.nav-light-transparent{background:rgba(255,255,255,0.8);}.nav-light-transparent.shrink-nav{background:rgba(255,255,255,0.8);}.nav-light-transparent .dropdown-menu, .nav-light-transparent .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.nav-light-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.nav-light-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.nav-light-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.nav-light-transparent > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(0,0,0,0.9);}.nav-light-transparent .cart-content{background:rgba(0,0,0,0.9);}.non-sticky{background:#303030;}.non-sticky .dropdown-menu, .non-sticky .simple-dropdown > ul.dropdown-menu > li > ul.mega-sub-menu, .navbar.non-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children, .navbar.non-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu, .navbar.non-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.page_item_has_children .children li .children, .navbar.non-sticky > .nav-header-container .navbar-nav.default-menu-wrapper > li.menu-item-has-children .sub-menu li .sub-menu{background:rgba(0,0,0,0.9);}.non-sticky .cart-content{background:rgba(0,0,0,0.9);}.hamburger-menu1{background:#000000;}.full-width-pull-menu .menu-wrap{background:#1a1a1a;}.bg-hamburger-menu3{background:#ffffff;}body{color:#303030;}a{color:#0070c9;}a:hover{color:#575757;}h1, h2, h3, h4, h5{color:#303030;}.breadcrumb-white-text a, .breadcrumb-white-text li{color:#FFFFFF;}.breadcrumb-gray-text a, .breadcrumb-gray-text{color:#575757;}i{color:#303030;}.white-text{color:#FFFFFF;}.magenta-text{color:#d94378;}.orange-text{color:#ff513b;}.orange-light-text{color:#ef824c;}.deep-red-text{color:#e75e50;}.red-text{color:#d50f0f;}.black-text{color:#000000;}a.black-text-link, a.black-text-link i, footer ul.list-inline li a{color:#000000;}a.black-text-link:hover, a.black-text-link:hover i, footer ul.list-inline li a:hover{color:#858585;}a.white-text-link, a.white-text-link i{color:#FFFFFF;}a.white-text-link:hover, a.white-text-link:hover i{color:#ababab;}a.gray-text-link, footer ul li a{color:#626262;}a.gray-text-link:hover, footer ul li a:hover{color:#000000;}.yellow-text{color:#e6af2a;}.yellow-text2{color:#fdd947;}.fast-yellow-text{color:#f7d23d;}.pink-text{color:#d9378e;}.light-gray-text{color:#ababab;}.light-gray-text2, .blog-date, .blog-date a{color:#828282;}.deep-gray-text{color:#464646;}.deep-light-gray-text{color:#878787;}.gray-text{color:#7f7f7f;}.dark-gray-text{color:#373737;}.navbar .mobile-accordion-menu, .navbar > .nav-header-container .accordion-menu.mobile-accordion-menu .navbar-collapse{background:#303030;}.top-header-area{background:#000000;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><link rel="shortcut icon" href="https://www.garvanacoustic.com/wp-content/uploads/2019/07/favicon.jpg" />
+<link rel="apple-touch-icon" href="https://www.garvanacoustic.com/wp-content/uploads/2019/07/favicon.jpg" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.garvanacoustic.com/wp-content/uploads/2019/07/favicon.jpg" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.garvanacoustic.com/wp-content/uploads/2019/07/favicon.jpg" />
+<link rel="apple-touch-icon" sizes="149x149" href="https://www.garvanacoustic.com/wp-content/uploads/2019/07/favicon.jpg" />
+            <style>
+                .retina-logo, .retina-logo-light {
+    max-width: 140%;
+}
+
+/* Blog */
+.blog-listing .blog-date {
+    padding-top: 0;
+    display: none;
+}
+.blog-image {
+    max-height: 300px;
+}
+
+/* CTA articoli*/
+.vc_cta3-container.vc_cta3-size-md {
+    width: 100%;
+}
+
+/* Header - landing */
+
+.vc_btn3.vc_btn3-size-lg {
+    font-weight: 700!important;
+    font-size: 20px;
+}
+
+.vc_btn3.vc_btn3-color-danger, .vc_btn3.vc_btn3-color-danger.vc_btn3-style-flat {
+    color: #fff;
+    background-color: #960019;
+}
+
+.intro-landing {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: black;
+    line-height: 1em;
+    text-decoration: underline;
+}
+
+.box-landing {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.box-landing__section {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+}
+
+
+.vc_btn3.vc_btn3-size-md.vc_btn3-icon-right:not(.vc_btn3-o-empty) {
+    padding-right: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.typcn-location-arrow:before {
+    content: '\e09e';
+    color: white;
+}            </style>
+        
+	</head>
+	<body data-rsssl=1 data-cmplz=2 class="error404 wp-theme-h-code wp-child-theme-h-code-child hcode-menu-custom-color wpb-js-composer js-comp-ver-8.7.2 vc_responsive">
+	<nav class="navbar navbar-default navbar-fixed-top nav-transparent overlay-nav sticky-nav nav-dark shrink-nav-white  hcode-nav-margin nav-white " data-menu-hover-delay="100" data-offset=0><div class="nav-header-container container"><div class="row"><div class="hcode-header-logo "><a class="logo-light" href="https://www.garvanacoustic.com/"><img alt="Garvan Acoustic" src="https://www.garvanacoustic.com/wp-content/uploads/2018/09/garvan_logo_new.png" class="logo" data-no-lazy="1" /><img alt="Garvan Acoustic" src="https://www.garvanacoustic.com/wp-content/uploads/2018/09/garvan_logo_new.png" class="retina-logo" data-no-lazy="1" style="width:162px; max-height:65px;" /></a><a class="logo-dark" href="https://www.garvanacoustic.com/"><img alt="Garvan Acoustic" src="https://www.garvanacoustic.com/wp-content/uploads/2018/09/garvan_logo_new.png" class="logo" data-no-lazy="1" /><img alt="Garvan Acoustic" src="https://www.garvanacoustic.com/wp-content/uploads/2018/09/garvan_logo_new.png" class="retina-logo-light" data-no-lazy="1" style="width:162px; max-height:65px;" /></a></div><div class=" menu-right-align accordion-menu"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div id="mega-menu" class="navbar-collapse collapse"><ul id="menu-menu-principale" class="mega-menu-ul nav navbar-nav"><li id="menu-item-19871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19871 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse1" data-redirect-url="https://www.garvanacoustic.com/diffusori/" data-default-url="#collapse1" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">DIFFUSORI</a><a href="#collapse1" class="dropdown-toggle collapsed megamenu-right-icon" data-hover="dropdown" data-toggle="collapse"><i class="fa-solid fa-angle-down megamenu-mobile-icon"></i></a>
+<ul id="collapse1" class="dropdown-menu mega-menu panel-collapse collapse">
+	<li id="menu-item-32068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32068 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/">Tutti i diffusori</a></li>
+	<li id="menu-item-32050" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32050 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-da-incasso/">Incasso soffitto &#038; parete</a></li>
+	<li id="menu-item-32055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32055 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-sospesi/">Sospesi</a></li>
+	<li id="menu-item-32052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32052 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-parete-soffitto/">Parete &#038; soffitto</a></li>
+	<li id="menu-item-32051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32051 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-da-libreria/">Libreria</a></li>
+	<li id="menu-item-68887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68887 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/collezioni/collezione-aria/">Soundbar</a></li>
+	<li id="menu-item-32054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32054 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-esterni/">Esterno</a></li>
+	<li id="menu-item-76008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76008 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/prodotto/pannelli-con-diffusore-acustico-per-controsoffitto/">Controsoffitto 60×60</a></li>
+	<li id="menu-item-36845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36845 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/diffusori-integrati-al-pannello-acustico/">Integrabili ai pannelli</a></li>
+	<li id="menu-item-32059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32059 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/subwoofer/">Subwoofer</a></li>
+	<li id="menu-item-32058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32058 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/su-misura/">Su misura</a></li>
+	<li id="menu-item-63127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63127 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/soluzioni/">Soluzioni audio</a></li>
+	<li id="menu-item-62031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62031 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/diffusori/collezioni-audio/">Tutte le collezioni</a></li>
+</ul>
+</li>
+<li id="menu-item-34062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34062 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse2" data-redirect-url="https://www.garvanacoustic.com/fonoassorbente/" data-default-url="#collapse2" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">FONOASSORBENTE</a><a href="#collapse2" class="dropdown-toggle collapsed megamenu-right-icon" data-hover="dropdown" data-toggle="collapse"><i class="fa-solid fa-angle-down megamenu-mobile-icon"></i></a>
+<ul id="collapse2" class="dropdown-menu mega-menu panel-collapse collapse">
+	<li id="menu-item-34064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34064 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/soffitto/">Soffitto</a></li>
+	<li id="menu-item-34065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34065 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/parete/">Parete</a></li>
+	<li id="menu-item-62218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62218 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/da-scrivania/">Da scrivania</a></li>
+	<li id="menu-item-34063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34063 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/da-pavimento/">Da pavimento</a></li>
+	<li id="menu-item-34067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34067 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/controsoffitto/">Controsoffitto</a></li>
+	<li id="menu-item-34068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34068 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/con-diffusore/">Con diffusore acustico</a></li>
+	<li id="menu-item-72214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72214 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/garvan-art/">Garvan Art</a></li>
+	<li id="menu-item-48946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48946 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/configuratore-trattamento-acustico/">Configuratore</a></li>
+	<li id="menu-item-63042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63042 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/abbonamento/">Abbonamento</a></li>
+	<li id="menu-item-34762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34762 dropdown-toggle collapsed"><a href="https://www.garvanacoustic.com/fonoassorbente/collezioni-fonoassorbente/">Tutte le collezioni</a></li>
+</ul>
+</li>
+<li id="menu-item-47446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47446 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse3" data-redirect-url="https://www.garvanacoustic.com/prodotto/amplificatori/" data-default-url="#collapse3" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">Amplificatori</a></li>
+<li id="menu-item-21764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21764 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse4" data-redirect-url="https://www.garvanacoustic.com/referenze/" data-default-url="#collapse4" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">Referenze</a></li>
+<li id="menu-item-80157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80157 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse5" data-redirect-url="https://www.garvanacoustic.com/download/" data-default-url="#collapse5" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">Download</a></li>
+<li id="menu-item-60446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60446 menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse6" data-redirect-url="https://www.garvanacoustic.com/magazine/" data-default-url="#collapse6" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">Magazine</a></li>
+<li id="menu-item-38812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38812 menu-first-level dropdown mega-menu-dropdown megamenu-column-1 dropdown-toggle collapsed"><a href="#collapse7" data-redirect-url="https://www.garvanacoustic.com/contatti/" data-default-url="#collapse7" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse">Contatti</a></li>
+<li id="menu-item-wpml-ls-50-it" class="menu-item-language menu-item-language-current menu-item wpml-ls-slot-50 wpml-ls-item wpml-ls-item-it wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-50-it menu-first-level simple-dropdown-right dropdown simple-dropdown dropdown-toggle collapsed"><a href="#collapse8" data-redirect-url="https://www.garvanacoustic.com/" data-default-url="#collapse8" aria-expanded="false" aria-controls="wpml-ls-submenu-wpml-ls-50-it" aria-current="page" class="dropdown-toggle collapsed " data-hover="dropdown" data-toggle="collapse"><img
+            class="wpml-ls-flag lazyload"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMAQAAAABHadARAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII="
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png" decoding="async" data-eio-rwidth="18" data-eio-rheight="12" /><noscript><img
+            class="wpml-ls-flag"
+            src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-eio="l" /></noscript><span class="wpml-ls-native" lang="it">Italiano</span></a><a href="#collapse8" class="dropdown-toggle collapsed megamenu-right-icon" data-hover="dropdown" data-toggle="collapse"><i class="fa-solid fa-angle-down megamenu-mobile-icon"></i></a>
+<ul id="collapse8" class="dropdown-menu mega-menu panel-collapse collapse">
+	<li id="menu-item-wpml-ls-50-en" class="menu-item-language menu-item wpml-ls-slot-50 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-50-en dropdown-toggle collapsed"><a title="Passa a English" href="https://www.garvanacoustic.com/en/" aria-label="Passa a English"><img
+            class="wpml-ls-flag lazyload"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMAQAAAABHadARAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII="
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" decoding="async" data-eio-rwidth="18" data-eio-rheight="12" /><noscript><img
+            class="wpml-ls-flag"
+            src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-eio="l" /></noscript><span class="wpml-ls-native" lang="en">English</span></a></li>
+	<li id="menu-item-wpml-ls-50-fr" class="menu-item-language menu-item wpml-ls-slot-50 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-50-fr dropdown-toggle collapsed"><a title="Passa a Français" href="https://www.garvanacoustic.com/fr/" aria-label="Passa a Français"><img
+            class="wpml-ls-flag lazyload"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMAQAAAABHadARAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII="
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" decoding="async" data-eio-rwidth="18" data-eio-rheight="12" /><noscript><img
+            class="wpml-ls-flag"
+            src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-eio="l" /></noscript><span class="wpml-ls-native" lang="fr">Français</span></a></li>
+	<li id="menu-item-wpml-ls-50-es" class="menu-item-language menu-item wpml-ls-slot-50 wpml-ls-item wpml-ls-item-es wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-50-es dropdown-toggle collapsed"><a title="Passa a Español" href="https://www.garvanacoustic.com/es/" aria-label="Passa a Español"><img
+            class="wpml-ls-flag lazyload"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMAQAAAABHadARAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII="
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" decoding="async" data-eio-rwidth="18" data-eio-rheight="12" /><noscript><img
+            class="wpml-ls-flag"
+            src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-eio="l" /></noscript><span class="wpml-ls-native" lang="es">Español</span></a></li>
+	<li id="menu-item-wpml-ls-50-de" class="menu-item-language menu-item wpml-ls-slot-50 wpml-ls-item wpml-ls-item-de wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-50-de dropdown-toggle collapsed"><a title="Passa a Deutsch" href="https://www.garvanacoustic.com/de/" aria-label="Passa a Deutsch"><img
+            class="wpml-ls-flag lazyload"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAMAQAAAABHadARAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII="
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" decoding="async" data-eio-rwidth="18" data-eio-rheight="12" /><noscript><img
+            class="wpml-ls-flag"
+            src="https://www.garvanacoustic.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png"
+            alt=""
+            loading="lazy"
+            width=18
+            height=12
+ data-eio="l" /></noscript><span class="wpml-ls-native" lang="de">Deutsch</span></a></li>
+</ul>
+</li>
+</ul></div></div><div class="search-cart-header"><div id="top-search"><a href="#search-header" class="header-search-form"><i class="fa-solid fa-search"></i></a></div><form id="search-header" method="get" action="https://www.garvanacoustic.com/" name="search-header" class="mfp-hide search-form-result"><div class="search-form position-relative"><button type="submit" class="fa-solid fa-search close-search search-button black-text"></button><input type="text" name="s" class="search-input" value="" placeholder="Enter your keywords..." autocomplete="off"></div></form></div></div></div></nav>    <section class="no-padding cover-background full-screen wow fadeIn" style=" background-color: #000000; "><div class="container"><div class="row"><div class="col-md-10 col-sm-12 col-xs-12 text-center center-col full-screen"><div class="col-text-center"><div class="col-text-middle-main"><div class="col-text-middle"><p class="not-found-title white-text" style="">Opsss!</p><p class="title-small xs-title-small xs-display-none text-uppercase letter-spacing-2 white-text" style="">The page you were looking<br/>for could not be found.</p><div class="not-found-search-box"><a class="btn-small-white btn btn-medium no-margin-right" style="" href="https://www.garvanacoustic.com">Home page</a><div class="not-found-or-text" style="">or</div><div class="asl_w_container asl_w_container_1" data-id="1" data-instance="1">
+	<div id='ajaxsearchlite1'
+		data-id="1"
+		data-instance="1"
+		class="asl_w asl_m asl_m_1 asl_m_1_1">
+		<div class="probox">
+
+	
+	<div class='prosettings' style='display:none;' data-opened=0>
+				<div class='innericon'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<polygon transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+				</svg>
+		</div>
+	</div>
+
+	
+	
+	<div class='proinput'>
+		<form role="search" action='#' autocomplete="off"
+				aria-label="Search form">
+			<input aria-label="Search input"
+					type='search' class='orig'
+					tabindex="0"
+					name='phrase'
+					placeholder='Ricerca qui ...'
+					value=''
+					autocomplete="off"/>
+			<input aria-label="Search autocomplete input"
+					type='text'
+					class='autocomplete'
+					tabindex="-1"
+					name='phrase'
+					value=''
+					autocomplete="off" disabled/>
+			<input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+		</form>
+	</div>
+
+	
+	
+	<button class='promagnifier' tabindex="0" aria-label="Search magnifier button">
+				<span class='innericon' style="display:block;">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22" height="22" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+					<path d="M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037
+						C385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041
+						c34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056
+						c65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041
+						z"/>
+				</svg>
+		</span>
+	</button>
+
+	
+	
+	<div class='proloading'>
+
+		<div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+			</div>
+
+			<div class='proclose'>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+				y="0px"
+				width="12" height="12" viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+				xml:space="preserve">
+				<polygon points="438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 "/>
+			</svg>
+		</div>
+	
+	
+</div>	</div>
+	<div class='asl_data_container' style="display:none !important;">
+		<div class="asl_init_data wpdreams_asl_data_ct"
+	style="display:none !important;"
+	id="asl_init_id_1"
+	data-asl-id="1"
+	data-asl-instance="1"
+	data-settings="{&quot;homeurl&quot;:&quot;https:\/\/www.garvanacoustic.com\/&quot;,&quot;resultstype&quot;:&quot;vertical&quot;,&quot;resultsposition&quot;:&quot;hover&quot;,&quot;itemscount&quot;:1,&quot;charcount&quot;:0,&quot;minWordLength&quot;:2,&quot;highlight&quot;:false,&quot;highlightWholewords&quot;:true,&quot;singleHighlight&quot;:false,&quot;scrollToResults&quot;:{&quot;enabled&quot;:false,&quot;offset&quot;:0},&quot;resultareaclickable&quot;:1,&quot;autocomplete&quot;:{&quot;enabled&quot;:false,&quot;lang&quot;:&quot;en&quot;,&quot;trigger_charcount&quot;:0},&quot;mobile&quot;:{&quot;menu_selector&quot;:&quot;#menu-toggle&quot;},&quot;trigger&quot;:{&quot;click&quot;:&quot;results_page&quot;,&quot;click_location&quot;:&quot;same&quot;,&quot;update_href&quot;:false,&quot;return&quot;:&quot;results_page&quot;,&quot;return_location&quot;:&quot;same&quot;,&quot;facet&quot;:true,&quot;type&quot;:true,&quot;redirect_url&quot;:&quot;?s={phrase}&quot;,&quot;delay&quot;:300},&quot;animations&quot;:{&quot;pc&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;},&quot;mob&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;}},&quot;autop&quot;:{&quot;state&quot;:true,&quot;phrase&quot;:&quot;&quot;,&quot;count&quot;:&quot;1&quot;},&quot;resPage&quot;:{&quot;useAjax&quot;:false,&quot;selector&quot;:&quot;#main&quot;,&quot;trigger_type&quot;:true,&quot;trigger_facet&quot;:true,&quot;trigger_magnifier&quot;:false,&quot;trigger_return&quot;:false},&quot;resultsSnapTo&quot;:&quot;left&quot;,&quot;results&quot;:{&quot;width&quot;:&quot;auto&quot;,&quot;width_tablet&quot;:&quot;auto&quot;,&quot;width_phone&quot;:&quot;auto&quot;},&quot;settingsimagepos&quot;:&quot;right&quot;,&quot;closeOnDocClick&quot;:true,&quot;overridewpdefault&quot;:true,&quot;override_method&quot;:&quot;get&quot;}"></div>
+	<div id="asl_hidden_data">
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="aslblur">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+			</filter>
+		</svg>
+		<svg style="position:absolute" height="0" width="0">
+			<filter id="no_aslblur"></filter>
+		</svg>
+	</div>
+	</div>
+
+	<div id='ajaxsearchliteres1'
+	class='vertical wpdreams_asl_results asl_w asl_r asl_r_1 asl_r_1_1'>
+
+	
+	<div class="results">
+
+		
+		<div class="resdrg">
+		</div>
+
+		
+	</div>
+
+	
+	
+</div>
+
+	<div id='__original__ajaxsearchlitesettings1'
+		data-id="1"
+		class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+		<form name='options'
+		aria-label="Search settings form"
+		autocomplete = 'off'>
+
+	
+	
+	<input type="hidden" name="filters_changed" style="display:none;" value="0">
+	<input type="hidden" name="filters_initial" style="display:none;" value="1">
+
+	<div class="asl_option_inner hiddend">
+		<input type='hidden' name='qtranslate_lang' id='qtranslate_lang'
+				value='0'/>
+	</div>
+
+			<div class="asl_option_inner hiddend">
+			<input type='hidden' name='wpml_lang'
+					value='it'/>
+		</div>
+	
+	
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Generic selectors</legend>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="exact"
+						aria-label="Exact matches only"
+						name="asl_gen[]" />
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Exact matches only			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="title"
+						aria-label="Search in title"
+						name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in title			</div>
+		</div>
+		<div class="asl_option" tabindex="0">
+			<div class="asl_option_inner">
+				<input type="checkbox" value="content"
+						aria-label="Search in content"
+						name="asl_gen[]"  checked="checked"/>
+				<div class="asl_option_checkbox"></div>
+			</div>
+			<div class="asl_option_label">
+				Search in content			</div>
+		</div>
+		<div class="asl_option_inner hiddend">
+			<input type="checkbox" value="excerpt"
+					aria-label="Search in excerpt"
+					name="asl_gen[]"  checked="checked"/>
+			<div class="asl_option_checkbox"></div>
+		</div>
+	</fieldset>
+	<fieldset class="asl_sett_scroll">
+		<legend style="display: none;">Post Type Selectors</legend>
+					<div class="asl_option" tabindex="0">
+				<div class="asl_option_inner">
+					<input type="checkbox" value="post"
+							aria-label="Search in posts"
+							name="customset[]" checked="checked"/>
+					<div class="asl_option_checkbox"></div>
+				</div>
+				<div class="asl_option_label">
+					Search in posts				</div>
+			</div>
+						<div class="asl_option" tabindex="0">
+				<div class="asl_option_inner">
+					<input type="checkbox" value="page"
+							aria-label="Search in pages"
+							name="customset[]" checked="checked"/>
+					<div class="asl_option_checkbox"></div>
+				</div>
+				<div class="asl_option_label">
+					Search in pages				</div>
+			</div>
+						<div class="asl_option_inner hiddend">
+				<input type="checkbox" value="portfolio"
+						aria-label="Hidden option, ignore please"
+						name="customset[]" checked="checked"/>
+			</div>
+				</fieldset>
+	</form>
+	</div>
+</div>
+</div></div></div></div></div></div></div></section><footer class="bg-light-gray2 hcode-main-footer">
+	<div class="container footer-middle hcode-footer-middle"><div class="row"><div class="col-md-4 col-sm-12 col-xs-12 footer-links no-transition sm-margin-bottom-15px"><div id="media_image-2" class="widget_media_image"><img width="130" height="127" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAB/AQAAAAALdCeXAAAAAnRSTlMAAHaTzTgAAAAZSURBVEjHY2AYBaNgFIyCUTAKRsEoGM4AAAjuAAGMppvPAAAAAElFTkSuQmCC" class="image wp-image-38774  attachment-130x127 size-130x127 lazyload" alt="" style="max-width: 100%; height: auto;" decoding="async"   data-src="https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773.png" data-srcset="https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773.png 130w, https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773-81x79.png 81w" data-sizes="auto" data-eio-rwidth="130" data-eio-rheight="127" /><noscript><img width="130" height="127" src="https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773.png" class="image wp-image-38774  attachment-130x127 size-130x127" alt="" style="max-width: 100%; height: auto;" decoding="async" srcset="https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773.png 130w, https://www.garvanacoustic.com/wp-content/uploads/2018/08/made-in-italy_black-e1706199304773-81x79.png 81w" sizes="(max-width: 130px) 100vw, 130px" data-eio="l" /></noscript></div></div><div class="col-md-2 col-sm-12 col-xs-12 footer-links no-transition"><div id="text-54" class="widget_text">			<div class="textwidget"><p class="text left" style="font-size: 12px;"><strong>Garvan Acoustic srl</strong><br />
+Via Vittori 21 1/2<br />
+48018 Faenza, Italia<br />
+<a style="font-size: 12px;" href="tel:0546682097">+39 0546 682097</a><br />
+<a style="font-size: 12px;" href="mailto:garvan@garvanacoustic.com">garvan@garvanacoustic.com</a></p>
+</div>
+		</div></div><div class="col-md-2 col-sm-12 col-xs-12 footer-links no-transition"><div id="nav_menu-3" class="widget_nav_menu"><div class="menu-footer-menu1-container"><ul id="menu-footer-menu1" class="menu"><li id="menu-item-38767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38767"><a href="https://www.garvanacoustic.com/azienda/">Azienda</a></li>
+<li id="menu-item-38768" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38768"><a href="https://www.garvanacoustic.com/categoria/eventi/">Eventi</a></li>
+<li id="menu-item-38776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38776"><a href="https://www.garvanacoustic.com/acquista/">Distributori</a></li>
+<li id="menu-item-70956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70956"><a href="https://www.garvanacoustic.com/diffusori/fuori-produzione/">Fuori Produzione</a></li>
+</ul></div></div></div><div class="col-md-2 col-sm-12 col-xs-12 footer-links no-transition"><div id="nav_menu-4" class="widget_nav_menu"><div class="menu-footer-menu3-container"><ul id="menu-footer-menu3" class="menu"><li id="menu-item-74232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74232"><a href="https://www.garvanacoustic.com/garvan-academy/">Garvan Academy</a></li>
+<li id="menu-item-72602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72602"><a href="https://www.garvanacoustic.com/estendi-garanzia/">Estendi garanzia</a></li>
+<li id="menu-item-38777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38777"><a href="https://www.garvanacoustic.com/download/">Download</a></li>
+</ul></div></div><div id="text-34" class="widget_text">			<div class="textwidget"><!-- social IT -->
+<a href="https://www.facebook.com/garvanacoustic" target="_blank" class="black-text-link"><i class="fab fa-facebook-f"></i></a><a href="https://www.instagram.com/garvanacoustic/" target="_blank" class="black-text-link"><i class="fab fa-instagram"></i></a><a href="https://www.youtube.com/user/Garvanacoustic" target="_blank" class="black-text-link"><i class="fab fa-youtube"></i></a><a href="https://www.pinterest.it/garvanacoustic/" target="_blank" class="black-text-link"><i class="fab fa-pinterest"></i></a><a href="https://www.linkedin.com/company/garvan/" target="_blank" class="black-text-link"><i class="fab fa-linkedin-in"></i></a>
+<a href="https://www.tiktok.com/@garvanacoustic" target="_blank" class="black-text-link"><i class="fab fa-tiktok"></i></a></div>
+		</div></div></div><div class="wide-separator-line bg-mid-gray no-margin-lr margin-three no-margin-bottom"></div><div class="row margin-four no-margin-bottom"><div class="col-md-6 col-sm-12 footer-social text-right sm-text-center"></div></div></div><div class="container-fluid bg-dark-gray footer-bottom hcode-footer-bottom"><div class="container"><div class="row margin-three"><div class="col-md-9 col-sm-9 col-xs-12 copyright text-left letter-spacing-1 xs-text-center xs-margin-bottom-one light-gray-text2"><div class="hcode-footer-copyright vertical-align-middle display-inline-block">			<div class="textwidget">© Copyright 2025 Garvan Acoustic. All Rights Reserved. | P.I. 02195170390 | <a class="privacy-policy-link light-gray-text2 vertical-align-middle" href="https://www.garvanacoustic.com/privacy-policy/">Privacy Policy</a> | <a class="privacy-policy-link light-gray-text2 vertical-align-middle" href="https://www.garvanacoustic.com/cookie-policy/">Cookie Policy</a> | <a class="privacy-policy-link light-gray-text2 vertical-align-middle" href="https://www.garvanacoustic.com/termini-duso/">Termini d'uso</a></div>
+		</div> | <a class="privacy-policy-link light-gray-text2 vertical-align-middle" href="https://www.garvanacoustic.com/privacy-policy/" rel="privacy-policy">Privacy Policy</a></div><div class="col-md-3 col-sm-3 col-xs-12 footer-logo text-right xs-text-center"><a href="https://www.garvanacoustic.com/"><img width="400" height="161" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAChAQAAAADBldTdAAAAAnRSTlMAAHaTzTgAAAAeSURBVGje7cEBDQAAAMKg909tDwcUAAAAAAAAAHBoIBMAASAaidUAAAAASUVORK5CYII=" class="attachment-full size-full lazyload" alt="" decoding="async"   data-src="https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo.png" data-srcset="https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo.png 400w, https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo-300x121.png 300w, https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo-81x33.png 81w" data-sizes="auto" data-eio-rwidth="400" data-eio-rheight="161" /><noscript><img width="400" height="161" src="https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo.png 400w, https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo-300x121.png 300w, https://www.garvanacoustic.com/wp-content/uploads/2018/07/garvan-acoustic-logo-81x33.png 81w" sizes="(max-width: 400px) 100vw, 400px" data-eio="l" /></noscript></a></div></div></div></div></footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/h-code-child/*","/wp-content/themes/h-code/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gestisci Consenso</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Chiudere dialogo">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Per fornire le migliori esperienze, utilizziamo tecnologie come i cookie per memorizzare e/o accedere alle informazioni del dispositivo. Il consenso a queste tecnologie ci permetterà di elaborare dati come il comportamento di navigazione o ID unici su questo sito. Non acconsentire o ritirare il consenso può influire negativamente su alcune caratteristiche e funzioni.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Funzionale</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Funzionale</span></label>
+								</span>
+								Sempre attivo							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">L'archiviazione tecnica o l'accesso sono strettamente necessari al fine legittimo di consentire l'uso di un servizio specifico esplicitamente richiesto dall'abbonato o dall'utente, o al solo scopo di effettuare la trasmissione di una comunicazione su una rete di comunicazione elettronica.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferenze</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferenze</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">L'archiviazione tecnica o l'accesso sono necessari per lo scopo legittimo di memorizzare le preferenze che non sono richieste dall'abbonato o dall'utente.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistiche</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistiche</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici.</span>
+					<span class="cmplz-description-statistics-anonymous">L'archiviazione tecnica o l'accesso che viene utilizzato esclusivamente per scopi statistici anonimi. Senza un mandato di comparizione, una conformità volontaria da parte del vostro Fornitore di Servizi Internet, o ulteriori registrazioni da parte di terzi, le informazioni memorizzate o recuperate per questo scopo da sole non possono di solito essere utilizzate per l'identificazione.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">L'archiviazione tecnica o l'accesso sono necessari per creare profili di utenti per inviare pubblicità, o per tracciare l'utente su un sito web o su diversi siti web per scopi di marketing simili.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<ul>
+			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gestisci opzioni</a></li>
+			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gestisci servizi</a></li>
+			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gestisci {vendor_count} fornitori</a></li>
+			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="Read more about TCF purposes on Cookie Database">Per saperne di più su questi scopi</a></li>
+		</ul>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accetta</button>
+		<button class="cmplz-btn cmplz-deny">Nega</button>
+		<button class="cmplz-btn cmplz-view-preferences">Visualizza le preferenze</button>
+		<button class="cmplz-btn cmplz-save-preferences">Salva preferenze</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Visualizza le preferenze</a>
+			</div>
+
+	
+	<div class="cmplz-documents cmplz-links">
+		<ul>
+			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
+		</ul>
+			</div>
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gestisci consenso</button>
+
+</div><script type="text/javascript" id="eio-lazy-load-js-before">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"bg_min_dpr":1.1,"threshold":0,"use_dpr":1};
+//# sourceURL=eio-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=870" id="eio-lazy-load-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2026-05-15 07:25:09+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"it"},"This contact form is placed in the wrong place.":["Questo modulo di contatto \u00e8 posizionato nel posto sbagliato."],"Error:":["Errore:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.garvanacoustic.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.6" id="contact-form-7-js"></script>
+<script type="text/javascript" id="contact-form-7-js-after">
+/* <![CDATA[ */
+(function () {
+
+  const pending = new WeakSet();
+
+  function setBusy(form, isBusy) {
+    const btn = form.querySelector('input[type="submit"], button[type="submit"]');
+    if (!btn) return;
+
+    if (isBusy) {
+      if (btn.dataset._cf7Label === undefined) {
+        btn.dataset._cf7Label = btn.value || btn.textContent || '';
+      }
+
+      btn.disabled = true;
+      form.setAttribute('aria-busy', 'true');
+
+      if (btn.tagName === 'INPUT') btn.value = 'Please wait...';
+      else btn.textContent = 'Please wait...';
+
+    } else {
+      btn.disabled = false;
+      form.removeAttribute('aria-busy');
+
+      const old = btn.dataset._cf7Label || '';
+      if (old) {
+        if (btn.tagName === 'INPUT') btn.value = old;
+        else btn.textContent = old;
+      }
+    }
+  }
+
+  document.addEventListener('wpcf7beforesubmit', function (e) {
+    const form = e.target;
+    if (!form) return;
+
+    if (pending.has(form)) {
+      e.preventDefault?.();
+      e.stopImmediatePropagation?.();
+      return false;
+    }
+
+    pending.add(form);
+    setBusy(form, true);
+  }, true);
+
+  const unlock = function (e) {
+    const form = e.target;
+    if (!form) return;
+    pending.delete(form);
+    setBusy(form, false);
+  };
+
+  document.addEventListener('wpcf7submit', unlock, true);
+  document.addEventListener('wpcf7mailsent', unlock, true);
+  document.addEventListener('wpcf7mailfailed', unlock, true);
+  document.addEventListener('wpcf7spam', unlock, true);
+  document.addEventListener('wpcf7invalid', unlock, true);
+  document.addEventListener('wpcf7abort', unlock, true);
+
+})();
+//# sourceURL=contact-form-7-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="codedropz-uploader-js-extra">
+/* <![CDATA[ */
+var dnd_cf7_uploader = {"ajax_url":"https://www.garvanacoustic.com/wp-admin/admin-ajax.php","ajax_nonce":"7268acfd1b","drag_n_drop_upload":{"tag":"h3","text":"Drag &amp; Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"of","disable_btn":""};
+//# sourceURL=codedropz-uploader-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.9.8" id="codedropz-uploader-js"></script>
+<script type="text/javascript" id="cf7mls-js-extra">
+/* <![CDATA[ */
+var cf7mls_object = {"ajax_url":"https://www.garvanacoustic.com/wp-json/","is_rtl":"","disable_submit":"true","cf7mls_error_message":"","scroll_step":"true","scroll_first_error":"true","disable_enter_key":"false","check_step_before_submit":"true"};
+//# sourceURL=cf7mls-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/ninjateam-cf7-multi-step-pro/assets/frontend/js/cf7mls.js?ver=2.7.9" id="cf7mls-js"></script>
+<script type="text/javascript" id="cmplz-dnsmpd-js-extra">
+/* <![CDATA[ */
+var cmplz_datarequests = {"url":"https://www.garvanacoustic.com/wp-json/complianz/v1/datarequests"};
+//# sourceURL=cmplz-dnsmpd-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/complianz-gdpr-premium/DNSMPD/script.min.js?ver=1775632047" id="cmplz-dnsmpd-js"></script>
+<script type="text/javascript" id="wd-asl-ajaxsearchlite-js-before">
+/* <![CDATA[ */
+window.ASL = typeof window.ASL !== 'undefined' ? window.ASL : {}; window.ASL.wp_rocket_exception = "DOMContentLoaded"; window.ASL.ajaxurl = "https:\/\/www.garvanacoustic.com\/wp-admin\/admin-ajax.php"; window.ASL.backend_ajaxurl = "https:\/\/www.garvanacoustic.com\/wp-admin\/admin-ajax.php"; window.ASL.asl_url = "https:\/\/www.garvanacoustic.com\/wp-content\/plugins\/ajax-search-lite\/"; window.ASL.rest_url = "https:\/\/www.garvanacoustic.com\/wp-json\/"; window.ASL.detect_ajax = true; window.ASL.media_query = 4784; window.ASL.version = 4784; window.ASL.pageHTML = ""; window.ASL.additional_scripts = []; window.ASL.script_async_load = false; window.ASL.init_only_in_viewport = true; window.ASL.font_url = "https:\/\/www.garvanacoustic.com\/wp-content\/plugins\/ajax-search-lite\/css\/fonts\/icons2.woff2"; window.ASL.highlight = {"enabled":false,"data":[]}; window.ASL.analytics = {"method":false,"tracking_id":"","event":{"focus":{"items":[]},"search_start":{"items":[]},"search_end":{"items":[]},"magnifier":{"items":[]},"return":{"items":[]},"facet_change":{"items":[]},"result_click":{"items":[]}}}; window.ASL.statistics = {"enabled":false,"uid":0}; window.ASL.cache = {"enabled":false,"type":"super_file","list":[],"url":"https:\/\/www.garvanacoustic.com\/wp-content\/cache\/asp\/results\/"};
+window.ASL_INSTANCES = [];window.ASL_INSTANCES[1] = {"homeurl":"https:\/\/www.garvanacoustic.com\/","resultstype":"vertical","resultsposition":"hover","itemscount":1,"charcount":0,"minWordLength":2,"highlight":false,"highlightWholewords":true,"singleHighlight":false,"scrollToResults":{"enabled":false,"offset":0},"resultareaclickable":1,"autocomplete":{"enabled":false,"lang":"en","trigger_charcount":0},"mobile":{"menu_selector":"#menu-toggle"},"trigger":{"click":"results_page","click_location":"same","update_href":false,"return":"results_page","return_location":"same","facet":true,"type":true,"redirect_url":"?s={phrase}","delay":300},"animations":{"pc":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"},"mob":{"settings":{"anim":"fadedrop","dur":300},"results":{"anim":"fadedrop","dur":300},"items":"voidanim"}},"autop":{"state":true,"phrase":"","count":"1"},"resPage":{"useAjax":false,"selector":"#main","trigger_type":true,"trigger_facet":true,"trigger_magnifier":false,"trigger_return":false},"resultsSnapTo":"left","results":{"width":"auto","width_tablet":"auto","width_phone":"auto"},"settingsimagepos":"right","closeOnDocClick":true,"overridewpdefault":true,"override_method":"get"};
+//# sourceURL=wd-asl-ajaxsearchlite-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/ajax-search-lite/js/min/plugin/merged/asl.min.js?ver=4784" id="wd-asl-ajaxsearchlite-js"></script>
+<script type="text/javascript" id="joinchat-lite-js-before">
+/* <![CDATA[ */
+var joinchat_obj = {"settings":{"telephone":"393475179500","whatsapp_web":true,"message_send":"Ciao Garvan Acoustic!\nVorrei ricevere ulteriori informazioni su Pagina non trovata.\n\nHi Garvan Acoustic!\nI would like to have more information about Pagina non trovata.","tracking_url":"https:\/\/www.garvanacoustic.com\/wp-json\/joinchat\/v1\/track-click"}};
+//# sourceURL=joinchat-lite-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/creame-whatsapp-me/public/js/joinchat-lite.min.js?ver=6.2.3" id="joinchat-lite-js" defer="defer" data-wp-strategy="defer" fetchpriority="low"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Ld4qq8UAAAAAOYQiFHsNuKgZsoc1WQOR6NYH1z9&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6Ld4qq8UAAAAAOYQiFHsNuKgZsoc1WQOR6NYH1z9",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.6" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/modernizr.js?ver=2.7.2" id="hcode-modernizr-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/bootstrap.js?ver=3.2.0" id="hcode-bootstrap-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/bootstrap-hover-dropdown.js?ver=2.2.1" id="bootstrap-hover-dropdown-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.easing.1.3.js?ver=1.3" id="hcode-jquery-easing-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/skrollr.min.js?ver=1.0" id="hcode-skrollr-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.viewport.mini.js?ver=1.0" id="hcode-viewport-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.smooth-scroll.min.js?ver=2.2.0" id="hcode-smooth-scroll-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/wow.min.js?ver=1.1.3" id="hcode-wow-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/page-scroll.js?ver=1.4.9" id="hcode-page-scroll-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.easypiechart.js?ver=1.0" id="hcode-easypiechart-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.parallax.js?ver=1.1.3" id="hcode-parallax-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.isotope.min.js?ver=3.0.6" id="hcode-isotope-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/owl.carousel.min.js?ver=2.3.4" id="hcode-owl-carousel-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.magnific-popup.min.js?ver=1.0" id="hcode-magnific-popup-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/popup-gallery.js?ver=3.7" id="hcode-popup-gallery-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.appear.js?ver=0.3.6" id="hcode-appear-scroll-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/text-effect.js?ver=1.0" id="hcode-text-effect-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.countdown.min.js?ver=2.2.0" id="hcode-counter-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.fitvids.js?ver=1.1" id="hcode-fitvids-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/imagesloaded.pkgd.min.js?ver=4.1.4" id="hcode-imagesloaded-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.placeholder.min.js?ver=2.3.1" id="hcode-ie-placeholder-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/classie.js?ver=1.0.1" id="hcode-classie-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/hamburger-menu.js?ver=3.7" id="hcode-hamburger-menu-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.13" id="hcode-mcustomscrollbar-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/infinite-scroll.js?ver=2.1.0" id="infinite-scroll-js"></script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/background-srcset.js?ver=2.1.0" id="background-srcset-js"></script>
+<script type="text/javascript" id="hcodemain-js-extra">
+/* <![CDATA[ */
+var hcodeajaxurl = {"ajaxurl":"https://www.garvanacoustic.com/wp-admin/admin-ajax.php","theme_url":"https://www.garvanacoustic.com/wp-content/themes/h-code","loading_image":"https://www.garvanacoustic.com/wp-content/themes/h-code/assets/images/spin.gif"};
+var hcode_infinite_scroll_message = {"message":"All Post Loaded"};
+var simpleLikes = {"ajaxurl":"https://www.garvanacoustic.com/wp-admin/admin-ajax.php","like":"Like","unlike":"Unlike"};
+//# sourceURL=hcodemain-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.garvanacoustic.com/wp-content/themes/h-code/assets/js/main.js?ver=3.7" id="hcodemain-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"43","version":"7.5.7.2","store_consent":"1","do_not_track_enabled":"1","consenttype":"optin","region":"us","geoip":"1","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://www.garvanacoustic.com/wp-json/complianz/v1/","locale":"lang=it&locale=it_IT","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"38","cookie_path":"/","categories":{"statistics":"statistiche","marketing":"marketing"},"tcf_active":"","placeholdertext":"\u003Cdiv class=\"cmplz-blocked-content-notice-body\"\u003EFai clic su \"Accetto\" per abilitare {service}\u00a0\u003Cdiv class=\"cmplz-links\"\u003E\u003Ca href=\"#\" class=\"cmplz-link cookie-statement\"\u003E{title}\u003C/a\u003E\u003C/div\u003E\u003C/div\u003E\u003Cbutton class=\"cmplz-accept-service\"\u003EAccetto\u003C/button\u003E","css_file":"https://www.garvanacoustic.com/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=43","page_links":{"eu":{"privacy-statement":{"title":"Privacy Policy","url":"https://www.garvanacoustic.com/privacy-policy/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"1","aria_label":"Clicca questo pulsante per abilitare {service}"};
+//# sourceURL=cmplz-cookiebanner-js-extra
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://www.garvanacoustic.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1775632047" id="cmplz-cookiebanner-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.garvanacoustic.com/wp-includes/js/wp-emoji-release.min.js?ver=dd0876de083228bcafbd305940179beb"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.garvanacoustic.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script></script>				<script async data-category="functional"
+						src="https://www.googletagmanager.com/gtag/js?id=G-BVCFK86VHH"></script><!-- Statistics script Complianz GDPR/CCPA -->
+						<script 							data-category="functional">window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){
+	dataLayer.push(arguments);
+}
+
+gtag('set', 'dYWVlZG', true);
+gtag('set', 'ads_data_redaction', false);
+gtag('set', 'url_passthrough', false);
+gtag('consent', 'default', {
+	'security_storage': "granted",
+	'functionality_storage': "granted",
+	'personalization_storage': "denied",
+	'analytics_storage': 'denied',
+	'ad_storage': "denied",
+	'ad_user_data': 'denied',
+	'ad_personalization': 'denied',
+});
+
+
+
+document.addEventListener("cmplz_before_categories_consent", function (e) {
+
+	function gtag(){
+		dataLayer.push(arguments);
+	}
+	let consentedCategories = e.detail.categories;
+	let preferences = 'denied';
+	let statistics = 'denied';
+	let marketing = 'denied';
+
+	if (cmplz_in_array( 'preferences', consentedCategories )) {
+		preferences = 'granted';
+	}
+
+	if (cmplz_in_array( 'statistics', consentedCategories )) {
+		statistics = 'granted';
+	}
+
+	if (cmplz_in_array( 'marketing', consentedCategories )) {
+		marketing = 'granted';
+	}
+	gtag('consent', 'update', {
+		'security_storage': "granted",
+		'functionality_storage': "granted",
+		'personalization_storage': preferences,
+		'analytics_storage': statistics,
+		'ad_storage': marketing,
+		'ad_user_data': marketing,
+		'ad_personalization': marketing,
+	});
+
+	if ( statistics==='granted' ) {
+		gtag('js', new Date());
+		
+		gtag('config', 'G-BVCFK86VHH', {
+				cookie_flags:'secure;samesite=none',
+			
+		});
+	}
+
+});
+
+
+document.addEventListener("cmplz_revoke", function (e) {
+	gtag('consent', 'update', {
+		'security_storage': "granted",
+		'functionality_storage': "granted",
+		'personalization_storage': "denied",
+		'analytics_storage': 'denied',
+		'ad_storage': "denied",
+		'ad_user_data': 'denied',
+		'ad_personalization': 'denied',
+	});
+});
+</script>		<script>
+		(function() {
+			'use strict';
+			var parentSelector = '.menu-item.wpml-ls-current-language.menu-item-has-children';
+			
+			function toggleSubmenu(link, forceClose) {
+				var isExpanded = link.getAttribute('aria-expanded') === 'true';
+				if (forceClose || isExpanded) {
+					link.setAttribute('aria-expanded', 'false');
+				} else {
+					link.setAttribute('aria-expanded', 'true');
+				}
+			}
+			
+			function handleKeydown(e) {
+				var key = e.key || e.keyCode;
+				if (key === 'Enter' || key === ' ' || key === 13 || key === 32) {
+					e.preventDefault();
+					toggleSubmenu(this);
+				} else if (key === 'Escape' || key === 'Esc' || key === 27) {
+					if (this.getAttribute('aria-expanded') === 'true') {
+						e.preventDefault();
+						toggleSubmenu(this, true);
+					}
+				}
+			}
+			
+			function handleBlur(e) {
+				var link = this;
+				var parent = link.closest(parentSelector);
+				if (!parent) return;
+				
+				setTimeout(function() {
+					if (!parent.contains(document.activeElement)) {
+						toggleSubmenu(link, true);
+					}
+				}, 100);
+			}
+			
+			function init() {
+				var parents = document.querySelectorAll(parentSelector);
+				for (var i = 0; i < parents.length; i++) {
+					var link = parents[i].querySelector('a[aria-expanded]');
+					if (link) {
+						link.addEventListener('keydown', handleKeydown);
+						link.addEventListener('blur', handleBlur);
+					}
+				}
+			}
+			
+			if (document.readyState === 'loading') {
+				document.addEventListener('DOMContentLoaded', init);
+			} else {
+				init();
+			}
+		})();
+		</script>
+		<script>
+(function () {
+  function normalize(url) {
+    if (!url) return url;
+
+    // relativo -> assoluto
+    url = url.replace(/^wp-json\//, "/wp-json/");
+
+    // /fr/wp-json/ -> /wp-json/
+    url = url.replace(/^\/?(fr|de|es|it|en)\/wp-json\//, "/wp-json/");
+
+    // assoluto con lingua -> assoluto senza lingua
+    url = url.replace(/https?:\/\/[^\/]+\/(fr|de|es|it|en)\/wp-json\//, window.location.origin + "/wp-json/");
+
+    return url;
+  }
+
+  function fixRoot() {
+    if (window.wpcf7 && wpcf7.apiSettings && wpcf7.apiSettings.root) {
+      wpcf7.apiSettings.root = normalize(wpcf7.apiSettings.root);
+    }
+  }
+
+  fixRoot();
+  document.addEventListener("wpcf7init", fixRoot);
+
+  document.addEventListener("wpcf7beforesubmit", function (event) {
+    if (event.detail && event.detail.api && event.detail.api.endpoint) {
+      event.detail.api.endpoint = normalize(event.detail.api.endpoint);
+    }
+  }, true);
+})();
+</script>
+        
+
+
+</body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 7.8.1 on 2026-06-04 11:31:39 -->
