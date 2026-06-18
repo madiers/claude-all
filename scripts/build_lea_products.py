@@ -18,6 +18,7 @@ from lea_catalog import catalog
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXPORT = os.path.join(REPO, "Products_18_june_MAG_Updated.csv")
 MAN = json.load(open(os.path.join(REPO, "scripts", "lea_scrape_manifest.json")))
+DSMAN = json.load(open(os.path.join(REPO, "scripts", "lea_datasheets_manifest.json")))
 BRANCH = "claude/blissful-cori-JY3Gi"
 RAW = f"https://raw.githubusercontent.com/madiers/claude-all/{BRANCH}/"
 PCOLS = ["Slug", ":draft", "Title", "Sub Title", "Product Description", "Technical Table",
@@ -133,7 +134,7 @@ def new_row(m):
         "Thumbnail": raw_url(th) if th else "",
         "Thumbnail:alt": f"{m['label']} — LEA Professional {m['channels']}-channel {m['watts']}W smart amplifier",
         "Brand": "lea", "Product Categories": "audio", "Product Tags": "amplifier",
-        "Specsheet": "",
+        "Specsheet": raw_url(DSMAN[m["slug"]]) if DSMAN.get(m["slug"]) else "",
     }
 
 def main():
@@ -150,6 +151,8 @@ def main():
                 th = thumb_of(MAN.get(slug, []))
                 if th:
                     row["Thumbnail"] = raw_url(th)
+            if not row["Specsheet"].strip() and DSMAN.get(slug):  # fill empty datasheet
+                row["Specsheet"] = raw_url(DSMAN[slug])
             prods.append(row)
             desc = e.get("Product Description", "")
             n_exist += 1
