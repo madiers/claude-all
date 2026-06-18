@@ -21,7 +21,7 @@ Mapping (slug -> images):
   filter keeps `sub-15` and `sub-15-ip` from stealing each other's shots.
 Products with no matching image are emitted with an empty Gallery and listed.
 """
-import csv, os, re, urllib.parse, sys
+import csv, os, re, json, urllib.parse, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXPORT = os.path.join(REPO, "Products_18-June-2026.csv")
@@ -97,11 +97,17 @@ def main():
     batch = {r["Slug"]: r.get("Gallery", "").strip()
              for r in csv.DictReader(open(BATCH, newline="", encoding="utf-8"))
              if r.get("Gallery", "").strip()}
+    # authoritative slug -> [image relpaths] for products scraped from the vendor
+    mpath = os.path.join(REPO, "scripts", "mag_scrape_manifest.json")
+    scraped = json.load(open(mpath)) if os.path.exists(mpath) else {}
     out, empties, report = [], [], []
     for r in mag:
         slug = r["Slug"]
         if slug in batch:
             gallery, src = batch[slug], "batch"
+        elif scraped.get(slug):
+            gallery = ",".join(raw_url(p) for p in scraped[slug])
+            src = f"scraped:{len(scraped[slug])}"
         else:
             files = match_slug(slug)
             gallery = ",".join(raw_url(p) for p in files)
