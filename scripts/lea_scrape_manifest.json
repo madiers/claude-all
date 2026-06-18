@@ -1,93 +1,198 @@
 {
- "cs352-adsp": [
+ "cs352": [
   "Assets/lea/_renders/CS352_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
   "Assets/lea/_renders/CS352_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs354-adsp": [
-  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs702-adsp": [
-  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs704-adsp": [
-  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs352d-adsp": [
-  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs354d-adsp": [
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs702d-adsp": [
-  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs704d-adsp": [
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cs704d-g": [
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cds354": [
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
- ],
- "cds704": [
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
-  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
  "cs354": [
   "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
   "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs702": [
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
  "cs704": [
   "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
   "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
   "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
+ "cs1504": [
+  "Assets/lea/_renders/1504-front.png",
+  "Assets/lea/_renders/Front-_-Back_1504D.png"
+ ],
  "cs352d": [
   "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
   "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
   "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs354d": [
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
  "cs702d": [
   "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
   "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
   "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
+ "cs704d": [
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs1504d": [
+  "Assets/lea/_renders/1504-front.png",
+  "Assets/lea/_renders/Front-_-Back_1504D.png"
+ ],
+ "cs84d": [
+  "Assets/lea/_renders/CS84D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS84D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs88d": [
+  "Assets/lea/_renders/CS88D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS88D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs164d": [
+  "Assets/lea/_renders/CS164D_Connect_Series_LEA_Professional_BACK_NOSHADOW.png",
+  "Assets/lea/_renders/CS164D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
  "cs168d": [
   "Assets/lea/_renders/CS168D_Connect_Series_LEA_Professional_BACK_NOSHADOW.png",
   "Assets/lea/_renders/CS168D_Connect_Series_LEA_Professional_FRONT-BACK_NOSHADOW.png",
   "Assets/lea/_renders/CS168D_Connect_Series_LEA_Professional_FRONT_NOSHADOW.png"
  ],
- "cs1504": [
-  "Assets/lea/_renders/1504-front.png",
-  "Assets/lea/_renders/Front-_-Back_1504D.png"
+ "cs34": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs62": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs64": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs122": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs124": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs34d": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs62d": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs64d": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs122d": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs124d": [
+  "Assets/lea/_renders/Half-Rack-Front.png"
+ ],
+ "cs352-adsp": [
+  "Assets/lea/_renders/CS352_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS352_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs352d-adsp": [
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs354-adsp": [
+  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs354d-adsp": [
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs702-adsp": [
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs702d-adsp": [
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs704-adsp": [
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs704d-adsp": [
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs354-g": [
+  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs354d-g": [
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs702-g": [
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS702_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs704-g": [
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cs704d-g": [
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
  ],
  "cs1504-g": [
   "Assets/lea/_renders/1504-front.png",
   "Assets/lea/_renders/Front-_-Back_1504D.png"
  ],
- "cs64d": [
-  "Assets/lea/_renders/Half-Rack-Front.png"
+ "cs1504d-g": [
+  "Assets/lea/_renders/1504-front.png",
+  "Assets/lea/_renders/Front-_-Back_1504D.png"
  ],
- "cs124": [
-  "Assets/lea/_renders/Half-Rack-Front.png"
+ "cds352": [
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS352D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cds354": [
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS354D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cds702": [
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS702D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cds704": [
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Back_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_FrontBack_NOSHADOW.png",
+  "Assets/lea/_renders/CS704D_Connect_Series_LEA_Professional_Front_NOSHADOW.png"
+ ],
+ "cds1504": [
+  "Assets/lea/_renders/1504-front.png",
+  "Assets/lea/_renders/Front-_-Back_1504D.png"
+ ],
+ "cs3004": [
+  "Assets/lea/_renders/CS3004-Front-and-Back.png",
+  "Assets/lea/_renders/CS3004-Front.png",
+  "Assets/lea/_renders/CS3004-back-panel.png"
+ ],
+ "cs3004d": [
+  "Assets/lea/_renders/CS3004D-Front-and-Back.png",
+  "Assets/lea/_renders/CS3004D-back.png"
  ]
 }
