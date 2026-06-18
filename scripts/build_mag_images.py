@@ -103,11 +103,18 @@ def main():
     out, empties, report = [], [], []
     for r in mag:
         slug = r["Slug"]
-        if slug in batch:
-            gallery, src = batch[slug], "batch"
-        elif scraped.get(slug):
-            gallery = ",".join(raw_url(p) for p in scraped[slug])
-            src = f"scraped:{len(scraped[slug])}"
+        # Prefer whichever of the full vendor scrape / curated May batch carries
+        # MORE images (the batch keeps a couple of hand-picked group shots the
+        # product page lacks; the scrape is otherwise the complete gallery).
+        batch_g = batch.get(slug, "")
+        nb = len([u for u in batch_g.split(",") if u.strip()])
+        scrape_list = scraped.get(slug, [])
+        ns = len(scrape_list)
+        if ns or nb:
+            if ns >= nb:
+                gallery, src = ",".join(raw_url(p) for p in scrape_list), f"scrape:{ns}"
+            else:
+                gallery, src = batch_g, f"batch:{nb}"
         else:
             files = match_slug(slug)
             gallery = ",".join(raw_url(p) for p in files)
@@ -125,10 +132,12 @@ def main():
     with open(os.path.join(REPO, "MAG_Images.csv"), "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=["Slug", "Product Description", "Gallery"])
         w.writeheader(); w.writerows(out)
-    reused = sum(1 for s, src, n in report if src == "batch" and n)
+    scr = sum(1 for s, src, n in report if src.startswith("scrape") and n)
+    bat = sum(1 for s, src, n in report if src.startswith("batch") and n)
+    mat = sum(1 for s, src, n in report if src.startswith("match") and n)
     print(f"MAG_Images.csv: {len(out)} rows with galleries "
-          f"({reused} reused from May batch, {len(out)-reused} newly matched)  "
-          f"| {len(empties)} products omitted (no images)")
+          f"({scr} from vendor scrape, {bat} from May batch, {mat} token-matched)  "
+          f"| {len(empties)} omitted | {sum(n for _,_,n in report)} images")
     if "--report" in sys.argv:
         for slug, src, n in report:
             print(f"  {slug:30} {src:10} imgs={n}")
