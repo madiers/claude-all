@@ -27,6 +27,12 @@ Live chatbot on **galtechtrading.com** via BubblaV (website id `95d7115b-7d11-42
 
 **Crawl**: 656 pages already indexed (products, brands, solutions, dealers) — powers product answers and links. Not changed.
 
+## Updates (2026-06-29)
+- **Contact email changed to `sales@galtechtrading.com`** (system prompt + Locations knowledge entry; was info@).
+- **Content gaps resolved** (from `bubblav_get_content_gaps`): added Q&A for "specs of the C15i" (BassBoss 15″ passive sub, full specs), "Which brands do you carry?", "What services do you offer dealers?", "How can I contact Galtech / request a callback?", and "How do I reach a specific person/salesperson?". Verified retrievable.
+- **Open gap:** "Need email of Mr. Nebil" — not added (no personal email on file; bot routes to sales@ + callback). Provide the address if it should be answered directly.
+- **Coverage finding:** the live site is missing products we built — **LEA: only 11 of 46 on site (35 missing)**; **Garvan: 12 missing** (AT amplifier series, ara, snw23m, wa120, wa420). MAG (122) and Fasttel (62) are complete. The crawl is complete *for what's on the site*; these products must be **imported into the Framer CMS** to appear on the site + crawl (for product cards/links). Interim: their info can be pushed into BubblaV knowledge via `bubblav_add_knowledge`.
+
 ## Notes / next options
 - **Product cards**: BubblaV surfaces products from the crawled `/products/<slug>` pages (image + link). For richer, structured product cards you'd add an e-commerce integration or a `bubblav_create_custom_tool` pointing at a product-search endpoint (Galtech is a Framer site with no public product API today).
 - Review **content gaps** periodically: `bubblav_get_content_gaps` / `bubblav_list_unanswered_questions`, then `bubblav_add_knowledge` to fill them.
