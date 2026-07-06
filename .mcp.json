@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "higgsfield": {
+      "type": "http",
+      "url": "https://mcp.higgsfield.ai/mcp"
+    },
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "bublav": {
+      "type": "http",
+      "url": "https://www.bubblav.com/api/mcp",
+      "headers": {
+        "X-API-Key": "${BUBLAV_MCP_KEY}"
+      }
+    }
+  }
+}
