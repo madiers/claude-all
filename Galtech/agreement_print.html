@@ -145,9 +145,9 @@ h1 span{font-weight:300; color:#C9C9CC}
   display:flex; align-items:center;
   margin-top:4mm; padding-top:3.4mm; border-top:.5pt solid var(--hair);
 }
-.pick .box{
-  width:3.6mm; height:3.6mm; border:.9pt solid var(--ink);
-  border-radius:50%; margin-right:2.6mm;
+.pick input[type=radio]{
+  width:5mm; height:5mm; border:.9pt solid var(--ink);
+  border-radius:50%; margin:0 2.6mm 0 0; background:transparent;
 }
 .pick span{font-size:6pt; font-weight:600; letter-spacing:.13em; text-transform:uppercase; color:var(--mute)}
 
@@ -272,7 +272,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_selected"></div>
       </div>
-      <div class="pick"><div class="box"></div><span>Select</span></div>
+      <div class="pick"><input type="radio" name="partner_level" value="selected"><span>Select</span></div>
     </div>
     <div class="tier">
       <div class="badge"><img src="assets/badge_preferred.png" alt="ELAN Preferred Partner"></div>
@@ -280,7 +280,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_preferred"></div>
       </div>
-      <div class="pick"><div class="box"></div><span>Select</span></div>
+      <div class="pick"><input type="radio" name="partner_level" value="preferred"><span>Select</span></div>
     </div>
     <div class="tier">
       <div class="badge"><img src="assets/badge_prestige.png" alt="ELAN Prestige Partner"></div>
@@ -288,7 +288,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_prestige"></div>
       </div>
-      <div class="pick"><div class="box"></div><span>Select</span></div>
+      <div class="pick"><input type="radio" name="partner_level" value="prestige"><span>Select</span></div>
     </div>
   </div>
 </div>
