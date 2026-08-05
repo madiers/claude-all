@@ -1,0 +1,387 @@
+<meta charset="utf-8">
+<title>ELAN Certified Dealer Agreement — Galtech Trading LLC</title>
+<style>
+:root{
+  --ink:#0B0B0C; --body:#1C1C1E; --soft:#5E5E63; --mute:#8A8A90;
+  --line:#D8D8DA; --hair:#EBEBED;
+}
+
+@page{
+  size:A4; margin:17mm 17mm 14mm;
+  @top-left{
+    content:"GALTECH";
+    font-family:"Inter"; font-size:8.6pt; font-weight:600;
+    letter-spacing:.28em; color:#0B0B0C; vertical-align:bottom; padding-bottom:4mm;
+  }
+  @top-right{
+    content:"ELAN Certified Dealer Agreement";
+    font-family:"Inter"; font-size:6.2pt; font-weight:600;
+    letter-spacing:.15em; text-transform:uppercase; color:#5E5E63;
+    vertical-align:bottom; padding-bottom:4.4mm;
+  }
+  @bottom-left{
+    content:"Galtech Trading LLC — ELAN Certified Dealer Agreement";
+    font-family:"Inter"; font-size:5.9pt; font-weight:500;
+    letter-spacing:.12em; text-transform:uppercase; color:#8A8A90;
+    vertical-align:top; padding-top:4mm;
+  }
+  @bottom-right{
+    content:"Page " counter(page) " of " counter(pages);
+    font-family:"Inter"; font-size:5.9pt; font-weight:500;
+    letter-spacing:.12em; text-transform:uppercase; color:#8A8A90;
+    vertical-align:top; padding-top:4mm;
+  }
+}
+@page:first{
+  margin-top:0;
+  @top-left{content:none}
+  @top-right{content:none}
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:"Inter";
+  font-size:9pt; line-height:1.55; color:var(--body);
+}
+.pb{break-before:page}
+
+/* ---------- masthead ---------- */
+.masthead{
+  background:var(--ink); color:#fff;
+  margin:0 -17mm 7mm; padding:10mm 17mm 9mm;
+}
+.mh-top{display:flex; justify-content:space-between; align-items:flex-end; padding-bottom:7mm}
+.mh-top img{width:34mm}
+.mh-top .tag{
+  font-size:6.2pt; font-weight:600; letter-spacing:.16em;
+  text-transform:uppercase; color:#B9B9BC;
+}
+h1{
+  margin:0; font-size:23pt; line-height:1.05;
+  font-weight:600; letter-spacing:-.028em; color:#fff;
+}
+h1 span{font-weight:300; color:#C9C9CC}
+.mh-rule{height:.5pt; background:#4A4A4E; margin:5mm 0 3.5mm}
+.mh-org{font-size:7.3pt; color:#C9C9CC; letter-spacing:.01em}
+.mh-org b{font-weight:500; color:#fff}
+
+/* ---------- section heads ---------- */
+.sec-hd{
+  display:flex; justify-content:space-between; align-items:flex-end;
+  padding-bottom:2.2mm; margin-bottom:4.2mm;
+  border-bottom:.75pt solid var(--ink);
+}
+.sec-hd h2{
+  margin:0; font-size:8.1pt; font-weight:600;
+  letter-spacing:.15em; text-transform:uppercase; color:var(--ink);
+}
+.sec-hd .hint{
+  font-size:6.2pt; font-weight:500; letter-spacing:.11em;
+  text-transform:uppercase; color:var(--mute);
+}
+.block{margin-bottom:6.5mm}
+.block.nb{margin-bottom:0}
+
+/* ---------- fields ---------- */
+.row{display:flex; margin-bottom:4mm}
+.row:last-child{margin-bottom:0}
+.field{display:flex; flex-direction:column; padding-right:6mm}
+.field:last-child{padding-right:0}
+.w-lg{width:44%} .w-md{width:30%} .w-sm{width:26%} .w-full{width:100%}
+.w-third{width:33.33%}
+.field label{
+  font-size:6pt; font-weight:600; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--mute); margin-bottom:1.6mm;
+}
+.field input{
+  font-family:"Inter"; font-size:9pt; color:var(--ink);
+  width:100%; height:7mm; padding:0 1mm .5mm 0;
+  border:0; border-bottom:.75pt solid var(--line);
+  background:transparent;
+}
+
+/* ---------- prerequisites ---------- */
+.prereq{display:flex}
+.pcard{
+  width:50%; border:.75pt solid var(--line);
+  padding:4mm 4.5mm 4.5mm; margin-right:5mm;
+}
+.pcard:last-child{margin-right:0}
+.pcard .no{
+  font-size:6.1pt; font-weight:600; letter-spacing:.14em;
+  color:var(--mute); margin-bottom:3.2mm;
+}
+.pcard h3{margin:0 0 2.2mm; font-size:9.4pt; font-weight:600; color:var(--ink)}
+.pcard p{margin:0; font-size:7.8pt; line-height:1.5; color:var(--soft)}
+
+/* ---------- partner tiers with badges ---------- */
+.tiers{display:flex}
+.tier{
+  width:33.33%; border:.75pt solid var(--line);
+  margin-right:5mm; padding:4.5mm 4.5mm 4.5mm;
+  break-inside:avoid;
+}
+.tier:last-child{margin-right:0}
+.tier .badge{
+  text-align:center; padding-bottom:3.2mm; border-bottom:.5pt solid var(--hair);
+  height:27mm;
+}
+.tier .badge img{height:24mm; width:auto}
+.tier p{margin:3.4mm 0 0; font-size:7.4pt; line-height:1.48; color:var(--soft)}
+.vol{margin-top:4.5mm}
+.vol label{
+  display:block; font-size:5.8pt; font-weight:600; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--mute); margin-bottom:1.2mm;
+}
+.vol .amt{display:flex; align-items:flex-end}
+.vol .cur{font-size:7.3pt; font-weight:600; color:var(--soft); padding-right:2.4mm; padding-bottom:.8mm}
+.vol input{
+  font-family:"Inter"; font-size:8.3pt; color:var(--ink);
+  width:100%; height:6.2mm; border:0; border-bottom:.75pt solid var(--line);
+  background:transparent;
+}
+.pick{
+  display:flex; align-items:center;
+  margin-top:4mm; padding-top:3.4mm; border-top:.5pt solid var(--hair);
+}
+.pick .box{
+  width:3.6mm; height:3.6mm; border:.9pt solid var(--ink);
+  border-radius:50%; margin-right:2.6mm;
+}
+.pick span{font-size:6pt; font-weight:600; letter-spacing:.13em; text-transform:uppercase; color:var(--mute)}
+
+/* ---------- clauses ---------- */
+.clause{display:flex; margin-bottom:2.9mm}
+.clause .n{
+  width:11mm; flex:none; font-size:7.5pt; font-weight:600; color:var(--ink);
+}
+.clause p{margin:0; font-size:8.2pt; line-height:1.52; color:var(--body)}
+
+/* ---------- tables ---------- */
+table{width:100%; border-collapse:collapse; margin-top:4mm; break-inside:avoid}
+.tbl-in{margin-left:11mm; width:calc(100% - 11mm)}
+th{
+  text-align:left; font-size:6.1pt; font-weight:600; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--mute);
+  padding:0 2.6mm 2mm 0; border-bottom:.75pt solid var(--ink);
+}
+td{
+  font-size:8pt; color:var(--body); vertical-align:top;
+  padding:2.4mm 2.6mm 2.4mm 0; border-bottom:.5pt solid var(--hair);
+}
+th.qty,td.qty{text-align:right; padding-right:5mm; color:var(--soft)}
+td.mdl{font-weight:500; color:var(--ink)}
+td.lvl{font-weight:600; color:var(--ink)}
+tr.total td{
+  border-top:.75pt solid var(--ink); border-bottom:0;
+  padding-top:2.8mm; font-weight:600; color:var(--ink);
+}
+td input{
+  font-family:"Inter"; font-size:8pt; color:var(--ink);
+  width:30mm; height:5.4mm; border:0; border-bottom:.75pt solid var(--line);
+  background:transparent;
+}
+
+/* ---------- execution ---------- */
+.exec-note{font-size:8.2pt; margin:0 0 5mm}
+.sigs{display:flex}
+.sig{
+  width:50%; border:.75pt solid var(--line);
+  padding:5mm 5mm 5mm; margin-right:6mm; break-inside:avoid;
+}
+.sig:last-child{margin-right:0}
+.sig .who{
+  font-size:6.5pt; font-weight:600; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--ink); padding-bottom:3.2mm; margin-bottom:4.4mm;
+  border-bottom:.5pt solid var(--hair);
+}
+.sig .f{margin-bottom:4mm}
+.sig .f label{
+  display:block; font-size:5.8pt; font-weight:600; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--mute); margin-bottom:1.4mm;
+}
+.sig .f input{
+  font-family:"Inter"; font-size:8.5pt; color:var(--ink);
+  width:100%; height:6.8mm; border:0; border-bottom:.75pt solid var(--line);
+  background:transparent;
+}
+.stamp{
+  height:18mm; border:.75pt dashed var(--line);
+  padding:2.4mm; font-size:5.8pt; letter-spacing:.13em;
+  text-transform:uppercase; color:var(--mute);
+}
+.fineprint{margin:7mm 0 0; font-size:6.7pt; line-height:1.5; color:var(--mute)}
+</style>
+
+<!-- ===================== PAGE 1 ===================== -->
+<div class="masthead">
+  <div class="mh-top">
+    <img src="assets/logo_galtech.png" alt="Galtech">
+    <div class="tag">Dealer Certification</div>
+  </div>
+  <h1>ELAN Certified<br><span>Dealer Agreement</span></h1>
+  <div class="mh-rule"></div>
+  <div class="mh-org"><b>Galtech Trading LLC</b> &nbsp;·&nbsp; Dubai, United Arab Emirates &nbsp;·&nbsp; Regional distributor for Nice / ELAN control systems</div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>Agreement details</h2><div class="hint">To be completed by the dealer</div></div>
+  <div class="row">
+    <div class="field w-lg"><label>Dealer company</label><input name="dealer_company"></div>
+    <div class="field w-md"><label>Trade licence no.</label><input name="trade_licence"></div>
+    <div class="field w-sm"><label>Country / territory</label><input name="territory"></div>
+  </div>
+  <div class="row">
+    <div class="field w-full"><label>Registered address</label><input name="address"></div>
+  </div>
+  <div class="row">
+    <div class="field w-lg"><label>Contact name</label><input name="contact_name"></div>
+    <div class="field w-md"><label>Email</label><input name="email"></div>
+    <div class="field w-sm"><label>Phone</label><input name="phone"></div>
+  </div>
+  <div class="row">
+    <div class="field w-third"><label>Effective date</label><input name="effective_date"></div>
+    <div class="field w-third"><label>Valid until</label><input name="valid_until"></div>
+    <div class="field w-third"><label>Agreement reference</label><input name="agreement_ref"></div>
+  </div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>Certification prerequisites</h2><div class="hint">Both conditions are mandatory</div></div>
+  <div class="prereq">
+    <div class="pcard">
+      <div class="no">01</div>
+      <h3>Training</h3>
+      <p>At least one employee must attend and pass the complete three-day ELAN hands-on training delivered by Galtech. Attendance on all three days is compulsory, and certificates are issued in the personal name of the attendee.</p>
+    </div>
+    <div class="pcard">
+      <div class="no">02</div>
+      <h3>Demo system</h3>
+      <p>The Dealer purchases the ELAN demo system at AED&nbsp;17,000, pays for it in full, and keeps it installed, updated and fully operational at its showroom or office for live demonstration.</p>
+    </div>
+  </div>
+</div>
+
+<div class="block nb">
+  <div class="sec-hd"><h2>Partner level</h2><div class="hint">Select one — reviewed at annual renewal</div></div>
+  <div class="tiers">
+    <div class="tier">
+      <div class="badge"><img src="assets/badge_selected.png" alt="ELAN Selected Partner"></div>
+      <div class="vol">
+        <label>Annual purchase volume</label>
+        <div class="amt"><span class="cur">AED</span><input name="volume_selected"></div>
+      </div>
+      <div class="pick"><div class="box"></div><span>Select</span></div>
+    </div>
+    <div class="tier">
+      <div class="badge"><img src="assets/badge_preferred.png" alt="ELAN Preferred Partner"></div>
+      <div class="vol">
+        <label>Annual purchase volume</label>
+        <div class="amt"><span class="cur">AED</span><input name="volume_preferred"></div>
+      </div>
+      <div class="pick"><div class="box"></div><span>Select</span></div>
+    </div>
+    <div class="tier">
+      <div class="badge"><img src="assets/badge_prestige.png" alt="ELAN Prestige Partner"></div>
+      <div class="vol">
+        <label>Annual purchase volume</label>
+        <div class="amt"><span class="cur">AED</span><input name="volume_prestige"></div>
+      </div>
+      <div class="pick"><div class="box"></div><span>Select</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== PAGE 2 ===================== -->
+<div class="pb"></div>
+
+<div class="block">
+  <div class="sec-hd"><h2>1 — Appointment</h2></div>
+  <div class="clause"><div class="n">1.1</div><p>Galtech appoints the Dealer as an authorised ELAN dealer for the territory stated on page 1. The appointment is not exclusive.</p></div>
+  <div class="clause"><div class="n">1.2</div><p>The Dealer sells only to end-user customers as part of a professionally installed system. No resale to other dealers, traders or online marketplaces, and no export outside the territory.</p></div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>2 — Certification conditions</h2><div class="hint">Both conditions are mandatory</div></div>
+  <div class="clause"><div class="n">2.1</div><p><b>Training.</b> At least one employee of the Dealer must attend and pass the full three-day ELAN hands-on training delivered by Galtech. Attendance on all three days is compulsory. Certificates are issued in the personal name of the attendee.</p></div>
+  <div class="clause"><div class="n">2.2</div><p><b>Demo kit.</b> The Dealer must purchase the ELAN demo system at AED&nbsp;17,000, pay for it in full, and keep it installed, updated and fully operational at its showroom or office for live demonstration. The demo system comprises:</p></div>
+
+  <table class="tbl-in">
+    <thead><tr><th>Model</th><th class="qty">Qty</th><th>Model</th><th class="qty">Qty</th></tr></thead>
+    <tbody>
+      <tr><td class="mdl">EL-SC-150</td><td class="qty">1</td><td class="mdl">EL-IPD-AMP-2CH</td><td class="qty">1</td></tr>
+      <tr><td class="mdl">EL-ITP2-8-B</td><td class="qty">1</td><td class="mdl">EL-IP-4FT-Wh</td><td class="qty">1</td></tr>
+      <tr><td class="mdl">EL-DB-WP</td><td class="qty">1</td><td class="mdl">SC1-IC6</td><td class="qty">2</td></tr>
+      <tr><td class="mdl">EL-HR40</td><td class="qty">1</td><td class="mdl"></td><td class="qty"></td></tr>
+      <tr class="total"><td colspan="3">Demo system price</td><td class="qty">AED&nbsp;17,000</td></tr>
+    </tbody>
+  </table>
+
+  <div style="height:4mm"></div>
+  <div class="clause"><div class="n">2.3</div><p><b>Training seats included.</b> The demo system purchase includes two training seats, valid for two years from the invoice date, for employees of the Dealer only. They cover the three-day training and the annual refresher session held in that period.</p></div>
+  <div class="clause"><div class="n">2.4</div><p>Certified Dealer status is granted in writing by Galtech only after both conditions above are met. Until then, the Dealer may not purchase ELAN controllers or licences, be listed as an ELAN dealer, or use the ELAN or Nice name or logo.</p></div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>3 — Partner levels</h2></div>
+  <div class="clause"><div class="n">3.1</div><p>A certified Dealer holds one of the three partner levels selected on page 1. Levels are awarded on the purchase volume of the preceding twelve months and reviewed at each annual renewal.</p></div>
+
+  <table class="tbl-in">
+    <thead><tr><th style="width:20mm">Level</th><th style="width:36mm">Annual volume</th><th>Status and benefits</th></tr></thead>
+    <tbody>
+      <tr><td class="lvl">Selected</td><td><input name="tbl_selected"></td>
+          <td>Certified status, dealer pricing, technical and commissioning support, and use of the Selected Partner badge.</td></tr>
+      <tr><td class="lvl">Preferred</td><td><input name="tbl_preferred"></td>
+          <td>All Selected benefits, plus project pricing, priority technical support and listing as an authorised ELAN dealer.</td></tr>
+      <tr><td class="lvl">Prestige</td><td><input name="tbl_prestige"></td>
+          <td>All Preferred benefits, plus best project pricing, priority on lead referral, marketing and demonstration support.</td></tr>
+    </tbody>
+  </table>
+
+  <div style="height:4mm"></div>
+  <div class="clause"><div class="n">3.2</div><p>The selected badge may be used only in the form supplied by Galtech and while Certification is valid.</p></div>
+</div>
+
+<!-- ===================== PAGE 3 ===================== -->
+<div class="pb"></div>
+
+<div class="block">
+  <div class="sec-hd"><h2>4 — Validity and renewal</h2></div>
+  <div class="clause"><div class="n">4.1</div><p>Certification is valid for twelve months and renews annually if the Dealer attends the annual refresher training, keeps the demo kit operational and updated, and has no overdue invoices.</p></div>
+  <div class="clause"><div class="n">4.2</div><p>Galtech may suspend or withdraw Certification if the certified technician leaves and is not replaced within ninety days, if the demo kit is removed or not working, if renewal is not completed, or if payments are overdue.</p></div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>5 — Dealer obligations</h2></div>
+  <div class="clause"><div class="n">5.1</div><p>Every ELAN system is designed, installed, programmed and commissioned by or under the supervision of a certified technician of the Dealer.</p></div>
+  <div class="clause"><div class="n">5.2</div><p>The Dealer is responsible for the support of the systems it has installed for its customers, including first-line support, service and after-sales assistance, and registers each installation with Galtech.</p></div>
+  <div class="clause"><div class="n">5.3</div><p>The ELAN and Nice names and logos remain the property of the manufacturer and may be used only while Certification is valid and only in the approved form. Dealer prices are confidential.</p></div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>6 — Commercial and general</h2></div>
+  <div class="clause"><div class="n">6.1</div><p>Products are supplied at the Galtech dealer price in force at the date of order. Payment in advance unless written credit terms are agreed. Title passes on full payment.</p></div>
+  <div class="clause"><div class="n">6.2</div><p>Products carry the standard manufacturer warranty administered by Galtech. It does not cover incorrect installation or programming, or work by a person who is not certified. Labour and site costs are for the Dealer.</p></div>
+  <div class="clause"><div class="n">6.3</div><p>Either party may terminate on ninety days’ written notice. Galtech may terminate immediately if Certification is withdrawn, if clause 1.2 is breached, or if payment is overdue by more than thirty days.</p></div>
+</div>
+
+<div class="block">
+  <div class="sec-hd"><h2>Execution</h2></div>
+  <p class="exec-note">Signed in agreement of the above, in particular the certification conditions in clause&nbsp;2.</p>
+  <div class="sigs">
+    <div class="sig">
+      <div class="who">For Galtech Trading LLC</div>
+      <div class="f"><label>Name and title</label><input name="galtech_name"></div>
+      <div class="f"><label>Date</label><input name="galtech_date"></div>
+      <div class="stamp">Signature / company stamp</div>
+    </div>
+    <div class="sig">
+      <div class="who">For the Dealer</div>
+      <div class="f"><label>Name and title</label><input name="dealer_name"></div>
+      <div class="f"><label>Date</label><input name="dealer_date"></div>
+      <div class="stamp">Signature / company stamp</div>
+    </div>
+  </div>
+  <p class="fineprint">Complete all fields on page&nbsp;1, select one partner level, then apply signatures using your preferred PDF signing tool. This agreement is issued by Galtech Trading LLC, Dubai, United Arab Emirates.</p>
+</div>
