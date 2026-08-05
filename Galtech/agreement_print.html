@@ -145,9 +145,10 @@ h1 span{font-weight:300; color:#C9C9CC}
   display:flex; align-items:center;
   margin-top:4mm; padding-top:3.4mm; border-top:.5pt solid var(--hair);
 }
-.pick input[type=radio]{
-  width:5mm; height:5mm; border:.9pt solid var(--ink);
-  border-radius:50%; margin:0 2.6mm 0 0; background:transparent;
+/* anchor: post-processing places the real PDF checkbox over this box */
+.pick .anchor{
+  width:5mm; height:5mm; flex:none; border:.9pt solid var(--ink);
+  margin:0 2.6mm 0 0; background:#FDFDFE;
 }
 .pick span{font-size:6pt; font-weight:600; letter-spacing:.13em; text-transform:uppercase; color:var(--mute)}
 
@@ -264,7 +265,7 @@ td input{
 </div>
 
 <div class="block nb">
-  <div class="sec-hd"><h2>Partner level</h2><div class="hint">Select one — reviewed at annual renewal</div></div>
+  <div class="sec-hd"><h2>Partner level</h2><div class="hint">Tick one — reviewed at annual renewal</div></div>
   <div class="tiers">
     <div class="tier">
       <div class="badge"><img src="assets/badge_selected.png" alt="ELAN Selected Partner"></div>
@@ -272,7 +273,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_selected"></div>
       </div>
-      <div class="pick"><input type="radio" name="partner_level" value="selected"><span>Select</span></div>
+      <div class="pick"><div class="anchor"></div><span>Selected</span></div>
     </div>
     <div class="tier">
       <div class="badge"><img src="assets/badge_preferred.png" alt="ELAN Preferred Partner"></div>
@@ -280,7 +281,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_preferred"></div>
       </div>
-      <div class="pick"><input type="radio" name="partner_level" value="preferred"><span>Select</span></div>
+      <div class="pick"><div class="anchor"></div><span>Preferred</span></div>
     </div>
     <div class="tier">
       <div class="badge"><img src="assets/badge_prestige.png" alt="ELAN Prestige Partner"></div>
@@ -288,7 +289,7 @@ td input{
         <label>Annual purchase volume</label>
         <div class="amt"><span class="cur">AED</span><input name="volume_prestige"></div>
       </div>
-      <div class="pick"><input type="radio" name="partner_level" value="prestige"><span>Select</span></div>
+      <div class="pick"><div class="anchor"></div><span>Prestige</span></div>
     </div>
   </div>
 </div>
@@ -325,7 +326,7 @@ td input{
 
 <div class="block">
   <div class="sec-hd"><h2>3 — Partner levels</h2></div>
-  <div class="clause"><div class="n">3.1</div><p>A certified Dealer holds one of the three partner levels selected on page 1. Levels are awarded on the purchase volume of the preceding twelve months and reviewed at each annual renewal.</p></div>
+  <div class="clause"><div class="n">3.1</div><p>A certified Dealer holds one of the three partner levels ticked on page 1. Levels are awarded on the purchase volume of the preceding twelve months and reviewed at each annual renewal.</p></div>
 
   <table class="tbl-in">
     <thead><tr><th style="width:20mm">Level</th><th style="width:36mm">Annual volume</th><th>Status and benefits</th></tr></thead>
@@ -383,5 +384,5 @@ td input{
       <div class="stamp">Signature / company stamp</div>
     </div>
   </div>
-  <p class="fineprint">Complete all fields on page&nbsp;1, select one partner level, then apply signatures using your preferred PDF signing tool. This agreement is issued by Galtech Trading LLC, Dubai, United Arab Emirates.</p>
+  <p class="fineprint">Complete all fields and tick one partner level on page&nbsp;1, then apply signatures using your preferred PDF signing tool. This agreement is issued by Galtech Trading LLC, Dubai, United Arab Emirates.</p>
 </div>
